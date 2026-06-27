@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "9734355866256787",
+  "source_transcript": "agent-3104-1779682758-716-Gaurav_delhi-2026_05_25_09_49_18-7042357640.json",
+  "source_name": "agent-3104-1779682758-716-Gaurav_delhi-2026_05_25_09_49_18-7042357640.mp3",
+  "created_at_utc": "2026-05-27T01:30:09Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 83.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Age hai 26.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Aap se Shikha baat kar rahi hun... Working hai ma'am... aap job kar rahi hain ma'am...",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Ghar ka hi woh kaam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "homemaker",
+        "evidence": "Ghar ka hi woh kaam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer was passive and provided brief answers.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income within a year",
+        "double tax benefit",
+        "8 percent compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a homemaker with no stated income, making the high-premium investment pitch inappropriate.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is a homemaker and the agent's pitch was aggressive and misleading, leading to a quick termination of the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as Shikha from HDFC Life and immediately launched into a product pitch.",
+      "customer_response": "The customer was passive and provided brief answers to the agent's questions.",
+      "key_event": "The agent made multiple aggressive guaranteed return claims immediately after the opening.",
+      "ending": "The agent ended the call after confirming the customer is a homemaker."
+    },
+    "key_quotes": [
+      "Age hai 26.",
+      "Ghar ka hi woh kaam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "2123631303238454",
+  "source_transcript": "2026_05_28/agent-2156-1779955295-379-Gaurav_delhi-2026_05_28_13_31_36-9250692766.json",
+  "source_name": "agent-2156-1779955295-379-Gaurav_delhi-2026_05_28_13_31_36-9250692766.mp3",
+  "created_at_utc": "2026-06-01T05:35:43Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "48",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "health business",
+        "evidence": "Hai ye health ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main nahi, kis din samay nikal sakte ho, aa sakte ho tab toh sahi hai, aise main phone pe jaankari nahi deta.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Main nahi, kis din samay nikal sakte ho, aa sakte ho tab toh sahi hai, aise main phone pe jaankari nahi deta.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main nahi, kis din samay nikal sakte ho, aa sakte ho tab toh sahi hai, aise main phone pe jaankari nahi deta.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent income from first year",
+        "lifetime income option",
+        "three to four complimentary benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not pivot to scheduling a meeting as requested by the customer."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer is cautious about sharing financial details over the phone but open to a face-to-face meeting."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a campaign for HDFC Life offering 40% income from the first year, and the customer responded with a simple 'Ji'.",
+      "customer_response": "Customer was initially passive but became firm about not sharing financial details over the phone, preferring a physical meeting.",
+      "key_event": "Customer refused to disclose income over the phone and requested a face-to-face meeting instead.",
+      "ending": "The agent persisted in asking for income details despite the customer's refusal to disclose them over the phone."
+    },
+    "key_quotes": [
+      "Main nahi, kis din samay nikal sakte ho, aa sakte ho tab toh sahi hai, aise main phone pe jaankari nahi deta."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

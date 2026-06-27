@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1929294798312809",
+  "source_transcript": "agent-2091-1779607921-5632-Gaurav_delhi-2026_05_24_13_02_02-9999977625.json",
+  "created_at_utc": "2026-06-01T02:08:58Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779607921-5632-Gaurav_delhi-2026_05_24_13_02_02-9999977625.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Accha, baaki toh premium ka hai hi nahi, batao aap de sakte ho toh batao.",
+    "summary": "Agent pitched an HDFC Life plan with 40% income returns; customer inquired about higher return percentages and the call ended without commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company first year se na aapko 40 percent ki income dena start karti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "agent_id": "2004",
+  "call_id": "agent-2004-1779251503-3716-Gaurav_delhi-2026_05_20_10_01_44-9555424333",
+  "source_file": "agent-2004-1779251503-3716-Gaurav_delhi-2026_05_20_10_01_44-9555424333.json",
+  "source_relative": "agent-2004-1779251503-3716-Gaurav_delhi-2026_05_20_10_01_44-9555424333.json",
+  "created_at_utc": "2026-05-25T19:30:37Z",
+  "transcript_stats": {
+    "segments": 2,
+    "duration_seconds": 25.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2004",
+    "agent_self_introduced_name": "not_disclosed",
+    "call_id": "agent-2004-1779251503-3716-Gaurav_delhi-2026_05_20_10_01_44-9555424333",
+    "opening": {
+      "self_identified_name": false,
+      "greeting_quality": "missing",
+      "verified_customer_identity": false,
+      "consent_taken": false,
+      "self_identified_company": false
+    },
+    "pitch": {
+      "explains_numbers_clearly": "not_applicable",
+      "pitch_delivered": false,
+      "uses_jargon_appropriately": false,
+      "product_pitched": "not_disclosed",
+      "pitch_clarity": "not_applicable"
+    },
+    "discovery": {
+      "personalizes_to_customer": false,
+      "discovery_depth": "none",
+      "discovery_question_count": 0
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "empathy": "low",
+      "interrupted_customer": false,
+      "talk_listen_ratio": "agent_dominates",
+      "language_used": "english",
+      "language_quality": "high",
+      "tone_professionalism": "medium"
+    },
+    "closing": {
+      "callback_datetime": "not_disclosed",
+      "close_attempted": false,
+      "next_steps_clarity": "no_next_steps",
+      "callback_scheduled": false
+    },
+    "call_end": {
+      "end_reason": "voicemail",
+      "customer_declined_explicitly": false,
+      "end_reason_evidence": "I'm sorry, this person is not available. If you would like to leave an additional message, please reply after the tone.",
+      "ended_abruptly": false,
+      "last_speaker": "ivr",
+      "is_ivr_only": true,
+      "graceful_close": false
+    },
+    "outcome": {
+      "drop_off_point": "greeting",
+      "stage_reached": "no_conversation",
+      "outcome": "no_human_contact"
+    },
+    "strengths": [
+      "None observed as the call reached a voicemail."
+    ],
+    "improvement_areas": [
+      "The call did not reach a human. Verify contact numbers before dialing to improve efficiency."
+    ],
+    "coaching_recommendations": [
+      "The agent reached a voicemail. Ensure that if a message is left, it follows company compliance guidelines for outbound calling."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [],
+    "call_grade": "C",
+    "summary": "The agent reached a voicemail system and did not have the opportunity to speak with the customer. The call ended immediately after the automated message.",
+    "extraction_confidence": "high"
+  }
+}

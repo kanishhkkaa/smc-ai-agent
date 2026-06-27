@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4519510286181066",
+  "source_transcript": "2026_05_14/agent-2046-1778749490-2669-Gaurav_TATA-2026_05_14_14_34_51-9709066888__stub.json",
+  "source_name": "agent-2046-1778749490-2669-Gaurav_TATA-2026_05_14_14_34_51-9709066888.mp3",
+  "created_at_utc": "2026-06-01T04:13:09Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 188.88,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "meri age 50.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "house maker hain okay.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "house maker hain okay.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "investment aapke husband karenge right? haan final decision to unhi ka hoga.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "haan.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "mam ye hume nahi chahiye, hamara nahi hai requirement.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "maan lijiye mahine ke 10,000 rupaye. theek hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "retirement ki age par lump sum 1 lakh rupaye monthly pension provide ki jaati hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "final decision to unhi ka hoga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement",
+        "8% rate of compounding rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "health_insurance",
+        "term_insurance",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer was interested in hearing about the plan but the call was interrupted by another incoming call."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term/ULIP plan from Tata AIA, which the customer initially questioned and then rejected.",
+      "customer_response": "Customer was initially dismissive but became engaged when the agent pivoted to a different plan.",
+      "key_event": "Customer agreed to hear about the Sanchay Par Advantage plan after initially rejecting the first offer.",
+      "ending": "The call ended abruptly because the customer received another incoming call."
+    },
+    "key_quotes": [
+      "mam ye hume nahi chahiye, hamara nahi hai requirement.",
+      "final decision to unhi ka hoga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8652872889360527",
+  "source_transcript": "agent-2200-1779528648-3933-Gaurav_TATA-2026_05_23_15_00_48-9717371813.json",
+  "created_at_utc": "2026-06-01T02:35:13Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779528648-3933-Gaurav_TATA-2026_05_23_15_00_48-9717371813.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ghar pe rehta hun, aur ye plan mujhe nahi chahiye.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer provided age and occupation, then explicitly refused the plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "52",
+        "evidence": "52",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Ghar pe rehta hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

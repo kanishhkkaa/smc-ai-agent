@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "3663702198696721",
+  "source_transcript": "agent-3020-1778735950-5437-Gaurav_delhi-2026_05_14_10_49_10-9873381440.json",
+  "source_name": "agent-3020-1778735950-5437-Gaurav_delhi-2026_05_14_10_49_10-9873381440.mp3",
+  "created_at_utc": "2026-05-16T00:18:19Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "52",
+        "evidence": "Customer: main to 52 saal ka hun.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: main to 52 saal ka hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Customer: hanji sir, bataiye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Customer: kuch nahi karta, sir ghar baitha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "retired",
+        "evidence": "Customer: kuch nahi karta, sir ghar baitha hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: hanji sir, bataiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is unemployed/retired and has no stated income or interest in the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is currently unemployed/retired and did not show any interest or financial capacity to invest in the product pitched."
+    },
+    "summary": "The agent pitched an HDFC Life saving plan to a 52-year-old customer. The customer disclosed that he is unemployed and retired. The call ended shortly after the discovery questions.",
+    "key_quotes": [
+      "main to 52 saal ka hun.",
+      "kuch nahi karta, sir ghar baitha hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8905016501054338",
+  "source_transcript": "agent-3045-1779520610-8503-Gaurav_TATA-2026_05_23_12_46_51-9999712499.json",
+  "created_at_utc": "2026-06-01T02:41:06Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 103.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779520610-8503-Gaurav_TATA-2026_05_23_12_46_51-9999712499.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent: Accha. Haanji theek hai sir, phir ye plan toh aapke liye sorry sir abhi eligible nahi hua aapke liye.",
+    "summary": "Agent pitched a Tata AIA plan and performed discovery, but self-disqualified the prospect due to their occupation and income level.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "41 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "Main palledari karta hun, mistri ke paas na ye masala pakdata hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "rozana 500 rupaye daily deta hai ye.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium jo rahega sir, interest ke saath refundable rahega",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

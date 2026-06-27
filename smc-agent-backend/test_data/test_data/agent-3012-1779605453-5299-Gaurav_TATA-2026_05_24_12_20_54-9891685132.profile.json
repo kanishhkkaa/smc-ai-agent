@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6716162209699612",
+  "source_transcript": "agent-3012-1779605453-5299-Gaurav_TATA-2026_05_24_12_20_54-9891685132.json",
+  "created_at_utc": "2026-06-01T02:12:22Z",
+  "transcript_stats": {
+    "segments": 97,
+    "duration_seconds": 287.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779605453-5299-Gaurav_TATA-2026_05_24_12_20_54-9891685132.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, nahi, wo to fir main, main dekhiye sir main branch mei jaunga, main unse fir matlab totally jab karunga to main puri tarah matlab confirm karke tab main karunga.",
+    "summary": "Agent pitched a child plan; customer understood the features but preferred to consult their local branch in Mathura before making any commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Mathura",
+        "evidence": "Main to Mathura ka rehne wala hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "30 percent cash bonus aapko pehle saal se milna shuru ho jata hai",
+      "return_claim_pct": 30,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

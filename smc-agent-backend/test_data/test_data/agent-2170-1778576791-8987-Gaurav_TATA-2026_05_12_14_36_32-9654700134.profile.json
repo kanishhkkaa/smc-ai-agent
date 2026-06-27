@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "2132686064855261",
+  "source_transcript": "agent-2170-1778576791-8987-Gaurav_TATA-2026_05_12_14_36_32-9654700134.json",
+  "source_name": "agent-2170-1778576791-8987-Gaurav_TATA-2026_05_12_14_36_32-9654700134.mp3",
+  "created_at_utc": "2026-05-15T06:48:50Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 118.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Amir",
+      "evidence": "Customer: Haan Amir.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Very good afternoon sir, aap se Priyanka baat kar rahi hun Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Customer: Main padhai bhi karta hun aur job us pe bhi jata hun, shop pe bhi jata hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "student and shop worker",
+        "evidence": "Customer: Main padhai bhi karta hun aur job us pe bhi jata hun, shop pe bhi jata hun.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Main padhai bhi karta hun aur job us pe bhi jata hun, shop pe bhi jata hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Agent: Tab, tab sir nahi ho payega sir, sorry.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi, abhi to nahi kara.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is a student and does not meet the profile requirements for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The agent terminated the call abruptly after learning the customer is a student, indicating no further interest in pursuing the lead."
+    },
+    "summary": "The agent contacted the customer to pitch a Tata AIA combined plan. During the discovery phase, the agent learned the customer is a student who also works at a shop. Upon learning this, the agent abruptly ended the call, stating they could not proceed.",
+    "key_quotes": [
+      "Main padhai bhi karta hun aur job us pe bhi jata hun, shop pe bhi jata hun.",
+      "Tab, tab sir nahi ho payega sir, sorry."
+    ],
+    "red_flags": [
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

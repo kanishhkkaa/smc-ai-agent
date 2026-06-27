@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "4513891752793771",
+  "source_transcript": "agent-2077-1779186356-2772-Gaurav_TATA-2026_05_19_15_55_56-9892610328.json",
+  "source_name": "agent-2077-1779186356-2772-Gaurav_TATA-2026_05_19_15_55_56-9892610328.mp3",
+  "created_at_utc": "2026-05-22T11:10:48Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Customer: 48.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 6 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer responded with 'Hmm' and provided factual answers to discovery questions.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Already mera jo term hai woh to hai na 75 tak.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR ka term coverage",
+        "mutual fund return",
+        "tax free rehta hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "combined term plus mutual fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has a term insurance plan up to age 75, making the proposed 88-year coverage less immediately relevant.",
+      "missed_opportunities": [
+        "Did not ask about the existing plan's features before pitching."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to discussion but already has an existing term plan, indicating a need for value-add comparison."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA combined term and mutual fund plan, to which the customer responded with a neutral 'Hmm'.",
+      "customer_response": "Customer was passive and provided information when asked, but pushed back when the agent's pitch conflicted with his existing coverage.",
+      "key_event": "Customer revealed he already has a term insurance plan valid until age 75.",
+      "ending": "The call was interrupted by an automated hold message while the customer was discussing his existing term insurance."
+    },
+    "key_quotes": [
+      "Already mera jo term hai woh to hai na 75 tak."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "6810642852884376",
+  "source_transcript": "agent-2077-1779179828-4726-Gaurav_TATA-2026_05_19_14_07_08-9660168544.json",
+  "source_name": "agent-2077-1779179828-4726-Gaurav_TATA-2026_05_19_14_07_08-9660168544.mp3",
+  "created_at_utc": "2026-05-22T11:10:41Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: 50 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Customer: Nahi nahi nahi nahi, bheedta rehta hoon.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Kuch nahi chahiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Ji madam kuch nahi chahiye main dota tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Ye hota kya hai mere ko toh ye nahi pata.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no interest and no clear financial profile for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was dismissive from the start and the agent was unprofessional and rude when questioning the customer's knowledge."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan and the customer immediately stated they were not interested.",
+      "customer_response": "The customer was consistently dismissive and uninterested throughout the short call.",
+      "key_event": "The agent insulted the customer's intelligence regarding their lack of knowledge about the product.",
+      "ending": "The agent abruptly ended the conversation after learning the customer's employment status."
+    },
+    "key_quotes": [
+      "Ji madam kuch nahi chahiye main dota tha.",
+      "Ye hota kya hai mere ko toh ye nahi pata."
+    ],
+    "red_flags": [
+      "agent_insulted_customer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

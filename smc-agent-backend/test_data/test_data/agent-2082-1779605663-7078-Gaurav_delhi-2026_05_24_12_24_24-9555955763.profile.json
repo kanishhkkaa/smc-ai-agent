@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4084567331898809",
+  "source_transcript": "agent-2082-1779605663-7078-Gaurav_delhi-2026_05_24_12_24_24-9555955763.json",
+  "created_at_utc": "2026-06-01T02:08:11Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2082-1779605663-7078-Gaurav_delhi-2026_05_24_12_24_24-9555955763.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Is samay to meri umar hai 20 saal.",
+    "summary": "Agent pitched a Tata AIA guaranteed saving plan and initiated discovery, but the call ended after the customer disclosed their age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "20",
+        "evidence": "Is samay to meri umar hai 20 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle saal se ek guaranteed aur regular income aapko return dena start kar raha tha",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

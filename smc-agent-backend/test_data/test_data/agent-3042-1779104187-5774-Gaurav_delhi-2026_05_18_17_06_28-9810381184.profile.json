@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "8113197832789095",
+  "source_transcript": "agent-3042-1779104187-5774-Gaurav_delhi-2026_05_18_17_06_28-9810381184.json",
+  "source_name": "agent-3042-1779104187-5774-Gaurav_delhi-2026_05_18_17_06_28-9810381184.mp3",
+  "created_at_utc": "2026-05-21T02:12:51Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 54.65,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "65",
+        "evidence": "Customer: 65.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Kahan lagana hoga, kitna lagana hoga?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "saving investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 65 years old; a standard savings investment plan is likely unsuitable.",
+      "missed_opportunities": [
+        "Did not ask about retirement needs or health coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "annuity",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is 65 years old and the agent is pitching a savings investment plan, which may not be suitable for his age profile."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and the customer immediately questioned the nature of the call.",
+      "customer_response": "Customer was curious but cautious, asking for details about the investment.",
+      "key_event": "The agent identified the product as a 'saving investment plan' rather than insurance, and the customer disclosed his age as 65.",
+      "ending": "The call ended abruptly after the customer stated his age."
+    },
+    "key_quotes": [
+      "Kahan lagana hoga, kitna lagana hoga?"
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "lt_1min"
+    }
+  }
+}

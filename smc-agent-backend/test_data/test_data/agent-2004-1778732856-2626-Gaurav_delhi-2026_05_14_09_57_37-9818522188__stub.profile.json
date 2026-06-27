@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "9715143404919785",
+  "source_transcript": "2026_05_14/agent-2004-1778732856-2626-Gaurav_delhi-2026_05_14_09_57_37-9818522188__stub.json",
+  "source_name": "agent-2004-1778732856-2626-Gaurav_delhi-2026_05_14_09_57_37-9818522188.mp3",
+  "created_at_utc": "2026-06-01T04:09:08Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 60.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "60",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "retirement ho gaya",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer answered questions directly.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income",
+        "8% rate of interest",
+        "double tax benefit",
+        "term life insurance",
+        "waiver of premium rider"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The customer is retired (age 60), making a product with a 'waiver of premium' rider and long-term accumulation features potentially unsuitable.",
+      "missed_opportunities": [
+        "Did not ask about current retirement income or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "annuity",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer provided age and retirement status willingly but the call ended abruptly after data collection."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and immediately began pitching a product with high guaranteed returns.",
+      "customer_response": "The customer was passive and provided the requested information without resistance.",
+      "key_event": "The agent successfully gathered the customer's age and retirement status after pitching the product.",
+      "ending": "The agent thanked the customer for the information and the call concluded."
+    },
+    "key_quotes": [
+      "Na main job kar raha hun na business, retirement ho gaya."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

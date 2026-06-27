@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "8355832567994312",
+  "source_transcript": "agent-2021-1778578848-5855-Gaurav_delhi-2026_05_12_15_10_49-9718124741.json",
+  "source_name": "agent-2021-1778578848-5855-Gaurav_delhi-2026_05_12_15_10_49-9718124741.mp3",
+  "created_at_utc": "2026-05-15T06:32:30Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 65.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ajay Pal Tulsiram",
+      "evidence": "Customer: Hello.\nAgent: Hello.\nCustomer: Hello, Ajay Pal ji se baat ho rahi hai meri? Ajay Pal Tulsiram.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "49",
+        "evidence": "Customer: Ji, 49 ho gayi.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: Ji, 49 ho gayi.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Hello, Ajay Pal ji se baat ho rahi hai meri? Ajay Pal Tulsiram.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Haan ji, Ajay Pal ji, Govind baat kar raha hun sir, Axis Max Life ki taraf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: Apna garment ka kaam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "garment business",
+        "evidence": "Customer: Apna garment ka kaam.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: Ji, 49 ho gayi.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Accha. ... Ji, 49 ho gayi. ... Apna garment ka kaam.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Swag Par plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals.",
+        "Did not confirm if the customer is the sole decision maker."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "life_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was cooperative and provided personal details, indicating interest in the conversation before the call was cut off."
+    },
+    "summary": "The agent called Ajay Pal Tulsiram to pitch the 'Swag Par plan' from Axis Max Life, claiming guaranteed lifetime income. The customer provided his age (49) and occupation (garment business) before the call ended during the discovery phase. No financial goals or existing products were discussed.",
+    "key_quotes": [
+      "Ajay Pal Tulsiram.",
+      "Ji, 49 ho gayi.",
+      "Apna garment ka kaam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "3907784763820341",
+  "source_transcript": "agent-2016-1779280051-6895-Gaurav_delhi-2026_05_20_17_57_31-9560504698.json",
+  "source_name": "agent-2016-1779280051-6895-Gaurav_delhi-2026_05_20_17_57_31-9560504698.mp3",
+  "created_at_utc": "2026-05-25T19:20:13Z",
+  "transcript_stats": {
+    "segments": 70,
+    "duration_seconds": 262.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Amit",
+      "evidence": "\"Aap good name kya likhte hain sir? Mr. Amit. Amit.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "\"38.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Faridabad",
+        "evidence": "\"Ye main Faridabad se.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "\"Ye main Faridabad se.\" (Faridabad is in Haryana)",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"Nahi nahi private job hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "private job",
+        "evidence": "\"Nahi nahi private job hai.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "\"7.\" (Context: 7 LPA implied by context of annual income discussion)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Achcha ji.\" \"Okay.\" \"Haan ji haan ji.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "\"Then definitely aapne pehle bhi parivar ke liye saving bachat kiya hoga like LIC wagera. Haan. Pehle.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "\"Mere officer se aapki baat ho rahi thi jo kaafi achcha saving bata rahe the aapko.\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Nahi nahi private job hai.\" (Implied sole earner/decider)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income benefit for whole life",
+        "highest maturity benefit facility",
+        "35,000 return on 1 lakh premium starting from 2nd year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the risk of market-linked products if applicable, or the specific terms of the guarantee."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was willing to listen and asked questions about the product mechanics before needing to end the call for work."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a 35% guaranteed income plan, to which the customer responded with interest.",
+      "customer_response": "The customer was engaged and curious about the product mechanics, asking clarifying questions about the returns.",
+      "key_event": "The agent attempted to force a second call/waiting line, which the customer declined, opting for a callback later.",
+      "ending": "The customer requested to be called back in the morning due to urgent work, and the call ended."
+    },
+    "key_quotes": [
+      "\"35% ki guaranteed income ka benefit provide kara ke chalti hai aapki whole life tak.\"",
+      "\"Ye income sir aapki tax free hai.\"",
+      "\"Nahi abhi call hi kar dena sir subah mein na.\""
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

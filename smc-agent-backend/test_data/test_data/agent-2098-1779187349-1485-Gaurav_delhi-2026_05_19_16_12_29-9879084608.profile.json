@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "1809278709207056",
+  "source_transcript": "agent-2098-1779187349-1485-Gaurav_delhi-2026_05_19_16_12_29-9879084608.json",
+  "source_name": "agent-2098-1779187349-1485-Gaurav_delhi-2026_05_19_16_12_29-9879084608.mp3",
+  "created_at_utc": "2026-05-22T11:14:52Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 175.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "41",
+        "evidence": "Customer: 41.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Job, business dono kar rahe hain.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Job and business owner",
+        "evidence": "Customer: Job, business dono kar rahe hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Please. Problem thoda kam hai abhi thoda.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": [
+        "financial constraints"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Customer: ₹1 lakh tak chalega. (Referring to annual premium)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: ₹1 lakh tak chalega.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% guaranteed income from first year",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer showed interest in the product details but cited current financial constraints as a reason to pause the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a new plan with guaranteed benefits.",
+      "customer_response": "The customer was passive and receptive, listening to the pitch and answering discovery questions until mentioning financial constraints.",
+      "key_event": "The customer expressed interest in the plan but then stated 'Problem thoda kam hai abhi thoda' (I have a bit of a problem right now), leading to the call ending.",
+      "ending": "The agent acknowledged the customer's constraint and asked for a more convenient time to call back."
+    },
+    "key_quotes": [
+      "41.",
+      "Job, business dono kar rahe hain.",
+      "Problem thoda kam hai abhi thoda."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

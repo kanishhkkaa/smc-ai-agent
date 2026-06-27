@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "9680900387151391",
+  "source_transcript": "2026_05_16/agent-3012-1778934478-7283-Gaurav_TATA-2026_05_16_17_57_58-9082829101.json",
+  "source_name": "agent-3012-1778934478-7283-Gaurav_TATA-2026_05_16_17_57_58-9082829101.mp3",
+  "created_at_utc": "2026-06-01T04:48:39Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 181.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "\"Noida main Noida sector 2 se bol raha hun.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "\"are tu ulta hi baat kar raha hai mere se.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 8,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "aapka office ka address mereko batao nahi to sms karo aapka naam sir main aapko office mein aake milta hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "lifetime bonus for child",
+        "10 percent guaranteed return",
+        "30 percent cash bonus of premium for 12 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer was not interested and the interaction was entirely non-productive.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was clearly trolling the agent and the conversation devolved into an argument about education and location, with no genuine interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a child plan from Central Bank of India, and the customer immediately questioned the agent's office location.",
+      "customer_response": "The customer was mocking and evasive, repeatedly demanding the agent's office address to avoid the pitch.",
+      "key_event": "The customer repeatedly refused to listen to the pitch, insisting on meeting in person at the agent's office, leading to a breakdown in professional decorum.",
+      "ending": "The call ended with the agent and customer arguing about their respective education levels and the agent's experience."
+    },
+    "key_quotes": [
+      "aapka office ka address mereko batao nahi to sms karo aapka naam sir main aapko office mein aake milta hun.",
+      "main 10vi pass hai main 10vi pass hai.",
+      "main chathi pass hun phir bhi yahan baith ke call kar raha hun na bolne se experience aata hai guru."
+    ],
+    "red_flags": [
+      "agent_used_unprofessional_language",
+      "customer_trolling_agent"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

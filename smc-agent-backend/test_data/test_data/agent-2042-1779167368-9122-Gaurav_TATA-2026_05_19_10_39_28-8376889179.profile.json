@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "8325432241124528",
+  "source_transcript": "agent-2042-1779167368-9122-Gaurav_TATA-2026_05_19_10_39_28-8376889179.json",
+  "source_name": "agent-2042-1779167368-9122-Gaurav_TATA-2026_05_19_10_39_28-8376889179.mp3",
+  "created_at_utc": "2026-05-22T11:07:26Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 216.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "\"Agar 34 saal hai age toh usme kitna aayega?\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "\"Kya bola? Kya bola?\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 5,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Humein plan nahi chahiye bhai ye bahut mehnga hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "premium is too expensive"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic",
+        "other"
+      ],
+      "agent_promises": [
+        "1 crore term insurance cover from day one",
+        "mutual fund returns",
+        "medical health benefits (full body checkup, 1MG discount, 4 free consultations/month)",
+        "no tax deduction (LTCG/STCG)"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund plan",
+      "premium_quoted_inr": 98399,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly stated the product was too expensive and the agent failed to address the objection professionally.",
+      "missed_opportunities": [
+        "failed to conduct proper discovery before pitching high premium"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent insulted the customer by questioning his financial status ('aukaat'), leading to a hostile breakdown."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA term-plus-mutual-fund plan, and the customer engaged by asking about medical benefits.",
+      "customer_response": "The customer was initially interested in the product details but became increasingly frustrated by the agent's repetitive pitch and high premium.",
+      "key_event": "The agent insulted the customer by saying the premium was 'out of his status' (aukaat), causing the customer to react aggressively.",
+      "ending": "The call ended abruptly and hostilely after the agent insulted the customer."
+    },
+    "key_quotes": [
+      "Bhai premium batao yaar humko ye kahani mat batao.",
+      "Humein plan nahi chahiye bhai ye bahut mehnga hai.",
+      "Haan toh aapki aukaat se bahar hai na."
+    ],
+    "red_flags": [
+      "agent_insulted_customer",
+      "misrepresented_product_as_investment_with_guaranteed_returns"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

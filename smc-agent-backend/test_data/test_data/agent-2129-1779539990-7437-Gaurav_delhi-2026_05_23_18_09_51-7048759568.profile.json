@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3633359631637436",
+  "source_transcript": "agent-2129-1779539990-7437-Gaurav_delhi-2026_05_23_18_09_51-7048759568.json",
+  "created_at_utc": "2026-06-01T02:31:24Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 121.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2129-1779539990-7437-Gaurav_delhi-2026_05_23_18_09_51-7048759568.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Kal ma'am, haan haan haan, 11 se 12 baje tak kar dijiye, ho jayega.",
+    "summary": "Agent pitched an HDFC Life plan; customer, a 19-year-old student, requested a callback for his father tomorrow between 11 AM and 12 PM.",
+    "callback_time_iso": "2026-05-24T11:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Rohit Maurya",
+        "evidence": "Rohit Maurya.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "19 years hai ma'am.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Okay, to abhi to student honge sir aap? Ji, wahi to.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "Is plan mein savings par 8 percent ki guaranteed returns",
+      "return_claim_pct": 8,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

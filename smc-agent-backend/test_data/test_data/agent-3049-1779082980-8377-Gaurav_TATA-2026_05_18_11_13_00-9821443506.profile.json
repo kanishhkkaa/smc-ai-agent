@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "9261154157958527",
+  "source_transcript": "agent-3049-1779082980-8377-Gaurav_TATA-2026_05_18_11_13_00-9821443506.json",
+  "source_name": "agent-3049-1779082980-8377-Gaurav_TATA-2026_05_18_11_13_00-9821443506.mp3",
+  "created_at_utc": "2026-05-21T02:13:49Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "'Theek hai theek hai madam ji thank you.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Are investor karne ke liye paisa to mangta hai na Modi paisa rakha hai kya?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated lack of funds and the agent failed to qualify the lead or address the objection professionally.",
+      "missed_opportunities": [
+        "failed to pivot from political talk to financial needs"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was dismissive and the agent engaged in unprofessional political banter, leading to a quick termination of the call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and the customer responded with a dismissive 'Haan'.",
+      "customer_response": "The customer was dismissive and quickly shut down the conversation after a brief, irrelevant political exchange.",
+      "key_event": "The agent engaged in a political discussion about the Prime Minister instead of addressing the customer's financial objection.",
+      "ending": "The customer politely but firmly ended the call after clarifying the agent was calling for life insurance rather than vehicle insurance."
+    },
+    "key_quotes": [
+      "Are investor karne ke liye paisa to mangta hai na Modi paisa rakha hai kya?"
+    ],
+    "red_flags": [
+      "unprofessional_conduct"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

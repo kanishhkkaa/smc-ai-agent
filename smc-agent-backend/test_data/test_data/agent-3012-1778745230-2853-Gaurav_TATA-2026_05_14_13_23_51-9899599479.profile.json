@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "6550841924548697",
+  "source_transcript": "agent-3012-1778745230-2853-Gaurav_TATA-2026_05_14_13_23_51-9899599479.json",
+  "source_name": "agent-3012-1778745230-2853-Gaurav_TATA-2026_05_14_13_23_51-9899599479.mp3",
+  "created_at_utc": "2026-05-16T00:17:03Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 82.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sanya",
+      "evidence": "Agent: mam aapka naam kya hoga\nCustomer: I am Sanya",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: mam good afternoon... Agent: mam aapka naam kya hoga",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: ek lakh\nCustomer: hello\nAgent: mam good afternoon main Central Bank of India ke behalf se Manish Sharma baat kar raha hun",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: actually na right now school mein hun main abhi to main abhi baat nahi kar sakti",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "school staff",
+        "evidence": "Customer: actually na right now school mein hun main abhi to main abhi baat nahi kar sakti",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: okay\nCustomer: great\nCustomer: bahut badhiya",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 1,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "today at 5 PM",
+        "evidence": "Customer: around 5",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "saving plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and explicitly asked to be called back at 5 PM."
+    },
+    "summary": "The agent called the customer to pitch a savings plan, claiming a 10% guaranteed return and a 30% cash bonus. The customer was busy at school and requested a callback at 5 PM. The agent confirmed the callback time.",
+    "key_quotes": [
+      "ek lakh",
+      "great",
+      "bahut badhiya",
+      "actually na right now school mein hun main abhi to main abhi baat nahi kar sakti"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

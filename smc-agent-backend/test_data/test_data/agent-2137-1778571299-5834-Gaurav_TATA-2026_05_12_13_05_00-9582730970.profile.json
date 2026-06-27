@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "7016677186424485",
+  "source_transcript": "agent-2137-1778571299-5834-Gaurav_TATA-2026_05_12_13_05_00-9582730970.json",
+  "source_name": "agent-2137-1778571299-5834-Gaurav_TATA-2026_05_12_13_05_00-9582730970.mp3",
+  "created_at_utc": "2026-05-15T06:46:47Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 235.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "Customer: 39.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 39.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: good afternoon sir, main aapse Padam baat kar rahi hun Tata AIA se. (Hinglish conversation)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: 16 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer is 39 and employed.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: abhi paise nahi hai, abhi chhodta hun, baad mein dekhte hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "wo to baat aapki sahi hai par mere paas abhi itna fund hai nahi, mere paas paise waisa nahi hai abhi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: kharch bhi to hai. (Implies low current liquidity despite 16L income)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore specific financial goals or current savings/investment portfolio beyond LIC."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite but firm about current financial constraints. He did not explicitly say 'never call again', suggesting a follow-up in a few months is appropriate."
+    },
+    "summary": "The agent pitched a Tata AIA combined term insurance and mutual fund product to a 39-year-old salaried customer with an annual income of 16 lakhs. The customer expressed interest in the concept but declined to proceed due to current financial constraints and lack of liquidity. The agent attempted to push the monthly premium despite the customer's stated inability to pay, leading to a polite but firm rejection from the customer.",
+    "key_quotes": [
+      "wo to baat aapki sahi hai par mere paas abhi itna fund hai nahi, mere paas paise waisa nahi hai abhi.",
+      "abhi paise nahi hai, abhi chhodta hun, baad mein dekhte hain."
+    ],
+    "red_flags": [
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

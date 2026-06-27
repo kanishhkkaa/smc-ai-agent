@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "8066318826598587",
+  "source_transcript": "agent-2028-1779262550-9255-Gaurav_TATA-2026_05_20_13_05_51-9560625026.json",
+  "source_name": "agent-2028-1779262550-9255-Gaurav_TATA-2026_05_20_13_05_51-9560625026.mp3",
+  "created_at_utc": "2026-05-25T19:20:22Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 174.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "Customer: 36.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 12-15 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Lekin haan, ismein kya aapne mutual fund kuch bataya na saath mein?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Bahut zyada hai ye.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Waise mera already chal raha hai term insurance.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: Lekin haan, ismein kya aapne mutual fund kuch bataya na saath mein?",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR term cover",
+        "refund of premium with interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund plan",
+      "premium_quoted_inr": 99972,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific mutual fund component or risk profile."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "ulip",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer showed interest in the investment component despite already having term insurance."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA term plus mutual fund plan and asked for the customer's age.",
+      "customer_response": "Customer was initially passive but became engaged when the investment component was mentioned.",
+      "key_event": "Customer raised an objection about the high premium and mentioned having existing term insurance.",
+      "ending": "The call ended abruptly after the customer mentioned having existing insurance and the agent confirmed the investment feature."
+    },
+    "key_quotes": [
+      "Bahut zyada hai ye.",
+      "Waise mera already chal raha hai term insurance.",
+      "Lekin haan, ismein kya aapne mutual fund kuch bataya na saath mein?"
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

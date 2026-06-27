@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "1742529918974049",
+  "source_transcript": "agent-3012-1778828150-1944-Gaurav_TATA-2026_05_15_12_25_51-8447701773.json",
+  "source_name": "agent-3012-1778828150-1944-Gaurav_TATA-2026_05_15_12_25_51-8447701773.mp3",
+  "created_at_utc": "2026-05-18T06:05:58Z",
+  "transcript_stats": {
+    "segments": 86,
+    "duration_seconds": 257.28,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Abhishek",
+      "evidence": "Agent: Aapka naam kya hoga? Customer: Abhishek.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Agent: aapki age kya hogi? Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai, ek baar iski details share kar do. Correct karte hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Customer: Abhi aap ye keh rahe ho ki agar main 10,000 rupees monthly invest karta hun. Agent: ...1 lakh rupaye hai ki 1 lakh divided by 12 toh about to 9,000 something. Customer: Ji, approximate.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi matlab agar main 1 agar main 1 rupaye daal raha hun toh mujhe usme kam se kam 100 rupees mil rahe hon, aisa kuch ho toh.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: bank aapko ek child plan offer kar raha hai.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main keh raha hun sir. Main wohi keh raha hun, ek baar isko free hoke discuss karte hain, zyada better rahega.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "16 lakh rupees surrender value after 12 years",
+        "30% cash bonus from first year for 5 years",
+        "35% cash bonus for next 5 years",
+        "41,000 cash bonus for years 11 and 12",
+        "60,000 cash bonus after 15 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Child Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond the child plan."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "child_plan",
+        "endowment"
+      ],
+      "reasoning": "Customer explicitly asked for details to be shared and agreed to a callback tomorrow after 12 PM."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a 'child plan' offer from Central Bank of India, which the customer immediately challenged regarding its 'free' nature.",
+      "customer_response": "The customer was initially skeptical about the 'offer' but became engaged once the agent started explaining the plan structure.",
+      "key_event": "The customer requested the agent to share the plan details and agreed to a follow-up call.",
+      "ending": "The call ended with the customer agreeing to a callback tomorrow after 12 PM to discuss further."
+    },
+    "key_quotes": [
+      "16 lakh rupees hand over kar diya jayega, wohi puri tarah tax free hoga",
+      "ek baar iski details share kar do",
+      "12 baje ke baad call"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "3424325205852040",
+  "source_transcript": "2026_05_28/agent-3012-1779953221-3316-Gaurav_TATA-2026_05_28_12_57_02-8860619769.json",
+  "source_name": "agent-3012-1779953221-3316-Gaurav_TATA-2026_05_28_12_57_02-8860619769.mp3",
+  "created_at_utc": "2026-06-01T05:38:24Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 171.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_no_kids",
+        "evidence": "Aap married hain sir? Hmm.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Sunday? Haan Sunday, theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Suppose aap 1 lakh rupaye save karte hain ek saal mein.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Toh mere 10k 16 honge? Toh 12 ke 16 honge?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bank aapko ek child plan offer kar raha hai.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Aap married hain sir? Hmm.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "close_attempted",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-31T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "16 lakh surrender value after 12 years",
+        "30,000 annual bonus from year 1 on 1 lakh premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent is misrepresenting a standard insurance product as a high-return investment/FD-like product with guaranteed returns.",
+      "missed_opportunities": [
+        "did not ask about existing insurance coverage",
+        "did not ask about current financial goals beyond the child plan"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer engaged with the pitch, asked for examples, and proactively scheduled a callback for Sunday."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India and offered a child plan to celebrate the bank's 50th anniversary.",
+      "customer_response": "The customer was engaged throughout the call, asking clarifying questions about the returns and the example provided.",
+      "key_event": "The customer requested a concrete example, leading to the agent's breakdown of the plan's returns and bonus structure.",
+      "ending": "The customer requested a callback on Sunday, which the agent confirmed."
+    },
+    "key_quotes": [
+      "Example deke batao mujhe thoda sa",
+      "Toh mere 10k 16 honge?",
+      "Sunday? Haan Sunday, theek hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1952235303986219",
+  "source_transcript": "agent-2077-1779528487-2555-Gaurav_TATA-2026_05_23_14_58_07-9643339719.json",
+  "created_at_utc": "2026-06-01T02:26:24Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779528487-2555-Gaurav_TATA-2026_05_23_14_58_07-9643339719.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am actually na abhi main interested nahi hun isme, in future koi requirement hoti hai toh main aapko same number pe connect kar lungi.",
+    "summary": "Agent pitched a Tata AIA combined plan; the customer declined, stating she is not interested and will check the website if needed in the future.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund return diye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "2038332238475599",
+  "source_transcript": "agent-3006-1778580077-6114-Gaurav_TATA-2026_05_12_15_31_18-9654610243.json",
+  "source_name": "agent-3006-1778580077-6114-Gaurav_TATA-2026_05_12_15_31_18-9654610243.mp3",
+  "created_at_utc": "2026-05-15T06:50:46Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 153.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "Customer: mam meri 29.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: mam meri 29.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: shadi kar lo. Customer: kar lunga. (Inferred from 'kar lunga' - masculine form)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Transcript is in Hindi/Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: I am married mam abhi. Customer: nahi.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: I am married mam abhi. Customer: nahi. (Clarified as unmarried)",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was polite but disengaged due to agent's lack of clarity.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "nahi yeh toh hua hua hai mam phir mera mara hua hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer asked about saving plans and clarified existing coverage.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: bachon ke liye saving plan aap lena chaho.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: bachon ke liye saving plan aap lena chaho.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 60.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combine plan (term + mutual fund)",
+      "fit_score_0_10": 3,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore specific savings goals for the customer's current life stage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "mutual_fund_sip",
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is young (29) and unmarried, showing interest in savings plans for children in the future. The agent was unprofessional, but the customer is open to future discussions."
+    },
+    "summary": "The agent called to pitch a Tata AIA term and mutual fund combo plan. The customer already has term insurance and was more interested in savings plans for future children. The agent was unprofessional, making personal comments about the customer's marital status, and the call ended without a clear next step.",
+    "key_quotes": [
+      "nahi yeh toh hua hua hai mam phir mera mara hua hai.",
+      "bachon ke liye saving plan aap lena chaho."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

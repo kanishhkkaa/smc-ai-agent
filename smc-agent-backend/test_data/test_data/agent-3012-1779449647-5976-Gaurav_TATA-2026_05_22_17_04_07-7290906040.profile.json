@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8410633833680402",
+  "source_transcript": "agent-3012-1779449647-5976-Gaurav_TATA-2026_05_22_17_04_07-7290906040.json",
+  "created_at_utc": "2026-06-01T02:59:54Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779449647-5976-Gaurav_TATA-2026_05_22_17_04_07-7290906040.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Main keh raha hun aapko pata hai ki mera koi child hai ya nahi? ... Aaj ke baad phone mat karna yahan pe.",
+    "summary": "The customer expressed frustration over receiving an unsolicited call, questioned the agent's data source, and explicitly demanded no further calls while threatening a complaint.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return diya ja raha hai",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 44,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

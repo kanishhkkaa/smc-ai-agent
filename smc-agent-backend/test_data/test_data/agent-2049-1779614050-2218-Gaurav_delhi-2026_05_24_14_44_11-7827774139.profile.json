@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6435672314109727",
+  "source_transcript": "agent-2049-1779614050-2218-Gaurav_delhi-2026_05_24_14_44_11-7827774139.json",
+  "created_at_utc": "2026-06-01T02:07:03Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779614050-2218-Gaurav_delhi-2026_05_24_14_44_11-7827774139.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent self-disqualified the prospect after learning they are a student, ending the call without a refusal.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, identifying the prospect as a 21-year-old student, then ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "21",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Padhai kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

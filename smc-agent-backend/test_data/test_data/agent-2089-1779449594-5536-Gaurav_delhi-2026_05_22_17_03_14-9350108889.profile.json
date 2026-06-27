@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9937271783837755",
+  "source_transcript": "agent-2089-1779449594-5536-Gaurav_delhi-2026_05_22_17_03_14-9350108889.json",
+  "created_at_utc": "2026-06-01T02:52:04Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779449594-5536-Gaurav_delhi-2026_05_22_17_03_14-9350108889.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sorry sir, plan ke liye toh abhi aap eligible nahi hai kyunki aapki age pe plan nahi aayega.",
+    "summary": "Agent pitched an HDFC Life plan but self-disqualified the prospect due to age; the customer confirmed his wife is also ineligible.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "66",
+        "evidence": "66",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai as a cash bonus",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

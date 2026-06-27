@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4434251051443335",
+  "source_transcript": "agent-3020-1779608032-6603-Gaurav_delhi-2026_05_24_13_03_52-8130496644.json",
+  "created_at_utc": "2026-06-01T02:12:45Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779608032-6603-Gaurav_delhi-2026_05_24_13_03_52-8130496644.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ji, batana chahungi sir HDFC ka nahi...",
+    "summary": "Agent pitched an HDFC Life saving plan and completed discovery, but the call ended abruptly before any commitment or refusal was made.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "24",
+        "evidence": "24.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Study aur job dono saath mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "1 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a week aapke annual premium par 36 percent ki aapko money back return aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

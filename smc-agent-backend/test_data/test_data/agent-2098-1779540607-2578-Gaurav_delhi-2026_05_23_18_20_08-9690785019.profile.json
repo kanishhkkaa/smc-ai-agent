@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5598429093658219",
+  "source_transcript": "agent-2098-1779540607-2578-Gaurav_delhi-2026_05_23_18_20_08-9690785019.json",
+  "created_at_utc": "2026-06-01T02:30:22Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 162.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779540607-2578-Gaurav_delhi-2026_05_23_18_20_08-9690785019.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi de rahe, kehte woh online wala hai hamare paas, cash wala nahi hai woh.",
+    "summary": "The call appears to be a misdial or unrelated conversation regarding a bag, with no insurance pitch or meaningful engagement occurring.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 60,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

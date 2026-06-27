@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8413113213833615",
+  "source_transcript": "agent-2046-1779511898-3866-Gaurav_TATA-2026_05_23_10_21_38-8470926496.json",
+  "created_at_utc": "2026-06-01T02:22:00Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 114.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779511898-3866-Gaurav_TATA-2026_05_23_10_21_38-8470926496.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Itna comfortable rahega 1 se 1.5 lakh tak premium? Hai na? Okay sir, theek hai. No issue.",
+    "summary": "Agent pitched a Tata AIA investment plan and completed discovery; the customer remained neutral, and the agent ended the call without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25k monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aapka jitna bhi investment aap kar rahe hain, saare refundable hai sir",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 2,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

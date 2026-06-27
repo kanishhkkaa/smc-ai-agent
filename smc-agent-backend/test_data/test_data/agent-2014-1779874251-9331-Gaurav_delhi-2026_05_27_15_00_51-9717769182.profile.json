@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "6041279272180142",
+  "source_transcript": "2026_05_27/agent-2014-1779874251-9331-Gaurav_delhi-2026_05_27_15_00_51-9717769182.json",
+  "source_name": "agent-2014-1779874251-9331-Gaurav_delhi-2026_05_27_15_00_51-9717769182.mp3",
+  "created_at_utc": "2026-06-01T05:13:40Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 258.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Rajkumar",
+      "evidence": "Agent 2: \"Yahan jo yahan pe jo naam aa raha hai Mr. Rajkumar aa raha hai... toh naam aap Mr. Rajkumar hi likhte hain?\" Customer: \"Ji.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: \"28.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent addressed customer as 'sir'.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Flex board, glow sign board, advertising.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Flex board and advertising business",
+        "evidence": "\"Flex board, glow sign board, advertising.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: \"Mahina maan lo 40.\" (40k/month = 4.8L/year)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was responsive and engaged throughout the call.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent 2: \"7 se 8,000 ke according plan guide karun toh ye amount comfortable rahega sir?\" Customer: \"Hmm, batao.\"",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Khud hi leta hun toh.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% return on any amount saved",
+        "40% return on investment annually"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the customer's long-term financial goals beyond the immediate pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was listening and responding to the senior agent, though the call ended due to technical issues."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced HDFC Life and a guaranteed savings plan, and the customer responded with 'Badhiya ji'.",
+      "customer_response": "The customer was passive but engaged, providing information and listening to the pitch.",
+      "key_event": "The senior agent joined and pitched the 'Sanchay Par Advantage' plan with specific return claims.",
+      "ending": "The call ended abruptly due to poor voice quality while the senior agent was explaining the plan."
+    },
+    "key_quotes": [
+      "Batao toh sahi, kya hai.",
+      "Khud hi leta hun toh."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

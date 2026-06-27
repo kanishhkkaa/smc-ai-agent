@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "profile_id": "7152827998526627",
+  "source_transcript": "agent-2059-1778560972-8725-Gaurav_delhi-2026_05_12_10_12_52-9810563579.json",
+  "source_name": "agent-2059-1778560972-8725-Gaurav_delhi-2026_05_12_10_12_52-9810563579.mp3",
+  "created_at_utc": "2026-05-15T06:35:57Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 72.8,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Main Naveen baat kar raha hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan bol do, baat theek hai. Mujhe batao payout kitna milega?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Main commission ki baat kar raha hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Main commission ki baat kar raha hun.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Agent is misrepresenting the product as a commission-based scheme rather than an insurance policy.",
+      "missed_opportunities": [
+        "Properly explaining the product features instead of confusing them with commission."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is interested in the financial benefits but is confused by the agent's poor explanation of commissions versus policy benefits. The agent failed to clarify the product structure, leading to a stalled conversation."
+    },
+    "summary": "The agent called to pitch an HDFC Life guaranteed plan, claiming high returns and tax benefits. The customer was interested in the payout but repeatedly asked about commissions, which the agent failed to clarify, leading to confusion and an incomplete conversation.",
+    "key_quotes": [
+      "Mujhe batao payout kitna milega?",
+      "Main commission ki baat kar raha hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4087097650451848",
+  "source_transcript": "agent-3045-1779519622-9558-Gaurav_TATA-2026_05_23_12_30_22-9582020613.json",
+  "created_at_utc": "2026-06-01T02:41:04Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 106.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779519622-9558-Gaurav_TATA-2026_05_23_12_30_22-9582020613.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Filhal toh meri saving toh ho hi nahi rahi hai meri.",
+    "summary": "Agent pitched a Tata AIA saving plan; customer declined, citing lack of savings and no interest in the product.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium jo rahega wo aur interest ke saath-saath as per the market refundable rehta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

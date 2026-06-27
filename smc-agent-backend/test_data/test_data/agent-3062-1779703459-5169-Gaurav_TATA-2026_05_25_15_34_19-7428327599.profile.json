@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "5171656948343799",
+  "source_transcript": "agent-3062-1779703459-5169-Gaurav_TATA-2026_05_25_15_34_19-7428327599.json",
+  "source_name": "agent-3062-1779703459-5169-Gaurav_TATA-2026_05_25_15_34_19-7428327599.mp3",
+  "created_at_utc": "2026-05-27T01:31:31Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Nahi nahi, abhi toh hum khali baithe hue hain ji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi toh paisa hai nahi madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Abhi toh paisa hai nahi madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unemployed",
+        "insufficient funds"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA plan (unspecified)",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is currently unemployed and explicitly stated he has no money.",
+      "missed_opportunities": [
+        "Did not perform proper discovery before pitching."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is currently unemployed and expressed lack of funds, though he showed mild curiosity to hear the plan details."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA plan, and the customer immediately questioned the company's origin.",
+      "customer_response": "Customer was skeptical about the company's origin and hesitant due to his current financial situation.",
+      "key_event": "Customer explicitly stated he is currently unemployed and has no money, yet the agent continued the pitch.",
+      "ending": "The agent agreed to explain the plan after the customer expressed interest in hearing the details despite his unemployment."
+    },
+    "key_quotes": [
+      "Abhi toh paisa hai nahi madam.",
+      "Nahi nahi, abhi toh hum khali baithe hue hain ji."
+    ],
+    "red_flags": [
+      "Agent ignored customer's stated unemployment and lack of funds to continue pitch.",
+      "Agent misrepresented the company origin/structure."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

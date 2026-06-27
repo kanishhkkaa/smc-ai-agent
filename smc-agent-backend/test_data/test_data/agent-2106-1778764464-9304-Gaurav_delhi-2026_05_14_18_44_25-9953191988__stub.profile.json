@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5337398051714260",
+  "source_transcript": "2026_05_14/agent-2106-1778764464-9304-Gaurav_delhi-2026_05_14_18_44_25-9953191988__stub.json",
+  "source_name": "agent-2106-1778764464-9304-Gaurav_delhi-2026_05_14_18_44_25-9953191988.mp3",
+  "created_at_utc": "2026-06-01T04:22:41Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Humne HDFC walon ne hamare saath kar diya fraud",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 0,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Humne HDFC walon ne hamare saath kar diya fraud, kyunki hamari ek policy thi uska claim nahi diya un logon ne. Hame trust nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "previous claim rejection by HDFC Life",
+        "lack of trust in the company"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a strong negative history and lack of trust with the insurer.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer expressed deep distrust due to a previous claim rejection and was dismissive of the agent's explanation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new HDFC Life plan with guaranteed income, to which the customer responded with immediate hostility.",
+      "customer_response": "Customer was hostile and pushed back immediately citing a past negative experience with a claim rejection.",
+      "key_event": "The customer revealed a past claim rejection for a policy in his father-in-law's name, which caused him to lose trust in the company.",
+      "ending": "The customer dismissed the agent's attempt to explain the claim process and ended the conversation on a negative note."
+    },
+    "key_quotes": [
+      "Humne HDFC walon ne hamare saath kar diya fraud, kyunki hamari ek policy thi uska claim nahi diya un logon ne.",
+      "Hame trust nahi hai."
+    ],
+    "red_flags": [
+      "customer_hostility",
+      "past_claim_rejection_dispute"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

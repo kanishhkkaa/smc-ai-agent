@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "4919414833199987",
+  "source_transcript": "agent-2091-1779104558-8829-Gaurav_delhi-2026_05_18_17_12_39-9810157912.json",
+  "source_name": "agent-2091-1779104558-8829-Gaurav_delhi-2026_05_18_17_12_39-9810157912.mp3",
+  "created_at_utc": "2026-05-21T02:04:14Z",
+  "transcript_stats": {
+    "segments": 9,
+    "duration_seconds": 110.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Dekhiye Nikki, as far as life insurance is concerned, I already have two.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "I already have two. In fact, mera HDFC Life ke saath hi insurance chalta hai aur doosra mera already company provided hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "So I think now this quarter is not a good quarter to talk, you know, anything about tax saving and all that because we are already done for this financial year at least.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "tax_saving",
+        "evidence": "tax savings ki, to wo generally hum February-March mein pura kar dete hain",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "tax savings ki, to wo generally hum February-March mein pura kar dete hain",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income",
+        "lifetime coverage",
+        "double tax benefit",
+        "WOP benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed income product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has sufficient life insurance and is not interested in tax-saving products at this time.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is satisfied with existing coverage and explicitly stated that this is not the right time for tax-saving discussions."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and the customer responded politely.",
+      "customer_response": "Customer was polite but firm in declining the offer, citing existing coverage and timing.",
+      "key_event": "Customer raised an objection that he already has two insurance policies and is not interested in tax-saving products at this time of the year.",
+      "ending": "The customer explained why he is not interested at this time, effectively ending the conversation."
+    },
+    "key_quotes": [
+      "I already have two. In fact, mera HDFC Life ke saath hi insurance chalta hai",
+      "So I think now this quarter is not a good quarter to talk, you know, anything about tax saving"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

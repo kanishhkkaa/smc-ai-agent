@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5116868210762737",
+  "source_transcript": "agent-2018-1778832743-9057-Gaurav_delhi-2026_05_15_13_42_24-9811573657.json",
+  "created_at_utc": "2026-06-01T01:09:21Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2018-1778832743-9057-Gaurav_delhi-2026_05_15_13_42_24-9811573657.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, main toh nahi dekh raha.",
+    "summary": "Agent pitched HDFC Life guaranteed plan with 40% first-year income and 8% ROI, but the customer expressed disinterest in any insurance or loan products.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income de rahi hai sir aapko aapke lifetime ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 30,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

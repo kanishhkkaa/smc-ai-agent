@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "3725226133543716",
+  "source_transcript": "2026_05_27/agent-2077-1779861604-529-Gaurav_TATA-2026_05_27_11_30_05-9113635823.json",
+  "source_name": "agent-2077-1779861604-529-Gaurav_TATA-2026_05_27_11_30_05-9113635823.mp3",
+  "created_at_utc": "2026-06-01T05:16:04Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 168.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "73",
+        "evidence": "Customer: 73.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: \"mere ko do wife hai.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"mera, mere ko lots of business hai, hospital hai mere paas.\"",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Hospital owner",
+        "evidence": "Customer: \"hospital hai mere paas.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "Customer: \"mere ko do wife hai.\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: \"Girlfriend ke hai, investment karo, girlfriend ke baad investment karo.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 50,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"mere ko do wife hai.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age (73) exceeds eligibility for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer provided absurd, non-credible information throughout the call, and the agent eventually terminated the call due to eligibility issues and the customer's inappropriate responses."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan, and the customer engaged by providing his age.",
+      "customer_response": "The customer was mocking and provided increasingly absurd, non-credible information throughout the pitch.",
+      "key_event": "The agent realized the customer's age (73) made him ineligible for the product and rejected his request to invest in his girlfriend's name.",
+      "ending": "The agent terminated the call after concluding the customer was ineligible due to age and the nature of his requests."
+    },
+    "key_quotes": [
+      "73 koi age nahi hai, toh ye nahi hai, policy nahi hai.",
+      "Mere girlfriend ke naam par, mere girlfriend ke naam?"
+    ],
+    "red_flags": [
+      "customer_provided_absurd_information",
+      "inappropriate_customer_behavior"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 50,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

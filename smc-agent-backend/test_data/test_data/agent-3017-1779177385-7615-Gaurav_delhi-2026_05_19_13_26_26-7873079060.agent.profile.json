@@ -1,0 +1,100 @@
+{
+  "status": "success",
+  "agent_id": "3017",
+  "call_id": "agent-3017-1779177385-7615-Gaurav_delhi-2026_05_19_13_26_26-7873079060",
+  "source_file": "agent-3017-1779177385-7615-Gaurav_delhi-2026_05_19_13_26_26-7873079060.json",
+  "source_relative": "agent-3017-1779177385-7615-Gaurav_delhi-2026_05_19_13_26_26-7873079060.json",
+  "created_at_utc": "2026-05-22T13:06:04Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "3017",
+    "agent_self_introduced_name": "Siddhanth",
+    "call_id": "agent-3017-1779177385-7615-Gaurav_delhi-2026_05_19_13_26_26-7873079060",
+    "opening": {
+      "self_identified_name": true,
+      "consent_taken": false,
+      "greeting_quality": "excellent",
+      "verified_customer_identity": false,
+      "self_identified_company": true
+    },
+    "pitch": {
+      "explains_numbers_clearly": "not_applicable",
+      "pitch_clarity": "not_applicable",
+      "pitch_delivered": true,
+      "uses_jargon_appropriately": true,
+      "product_pitched": "Tata Param Rakshak Pro"
+    },
+    "discovery": {
+      "discovery_question_count": 0,
+      "personalizes_to_customer": false,
+      "discovery_depth": "none"
+    },
+    "objection_handling": {
+      "objections_faced": [
+        {
+          "resolved_by_agent": true,
+          "objection_type": "timing",
+          "customer_quote": "Sir, I am not interested in any plan right now aur main abhi office mein hoon toh utna main entertain kar nahi paunga.",
+          "agent_response_summary": "Acknowledged the customer's busy status and requested a callback time."
+        }
+      ],
+      "objection_handling_quality": "medium"
+    },
+    "compliance": {
+      "verbatim_examples": [],
+      "compliance_flags": []
+    },
+    "communication": {
+      "tone_professionalism": "high",
+      "language_used": "hinglish",
+      "language_quality": "high",
+      "interrupted_customer": false,
+      "talk_listen_ratio": "balanced",
+      "empathy": "medium"
+    },
+    "closing": {
+      "close_attempted": true,
+      "callback_datetime": "Saturday at 11:00 AM",
+      "next_steps_clarity": "high",
+      "callback_scheduled": true
+    },
+    "call_end": {
+      "is_ivr_only": false,
+      "end_reason": "callback_scheduled",
+      "end_reason_evidence": "Agent: Okay. Toh 11 baje main aapko call kar leta hoon Saturday ko, okay?\nCustomer: Theek hai, haan.",
+      "last_speaker": "agent",
+      "graceful_close": true,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false
+    },
+    "outcome": {
+      "outcome": "callback_scheduled",
+      "stage_reached": "commitment_given",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "strengths": [
+      "Professional tone.",
+      "Successfully secured a callback appointment."
+    ],
+    "improvement_areas": [
+      "Respecting customer boundaries when they express being busy."
+    ],
+    "coaching_recommendations": [
+      "When a customer states they are busy at work, acknowledge it immediately and offer to call back without attempting to continue the pitch.",
+      "Avoid pushing for more information once the customer has clearly stated they are not interested or busy."
+    ],
+    "exemplary_quotes": [
+      "Aap jab bhi free honge main aapko call kar loonga. Aap mujhe free ek timing bata dijiye, main aapko is time pe call kar loonga aur aapse baat kar loonga."
+    ],
+    "problematic_quotes": [
+      "Main disturb nahi karna chahunga but main is plan ke bare mein aapko information dena chahunga."
+    ],
+    "call_grade": "B",
+    "summary": "The agent introduced themselves and the company clearly. When the customer stated they were busy and not interested, the agent persisted slightly before successfully pivoting to scheduling a callback for Saturday at 11 AM. The call ended professionally with a clear commitment for the follow-up.",
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "6115560422837169",
+  "source_transcript": "2026_05_29/agent-3100-1780052925-7475-Gaurav_delhi-2026_05_29_16_38_46-9892175241.json",
+  "source_name": "agent-3100-1780052925-7475-Gaurav_delhi-2026_05_29_16_38_46-9892175241.mp3",
+  "created_at_utc": "2026-06-01T05:48:08Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 164.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "Ji main filhal toh hun 55 ka.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "waise khetibadi hai toh usse aata hai thoda.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "farmer",
+        "evidence": "khetibadi",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Ek 40-50 tak aa jata hai. (40-50k/month = 4.8-6L/yr)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Ji main thoda soch ke bata dunga. Theek hai na, aap mujhe wapas call kar sakte hain baad mein, thoda soch ke main bata dunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi nahi ji, lag nahi raha hai mujhe.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient liquid savings due to agricultural expenses"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Nahi, matlab mahine ka hi 50 hai toh saal ka toh main definitely nahi kar paunga.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "saving plan hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Ji main thoda soch ke bata dunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for whole life",
+        "8% growth on amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 50000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The proposed annual premium is too high for the customer's stated monthly income and financial situation.",
+      "missed_opportunities": [
+        "Did not explore lower premium options or different product types suitable for a retired farmer."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "annuity"
+      ],
+      "reasoning": "Customer was polite and requested a callback after thinking, indicating potential interest if the financial commitment is manageable."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed income plan from HDFC Life, and the customer responded with a neutral 'Okay'.",
+      "customer_response": "The customer was initially passive but became firm about his inability to commit to the proposed annual premium amount.",
+      "key_event": "The customer clarified his monthly income and expressed hesitation regarding the annual premium commitment.",
+      "ending": "The customer requested a callback after he has had time to think about the proposal."
+    },
+    "key_quotes": [
+      "Ji main filhal toh hun 55 ka.",
+      "Nahi, matlab mahine ka hi 50 hai toh saal ka toh main definitely nahi kar paunga.",
+      "Ji main thoda soch ke bata dunga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

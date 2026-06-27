@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "3818983068782331",
+  "source_transcript": "agent-3104-1779280980-5252-Gaurav_delhi-2026_05_20_18_13_00-9911707117.json",
+  "source_name": "agent-3104-1779280980-5252-Gaurav_delhi-2026_05_20_18_13_00-9911707117.mp3",
+  "created_at_utc": "2026-05-24T05:16:07Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 128.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Meri life ki guarantee nahi hai sir. Main aapko guaranteed plan call karne ki.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Us plan mein to main interested nahi hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no interest in the product and was hostile towards the pitch.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was dismissive and explicitly stated they were not interested in the product, ending the call with a cynical remark about life guarantees."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves as calling from HDFC Life to provide information on a new guaranteed plan.",
+      "customer_response": "The customer was resistant throughout, repeatedly questioning the agent's focus on age and declining the pitch.",
+      "key_event": "The customer explicitly rejected the whole life guaranteed plan and refused to provide age details.",
+      "ending": "The customer made a cynical comment about life guarantees and the agent ended the call."
+    },
+    "key_quotes": [
+      "Us plan mein to main interested nahi hoon.",
+      "Meri life ki guarantee nahi hai sir. Main aapko guaranteed plan call karne ki."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

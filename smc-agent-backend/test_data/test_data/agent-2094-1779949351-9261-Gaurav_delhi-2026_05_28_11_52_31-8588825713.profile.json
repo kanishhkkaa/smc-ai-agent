@@ -1,0 +1,168 @@
+{
+  "status": "success",
+  "profile_id": "2295781947708179",
+  "source_transcript": "2026_05_28/agent-2094-1779949351-9261-Gaurav_delhi-2026_05_28_11_52_31-8588825713.json",
+  "source_name": "agent-2094-1779949351-9261-Gaurav_delhi-2026_05_28_11_52_31-8588825713.mp3",
+  "created_at_utc": "2026-06-01T05:33:33Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 148.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "20",
+        "evidence": "20 saal ka ho gaya hun",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "bhai mere mein 20 saal ka hun",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Firozabad",
+        "evidence": "Firozabad",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Firozabad, UP",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "Kaam kar raha hun",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "Meri shaadi pakki ho gayi hai",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Batao, kaunsi company se ho?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Maine nahi suna, bhai.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se hi 40 percent ka income",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is too young and lacks financial awareness for the pitched product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was confused about the product and the agent ended the call abruptly after discovering the customer's age and lack of financial knowledge."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a guaranteed income product, asking for the customer's age.",
+      "customer_response": "Passive and slightly confused, providing inconsistent information about his age.",
+      "key_event": "Customer corrected his age from 18 to 20 and mentioned his upcoming marriage.",
+      "ending": "Agent ended the call abruptly after confirming the customer's location and lack of financial product knowledge."
+    },
+    "key_quotes": [
+      "Meri shaadi pakki ho gayi hai",
+      "Maine nahi suna, bhai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "tier_3",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

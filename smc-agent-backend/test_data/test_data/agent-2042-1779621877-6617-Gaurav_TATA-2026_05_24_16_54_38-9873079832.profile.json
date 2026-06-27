@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2495485235174035",
+  "source_transcript": "agent-2042-1779621877-6617-Gaurav_TATA-2026_05_24_16_54_38-9873079832.json",
+  "created_at_utc": "2026-06-01T02:06:29Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2042-1779621877-6617-Gaurav_TATA-2026_05_24_16_54_38-9873079832.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi sir, nahi chahiye.",
+    "summary": "The agent pitched a Tata AIA term and mutual fund plan, but the customer declined, stating they were not interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

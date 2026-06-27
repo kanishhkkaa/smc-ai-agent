@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5077044968277000",
+  "source_transcript": "2026_05_29/agent-3052-1780040451-2005-Gaurav_delhi-2026_05_29_13_10_53-9711245661.json",
+  "source_name": "agent-3052-1780040451-2005-Gaurav_delhi-2026_05_29_13_10_53-9711245661.mp3",
+  "created_at_utc": "2026-06-01T05:47:32Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "55 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Mahine ka ho jata hai 15-20 hazaar.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer answered questions directly without resistance.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "double tax benefit",
+        "100 years coverage",
+        "total tax free maturity/income"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitched (high-premium guaranteed income) is not suitable for a customer with a monthly income of 15-20k.",
+      "missed_opportunities": [
+        "Did not attempt to pivot to a more affordable product after learning income."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was cooperative and answered all discovery questions, though the agent ended the call abruptly after learning the income level."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "Passive and cooperative, answering questions as asked.",
+      "key_event": "Agent pitched a 36% guaranteed income plan and then terminated the call after discovering the customer's income was 15-20k per month.",
+      "ending": "Agent thanked the customer and ended the call abruptly after learning the customer's monthly income."
+    },
+    "key_quotes": [
+      "55 saal",
+      "Mahine ka ho jata hai 15-20 hazaar.",
+      "Nahi plan-wan to nahi kiya koi."
+    ],
+    "red_flags": [
+      "Agent terminated call immediately upon learning low income level.",
+      "Guaranteed returns claim on a product that likely does not support 36% annual returns."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

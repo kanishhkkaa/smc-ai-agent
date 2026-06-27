@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2500938797962199",
+  "source_transcript": "agent-3017-1779450031-9264-Gaurav_delhi-2026_05_22_17_10_32-9811192818.json",
+  "created_at_utc": "2026-06-01T03:01:04Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779450031-9264-Gaurav_delhi-2026_05_22_17_10_32-9811192818.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ab ye batao dena kya hota hai? Documents ki amount?",
+    "summary": "Agent pitched the Tata Param Rakshak plan; customer asked about payment requirements, but the call ended abruptly without further commitment or discovery.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

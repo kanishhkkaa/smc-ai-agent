@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "7678700103407736",
+  "source_transcript": "agent-2046-1778587691-7584-Gaurav_TATA-2026_05_12_17_38_11-9811522334.json",
+  "source_name": "agent-2046-1778587691-7584-Gaurav_TATA-2026_05_12_17_38_11-9811522334.mp3",
+  "created_at_utc": "2026-05-15T06:35:53Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 112.12,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "50, 50 above.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "50, 50 above.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "main aapse Divya baat kar rahi hun Tata AIA se mam. ... House maker hain, okay, toh phir yeh plan toh nahi ja payega mam kyunki yeh working person ke liye hi jate hain.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Hello, ya very good evening, main aapse Divya baat kar rahi hun Tata AIA se mam.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "House maker hain, okay",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "50, 50 above.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Haan ji, nahi, abhi nahi interest nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combine investment plan (term + ULIP)",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is a homemaker and the product is for working professionals.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated no interest and the agent determined the product was not suitable for a homemaker."
+    },
+    "summary": "The agent called to pitch a Tata AIA investment plan. The customer disclosed she is a homemaker over 50. The agent concluded the product was unsuitable for her and the customer expressed no interest.",
+    "key_quotes": [
+      "50, 50 above.",
+      "Haan ji, nahi, abhi nahi interest nahi hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "7173511633494860",
+  "source_transcript": "2026_05_26/agent-2082-1779775228-7253-Gaurav_delhi-2026_05_26_11_30_29-9599224509.json",
+  "source_name": "agent-2082-1779775228-7253-Gaurav_delhi-2026_05_26_11_30_29-9599224509.mp3",
+  "created_at_utc": "2026-06-01T05:06:34Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 190.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "\"35\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "\"Housewife ho aap?\" \"Haanji.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "\"main abhi homework karti hun.\" \"Housewife ho aap?\" \"Haanji.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Housewife",
+        "evidence": "\"Housewife\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Accha, ye cheez mujhe agar apni mother... ke liye lena hai, toh phir woh kaise hoga?\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "\"Jo hamara minimum hai, woh hamara 5,000 per month hai.\" (Customer inquired about 10k, agent offered 5k).",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "\"ek aisi bachat plan, ek saving ke bare mein baat karni thi\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Toh main abhi baat karti hun.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35,000 rupees return for mother's age",
+        "45,000 rupees return for customer's age"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage for the mother or the customer."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is actively inquiring about plan details for herself and her mother, showing clear interest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA Life and the customer responded with interest to hear more.",
+      "customer_response": "Engaged and inquisitive, asking specific questions about eligibility and returns for herself and her mother.",
+      "key_event": "Customer inquired about purchasing the plan for her mother and then compared returns for herself.",
+      "ending": "Customer stated she would discuss it and ended the call after providing her age and occupation."
+    },
+    "key_quotes": [
+      "Ismein kitna deposit karna hai amount monthly?",
+      "Accha, aur agar main sirf apne liye withdraw karti hun phir?",
+      "Toh main abhi baat karti hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

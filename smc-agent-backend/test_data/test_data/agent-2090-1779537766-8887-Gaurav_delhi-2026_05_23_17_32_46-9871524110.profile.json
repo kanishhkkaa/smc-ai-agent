@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4563214802437670",
+  "source_transcript": "agent-2090-1779537766-8887-Gaurav_delhi-2026_05_23_17_32_46-9871524110.json",
+  "created_at_utc": "2026-06-01T02:29:24Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 156.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779537766-8887-Gaurav_delhi-2026_05_23_17_32_46-9871524110.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Koi baat nahi ma'am, I will check all the things, na? Koi issue nahi hai. Okay, thank you.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery; customer remained neutral, stating she would verify details at her local bank branch.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "43",
+        "evidence": "43.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Dwarka",
+        "evidence": "Dwarka.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "40,000 monthly",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko aapke premium ka 40 percent cash income deti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

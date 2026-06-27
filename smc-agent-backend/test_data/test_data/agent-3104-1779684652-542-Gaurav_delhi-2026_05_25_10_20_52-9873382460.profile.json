@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "9794254413351160",
+  "source_transcript": "agent-3104-1779684652-542-Gaurav_delhi-2026_05_25_10_20_52-9873382460.json",
+  "source_name": "agent-3104-1779684652-542-Gaurav_delhi-2026_05_25_10_20_52-9873382460.mp3",
+  "created_at_utc": "2026-05-27T01:30:15Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 170.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "Customer: Age current age hai aapki 38.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: main thekedar aadmi hun.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Customer: main thekedar aadmi hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "thekedar",
+        "evidence": "Customer: main thekedar aadmi hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Ek saal ki ho jaati hai ek do, dedh lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Woh hota hai na main main filhal LIC jaunga, wahin pe karwaunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Woh hota hai na main main filhal LIC jaunga, wahin pe karwaunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer: Insurance karwana tha.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Woh hota hai na main main filhal LIC jaunga, wahin pe karwaunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki money back income",
+        "8 percent ka compound interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer prefers LIC and is not interested in private life insurance products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he prefers to go to LIC directly for his insurance needs."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent opened with a high-return promise for a life insurance product, and the customer acknowledged.",
+      "customer_response": "The customer was passive and confused about the product nature, eventually pushing back by stating his preference for LIC.",
+      "key_event": "The customer clarified he prefers to go to LIC directly for insurance, effectively closing the pitch.",
+      "ending": "The customer ended the conversation by stating he would go to LIC directly."
+    },
+    "key_quotes": [
+      "Woh hota hai na main main filhal LIC jaunga, wahin pe karwaunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

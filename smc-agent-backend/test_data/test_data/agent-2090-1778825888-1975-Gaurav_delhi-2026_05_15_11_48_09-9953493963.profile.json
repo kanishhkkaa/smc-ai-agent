@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "4226577195795986",
+  "source_transcript": "agent-2090-1778825888-1975-Gaurav_delhi-2026_05_15_11_48_09-9953493963.json",
+  "source_name": "agent-2090-1778825888-1975-Gaurav_delhi-2026_05_15_11_48_09-9953493963.mp3",
+  "created_at_utc": "2026-05-18T06:02:26Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 75.32,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi nahi ma'am abhi ismein interest nahi hai, sorry.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi ma'am abhi ismein interest nahi hai, sorry.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% income support from first year",
+        "8% compounding growth",
+        "guaranteed plan",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer expressed no interest and the agent failed to establish any need.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated no interest and the call was cut short by the agent's persistence after a clear refusal."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life regarding a new plan, and the customer responded neutrally.",
+      "customer_response": "The customer was passive initially, clarifying the source of the call, then became dismissive and declined the offer.",
+      "key_event": "The customer explicitly stated they were not interested in the plan.",
+      "ending": "The customer declined the offer, and the agent attempted to continue the pitch despite the refusal."
+    },
+    "key_quotes": [
+      "Nahi nahi ma'am abhi ismein interest nahi hai, sorry."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

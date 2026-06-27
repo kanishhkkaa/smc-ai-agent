@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "8265842468200138",
+  "source_transcript": "agent-3011-1778736421-9421-Gaurav_delhi-2026_05_14_10_57_02-9873100549.json",
+  "source_name": "agent-3011-1778736421-9421-Gaurav_delhi-2026_05_14_10_57_02-9873100549.mp3",
+  "created_at_utc": "2026-05-16T00:16:11Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 60.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "hello",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "abhi toh koi plan nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "abhi toh koi plan nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "fit_score_0_10": 0,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer showed no interest and was dismissive throughout the short call."
+    },
+    "summary": "The agent called to pitch a guaranteed savings plan from HDFC Life. The customer showed no interest, and the call ended abruptly after the customer stated they had no plans to purchase.",
+    "key_quotes": [
+      "abhi toh koi plan nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

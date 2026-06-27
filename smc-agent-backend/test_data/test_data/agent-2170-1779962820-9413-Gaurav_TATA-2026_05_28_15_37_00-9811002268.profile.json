@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "3402524921484841",
+  "source_transcript": "2026_05_28/agent-2170-1779962820-9413-Gaurav_TATA-2026_05_28_15_37_00-9811002268.json",
+  "source_name": "agent-2170-1779962820-9413-Gaurav_TATA-2026_05_28_15_37_00-9811002268.mp3",
+  "created_at_utc": "2026-06-01T05:37:45Z",
+  "transcript_stats": {
+    "segments": 60,
+    "duration_seconds": 219.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "Age hamari hai 53.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi NCR",
+        "evidence": "Main main bhi Delhi NCR se hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi NCR",
+        "evidence": "Main main bhi Delhi NCR se hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "5 lakh leke chalu main aapka? Customer: Haan haan, man lijiye.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Sir aap mam ki mam ki mam ke liye le sakte ho... Customer: Nahi nahi, unka bhi hai health ka.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Toh thoda sa mera dhyan abhi wahan chal raha hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, ye toh zyada ho jayega.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "pichle ek mahine se wo bimar chal rahi hai. Next month mein unka operation hone wala hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "high premium cost",
+        "family member health issues/upcoming surgery"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "health_insurance",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job karta hun. (Implied sole earner/decision maker)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer found the premium too high and is currently dealing with a family medical crisis.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "child_plan",
+        "ulip",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "Customer is currently preoccupied with a family member's upcoming surgery and explicitly declined the offer."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a 'two-in-one' combined plan from Tata AIA and the customer responded with 'Haan boliye'.",
+      "customer_response": "Customer was passive and polite, eventually pushing back due to high premium and family health issues.",
+      "key_event": "Customer rejected the high premium and disclosed that his wife is currently ill and awaiting surgery.",
+      "ending": "Agent acknowledged the customer's situation and ended the call politely."
+    },
+    "key_quotes": [
+      "Nahi, ye toh zyada ho jayega.",
+      "pichle ek mahine se wo bimar chal rahi hai. Next month mein unka operation hone wala hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_3",
+      "life_stage": "pre_retirement",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

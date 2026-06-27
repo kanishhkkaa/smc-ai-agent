@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "4478725958849071",
+  "source_transcript": "2026_05_14/agent-2131-1778757940-3407-Gaurav_delhi-2026_05_14_16_55_40-8130994964__stub.json",
+  "source_name": "agent-2131-1778757940-3407-Gaurav_delhi-2026_05_14_16_55_40-8130994964.mp3",
+  "created_at_utc": "2026-06-01T04:23:20Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "18",
+        "evidence": "Sir meri abhi to 18 saal hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Sir meri abhi to 18 saal hai. (Implied student/no income status).",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Nahi, to nahi hai ji.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Nahi.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Chalo main bhejta hun ji, theek hai. (Implied deferral to parent).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% return within 7 to 10 days"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an 18-year-old student with no income, making them ineligible for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a student with no income and clearly stated inability to afford the product, only agreeing to pass the number to a parent to end the call."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves from HDFC Life and immediately pitched a guaranteed savings plan with a 35% return.",
+      "customer_response": "Passive and disengaged, eventually agreeing to pass the number to a parent to end the conversation.",
+      "key_event": "Agent attempted to pivot the sale to the customer's parent after the customer stated they had no income and could not afford the premium.",
+      "ending": "Customer agreed to share a parent's contact number and the call concluded."
+    },
+    "key_quotes": [
+      "Sir meri abhi to 18 saal hai.",
+      "Nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

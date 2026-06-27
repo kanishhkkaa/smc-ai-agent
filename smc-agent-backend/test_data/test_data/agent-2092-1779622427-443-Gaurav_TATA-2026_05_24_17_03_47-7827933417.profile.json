@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2285543197307085",
+  "source_transcript": "agent-2092-1779622427-443-Gaurav_TATA-2026_05_24_17_03_47-7827933417.json",
+  "created_at_utc": "2026-06-01T02:09:11Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1779622427-443-Gaurav_TATA-2026_05_24_17_03_47-7827933417.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Accha accha accha, haan itna toh samajh mein aa raha hai.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer asked about profit, showed interest, and the call ended during the discovery phase.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "minimum 24 percent ke compound interest rate se annually growth",
+      "return_claim_pct": 24,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

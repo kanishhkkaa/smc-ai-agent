@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "9688768324239233",
+  "source_transcript": "2026_05_13/agent-3054-1778672189-238-Gaurav_delhi-2026_05_13_17_06_29-9810684547.json",
+  "source_name": "agent-3054-1778672189-238-Gaurav_delhi-2026_05_13_17_06_29-9810684547.mp3",
+  "created_at_utc": "2026-06-01T04:06:18Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 117.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "50 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "ma'am",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "business hai",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Property business",
+        "evidence": "Property",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Mujhe kuch karna hi nahi hai, toh mujhe kuch batana bhi nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Mujhe kuch karna hi nahi hai, toh mujhe kuch batana bhi nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income within one week"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer showed no interest and refused to engage with the product pitch.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was consistently resistant to sharing information and explicitly stated she did not want to proceed."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was consistently dismissive and resistant to the agent's questions throughout the call.",
+      "key_event": "The customer refused to provide any personal or financial information, stating she did not want to do anything.",
+      "ending": "The agent acknowledged the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "Mujhe kuch karna hi nahi hai, toh mujhe kuch batana bhi nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

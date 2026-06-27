@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "2869521800793030",
+  "source_transcript": "agent-3054-1779179779-4358-Gaurav_delhi-2026_05_19_14_06_19-8744800500.json",
+  "source_name": "agent-3054-1779179779-4358-Gaurav_delhi-2026_05_19_14_06_19-8744800500.mp3",
+  "created_at_utc": "2026-05-22T11:28:08Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 92.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Toh unnecessary apna apna time mat kharab karein aapka time bahut keemti hai kahin aur invest karein zyada behtar hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Madam waise toh mujhe koi requirement hai nahi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Ma'am time nahi hai itna hamare paas bhi aapke paas bhi nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income from first year for whole life",
+        "double tax benefit",
+        "8 percent compounded rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no requirement and requested no further contact.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was explicitly dismissive and requested not to be contacted again."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately pitched a guaranteed income plan, to which the customer responded neutrally.",
+      "customer_response": "The customer was resistant throughout, repeatedly stating they had no requirement and eventually asking the agent not to waste time.",
+      "key_event": "The customer explicitly told the agent not to waste time, but the agent persisted by questioning why the customer asked for the plan name.",
+      "ending": "The customer firmly declined further contact and the call ended after the agent made a final attempt to pivot to other products."
+    },
+    "key_quotes": [
+      "Madam waise toh mujhe koi requirement hai nahi.",
+      "Toh unnecessary apna apna time mat kharab karein aapka time bahut keemti hai kahin aur invest karein zyada behtar hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

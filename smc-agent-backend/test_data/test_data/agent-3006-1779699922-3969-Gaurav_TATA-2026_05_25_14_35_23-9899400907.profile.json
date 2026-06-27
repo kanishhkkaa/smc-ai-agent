@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "7166871381806517",
+  "source_transcript": "agent-3006-1779699922-3969-Gaurav_TATA-2026_05_25_14_35_23-9899400907.json",
+  "source_name": "agent-3006-1779699922-3969-Gaurav_TATA-2026_05_25_14_35_23-9899400907.mp3",
+  "created_at_utc": "2026-05-27T01:24:35Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 266.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karte hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haanji. / Okay. / Hmm, batao.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "50 ka kitna padega? 50 lakh ka?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: term plus mutual fund ka.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "60 lakh normal death cover",
+        "1 crore 20 lakh accidental death cover",
+        "premium waiver on disability"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 42228,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the mutual fund component details."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was engaged and asking specific questions about riders, but the call was interrupted by a long hold."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA term plus mutual fund plan and immediately asked for the customer's age.",
+      "customer_response": "The customer was engaged, asking clarifying questions about coverage amounts and disability riders.",
+      "key_event": "The customer asked for a 1 crore cover, but the agent insisted on 60 lakh based on income multiples.",
+      "ending": "The agent put the customer on hold and the call remained on hold until the end of the recording."
+    },
+    "key_quotes": [
+      "50 ka kitna padega? 50 lakh ka?",
+      "Disability rider jo hai, aap bata rahe hai, woh ek part ka hota hai, do part ka hota hai?"
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

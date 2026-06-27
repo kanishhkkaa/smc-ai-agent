@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7437630232743963",
+  "source_transcript": "agent-2046-1779538760-7253-Gaurav_TATA-2026_05_23_17_49_20-9350000186.json",
+  "created_at_utc": "2026-06-01T02:23:04Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779538760-7253-Gaurav_TATA-2026_05_23_17_49_20-9350000186.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Mere ko 27 saal ki hun 5 saal mein mere ko kuch bhi ho sakta hai.",
+    "summary": "The agent pitched a Tata Param Raksha Pro plan; the customer expressed concern about her age and mortality, leading the agent to end the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "27",
+        "evidence": "Mere ko 27 saal ki hun",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

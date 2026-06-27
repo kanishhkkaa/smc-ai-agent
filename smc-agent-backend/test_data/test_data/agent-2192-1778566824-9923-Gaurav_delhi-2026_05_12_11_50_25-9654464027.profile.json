@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "5574408876396283",
+  "source_transcript": "agent-2192-1778566824-9923-Gaurav_delhi-2026_05_12_11_50_25-9654464027.json",
+  "source_name": "agent-2192-1778566824-9923-Gaurav_delhi-2026_05_12_11_50_25-9654464027.mp3",
+  "created_at_utc": "2026-05-15T06:49:34Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 125.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: main 30.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: main 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: main 30 ki shaadi nahi hui hai abhi, setting to kar lunga par shaadi nahi hui.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: main Shalini baat kar rahi hun HDFC Life se... Customer: kele ki rehri lagata hun madam.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "self_employed",
+        "evidence": "Customer: kele ki rehri lagata hun madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "fruit vendor",
+        "evidence": "Customer: kele ki rehri lagata hun madam.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: to agar average maanun to madam mahine mein ho jaata hai 10-12-14 hazaar rupaye ka.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: main 30 ki shaadi nahi hui hai abhi",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Customer: main 30 ki shaadi nahi hui hai abhi",
+        "confidence": "high"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: main 30 ki shaadi nahi hui hai abhi",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: nice to hear you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: savings plan mein, 10-12 hazaar mein kya karun? Saving karun, kamre ka kiraya chalaun 3000 rupaye, aur 2000 rupaye.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: savings plan mein, 10-12 hazaar mein kya karun? Saving karun, kamre ka kiraya chalaun 3000 rupaye, aur 2000 rupaye.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: savings plan mein, 10-12 hazaar mein kya karun? Saving karun, kamre ka kiraya chalaun 3000 rupaye, aur 2000 rupaye.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has very low income and no capacity for savings products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer has very low income and explicitly stated he cannot afford savings plans after meeting basic living expenses. He is not a suitable prospect for this product."
+    },
+    "summary": "The agent pitched an HDFC Life savings plan to a fruit vendor. The customer disclosed a monthly income of 10-14k INR and explained he has no capacity for savings after paying rent and living expenses. The agent continued to ask personal questions despite the customer's clear financial constraints.",
+    "key_quotes": [
+      "kele ki rehri lagata hun madam.",
+      "savings plan mein, 10-12 hazaar mein kya karun? Saving karun, kamre ka kiraya chalaun 3000 rupaye, aur 2000 rupaye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

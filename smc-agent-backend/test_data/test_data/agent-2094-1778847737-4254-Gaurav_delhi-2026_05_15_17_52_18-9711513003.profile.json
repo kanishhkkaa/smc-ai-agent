@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1163162127174395",
+  "source_transcript": "agent-2094-1778847737-4254-Gaurav_delhi-2026_05_15_17_52_18-9711513003.json",
+  "created_at_utc": "2026-06-01T01:13:25Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1778847737-4254-Gaurav_delhi-2026_05_15_17_52_18-9711513003.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, mujhe requirement hi nahi hai. Sunenge tab na jab zarurat hogi, abhi zarurat hi nahi hai.",
+    "summary": "Agent pitched a HDFC Life guaranteed income plan; customer explicitly stated they have no requirement and declined the pitch.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se company 36 percent ki income dena shuru kar deti hai as a money back",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

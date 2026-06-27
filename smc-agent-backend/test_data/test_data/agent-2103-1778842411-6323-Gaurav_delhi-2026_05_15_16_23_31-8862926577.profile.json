@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2414087274269542",
+  "source_transcript": "agent-2103-1778842411-6323-Gaurav_delhi-2026_05_15_16_23_31-8862926577.json",
+  "created_at_utc": "2026-06-01T01:13:53Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2103-1778842411-6323-Gaurav_delhi-2026_05_15_16_23_31-8862926577.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am abhi humein koi plan ki need nahi hai, abhi kuch nahi kar payenge.",
+    "summary": "Agent pitched HDFC Life's Sanchay Par Advantage plan; customer expressed disinterest and stated he does not need a plan at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki money back income aapko provide ki ja rahi hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

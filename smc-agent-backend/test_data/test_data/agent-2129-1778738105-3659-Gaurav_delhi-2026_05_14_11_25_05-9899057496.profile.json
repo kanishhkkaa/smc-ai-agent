@@ -1,0 +1,207 @@
+{
+  "status": "success",
+  "profile_id": "9220077813798224",
+  "source_transcript": "agent-2129-1778738105-3659-Gaurav_delhi-2026_05_14_11_25_05-9899057496.json",
+  "source_name": "agent-2129-1778738105-3659-Gaurav_delhi-2026_05_14_11_25_05-9899057496.mp3",
+  "created_at_utc": "2026-05-16T00:08:23Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 305.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": ",value:",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": ",value:",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": ",value:",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": ",value:",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": ",value:",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi yaar abhi toh paise hi nahi hain, saving kaise nahi hai, abhi nahi kar paunga.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "matlab abhi EMI bahut saari chal rahi hain.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": ",value:",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": ",value:",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": ",value:",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": ",value:",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 3,
+      "mismatch": true,
+      "mismatch_reason": "Customer has high EMI burden and no current savings capacity for the proposed premium.",
+      "missed_opportunities": [
+        "Did not explore customer's actual financial goals or existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer expressed interest in the concept but is currently constrained by existing EMIs. A follow-up in a few months is appropriate once their financial situation potentially eases."
+    },
+    "summary": "The agent pitched the HDFC Sanchay Par Advantage plan to the customer, emphasizing guaranteed lifetime income. The customer repeatedly declined due to a lack of current savings and a high EMI burden. The agent was persistent, attempting to reframe the premium as a small monthly saving, but the customer remained non-committal, stating they might consider it in the future.",
+    "key_quotes": [
+      "Nahi yaar abhi toh paise hi nahi hain, saving kaise nahi hai, abhi nahi kar paunga.",
+      "matlab abhi EMI bahut saari chal rahi hain.",
+      "Karenge, karenge isko abhi nahi but kar le sakte hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "9789837038086295",
+  "source_transcript": "agent-2004-1779269307-3935-Gaurav_delhi-2026_05_20_14_58_28-8010366364.json",
+  "source_name": "agent-2004-1779269307-3935-Gaurav_delhi-2026_05_20_14_58_28-8010366364.mp3",
+  "created_at_utc": "2026-05-24T05:21:01Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Haan ji ma'am... Customer: Nahi nahi, ghar mein, housewife.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Customer: Nahi nahi, ghar mein, housewife.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "housewife",
+        "evidence": "Customer: housewife.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Nahi nahi, ghar mein, housewife. Agent: Toh ma'am aap apne husband se baat kara dijiye.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Hmm.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Agent: Toh ma'am aap apne husband se baat kara dijiye. Customer: Woh abhi ghar pe nahi hai, kaam pe gaye hain.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% guaranteed income",
+        "8% rate of interest",
+        "double tax benefit",
+        "term life insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life new product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a homemaker and not the financial decision maker.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer was polite but deferred to her husband for financial decisions."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately started pitching a new product.",
+      "customer_response": "Passive, providing brief answers to agent's questions.",
+      "key_event": "Agent pitched a product with guaranteed returns and interest rates before asking for the husband's availability.",
+      "ending": "Agent thanked the customer and ended the call after learning the husband would return at 6 PM."
+    },
+    "key_quotes": [
+      "45.",
+      "Nahi nahi, ghar mein, housewife."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min"
+    }
+  }
+}

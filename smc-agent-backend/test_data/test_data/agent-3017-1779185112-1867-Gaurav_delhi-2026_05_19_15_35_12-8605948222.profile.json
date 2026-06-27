@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "9482423226769797",
+  "source_transcript": "agent-3017-1779185112-1867-Gaurav_delhi-2026_05_19_15_35_12-8605948222.json",
+  "source_name": "agent-3017-1779185112-1867-Gaurav_delhi-2026_05_19_15_35_12-8605948222.mp3",
+  "created_at_utc": "2026-05-22T11:23:56Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hu.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 3 lakh 50.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Bolo.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...bahut saari life secure aapke bachcho ke liye unki marriage life ke liye sir.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance",
+        "child_plan",
+        "retirement_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "ulip",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "Customer is providing information but the agent is struggling to maintain a coherent flow."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from Tata AIA and the customer responded curtly.",
+      "customer_response": "Passive and brief, providing only the requested information.",
+      "key_event": "The agent struggled to understand the customer's income and put them on hold.",
+      "ending": "The agent put the customer on hold to check plan details."
+    },
+    "key_quotes": [
+      "Bolo.",
+      "40.",
+      "3 lakh 50."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

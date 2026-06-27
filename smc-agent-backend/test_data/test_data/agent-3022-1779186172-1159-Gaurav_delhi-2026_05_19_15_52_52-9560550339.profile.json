@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "9425739149879148",
+  "source_transcript": "agent-3022-1779186172-1159-Gaurav_delhi-2026_05_19_15_52_52-9560550339.json",
+  "source_name": "agent-3022-1779186172-1159-Gaurav_delhi-2026_05_19_15_52_52-9560550339.mp3",
+  "created_at_utc": "2026-05-22T11:25:21Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 116.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi kuch bhi extra kharche nahi karne.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Abhi kuch bhi extra kharche nahi karne.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Abhi kuch bhi extra kharche nahi karne.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki income aani start ho jati hai",
+        "8 percent ka rate of interest",
+        "12 time work karta hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed and traditional plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly stated they are not making any extra expenses at this time.",
+      "missed_opportunities": [
+        "Did not ask about current insurance coverage or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is firm about not making extra expenses due to current personal financial constraints/priorities."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life to provide information about a guaranteed plan.",
+      "customer_response": "Customer was passive but firm in rejecting the pitch by citing a personal policy of avoiding extra expenses.",
+      "key_event": "Customer repeatedly cited a personal directive to avoid extra expenses as the reason for not engaging.",
+      "ending": "Agent acknowledged the customer's stance and ended the call politely."
+    },
+    "key_quotes": [
+      "Abhi kuch bhi extra kharche nahi karne.",
+      "Toh abhi baad mein plan karenge, achhe se baat karenge."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

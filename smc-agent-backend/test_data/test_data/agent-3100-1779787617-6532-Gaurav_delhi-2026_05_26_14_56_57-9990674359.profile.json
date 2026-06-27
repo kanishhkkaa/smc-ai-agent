@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "5206735699675031",
+  "source_transcript": "2026_05_26/agent-3100-1779787617-6532-Gaurav_delhi-2026_05_26_14_56_57-9990674359.json",
+  "source_name": "agent-3100-1779787617-6532-Gaurav_delhi-2026_05_26_14_56_57-9990674359.mp3",
+  "created_at_utc": "2026-06-01T05:12:45Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 146.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Ah age wahi 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hai job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "75,000? Haan ji, haan ji. Monthly? Haan ji, haan ji.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye. Accha 50,000. To mujhe milega kab se shuru ho jayega?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "mutual_funds",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Wo chal raha hai madam, wo bhi bahut chal raha hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Wo chal raha hai madam, wo bhi bahut chal raha hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job hai job.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for whole life",
+        "8% guaranteed return on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the nature of the 35% income stream or the 8% guarantee in the context of market risk."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was engaged and provided details but requested a callback due to being busy at the end."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed plan with 35% income, and the customer invited the pitch.",
+      "customer_response": "Engaged and inquisitive about the plan details and premium requirements.",
+      "key_event": "Agent attempted to transfer to a senior, but the customer ended the call due to being busy.",
+      "ending": "Customer requested a callback later as they were busy."
+    },
+    "key_quotes": [
+      "To isme deposit kitna karna padega?",
+      "To mujhe milega kab se shuru ho jayega?",
+      "Madam thoda baad mein karna, abhi main busy hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

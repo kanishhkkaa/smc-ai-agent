@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3250927463814900",
+  "source_transcript": "agent-2149-1779616045-8726-Gaurav_delhi-2026_05_24_15_17_26-9910498350.json",
+  "created_at_utc": "2026-06-01T02:11:10Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 120.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2149-1779616045-8726-Gaurav_delhi-2026_05_24_15_17_26-9910498350.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Main source of income zero hai bhai.",
+    "summary": "The agent pitched an HDFC Life saving plan, but the prospect self-disqualified as a senior citizen with zero income, leading the agent to end the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "Main senior citizen.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Main senior citizen.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Main source of income zero hai bhai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 36 percent ka income provide karta hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "7611467320926442",
+  "source_transcript": "agent-2049-1779269137-2444-Gaurav_delhi-2026_05_20_14_55_38-8010860205.json",
+  "source_name": "agent-2049-1779269137-2444-Gaurav_delhi-2026_05_20_14_55_38-8010860205.mp3",
+  "created_at_utc": "2026-05-24T05:03:15Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Main Delhi se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Main Delhi se.",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Sir working hoon main.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Private job",
+        "evidence": "Private job kar rahe hain? Haan ji sir.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Husband wife dono dekhte hain.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Dekhiye mere ko aap batayenge ek amount hoga na?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Dekhiye mere ko aap batayenge ek amount hoga na? Mujhe life return milega kitna milega amount kitna mujhe dena rahega?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "kaafi achcha saving bata rahe the aapko.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Husband wife dono dekhte hain.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life unique plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "failed to provide clear premium/return details when asked"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is working and interested in financial planning, but the call was interrupted and lacked clarity on product specifics."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new HDFC Life plan with regular income benefits, and the customer responded with interest.",
+      "customer_response": "The customer was engaged but became increasingly inquisitive and slightly frustrated by the lack of concrete numbers.",
+      "key_event": "The agent failed to provide specific premium or return details, leading to the involvement of a senior manager.",
+      "ending": "The call was interrupted during the senior manager's discovery phase and did not reach a conclusion."
+    },
+    "key_quotes": [
+      "Dekhiye mere ko aap batayenge ek amount hoga na?",
+      "Mujhe life return milega kitna milega amount kitna mujhe dena rahega?"
+    ],
+    "red_flags": [
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

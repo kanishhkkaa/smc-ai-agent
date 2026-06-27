@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "5810441516439034",
+  "source_transcript": "agent-3006-1779177547-9109-Gaurav_TATA-2026_05_19_13_29_08-9427144423.json",
+  "source_name": "agent-3006-1779177547-9109-Gaurav_TATA-2026_05_19_13_29_08-9427144423.mp3",
+  "created_at_utc": "2026-05-22T11:21:11Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 12-13 hazar.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Bolo. / Hmm.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR ka term cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term and mutual fund combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent is pitching a 1 CR term insurance plan to a customer earning 12-13k per month, which is a clear financial mismatch.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is low-income and the product pitched is likely unaffordable, leading to a very short, disengaged conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves from Tata AIA and mentioned a term insurance call, to which the customer replied 'Bolo'.",
+      "customer_response": "Passive and brief, providing only minimal information when prompted.",
+      "key_event": "The agent attempted to pitch a 1 CR term insurance plan to a customer earning 12-13k monthly.",
+      "ending": "The agent acknowledged the income and the call ended abruptly."
+    },
+    "key_quotes": [
+      "12-13 hazar."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min"
+    }
+  }
+}

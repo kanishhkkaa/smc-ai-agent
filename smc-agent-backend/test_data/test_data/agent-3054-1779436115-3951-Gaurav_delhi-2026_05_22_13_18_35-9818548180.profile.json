@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "5163986608676155",
+  "source_transcript": "2026_05_22/agent-3054-1779436115-3951-Gaurav_delhi-2026_05_22_13_18_35-9818548180.json",
+  "source_name": "agent-3054-1779436115-3951-Gaurav_delhi-2026_05_22_13_18_35-9818548180.mp3",
+  "created_at_utc": "2026-06-01T05:04:32Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 106.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "85",
+        "evidence": "85, aath aur paanch 85",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 36 percent guaranteed income whole life ke liye",
+        "8 percent tak compound rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age (85) is outside the eligibility criteria for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is 85 years old and explicitly declined to consider the plan for family members."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself and the HDFC Life campaign, to which the customer responded with 'Boliye'.",
+      "customer_response": "Passive and brief, providing minimal information.",
+      "key_event": "Customer stated her age as 85, which the agent identified as unsuitable for the product.",
+      "ending": "Agent acknowledged the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "85, aath aur paanch 85, samajhti ho?",
+      "Nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

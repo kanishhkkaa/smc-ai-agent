@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "1008272550171131",
+  "source_transcript": "agent-2001-1779176533-9963-Gaurav_TATA-2026_05_19_13_12_14-9714676327.json",
+  "source_name": "agent-2001-1779176533-9963-Gaurav_TATA-2026_05_19_13_12_14-9714676327.mp3",
+  "created_at_utc": "2026-05-22T11:05:29Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 66.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: 50 baras.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "Customer: Mazdoori, mazdoori karte hain hum, mazdoor hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Farmer/Laborer",
+        "evidence": "Customer: kheti karta hun. Mazdoori, mazdoori karte hain hum, mazdoor hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Haan.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore plus 60 lakh cover",
+        "premium refundable",
+        "tax free",
+        "pension benefit",
+        "medical benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product is a high-premium investment-linked plan, which is unsuitable for a daily wage laborer.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a daily wage laborer and the product pitched is clearly unsuitable for his financial profile."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and mentioned a term plus investment plan, to which the customer responded with 'Haan'.",
+      "customer_response": "Passive, providing minimal responses to agent's questions.",
+      "key_event": "Customer disclosed his occupation as a laborer, revealing a significant mismatch with the high-premium product pitch.",
+      "ending": "Agent acknowledged the customer's occupation and the call ended abruptly."
+    },
+    "key_quotes": [
+      "50 baras.",
+      "Mazdoori, mazdoori karte hain hum, mazdoor hain."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

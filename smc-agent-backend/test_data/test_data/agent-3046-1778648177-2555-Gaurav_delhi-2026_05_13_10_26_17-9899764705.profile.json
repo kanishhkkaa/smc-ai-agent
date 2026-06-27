@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "8142722179316142",
+  "source_transcript": "2026_05_13/agent-3046-1778648177-2555-Gaurav_delhi-2026_05_13_10_26_17-9899764705.json",
+  "source_name": "agent-3046-1778648177-2555-Gaurav_delhi-2026_05_13_10_26_17-9899764705.mp3",
+  "created_at_utc": "2026-06-01T04:05:05Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "Customer: 29.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Customer: \"ghar mein hi rehti hun main toh.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Customer: \"ghar mein hi rehti hun main toh.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"Husband ki hai.\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Main unse pooch ke aapko bata dungi.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: \"Main unse pooch ke aapko bata dungi.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "needs_to_consult_family",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% money back income within a week",
+        "8% compound interest on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a homemaker with no personal income, making the high-premium product pitch inappropriate.",
+      "missed_opportunities": [
+        "Did not ask about husband's occupation or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer was polite and open to discussing with her husband, indicating potential for future contact."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately pitched a high-return money-back plan.",
+      "customer_response": "Passive and cooperative, providing requested information without resistance.",
+      "key_event": "Customer stated she is a housewife and would need to consult her husband regarding the policy.",
+      "ending": "Customer agreed to consult her husband and get back to the agent."
+    },
+    "key_quotes": [
+      "Main unse pooch ke aapko bata dungi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

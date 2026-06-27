@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1084925830409139",
+  "source_transcript": "agent-2091-1778844870-8789-Gaurav_delhi-2026_05_15_17_04_31-8882377165.json",
+  "created_at_utc": "2026-06-01T02:03:47Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 104.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1778844870-8789-Gaurav_delhi-2026_05_15_17_04_31-8882377165.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Woh comfortable toh hai, par abhi requirement bhi hai, par abhi main karna bhi nahi chahta abhi.",
+    "summary": "Agent pitched an HDFC Life plan; customer engaged in conversation but expressed reluctance to proceed, citing no current interest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Sudama",
+        "evidence": "Sudama.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "65",
+        "evidence": "65.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na aapko 40 percent ki guaranteed income",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

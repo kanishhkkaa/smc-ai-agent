@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "1746309580388684",
+  "source_transcript": "agent-2059-1779192640-7447-Gaurav_delhi-2026_05_19_17_40_40-8178483836.json",
+  "source_name": "agent-2059-1779192640-7447-Gaurav_delhi-2026_05_19_17_40_40-8178483836.mp3",
+  "created_at_utc": "2026-05-22T11:09:25Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 175.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "21",
+        "evidence": "Customer: 21.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Customer: Tractor chalata hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Tractor driver/operator",
+        "evidence": "Customer: Tractor chalata hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 40-50,000 tak. (Monthly)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Chaliye sir. / Haan. / Right.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: 40-50,000 mahine. (Implied capacity)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Hum hi lete hain.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product pitched is likely unsuitable for a 21-year-old tractor operator due to high premium requirements and complex structure.",
+      "missed_opportunities": [
+        "Did not assess long-term financial goals or protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "child_plan",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is young, sole decision maker, and currently has no insurance, but the call was interrupted and lacked a clear closing."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a high-return guaranteed plan.",
+      "customer_response": "Customer was passive and compliant throughout the questioning process.",
+      "key_event": "The call was interrupted by a second agent who took over the conversation to re-verify details.",
+      "ending": "The call ended abruptly after the second agent confirmed the customer's occupation and income details."
+    },
+    "key_quotes": [
+      "Hum hi lete hain.",
+      "40-50,000 mahine.",
+      "Tractor chalata hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

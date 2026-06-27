@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1028323211247660",
+  "source_transcript": "agent-2136-1778823431-1091-Gaurav_TATA-2026_05_15_11_07_12-9873930598.json",
+  "created_at_utc": "2026-06-01T01:15:00Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1778823431-1091-Gaurav_TATA-2026_05_15_11_07_12-9873930598.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Okay sir, sorry not eligible.",
+    "summary": "Agent pitched a Tata AIA combined plan, completed discovery (age 37, salaried, 30k monthly income), and then self-disqualified the prospect based on income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30,000. Agent: 30,000 mahine ka? Customer: Ji.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

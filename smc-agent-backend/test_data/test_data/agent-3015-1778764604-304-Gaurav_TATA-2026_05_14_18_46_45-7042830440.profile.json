@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "9323026208389862",
+  "source_transcript": "agent-3015-1778764604-304-Gaurav_TATA-2026_05_14_18_46_45-7042830440.json",
+  "source_name": "agent-3015-1778764604-304-Gaurav_TATA-2026_05_14_18_46_45-7042830440.mp3",
+  "created_at_utc": "2026-05-16T00:18:01Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 131.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Hello, ji mam good evening",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Hello, ji mam good evening, Soumya this side from Tata AIA group mam.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Mam main toh blacklist hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi mam, I am not interested.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Mam thoda sa karza ho rakha hai, woh utarna hai.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata New Tulip combine plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is blacklisted for loans and not interested in insurance.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is blacklisted for loans and expressed no interest in the insurance product. The interaction ended with the agent confirming they cannot assist."
+    },
+    "summary": "The agent called to pitch the Tata New Tulip combine plan. The customer immediately declined interest in the insurance product. The agent then pivoted to ask about loan requirements, but the customer revealed they are blacklisted, leading the agent to terminate the call.",
+    "key_quotes": [
+      "Nahi mam, I am not interested.",
+      "Mam thoda sa karza ho rakha hai, woh utarna hai.",
+      "Mam main toh blacklist hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

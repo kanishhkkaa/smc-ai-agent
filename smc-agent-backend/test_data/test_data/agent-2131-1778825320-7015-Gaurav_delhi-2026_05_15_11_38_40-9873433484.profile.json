@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3589630612890536",
+  "source_transcript": "agent-2131-1778825320-7015-Gaurav_delhi-2026_05_15_11_38_40-9873433484.json",
+  "created_at_utc": "2026-06-01T01:14:43Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2131-1778825320-7015-Gaurav_delhi-2026_05_15_11_38_40-9873433484.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Lekin aisa hai thoda sa main office mein, abhi office mein hun. Kar lijiye fir kabhi baat.",
+    "summary": "Agent pitched HDFC Life guaranteed saving plan; customer acknowledged the pitch but deferred, saying he is in the office and requested a callback later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "HDFC Life guaranteed saving investment plan",
+    "compliance": {
+      "return_claim_quote": "first year se \"40 percent\" ki guaranteed and tax free annual income milna start ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

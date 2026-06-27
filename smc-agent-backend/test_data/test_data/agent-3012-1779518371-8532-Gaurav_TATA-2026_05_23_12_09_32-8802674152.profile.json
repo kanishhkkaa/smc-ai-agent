@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6123619960533389",
+  "source_transcript": "agent-3012-1779518371-8532-Gaurav_TATA-2026_05_23_12_09_32-8802674152.json",
+  "created_at_utc": "2026-06-01T02:36:36Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779518371-8532-Gaurav_TATA-2026_05_23_12_09_32-8802674152.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi ji.",
+    "summary": "Agent pitched a child plan from Central Bank of India, completed discovery (age 26, sales job, 30-35k monthly income), and customer confirmed no existing policy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "26, 26, 26, 26.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Monthly ho jaati hai ji 30-35 ke aas paas sale hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return diya jayega",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "8298314355590870",
+  "source_transcript": "agent-2098-1779184284-4395-Gaurav_delhi-2026_05_19_15_21_25-9068676744.json",
+  "source_name": "agent-2098-1779184284-4395-Gaurav_delhi-2026_05_19_15_21_25-9068676744.mp3",
+  "created_at_utc": "2026-05-22T11:14:47Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Main abhi busy hoon thoda.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main abhi busy hoon thoda.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-21T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "pehle saal se 40% ki income aa rahi hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "No discovery performed; product pitched without understanding customer needs.",
+      "missed_opportunities": [
+        "discovery_questions",
+        "needs_analysis"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was busy and only agreed to a callback to end the conversation quickly."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and the customer immediately stated they were busy.",
+      "customer_response": "The customer was dismissive and busy, repeatedly trying to end the call.",
+      "key_event": "The agent made a questionable claim about 40% income, which the customer ignored, asking for a PDF instead.",
+      "ending": "The agent agreed to call back in two days as requested by the customer."
+    },
+    "key_quotes": [
+      "Main abhi busy hoon thoda.",
+      "Aap PDF wagera ko woh bhej do."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min"
+    }
+  }
+}

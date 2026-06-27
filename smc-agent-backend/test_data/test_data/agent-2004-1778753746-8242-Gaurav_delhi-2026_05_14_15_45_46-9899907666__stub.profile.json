@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "7210240247650560",
+  "source_transcript": "2026_05_14/agent-2004-1778753746-8242-Gaurav_delhi-2026_05_14_15_45_46-9899907666__stub.json",
+  "source_name": "agent-2004-1778753746-8242-Gaurav_delhi-2026_05_14_15_45_46-9899907666.mp3",
+  "created_at_utc": "2026-06-01T04:09:32Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 98.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "20",
+        "evidence": "Customer: 20 years sir.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: business",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: lagbhag ya 20-25 lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: batao ji",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent income lifetime",
+        "8 percent return",
+        "double tax benefit",
+        "term life insurance included",
+        "waiver of premium included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 20 years old; a lifetime income/waiver of premium product is likely not the most suitable primary financial product for this profile.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer provided personal details and engaged with the pitch, though no commitment was made."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and asked for a moment to explain a new product.",
+      "customer_response": "Engaged and provided requested information.",
+      "key_event": "Customer provided age and income details after the agent pitched a lifetime income plan.",
+      "ending": "Agent thanked the customer and ended the call after gathering profile details."
+    },
+    "key_quotes": [
+      "kitni investment hai ji?",
+      "20 years sir.",
+      "lagbhag ya 20-25 lakh"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

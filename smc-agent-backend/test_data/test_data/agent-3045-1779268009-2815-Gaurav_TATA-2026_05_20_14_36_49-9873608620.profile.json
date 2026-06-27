@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "6938416125195126",
+  "source_transcript": "agent-3045-1779268009-2815-Gaurav_TATA-2026_05_20_14_36_49-9873608620.json",
+  "source_name": "agent-3045-1779268009-2815-Gaurav_TATA-2026_05_20_14_36_49-9873608620.mp3",
+  "created_at_utc": "2026-05-24T05:13:33Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 218.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Meri abhi mam 42 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mam business hai apna khud ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Mam business hai apna khud ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Do minute kya madam mera valuable time aapke liye hamesha hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": [
+        "tension"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance",
+        "fixed_deposit"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Mam FD hai meri 15-20 lakh rupay ki HDFC bank mein na.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Mam business hai apna khud ka.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T14:46:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 CR life insurance cover from day one",
+        "mutual fund returns tax free",
+        "premium refundable with interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term insurance and mutual fund plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals beyond general investment interest."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was cooperative, provided details, and explicitly asked for a callback in 10 minutes."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA and pitched a combined term insurance and mutual fund plan.",
+      "customer_response": "Engaged and cooperative throughout the call.",
+      "key_event": "Customer confirmed age, business status, smoking habit, and existing investments before requesting a callback.",
+      "ending": "Customer requested a callback in 10 minutes due to an interruption."
+    },
+    "key_quotes": [
+      "Do minute kya madam mera valuable time aapke liye hamesha hai.",
+      "Smoking ke bina toh neend bhi nahi aati.",
+      "Mam FD hai meri 15-20 lakh rupay ki HDFC bank mein na."
+    ],
+    "red_flags": [
+      "Agent made misleading claims about guaranteed returns and refundability of premiums on a market-linked product."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

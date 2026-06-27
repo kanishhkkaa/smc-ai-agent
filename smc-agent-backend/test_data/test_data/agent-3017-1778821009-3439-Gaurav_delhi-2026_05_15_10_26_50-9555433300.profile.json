@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "4308080887324917",
+  "source_transcript": "agent-3017-1778821009-3439-Gaurav_delhi-2026_05_15_10_26_50-9555433300.json",
+  "created_at_utc": "2026-06-01T01:20:30Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1778821009-3439-Gaurav_delhi-2026_05_15_10_26_50-9555433300.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, main already kara rakha hai, toh phir main usse woh nahi karaunga.",
+    "summary": "Agent pitched a Tata AIA Param Rakshak Pro Life Plus plan; customer indicated they are already insured and refused the pitch.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Pro Life Plus",
+    "compliance": {
+      "return_claim_quote": "according to market ek high return bhi diya ja raha hai",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

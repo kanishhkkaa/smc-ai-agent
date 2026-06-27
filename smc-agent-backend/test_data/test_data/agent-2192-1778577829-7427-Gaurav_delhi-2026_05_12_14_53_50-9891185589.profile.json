@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "5659672936404778",
+  "source_transcript": "agent-2192-1778577829-7427-Gaurav_delhi-2026_05_12_14_53_50-9891185589.json",
+  "source_name": "agent-2192-1778577829-7427-Gaurav_delhi-2026_05_12_14_53_50-9891185589.mp3",
+  "created_at_utc": "2026-05-15T06:49:46Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 1.21,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main Shahrukh baat kar raha hun HDFC Life ki taraf se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan bataiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 10.0,
+      "agent_talk_percent": 90.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Par mera HDFC mein account toh hai nahi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or current investments."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is curious about the plan benefits but hasn't provided any personal details yet. The agent needs to build more trust and move past the initial pitch."
+    },
+    "summary": "The agent called to pitch the HDFC Sanchay Par Advantage plan, highlighting guaranteed lifetime income and tax benefits. The customer expressed interest in understanding the benefits but raised a concern about not having an HDFC account. The agent clarified that an account is not required, but the call ended before the customer provided any personal information.",
+    "key_quotes": [
+      "Kya hai plan, ye toh bataya nahi aapne, benefits bataiye.",
+      "Par mera HDFC mein account toh hai nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

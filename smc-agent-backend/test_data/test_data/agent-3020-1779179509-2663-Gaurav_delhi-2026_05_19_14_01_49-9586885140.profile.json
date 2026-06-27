@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "5814531967644613",
+  "source_transcript": "agent-3020-1779179509-2663-Gaurav_delhi-2026_05_19_14_01_49-9586885140.json",
+  "source_name": "agent-3020-1779179509-2663-Gaurav_delhi-2026_05_19_14_01_49-9586885140.mp3",
+  "created_at_utc": "2026-05-22T11:24:11Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 160.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Nahi nahi apna. Apna khud ka hai company ka hai na?",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Apna khud ka hai company ka hai na?",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: Mahine ka approx chalo na 80-90 hazaar. (Approx 10L+ annually)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi nahi sir sorry. Abhi kuch nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Idhar abhi karna nahi hai na. Apna toh ek chalu hai toh lena kuch karna nahi hai matlab.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Abhi kuch nahi chahiye matlab.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Apna khud ka hai company ka hai na?",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% money back return on annual premium within a week",
+        "8% compounding rate of interest on total savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not interested in additional insurance products as they already have active policies.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they do not want any more policies and have recently purchased others."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life savings plan with high return claims, and the customer responded with a neutral 'Haan bolo'.",
+      "customer_response": "The customer was passive and consistently declined the agent's offers, stating they already have sufficient coverage.",
+      "key_event": "The customer rejected the agent's pitch by stating they already have an active policy and are not interested in further products.",
+      "ending": "The agent attempted to pivot to a term plan, but the customer firmly declined, ending the conversation."
+    },
+    "key_quotes": [
+      "Idhar abhi karna nahi hai na. Apna toh ek chalu hai toh lena kuch karna nahi hai matlab.",
+      "Abhi kuch nahi chahiye matlab."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

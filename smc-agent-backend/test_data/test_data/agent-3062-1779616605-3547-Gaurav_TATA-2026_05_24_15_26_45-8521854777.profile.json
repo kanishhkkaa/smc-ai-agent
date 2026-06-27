@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8715600621203436",
+  "source_transcript": "agent-3062-1779616605-3547-Gaurav_TATA-2026_05_24_15_26_45-8521854777.json",
+  "created_at_utc": "2026-06-01T02:17:08Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779616605-3547-Gaurav_TATA-2026_05_24_15_26_45-8521854777.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Job karte hain. Job mein aapki annual earning kya hogi sir, don't mind? 12000 salana, mahina mahina.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery (age 40, salaried, 1.44L annual income), but the call ended without a final commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40, 40, 4040.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "12000 salana, mahina mahina.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

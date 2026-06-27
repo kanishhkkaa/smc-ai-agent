@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "2061368563482185",
+  "source_transcript": "agent-3012-1779181569-9862-Gaurav_TATA-2026_05_19_14_36_09-9871495411.json",
+  "source_name": "agent-3012-1779181569-9862-Gaurav_TATA-2026_05_19_14_36_09-9871495411.mp3",
+  "created_at_utc": "2026-05-22T11:22:38Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 75.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Chalo theek hai, bas hum exit ho rahe hain.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Pehle paisa kitna lete ho, kya kuch karte ho, yeh batao aap.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "\"unki study ke liye isme kaafi tak kaafi had tak help milti hai\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "10% ka guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "child plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer showed no interest and the agent failed to establish a need or build rapport.",
+      "missed_opportunities": [
+        "failed to ask discovery questions before pitching",
+        "failed to address customer's specific questions about costs"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer showed minimal interest and was dismissive of the agent's pitch, eventually cutting the call short."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India to offer a child plan for the bank's 50th anniversary.",
+      "customer_response": "The customer was passive and skeptical, repeatedly asking for details before eventually dismissing the agent.",
+      "key_event": "The agent made a guaranteed return claim of 10% while pitching a child plan.",
+      "ending": "The customer abruptly ended the conversation by stating they were exiting the call."
+    },
+    "key_quotes": [
+      "Pehle paisa kitna lete ho, kya kuch karte ho, yeh batao aap.",
+      "Chalo theek hai, bas hum exit ho rahe hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

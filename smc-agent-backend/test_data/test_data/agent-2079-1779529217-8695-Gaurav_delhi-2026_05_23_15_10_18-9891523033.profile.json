@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3412373085227262",
+  "source_transcript": "agent-2079-1779529217-8695-Gaurav_delhi-2026_05_23_15_10_18-9891523033.json",
+  "created_at_utc": "2026-06-01T02:27:02Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2079-1779529217-8695-Gaurav_delhi-2026_05_23_15_10_18-9891523033.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh waise sir dekhiye, main batana chahunga iska jo PPT rehta hai, woh 12 year ka rehta hai, toh comfortable rahenge aap? No sir.",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage and completed discovery, but the customer declined after hearing the 12-year payment term.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "Meri 55 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "company first year se hi 35 percent ki income aani start ho jaati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

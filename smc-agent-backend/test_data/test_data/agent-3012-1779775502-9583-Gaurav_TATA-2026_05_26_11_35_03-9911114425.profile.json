@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "1160286519261809",
+  "source_transcript": "2026_05_26/agent-3012-1779775502-9583-Gaurav_TATA-2026_05_26_11_35_03-9911114425.json",
+  "source_name": "agent-3012-1779775502-9583-Gaurav_TATA-2026_05_26_11_35_03-9911114425.mp3",
+  "created_at_utc": "2026-06-01T05:10:10Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "45",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "2",
+        "evidence": "Ek ki 21 hai, ek ki 18 hai.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "4 baje ke lagbhag, 4 baje ke lagbhag.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bank aapko ek child plan offer kar raha hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 3,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "lifetime bonus for child"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current LIC plan details or coverage amount."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "child_plan",
+        "term_insurance",
+        "endowment",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "health_insurance",
+        "ulip",
+        "retirement_plan",
+        "other"
+      ],
+      "reasoning": "Customer agreed to a specific callback time for further information."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Central Bank of India and pitched a child plan; customer responded neutrally.",
+      "customer_response": "Passive and cooperative, providing requested details before requesting a callback.",
+      "key_event": "Customer requested a callback at 4 PM due to being busy outside.",
+      "ending": "The agent confirmed the callback time for 4 PM and ended the call."
+    },
+    "key_quotes": [
+      "4 baje ke lagbhag, 4 baje ke lagbhag."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "8039923275085964",
+  "source_transcript": "2026_05_14/agent-3006-1778733245-4389-Gaurav_TATA-2026_05_14_10_04_06-9990809786__stub.json",
+  "source_name": "agent-3006-1778733245-4389-Gaurav_TATA-2026_05_14_10_04_06-9990809786.mp3",
+  "created_at_utc": "2026-06-01T04:32:35Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 241.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "\"Delhi se.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"Job karta hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "\"salary uski hai mere khayal se 50,000\" (50k/month = 6L/yr)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "\"Bete ka number?\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Theek hai, toh main ek baar bhej deti hun aapko.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Baad mein phone karna.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "\"Bete ka number?\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR term cover",
+        "mutual fund returns",
+        "tax free withdrawal"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "T-ULIP",
+      "premium_quoted_inr": 40000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific ULIP fund options or risk profile for the son."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "mutual_fund_sip",
+        "child_plan",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity",
+        "health_insurance",
+        "other"
+      ],
+      "reasoning": "Customer requested details via WhatsApp but is currently busy with home renovations."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, and the customer asked to be called later but inquired about the premium.",
+      "customer_response": "Customer was initially dismissive due to being busy but engaged to provide son's details and requested information.",
+      "key_event": "Customer requested details after the agent pitched a T-ULIP product for his son.",
+      "ending": "Customer agreed to receive details via WhatsApp and ended the call due to ongoing home renovations."
+    },
+    "key_quotes": [
+      "Baad mein phone karna.",
+      "Haan, mereko detail bhej dena iska.",
+      "Hamare ghar mein renovation chal rahi hai, main baat hi nahi karta."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "9368211163722544",
+  "source_transcript": "agent-2086-1778559944-1925-Gaurav_delhi-2026_05_12_09_55_44-9811961937.json",
+  "source_name": "agent-2086-1778559944-1925-Gaurav_delhi-2026_05_12_09_55_44-9811961937.mp3",
+  "created_at_utc": "2026-05-15T06:38:52Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "Agent: very good morning, Neha baat kar rahi hun HDFC Life ke behalf se, how are you sir?\nCustomer: haan ji, karo.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: how are you sir?",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: very good morning, Neha baat kar rahi hun HDFC Life ke behalf se, how are you sir?\nCustomer: haan ji, karo.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: apna kaam hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Customer: apna kaam hai.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 45.\nAgent: ye 45 ki age mein job karte hain, so koi business plan kar rahe hain aap apna?\nCustomer: apna kaam hai.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: abhi bhi karne mein ab hum comfortable nahi rahenge.\nCustomer: nahi, in sab cheezon ke liye bas ye interest wala chakkar hota hai na, ye hamare liye jaiz nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "nahi, in sab cheezon ke liye bas ye interest wala chakkar hota hai na, ye hamare liye jaiz nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: nahi maine karayi thi lekin band kara di, kyunki humein ye sab cheezein mana hai karni, LIC wagera.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life savings plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has religious/ethical objections to interest-based financial products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they are not comfortable with these products due to religious/ethical concerns regarding interest."
+    },
+    "summary": "The agent called to pitch an HDFC Life savings plan. The customer, a 45-year-old business owner, declined the offer, stating they are not comfortable with such products due to religious/ethical concerns regarding interest. The call ended politely after the customer's objection.",
+    "key_quotes": [
+      "nahi maine karayi thi lekin band kara di, kyunki humein ye sab cheezein mana hai karni, LIC wagera.",
+      "nahi, in sab cheezon ke liye bas ye interest wala chakkar hota hai na, ye hamare liye jaiz nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1599867922948196",
+  "source_transcript": "2026_05_16/agent-2090-1778926165-4873-Gaurav_delhi-2026_05_16_15_39_25-8512035568.json",
+  "source_name": "agent-2090-1778926165-4873-Gaurav_delhi-2026_05_16_15_39_25-8512035568.mp3",
+  "created_at_utc": "2026-06-01T04:44:07Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Na, toh abhi chahiye nahi.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Na, toh abhi chahiye nahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% income from first year up to 100 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "No discovery questions asked to understand customer needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was busy with a class but did not explicitly refuse to talk later, suggesting potential for a follow-up."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves from HDFC Life and immediately pitched a plan with 35% income from the first year.",
+      "customer_response": "The customer was initially dismissive, questioning the nature of the call, and eventually cited being in a class as a reason to end the conversation.",
+      "key_event": "The customer declined the initial pitch, stating they did not need it, but the agent persisted by asking for a callback time.",
+      "ending": "The agent asked for a suitable time to reconnect, and the call concluded with the customer mentioning they were in a class."
+    },
+    "key_quotes": [
+      "Insurance ke liye phone kiya hai?",
+      "Na, toh abhi chahiye nahi.",
+      "Check kar lo, abhi class mein hai, class."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "5220606416547458",
+  "source_transcript": "agent-2086-1779174710-3348-Gaurav_delhi-2026_05_19_12_41_51-7208266842.json",
+  "source_name": "agent-2086-1779174710-3348-Gaurav_delhi-2026_05_19_12_41_51-7208266842.mp3",
+  "created_at_utc": "2026-05-22T11:11:38Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 288.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: 'Jaan sakti hu abhi aap haan kaun baat kar rahe hai sir ke behalf se?' Customer: 'Wo mere husband hai.' (Implies female speaker).",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Customer: 'Nahi main housewife hu.'",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "housewife",
+        "evidence": "Customer: 'Nahi main housewife hu.'",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: 'Wo mere husband hai.'",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: 'Achha. Mujhe aap kuch to brochure wagera thoda details bhejo na main dekhti hu.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Leikin mujhe kuch to bhej do na uska brochure wagera main padh ke phir aapko call karta hu.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Agent: 'Baaki minimum isme mahine ka 5,000 hai.' Customer: 'Achha.' (No explicit confirmation of capacity).",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: 'Saving plan ke regarding connect kiya tha mam.'",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: 'Wo mere husband hai.' (referring to who makes financial decisions).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% tax free income from same year for whole life",
+        "8% guaranteed returns",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage amount or specific financial goals beyond general savings."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "The customer requested information and agreed to a callback, though the decision-maker is the husband."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a 'unique' HDFC Life plan with 36% tax-free income, and the customer responded with interest.",
+      "customer_response": "The customer was initially curious but became passive once the husband took over, eventually deferring to him.",
+      "key_event": "The customer's wife took over the call when the husband became busy, leading to a shift in the decision-making dynamic.",
+      "ending": "The agent scheduled a callback for 6 PM to speak with the husband."
+    },
+    "key_quotes": [
+      "Leikin mujhe kuch to bhej do na uska brochure wagera main padh ke phir aapko call karta hu.",
+      "Wo mere husband hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

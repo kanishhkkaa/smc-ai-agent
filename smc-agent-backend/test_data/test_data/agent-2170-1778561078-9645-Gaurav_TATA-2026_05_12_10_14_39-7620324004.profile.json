@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "1002066799140379",
+  "source_transcript": "agent-2170-1778561078-9645-Gaurav_TATA-2026_05_12_10_14_39-7620324004.json",
+  "source_name": "agent-2170-1778561078-9645-Gaurav_TATA-2026_05_12_10_14_39-7620324004.mp3",
+  "created_at_utc": "2026-05-15T06:48:29Z",
+  "transcript_stats": {
+    "segments": 64,
+    "duration_seconds": 3.06,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sandeep Shinde",
+      "evidence": "Customer: mera name Sandeep Shinde.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: bas 35.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: bas 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: accha Sandeep Shinde. (Inferred from name and context)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Maharashtra",
+        "evidence": "Customer: main Maharashtra se.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "Customer: main Maharashtra se.",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: very good morning sir, aap se Priyanshi baat kar rahi hun main Tata AIA se. (Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: main dukaan chalata hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "shop owner",
+        "evidence": "Customer: main dukaan chalata hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: shayad 10-20 hazaar. (10-20k/month = 1.2-2.4 LPA)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: main dukaan chalata hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: chal theek hai. (Cooperative)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: shayad 10-20 hazaar.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Customer: haan phir dukaan badhana hai na, dukaan ke liye chahiye.",
+        "confidence": "high"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: khud ki hai, sarkari hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 0,
+      "bant_total": 7,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "today_afternoon",
+        "evidence": "Agent: toh aapke paas call aa jayegi dopahar tak, theek hai? Customer: theek hai.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 7,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combine plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer does not meet the income criteria for the insurance plan pitched.",
+      "missed_opportunities": [
+        "business_loan_cross_sell"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "high",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "business_loan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer expressed a clear need for a business loan and is willing to be contacted by the loan team."
+    },
+    "summary": "The agent initially pitched a Tata AIA insurance plan, but the customer did not meet the income eligibility criteria. The conversation shifted to the customer's need for a business loan to expand his shop. The agent agreed to refer the customer to the loan team for a follow-up call later in the day.",
+    "key_quotes": [
+      "main dukaan chalata hun.",
+      "business loan chahiye madam.",
+      "haan phir dukaan badhana hai na, dukaan ke liye chahiye."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

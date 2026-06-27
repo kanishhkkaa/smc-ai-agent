@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6080731615742356",
+  "source_transcript": "agent-2090-1779527427-3443-Gaurav_delhi-2026_05_23_14_40_27-8285516506.json",
+  "created_at_utc": "2026-06-01T02:29:07Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779527427-3443-Gaurav_delhi-2026_05_23_14_40_27-8285516506.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aade ghante mein kar lijiye.",
+    "summary": "Agent pitched an HDFC Life plan; customer deferred to his wife and agreed to a callback in thirty minutes.",
+    "callback_time_iso": "2026-05-23T15:10",
+    "customer_disclosures": {
+      "name": {
+        "value": "Rajat Singh",
+        "evidence": "Ji mera naam Rajat Singh hi hai.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "main job nahi karta hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki income ka support",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "7281316150957357",
+  "source_transcript": "agent-3049-1779175879-3907-Gaurav_TATA-2026_05_19_13_01_19-8626009888.json",
+  "source_name": "agent-3049-1779175879-3907-Gaurav_TATA-2026_05_19_13_01_19-8626009888.mp3",
+  "created_at_utc": "2026-05-22T11:27:03Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 205.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai madam dekhta hoon main check karke batata hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Woh main detail aapko kaise doon? Aap aapka plan bataiye.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Main main apne level pe check karunga pehle.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Customer: 10,000 ke aas paas.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "Agent mentioned pension and medical facility, customer did not explicitly state a goal.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main main apne level pe check karunga pehle.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "premium with interest refundable",
+        "pension and medical facility included",
+        "5 years after flexibility to withdraw amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 121953,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the difference between term insurance and investment-linked products."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "ulip"
+      ],
+      "reasoning": "Customer is polite and agreed to a follow-up call, though he wants to research independently first."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term-plus-investment plan from Tata AIA and immediately asked for the customer's age.",
+      "customer_response": "The customer was passive and cautious, primarily asking for premium details while deflecting personal income questions.",
+      "key_event": "The agent quoted a specific annual premium of 1,21,953 INR and claimed the product is fully refundable with interest.",
+      "ending": "The agent scheduled a follow-up call for the next morning, which the customer accepted."
+    },
+    "key_quotes": [
+      "Woh main detail aapko kaise doon? Aap aapka plan bataiye.",
+      "10,000 ke aas paas.",
+      "Main main apne level pe check karunga pehle."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

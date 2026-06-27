@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4068277586283123",
+  "source_transcript": "agent-2098-1779615344-2711-Gaurav_delhi-2026_05_24_15_05_45-9915995560.json",
+  "created_at_utc": "2026-06-01T02:09:45Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779615344-2711-Gaurav_delhi-2026_05_24_15_05_45-9915995560.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi nahi yaar main toh kheti badi karta hun.",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage; discovery completed (age 45, farmer/laborer, no income/investment), call ended without commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Munik Anand",
+        "evidence": "Meri baat Mr. Munik Anand ji se ho rahi hai?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Main 45 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "Nahi nahi yaar main toh kheti badi karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle saal se na 40 percent ki income deke chalna start kar deta hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

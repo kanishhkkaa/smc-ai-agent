@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4222581848378698",
+  "source_transcript": "agent-2021-1779620517-6736-Gaurav_delhi-2026_05_24_16_31_57-9654307068.json",
+  "created_at_utc": "2026-06-01T02:06:04Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779620517-6736-Gaurav_delhi-2026_05_24_16_31_57-9654307068.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Accha, saal mein 2 lakh. Okay sir.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery (age 37, salaried, 2L annual income), but the call ended without a commitment or further action.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "Meri age 37.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Saal mein 2 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi company 80,000 tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "8797605004491335",
+  "source_transcript": "agent-2021-1779276906-9459-Gaurav_delhi-2026_05_20_17_05_06-9990441302.json",
+  "source_name": "agent-2021-1779276906-9459-Gaurav_delhi-2026_05_20_17_05_06-9990441302.mp3",
+  "created_at_utc": "2026-05-25T19:20:17Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Arre madam aisa mat karo yaar.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Family protection kaise karoge aap yeh batao.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "monthly 20,000 ki saving karte hain",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "saving ke plan ko lekar",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "guaranteed income",
+        "tax free return of 80,000 from first year for 20,000 monthly saving"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Smart Value Income Plan",
+      "premium_quoted_inr": 240000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent failed to explain the product clearly and the customer was confused.",
+      "missed_opportunities": [
+        "Needs assessment",
+        "Clarification of product features"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "The customer was confused about the product and the call quality was poor, leading to a breakdown in communication."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and the customer responded politely.",
+      "customer_response": "The customer was confused and skeptical about the product's benefits and the agent's explanation.",
+      "key_event": "The agent made a specific claim about guaranteed returns, which the customer questioned.",
+      "ending": "The call ended abruptly due to poor network connectivity and unclear communication."
+    },
+    "key_quotes": [
+      "Family protection kaise karoge aap yeh batao.",
+      "Arre madam aisa mat karo yaar."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

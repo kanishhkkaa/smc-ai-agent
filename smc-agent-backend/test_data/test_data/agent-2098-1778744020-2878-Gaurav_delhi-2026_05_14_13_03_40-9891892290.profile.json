@@ -1,0 +1,197 @@
+{
+  "status": "success",
+  "profile_id": "3266613338020340",
+  "source_transcript": "agent-2098-1778744020-2878-Gaurav_delhi-2026_05_14_13_03_40-9891892290.json",
+  "source_name": "agent-2098-1778744020-2878-Gaurav_delhi-2026_05_14_13_03_40-9891892290.mp3",
+  "created_at_utc": "2026-05-16T00:06:37Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 156.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "18-9-72 haan 53.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "18-9-72 haan 53.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "alo... haan ji sir bolo",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "kaam karta hun... Delhi Jal Board mein hai",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Delhi Jal Board employee",
+        "evidence": "Delhi Jal Board mein hai, kaam karta hun.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "lagbhag mahine ka hoga 40-50 hazaar.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "53 saal ka ho raha hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "abhi nahi karna humein, abhi maine kiya hai 50000 ka main is saal.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "abhi maine kiya hai 50000 ka main is saal.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "25K_plus",
+        "evidence": "lagbhag mahine ka hoga 40-50 hazaar.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "abhi nahi karna humein",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore the customer's existing policy details to offer a better comparison or value proposition."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer is currently not interested as they recently purchased a policy, but they were cooperative and provided information. A follow-up in a few months is appropriate."
+    },
+    "summary": "The agent called to pitch the HDFC Life Sanchay Par Advantage plan. The customer, a 53-year-old working with the Delhi Jal Board, disclosed a monthly income of 40-50k. The customer declined the offer, stating they had already purchased a policy for 50k this year.",
+    "key_quotes": [
+      "abhi nahi karna humein, abhi maine kiya hai 50000 ka main is saal.",
+      "lagbhag mahine ka hoga 40-50 hazaar."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

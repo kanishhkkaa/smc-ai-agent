@@ -1,0 +1,97 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779093089-2883-Gaurav_TATA-2026_05_18_14_01_29-9322254308",
+  "source_file": "agent-2001-1779093089-2883-Gaurav_TATA-2026_05_18_14_01_29-9322254308.json",
+  "source_relative": "agent-2001-1779093089-2883-Gaurav_TATA-2026_05_18_14_01_29-9322254308.json",
+  "created_at_utc": "2026-05-21T00:42:34Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 62.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Karina",
+    "call_id": "agent-2001-1779093089-2883-Gaurav_TATA-2026_05_18_14_01_29-9322254308",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "term plus investment plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "medium"
+    },
+    "discovery": {
+      "discovery_question_count": 2,
+      "discovery_depth": "shallow",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "verbatim_examples": [
+        "premium pay karenge wo aapka refundable hota hai plus tax free hota hai"
+      ]
+    },
+    "communication": {
+      "tone_professionalism": "high",
+      "empathy": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "interrupted_customer": false,
+      "language_quality": "high",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "other",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false,
+      "graceful_close": true,
+      "last_speaker": "customer",
+      "end_reason_evidence": "Oh okay fine no issue."
+    },
+    "outcome": {
+      "stage_reached": "discovery_done",
+      "drop_off_point": "ask",
+      "outcome": "inconclusive"
+    },
+    "strengths": [
+      "Professional tone",
+      "Clear self-introduction"
+    ],
+    "improvement_areas": [
+      "Consent taking",
+      "Identity verification",
+      "Compliance in product description"
+    ],
+    "coaching_recommendations": [
+      "Train agent on the importance of obtaining customer consent before pitching",
+      "Ensure identity verification is performed at the start to avoid pitching to ineligible leads"
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "premium pay karenge wo aapka refundable hota hai plus tax free hota hai"
+    ],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and pitched a combined term and investment plan. However, she skipped the consent and identity verification steps. Upon discovering the customer was a 19-year-old student, the agent informed them they were ineligible, and the call ended.",
+    "extraction_confidence": "high"
+  }
+}

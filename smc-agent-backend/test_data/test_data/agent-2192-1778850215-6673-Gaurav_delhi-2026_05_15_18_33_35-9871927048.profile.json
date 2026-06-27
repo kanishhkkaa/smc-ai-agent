@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8565241011336445",
+  "source_transcript": "agent-2192-1778850215-6673-Gaurav_delhi-2026_05_15_18_33_35-9871927048.json",
+  "created_at_utc": "2026-06-01T02:04:11Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1778850215-6673-Gaurav_delhi-2026_05_15_18_33_35-9871927048.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Apni pension aati hai, 2-3 hazar rupaye usi se daal roti chalti hai.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan; customer disclosed being retired with low pension income and did not commit to the plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "79",
+        "evidence": "79 hoga.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Haan main to retire baith ke bas apna pension hi use karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Apni pension aati hai, 2-3 hazar rupaye usi se daal roti chalti hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir first year se hi",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 31,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

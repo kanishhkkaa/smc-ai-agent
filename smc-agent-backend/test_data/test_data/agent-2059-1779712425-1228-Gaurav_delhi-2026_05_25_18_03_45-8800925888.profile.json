@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "5103217209989742",
+  "source_transcript": "agent-2059-1779712425-1228-Gaurav_delhi-2026_05_25_18_03_45-8800925888.json",
+  "source_name": "agent-2059-1779712425-1228-Gaurav_delhi-2026_05_25_18_03_45-8800925888.mp3",
+  "created_at_utc": "2026-05-27T01:15:05Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 148.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "Finance professional",
+        "evidence": "I am from finance",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "36 percent kaun dega duniya mein?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 50,
+      "customer_question_count": 6,
+      "interruption_pattern": "both",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "36 percent kaun dega duniya mein?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "Return mein doge to mail bhej do phir main kar dunga investment.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "I am from finance mujhe read karna aata hai",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main kar dunga investment",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent income from first year for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product claim of 36% guaranteed return is highly suspicious and likely a misrepresentation of an insurance product.",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer is skeptical of the 36% return claim but agreed to review documentation and speak again tomorrow."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately pitched a 36% guaranteed income plan.",
+      "customer_response": "Customer was skeptical and pushed back on the unrealistic 36% return claim, demanding written proof before engaging further.",
+      "key_event": "Customer challenged the agent's claim of 36% annual returns, leading to a standoff where the agent insisted on a verbal explanation while the customer demanded a written document.",
+      "ending": "Customer agreed to receive the plan details via WhatsApp and scheduled a follow-up call for the next evening."
+    },
+    "key_quotes": [
+      "36 percent kaun dega duniya mein?",
+      "Main I am from finance mujhe read karna aata hai toh aap mujhe bhejo main read kar lunga"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 50,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

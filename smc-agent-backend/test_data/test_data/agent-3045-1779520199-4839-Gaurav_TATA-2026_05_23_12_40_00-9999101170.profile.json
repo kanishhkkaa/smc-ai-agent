@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2085482703688560",
+  "source_transcript": "agent-3045-1779520199-4839-Gaurav_TATA-2026_05_23_12_40_00-9999101170.json",
+  "created_at_utc": "2026-06-01T02:41:09Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 89.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779520199-4839-Gaurav_TATA-2026_05_23_12_40_00-9999101170.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Main abhi main toh ghar pe hun, papa abhi office mein hain toh papa batayenge.",
+    "summary": "Agent pitched the Tata AIA Param Rakshak Life Pro Plus plan; customer deferred, stating he needs to consult his father who is currently at the office.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "premium jo rahega usme interest ke saath sir refundable rahega premium",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

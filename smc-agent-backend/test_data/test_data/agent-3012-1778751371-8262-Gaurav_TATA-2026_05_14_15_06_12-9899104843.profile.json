@@ -1,0 +1,201 @@
+{
+  "status": "success",
+  "profile_id": "9741232076218051",
+  "source_transcript": "agent-3012-1778751371-8262-Gaurav_TATA-2026_05_14_15_06_12-9899104843.json",
+  "source_name": "agent-3012-1778751371-8262-Gaurav_TATA-2026_05_14_15_06_12-9899104843.mp3",
+  "created_at_utc": "2026-05-16T00:17:11Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Ma'am good afternoon",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main Central Bank of India ke behalf se Manish baat kar raha hun",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "main na abhi thoda sa busy hun meeting mein hun, aapse baad mein baat karungi, baad mein call karna.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "main na abhi thoda sa busy hun meeting mein hun, aapse baad mein baat karungi, baad mein call karna.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-14 18:00:00",
+        "evidence": "Shaam ko karna, shaam ko 6 o'clock ke baad.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Central Bank of India insurance plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "life_insurance",
+        "savings_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer was busy but explicitly requested a callback at 6 PM, indicating potential interest or at least willingness to listen."
+    },
+    "summary": "The agent called to pitch an insurance product from Central Bank of India, claiming guaranteed returns and cash bonuses. The customer was busy in a meeting and requested a callback after 6 PM. The agent failed to verify the customer's identity or gather significant discovery information.",
+    "key_quotes": [
+      "main na abhi thoda sa busy hun meeting mein hun, aapse baad mein baat karungi, baad mein call karna.",
+      "Shaam ko karna, shaam ko 6 o'clock ke baad."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

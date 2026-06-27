@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "1309029381228494",
+  "source_transcript": "agent-2065-1778739135-2304-Gaurav_delhi-2026_05_14_11_42_15-9813192455.json",
+  "source_name": "agent-2065-1778739135-2304-Gaurav_delhi-2026_05_14_11_42_15-9813192455.mp3",
+  "created_at_utc": "2026-05-15T23:59:02Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main Amar baat kar raha hun HDFC Life se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Current, current to kuch na leni na hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Current, current to kuch na leni na hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed savings plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer was initially dismissive but agreed to listen to the agent's pitch. The interest level is low, but not hostile."
+    },
+    "summary": "The agent called to pitch a guaranteed savings plan from HDFC Life. The customer initially expressed no interest, but the agent persisted, and the customer agreed to listen to the details. No discovery was conducted.",
+    "key_quotes": [
+      "Current, current to kuch na leni na hai.",
+      "Sir lena na lena to secondary part hi rahega, aap sunke samajh ke bhi dekh sakte hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

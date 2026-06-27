@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9472099187550059",
+  "source_transcript": "agent-3015-1779539755-5469-Gaurav_TATA-2026_05_23_18_05_55-7253800304.json",
+  "created_at_utc": "2026-06-01T02:37:27Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1779539755-5469-Gaurav_TATA-2026_05_23_18_05_55-7253800304.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Term insurance to koi plan nahi dekh rahe.",
+    "summary": "Agent pitched the Param Rakshak Pro Plus plan and completed discovery, but the customer expressed no interest in term insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "Running age hai meri 30.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Air conditioning ka work karte hain, AC work.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "50-60 hazaar rupaye. Mahine ka?",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Param Rakshak Pro Plus",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

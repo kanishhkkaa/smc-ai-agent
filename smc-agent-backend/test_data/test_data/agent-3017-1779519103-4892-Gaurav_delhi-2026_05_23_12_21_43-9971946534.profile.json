@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6031378589097174",
+  "source_transcript": "agent-3017-1779519103-4892-Gaurav_delhi-2026_05_23_12_21_43-9971946534.json",
+  "created_at_utc": "2026-06-01T02:37:40Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779519103-4892-Gaurav_delhi-2026_05_23_12_21_43-9971946534.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am housewife ke liye include nahi hota hai ma'am, isse working base pe hona chahiye.",
+    "summary": "The agent pitched a Tata AIA plan but self-disqualified the prospect after learning she is a housewife, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Ghar pe rehti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

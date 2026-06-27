@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1934938226386543",
+  "source_transcript": "agent-2103-1779617854-4178-Gaurav_delhi-2026_05_24_15_47_35-7838674939.json",
+  "created_at_utc": "2026-06-01T02:10:25Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 112.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2103-1779617854-4178-Gaurav_delhi-2026_05_24_15_47_35-7838674939.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh sir 18 aap toh kuch job wagera karte nahi toh aap thodi na invest kar payenge.",
+    "summary": "The agent pitched HDFC Life Sanchay Par Advantage, discovered the prospect is an 18-year-old student, and self-disqualified the prospect due to lack of income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "18",
+        "evidence": "Age hai 18 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "18 saal mein abhi aap kya kar rahe hain, study?",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aana start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

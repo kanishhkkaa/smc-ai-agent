@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "8053068360825041",
+  "source_transcript": "agent-2086-1779272620-2458-Gaurav_delhi-2026_05_20_15_53_40-9910990177.json",
+  "source_name": "agent-2086-1779272620-2458-Gaurav_delhi-2026_05_20_15_53_40-9910990177.mp3",
+  "created_at_utc": "2026-05-25T19:22:01Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 95.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Age to 40 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan haan 6 baje ke baad kar lo.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi to office mein tha madam. Free mein kariye ga phone.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Hmm matlab requirement nahi hai abhi to.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% tax free income whole life",
+        "8% guaranteed returns",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life unique plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Product pitched without any discovery or understanding of customer needs.",
+      "missed_opportunities": [
+        "No discovery questions asked regarding financial goals or current investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer agreed to a callback at a specific time, indicating moderate interest or at least willingness to listen."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and asked for time, to which the customer responded neutrally.",
+      "customer_response": "Passive and initially dismissive, stating no current requirement.",
+      "key_event": "Customer raised a timing objection, which the agent successfully navigated by scheduling a callback.",
+      "ending": "Customer agreed to a callback after 6 PM and provided his age."
+    },
+    "key_quotes": [
+      "Abhi to office mein tha madam. Free mein kariye ga phone.",
+      "Haan haan 6 baje ke baad kar lo."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

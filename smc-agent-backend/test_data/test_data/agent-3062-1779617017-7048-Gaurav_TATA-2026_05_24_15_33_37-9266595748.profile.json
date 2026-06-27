@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2399154757062613",
+  "source_transcript": "agent-3062-1779617017-7048-Gaurav_TATA-2026_05_24_15_33_37-9266595748.json",
+  "created_at_utc": "2026-06-01T02:17:23Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 98.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779617017-7048-Gaurav_TATA-2026_05_24_15_33_37-9266595748.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Back call karke aapko bata dunga madam, abhi aisa kuch nahi.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery; customer deferred the conversation, requesting a callback later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "Madam age hai 35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Madam business hai abhi",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 37,
+    "bant_score": 2.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

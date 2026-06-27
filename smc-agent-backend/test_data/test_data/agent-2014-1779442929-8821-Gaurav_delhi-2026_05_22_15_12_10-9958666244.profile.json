@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9805859655141091",
+  "source_transcript": "agent-2014-1779442929-8821-Gaurav_delhi-2026_05_22_15_12_10-9958666244.json",
+  "created_at_utc": "2026-06-01T02:46:44Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2014-1779442929-8821-Gaurav_delhi-2026_05_22_15_12_10-9958666244.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main 5:30 tak aapko connect karti hun. Haan, theek hai.",
+    "summary": "Agent pitched an HDFC Life combo plan; customer initially deferred due to being busy but agreed to a callback at 5:30 PM.",
+    "callback_time_iso": "2026-05-22T17:30",
+    "customer_disclosures": {
+      "name": {
+        "value": "Gautam",
+        "evidence": "Gautam.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte hain, uska 35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

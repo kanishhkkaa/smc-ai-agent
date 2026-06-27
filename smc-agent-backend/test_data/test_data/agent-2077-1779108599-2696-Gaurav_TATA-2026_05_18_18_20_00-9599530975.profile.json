@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "1887102247423007",
+  "source_transcript": "agent-2077-1779108599-2696-Gaurav_TATA-2026_05_18_18_20_00-9599530975.json",
+  "source_name": "agent-2077-1779108599-2696-Gaurav_TATA-2026_05_18_18_20_00-9599530975.mp3",
+  "created_at_utc": "2026-05-20T11:06:10Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 108.85,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "25",
+        "evidence": "25",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "sir",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "abhi padhai kar raha hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "student",
+        "evidence": "abhi padhai kar raha hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Itna to main arrangement kar lunga madam agar aap bologe to.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "abhi padhai kar raha hun",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Itna to main arrangement kar lunga",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "ignored_customer_budget"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Term plus mutual fund",
+      "premium_quoted_inr": 600000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a student with no income, agent pushed a 6L annual premium plan",
+      "missed_opportunities": [
+        "Did not explore student-friendly products"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is a student with no current income; needs time to finish studies and start earning."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA term plus mutual fund plan and the customer responded positively.",
+      "customer_response": "Customer was engaged and curious, despite having no income.",
+      "key_event": "Agent insisted on a 6 lakh annual premium despite the customer being a student with no income.",
+      "ending": "Customer claimed he could arrange the funds and complimented the agent."
+    },
+    "key_quotes": [
+      "Itna to main arrangement kar lunga madam agar aap bologe to.",
+      "Waise ek cheez bataun, main aapki awaaz bahut pyari hai."
+    ],
+    "red_flags": [
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

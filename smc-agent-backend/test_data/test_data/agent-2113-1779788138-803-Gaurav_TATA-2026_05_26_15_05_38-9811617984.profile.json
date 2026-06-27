@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "2070073787090121",
+  "source_transcript": "2026_05_26/agent-2113-1779788138-803-Gaurav_TATA-2026_05_26_15_05_38-9811617984.json",
+  "source_name": "agent-2113-1779788138-803-Gaurav_TATA-2026_05_26_15_05_38-9811617984.mp3",
+  "created_at_utc": "2026-06-01T05:07:32Z",
+  "transcript_stats": {
+    "segments": 67,
+    "duration_seconds": 230.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ganganram Pallai",
+      "evidence": "Ganganram Pallai",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "55",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "sir",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Burari, Sant Nagar",
+        "evidence": "Burari, Sant Nagar",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Pest control, property business",
+        "evidence": "Pest control ka hai, aur bhi hai, property ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "8 lakh ka",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Ab toh kar lo, ek hafta kar lo, agla hafta kar lo, jisse ho kar lo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Are yaar, roti khane ke liye paisa nahi hai, hum investment kahan karne ke liye jayenge bhai sahab.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds for investment",
+        "need for business loan"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Business loan chahiye.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main... sir ke do-teen kaam karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 8,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly rejected insurance investment and requested a business loan instead.",
+      "missed_opportunities": [
+        "none"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer was initially hostile to insurance but engaged once the agent pivoted to discussing a business loan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA insurance plan, to which the customer responded with immediate skepticism regarding his financial situation.",
+      "customer_response": "Customer was initially dismissive of insurance due to financial constraints but became cooperative when the agent shifted to discussing a business loan.",
+      "key_event": "The agent pivoted from a failed insurance pitch to qualifying the customer for a business loan, which successfully re-engaged the customer.",
+      "ending": "The agent confirmed a callback for the loan team between 4 and 5 PM and instructed the customer on how to reference the call."
+    },
+    "key_quotes": [
+      "Are yaar, roti khane ke liye paisa nahi hai, hum investment kahan karne ke liye jayenge bhai sahab.",
+      "Business loan chahiye."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_3",
+      "life_stage": "pre_retirement",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

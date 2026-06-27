@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5810679628728974",
+  "source_transcript": "agent-3012-1779605887-8875-Gaurav_TATA-2026_05_24_12_28_07-9999211394.json",
+  "created_at_utc": "2026-06-01T02:12:22Z",
+  "transcript_stats": {
+    "segments": 87,
+    "duration_seconds": 254.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779605887-8875-Gaurav_TATA-2026_05_24_12_28_07-9999211394.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ek baar, ek baar humko chahiye ki WhatsApp mein puri detail le sakte ho, likhit mein? ... Aap WhatsApp mein de dijiye na, main dekhun toh sahi",
+    "summary": "Agent pitched a Central Bank of India child plan; customer requested details on WhatsApp before considering further discussion or speaking with a manager.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "2",
+        "evidence": "2 years.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return milega",
+      "return_claim_pct": 10,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

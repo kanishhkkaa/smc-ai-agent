@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "3279040031607182",
+  "source_transcript": "agent-2089-1778739124-2219-Gaurav_delhi-2026_05_14_11_42_05-9958833201.json",
+  "source_name": "agent-2089-1778739124-2219-Gaurav_delhi-2026_05_14_11_42_05-9958833201.mp3",
+  "created_at_utc": "2026-05-16T00:02:44Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: 50 hai madam.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: 50 hai madam.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hanji. ... Customer: 50 hai madam.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Customer: Isme se dono cheez nahi hai, aise hi chota mota kaam kar lete hain.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "daily wage / odd jobs",
+        "evidence": "Customer: Wahi ji, jo kaam mil jaye, jo mil jata hai kar lete hain, waise hath mein koi kaam nahi hai.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: Isme se dono cheez nahi hai, aise hi chota mota kaam kar lete hain. ... waise hath mein koi kaam nahi hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: 50 hai madam.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi, nahi. Agent: Phir to invest karna bhi comfortable nahi ho payega. Customer: Nahi, nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, nahi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: Nahi, nahi. Agent: Phir to invest karna bhi comfortable nahi ho payega. Customer: Nahi, nahi.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has no fixed income and is not in a position to invest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they do not have a fixed income and are not comfortable investing, and the agent correctly identified this and ended the call."
+    },
+    "summary": "The agent called to pitch an HDFC Life plan. Upon discovery, the customer revealed they are 50 years old, do not have a fixed income, and perform odd jobs. The agent correctly identified that the customer was not in a position to invest and ended the call professionally.",
+    "key_quotes": [
+      "50 hai madam.",
+      "Wahi ji, jo kaam mil jaye, jo mil jata hai kar lete hain, waise hath mein koi kaam nahi hai.",
+      "Nahi, nahi."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

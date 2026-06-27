@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8897345402256815",
+  "source_transcript": "agent-3020-1779525891-211-Gaurav_delhi-2026_05_23_14_14_51-9811562697.json",
+  "created_at_utc": "2026-06-01T02:38:42Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779525891-211-Gaurav_delhi-2026_05_23_14_14_51-9811562697.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "To koi savings plan to possible nahi ho payega fir aapke liye sir.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, but self-disqualified the prospect due to their occupation as a daily wage worker.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "Nahi job nahi karta bhai, mazdoori karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

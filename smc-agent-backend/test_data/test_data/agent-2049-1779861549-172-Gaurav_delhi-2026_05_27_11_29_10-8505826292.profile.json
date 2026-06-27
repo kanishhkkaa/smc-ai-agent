@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "3470912343467592",
+  "source_transcript": "2026_05_27/agent-2049-1779861549-172-Gaurav_delhi-2026_05_27_11_29_10-8505826292.json",
+  "source_name": "agent-2049-1779861549-172-Gaurav_delhi-2026_05_27_11_29_10-8505826292.mp3",
+  "created_at_utc": "2026-06-01T05:15:04Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 91.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ramesh Saxena",
+      "evidence": "Ramesh Saxena",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "37",
+        "evidence": "37",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "60,000 per month",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Monday mein ek baar baat kar lena, meri tabiyat theek nahi hai, main chutti pe chal raha hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Accha, aap mujhe do teen din mein call karo, Monday mein call karo aap mujhe ek baar.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "tabiyat theek nahi hai"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-06-01T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "pehle saal se ek regular income ka support kar rahi hai aapki whole life tak"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about existing insurance coverage",
+        "did not probe for specific financial goals"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer requested a callback for next Monday due to current health issues, indicating interest in future discussion."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and pitched a plan with first-year income support.",
+      "customer_response": "The customer was polite and engaged but deferred the conversation due to health reasons.",
+      "key_event": "The customer requested a callback for next Monday because he is currently on leave due to illness.",
+      "ending": "The agent confirmed the customer's name and agreed to call back on Monday."
+    },
+    "key_quotes": [
+      "Monday mein ek baar baat kar lena, meri tabiyat theek nahi hai, main chutti pe chal raha hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

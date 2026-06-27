@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5560105443588555",
+  "source_transcript": "agent-3055-1779258598-4871-Gaurav_TATA-2026_05_20_11_59_59-9599427478.json",
+  "source_name": "agent-3055-1779258598-4871-Gaurav_TATA-2026_05_20_11_59_59-9599427478.mp3",
+  "created_at_utc": "2026-05-24T05:15:00Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hot",
+        "evidence": "Customer: 'To 1 lakh agar 1 saal mein jama kar deta hu, to agla saal se income aane lagega?'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% guaranteed income starting from first year for whole life",
+        "8% compounding interest",
+        "income starts within 7 days of deposit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed saving plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product claims are highly unrealistic and likely fraudulent, making it a poor fit for any legitimate financial planning.",
+      "missed_opportunities": [
+        "No discovery questions asked by the agent."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "The customer is actively asking questions and seems interested in the high-return claims made by the agent."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduces herself from HDFC Life and immediately pitches a guaranteed savings plan.",
+      "customer_response": "The customer is engaged and actively questioning the agent about the promised returns and payment terms.",
+      "key_event": "The agent makes multiple highly suspicious claims regarding 36% guaranteed income and 8% compounding interest.",
+      "ending": "The call ends with the agent confirming the 36% income payout within 7 days of a 1 lakh deposit."
+    },
+    "key_quotes": [
+      "Kitna percent income?",
+      "To 1 lakh agar 1 saal mein jama kar deta hu, to agla saal se income aane lagega?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

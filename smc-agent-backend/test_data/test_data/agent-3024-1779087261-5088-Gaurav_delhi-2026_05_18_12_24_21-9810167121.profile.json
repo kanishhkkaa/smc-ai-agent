@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "6308328779006700",
+  "source_transcript": "agent-3024-1779087261-5088-Gaurav_delhi-2026_05_18_12_24_21-9810167121.json",
+  "source_name": "agent-3024-1779087261-5088-Gaurav_delhi-2026_05_18_12_24_21-9810167121.mp3",
+  "created_at_utc": "2026-05-21T02:12:22Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 204.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ajay Shaw",
+      "evidence": "Customer: \"Ajay Shaw ke naam ka check karna.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Good afternoon sir\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Wo baad mein, main pehle phasa hua hun main, Ajay Shaw ke naam ka check karna.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Maine pehle ek loan, maine pehle inka liya tha... wo peeche phir main kisht nahi de paya, main bimar ho gaya tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "lost money on a previous lapsed policy",
+        "financial hardship due to accident"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Maine unko 50,000 diya hua tha\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T12:34:21"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35 percent guaranteed income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "money back plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a negative history with the company and is not in a position to purchase new products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is currently focused on resolving a past grievance with a lapsed policy and is not open to new products until that is addressed."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called to pitch a money-back plan with guaranteed income, to which the customer responded by bringing up a past issue.",
+      "customer_response": "Customer is defensive and focused on a past negative experience with a lapsed policy.",
+      "key_event": "Customer revealed he had a bad experience with a previous policy where he lost money after an accident prevented him from paying premiums.",
+      "ending": "Agent agreed to check the status of the customer's old policy and call back in 10 minutes."
+    },
+    "key_quotes": [
+      "Maine unko 50,000 diya hua tha, uske baad mere wo paise nahi the, toh maine nahi diya.",
+      "Wo baad mein, main pehle phasa hua hun main, Ajay Shaw ke naam ka check karna."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

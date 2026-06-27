@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "7651176351797929",
+  "source_transcript": "agent-3011-1779181474-8981-Gaurav_delhi-2026_05_19_14_34_34-8806107566.json",
+  "source_name": "agent-3011-1779181474-8981-Gaurav_delhi-2026_05_19_14_34_34-8806107566.mp3",
+  "created_at_utc": "2026-05-22T11:21:55Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 109.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "61",
+        "evidence": "Current age mera abhi 61.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Matlab samajh mein nahi aaya mujhe.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 4,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Kaun hai? Naam kya hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed money back income for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed savings plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age 61 exceeds plan limit of 60.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was confused by multiple agents and the agent was dismissive and unprofessional."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called from HDFC Life to pitch a guaranteed savings plan and the customer responded with 'Haan boliye'.",
+      "customer_response": "The customer was confused and frustrated by the unprofessional handling and multiple agents.",
+      "key_event": "The agent realized the customer's age (61) exceeded the plan limit (60) and then transferred the call to another agent who was equally confused.",
+      "ending": "The call ended abruptly with the customer expressing confusion after being told the plan was not applicable."
+    },
+    "key_quotes": [
+      "Kaun hai? Naam kya hai?",
+      "Matlab samajh mein nahi aaya mujhe."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "poor_agent_coordination"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

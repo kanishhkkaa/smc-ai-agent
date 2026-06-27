@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5001488583512666",
+  "source_transcript": "agent-2021-1779446423-8718-Gaurav_delhi-2026_05_22_16_10_23-8447667732.json",
+  "created_at_utc": "2026-06-01T02:47:08Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779446423-8718-Gaurav_delhi-2026_05_22_16_10_23-8447667732.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Are samjhaiye, bilkul samjhaiye, hum bhi khali baithe hue hain.",
+    "summary": "Agent pitched a Tata AIA plan with guaranteed income; customer expressed interest and provided age, but the call ended before a commitment or further discovery.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "65",
+        "evidence": "65 saal",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 80,000 rupaye tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

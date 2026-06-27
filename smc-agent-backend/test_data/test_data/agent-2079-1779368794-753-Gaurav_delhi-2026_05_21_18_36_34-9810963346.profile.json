@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "1014723290152304",
+  "source_transcript": "2026_05_21/agent-2079-1779368794-753-Gaurav_delhi-2026_05_21_18_36_34-9810963346.json",
+  "source_name": "agent-2079-1779368794-753-Gaurav_delhi-2026_05_21_18_36_34-9810963346.mp3",
+  "created_at_utc": "2026-06-01T04:55:32Z",
+  "transcript_stats": {
+    "segments": 58,
+    "duration_seconds": 243.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "52",
+        "evidence": "Customer: 52.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Self business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Self business",
+        "evidence": "Customer: Self business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Main check kar lunga, phir agar kuch rahega toh main aapko call kar leta hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi. (Regarding 12 year PPT)",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "Main aap return, return de rahe ho ki nahi de rahe aap? 1 lakh ke upar return agle saal se de rahe ho ki nahi de rahe aap?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: Kya 1 lakh ke hisaab se plan bata do aap.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer asked specific questions about PPT and return timelines.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent mentioned child's future, customer did not explicitly confirm but did not deny.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main check kar lunga, phir agar kuch rahega toh main aapko call kar leta hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year lifetime",
+        "double tax benefit",
+        "WOP rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clearly explain the difference between Sanchay Par Advantage and Sanchay Plus variants regarding return timelines."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "child_plan"
+      ],
+      "reasoning": "Customer is interested in a specific product structure but is skeptical of the agent's explanation of return timelines and is currently in a 'thinking' phase."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed savings product from HDFC Life, and the customer immediately engaged by asking for a plan based on a 1 lakh premium.",
+      "customer_response": "Customer was engaged but pushed back against the agent's insistence on a 12-year premium term, demanding a 6-year option.",
+      "key_event": "Customer challenged the agent on why a 6-year premium term would not yield immediate returns, leading to a transfer to a senior agent.",
+      "ending": "Customer ended the call by stating he would check and call back if interested, despite the agent's attempt to continue the pitch."
+    },
+    "key_quotes": [
+      "Kya 1 lakh ke hisaab se plan bata do aap.",
+      "Main aap return, return de rahe ho ki nahi de rahe aap?",
+      "Main check kar lunga, phir agar kuch rahega toh main aapko call kar leta hoon."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

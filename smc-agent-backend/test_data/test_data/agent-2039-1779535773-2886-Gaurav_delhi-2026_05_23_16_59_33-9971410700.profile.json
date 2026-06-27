@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "7346070476267622",
+  "source_transcript": "agent-2039-1779535773-2886-Gaurav_delhi-2026_05_23_16_59_33-9971410700.json",
+  "created_at_utc": "2026-06-01T02:21:17Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 194.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1779535773-2886-Gaurav_delhi-2026_05_23_16_59_33-9971410700.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi, aisa kijiye na ki aap humko written mein utna mere paas samay nahi hai, written mein bhej dijiye isi number pe.",
+    "summary": "Agent pitched Tata Param Raksha Pro Plus; customer completed discovery (38, advocate, 10L+ income) and requested details via written message.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "38",
+        "evidence": "Age mera 38.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Advocate hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 lakh se upar hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro Plus",
+    "compliance": {
+      "return_claim_quote": "jo bhi aap premium pay karte hain term ke liye, woh aapka Tata AIA invest karta hai aur phir baad mein woh interest ke saath aapko wapas mil jaata hai",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

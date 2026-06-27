@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "7911817560049651",
+  "source_transcript": "2026_05_26/agent-2089-1779802196-4073-Gaurav_delhi-2026_05_26_18_59_56-8109141425.json",
+  "source_name": "agent-2089-1779802196-4073-Gaurav_delhi-2026_05_26_18_59_56-8109141425.mp3",
+  "created_at_utc": "2026-06-01T05:06:42Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 158.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Anil Yadav",
+      "evidence": "Anil Yadav",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "29",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Anil Yadav",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Dehradun",
+        "evidence": "Dehradun",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "Dehradun is in Uttarakhand, but state not explicitly mentioned.",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun. Pharma mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Pharma sector",
+        "evidence": "Pharma mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "75,000 per month = 9L per year",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji boliye. Theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent proposed 1L annual, customer did not object.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "stocks"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Maine share kuch kharid kar rakhe hain, SIP nahi hai bas.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "Not explicitly stated.",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Mera khud ka rehta hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year as cash bonus for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was cooperative, provided all requested details, and explicitly agreed to a callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a specific plan, customer responded with interest.",
+      "customer_response": "Engaged and cooperative throughout the call.",
+      "key_event": "Customer agreed to a callback for the next day at 10 AM after being interrupted by his work shift.",
+      "ending": "The call ended with a confirmed callback for the next day at 10 AM."
+    },
+    "key_quotes": [
+      "Main job karta hun.",
+      "Pharma mein.",
+      "Mera khud ka rehta hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_2",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

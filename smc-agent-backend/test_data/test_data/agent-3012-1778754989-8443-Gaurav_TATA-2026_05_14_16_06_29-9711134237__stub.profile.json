@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "2761480601538106",
+  "source_transcript": "2026_05_14/agent-3012-1778754989-8443-Gaurav_TATA-2026_05_14_16_06_29-9711134237__stub.json",
+  "source_name": "agent-3012-1778754989-8443-Gaurav_TATA-2026_05_14_16_06_29-9711134237.mp3",
+  "created_at_utc": "2026-06-01T04:33:31Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 142.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "61",
+        "evidence": "61",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Private job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Supervisor",
+        "evidence": "Supervisor hi karta hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi nahi, paise nahi hain, paise nahi hain toh kahan se karun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi nahi, saving karne ka paisa nahi hai abhi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mera kuch chal raha hai woh main sambhal raha hun, baaki kar nahi paunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent return on savings",
+        "30 percent cash bonus on selected premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated he has no funds for additional savings.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated multiple times that he does not have money to save and is already managing existing financial commitments."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling on behalf of Central Bank of India to discuss a 50-year anniversary offer.",
+      "customer_response": "The customer was passive initially but became firm in his refusal due to lack of funds.",
+      "key_event": "The customer repeatedly stated he has no money to save despite the agent's persistence.",
+      "ending": "The agent acknowledged the customer's situation and the call concluded."
+    },
+    "key_quotes": [
+      "Nahi nahi, saving karne ka paisa nahi hai abhi.",
+      "Mera kuch chal raha hai woh main sambhal raha hun, baaki kar nahi paunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

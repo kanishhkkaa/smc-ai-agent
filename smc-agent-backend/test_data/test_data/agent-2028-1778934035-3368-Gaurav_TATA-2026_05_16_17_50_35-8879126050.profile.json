@@ -1,0 +1,160 @@
+{
+  "status": "success",
+  "profile_id": "8913415159988880",
+  "source_transcript": "2026_05_16/agent-2028-1778934035-3368-Gaurav_TATA-2026_05_16_17_50_35-8879126050.json",
+  "source_name": "agent-2028-1778934035-3368-Gaurav_TATA-2026_05_16_17_50_35-8879126050.mp3",
+  "created_at_utc": "2026-06-01T04:41:00Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "55",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "filhal to kuch nahi karte",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "filhal to kuch nahi karte",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed and not a suitable prospect for a premium financial product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is unemployed and the agent ended the call abruptly upon learning this."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and mentioned a new combined plan, to which the customer responded politely.",
+      "customer_response": "Passive and brief, answering only the direct questions asked by the agent.",
+      "key_event": "The agent asked about the customer's employment status, and the customer stated they are not currently working.",
+      "ending": "The agent thanked the customer and ended the call immediately after learning the customer is not currently employed."
+    },
+    "key_quotes": [
+      "55",
+      "filhal to kuch nahi karte"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

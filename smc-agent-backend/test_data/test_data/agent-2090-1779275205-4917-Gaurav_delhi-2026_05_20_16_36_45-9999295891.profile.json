@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "9422513322744004",
+  "source_transcript": "agent-2090-1779275205-4917-Gaurav_delhi-2026_05_20_16_36_45-9999295891.json",
+  "source_name": "agent-2090-1779275205-4917-Gaurav_delhi-2026_05_20_16_36_45-9999295891.mp3",
+  "created_at_utc": "2026-05-25T19:22:51Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 218.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "\"Gaurav_delhi\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "\"Either leave your job.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Aap mujhe 35% return ki guarantee mein likh ke dogi?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "compliance_concern",
+          "quote": "Illustration check karo madam, apne knowledge ko enhance karo, customer ko pagal mat banao.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "\"Illustration check karo madam... HDFC Life ka jo Sanchay Par Advantage plan hai, participating plan hai.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "\"mera ek dost hai, inko zara samjha do plan. Ye mujhe bata denge karna hai ki nahi karna.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "35% cash income from first year",
+        "8% compounding growth",
+        "double tax benefit",
+        "3 years lock-in period"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent provided false information about guaranteed returns and product features, leading to a hostile rejection.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer's friend (who is likely an industry professional) explicitly called out the agent for mis-selling and told them to leave their job."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called to pitch a new HDFC Life plan with a 35% income support claim, to which the customer responded with interest.",
+      "customer_response": "The customer was initially passive but then handed the phone to a friend who aggressively challenged the agent's claims.",
+      "key_event": "The customer's friend intervened and confronted the agent about the false 8% guaranteed return claim and the nature of the Sanchay Par Advantage plan.",
+      "ending": "The call ended abruptly after the customer's friend accused the agent of mis-selling and told them to improve their knowledge or quit."
+    },
+    "key_quotes": [
+      "Aap mujhe 35% return ki guarantee mein likh ke dogi?",
+      "Illustration check karo madam, apne knowledge ko enhance karo, customer ko pagal mat banao.",
+      "Either leave your job."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "misleading_comparison"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

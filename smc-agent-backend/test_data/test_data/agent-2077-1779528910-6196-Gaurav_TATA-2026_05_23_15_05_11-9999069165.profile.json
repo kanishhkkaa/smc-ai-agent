@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7547718213811084",
+  "source_transcript": "agent-2077-1779528910-6196-Gaurav_TATA-2026_05_23_15_05_11-9999069165.json",
+  "created_at_utc": "2026-06-01T02:26:20Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 140.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779528910-6196-Gaurav_TATA-2026_05_23_15_05_11-9999069165.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi mile.",
+    "summary": "The agent attempted to pitch a Tata AIA plan and conducted discovery, but the call ended after the customer stated a very low daily income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "200 rupaye roz kama lete hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "200 rupaye roz",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

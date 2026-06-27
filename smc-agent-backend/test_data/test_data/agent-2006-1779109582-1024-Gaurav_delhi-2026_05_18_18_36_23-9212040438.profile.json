@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "6412208261326655",
+  "source_transcript": "agent-2006-1779109582-1024-Gaurav_delhi-2026_05_18_18_36_23-9212040438.json",
+  "source_name": "agent-2006-1779109582-1024-Gaurav_delhi-2026_05_18_18_36_23-9212040438.mp3",
+  "created_at_utc": "2026-05-20T08:59:04Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 106.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Purnima",
+      "evidence": "Purnima ji se baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Purnima mam",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aap abhi mere ko nahi, kal fir kal aap ek bari.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 33,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "main abhi baat nahi kar paungi",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "guaranteed and regular income from first year",
+        "insurance cover from first day"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "discovery questions",
+        "needs analysis"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly requested a callback for tomorrow."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself and the product, customer responded politely.",
+      "customer_response": "Customer was passive and requested to be called later due to guests.",
+      "key_event": "Agent pushed back on sending details, but eventually agreed to a callback.",
+      "ending": "Call ended with a scheduled callback for the next morning."
+    },
+    "key_quotes": [
+      "Aap likh ke bhej dijiye, main padh ke aur aapko reward back karungi.",
+      "mere ghar guest aaye hue hain"
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 67,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

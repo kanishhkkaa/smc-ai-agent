@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6126293474953086",
+  "source_transcript": "agent-2184-1779615692-5631-Gaurav_TATA-2026_05_24_15_11_33-9755932183.json",
+  "created_at_utc": "2026-06-01T02:11:41Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779615692-5631-Gaurav_TATA-2026_05_24_15_11_33-9755932183.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main Tata AIA se baat kar rahi hun aap se.",
+    "summary": "The agent pitched a Tata AIA combined plan, but the call ended shortly after without any meaningful engagement or commitment from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "woh amount sir aapka yahan par na ye refundable rahega sir plus tax free bhi rahega aapka",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

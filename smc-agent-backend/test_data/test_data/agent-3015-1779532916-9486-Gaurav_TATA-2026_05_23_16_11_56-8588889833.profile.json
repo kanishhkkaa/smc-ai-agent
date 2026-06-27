@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4658721713750710",
+  "source_transcript": "agent-3015-1779532916-9486-Gaurav_TATA-2026_05_23_16_11_56-8588889833.json",
+  "created_at_utc": "2026-06-01T02:37:29Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1779532916-9486-Gaurav_TATA-2026_05_23_16_11_56-8588889833.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai, baad mein baat karenge.",
+    "summary": "Agent pitched a Tata AIA term-plus-ULIP plan; customer provided age and occupation, then deferred the conversation to a later time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "23",
+        "evidence": "23.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Student hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jo aap term ke liye premium pay karenge, usko aapko refund karega as per market value",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

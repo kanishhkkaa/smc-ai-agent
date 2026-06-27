@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "6263047197978244",
+  "source_transcript": "2026_05_29/agent-3012-1780035332-5793-Gaurav_TATA-2026_05_29_11_45_32-9555639970.json",
+  "source_name": "agent-3012-1780035332-5793-Gaurav_TATA-2026_05_29_11_45_32-9555639970.mp3",
+  "created_at_utc": "2026-06-01T05:46:20Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Mam good morning... Main karodon mein kama rahi hun",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Main karodon mein kama rahi hun, aapko kya lagta hai? Main karodon mein kamati toh aapka phone uthati?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mere paas already child plan hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Mere paas yahan se hi chal raha hai ek sabse bada, 1 lakh rupaye saal ka, meri haisiyat se bahar.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "already has multiple insurance plans",
+        "financial burden of existing plan"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Mere paas already teen plan chal rahe hain.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has multiple plans and explicitly stated she is not capable of taking more.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was clearly annoyed by the agent's tone and lack of professional boundaries, explicitly stating she is not capable of taking more plans."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India regarding a child plan, to which the customer responded neutrally.",
+      "customer_response": "The customer was defensive and irritated, eventually shutting down the conversation due to the agent's unprofessional remarks.",
+      "key_event": "The customer took offense to the agent questioning her financial capacity, leading to a confrontation.",
+      "ending": "The agent acknowledged the refusal and ended the call after the customer expressed frustration."
+    },
+    "key_quotes": [
+      "Mere paas already teen plan chal rahe hain.",
+      "Main karodon mein kama rahi hun, aapko kya lagta hai?"
+    ],
+    "red_flags": [
+      "agent_challenged_customer_financial_status"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

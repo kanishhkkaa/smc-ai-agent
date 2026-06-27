@@ -1,0 +1,169 @@
+{
+  "status": "success",
+  "profile_id": "7415616980283784",
+  "source_transcript": "2026_05_16/agent-2131-1778928185-2218-Gaurav_delhi-2026_05_16_16_13_06-8882462637.json",
+  "source_name": "agent-2131-1778928185-2218-Gaurav_delhi-2026_05_16_16_13_06-8882462637.mp3",
+  "created_at_utc": "2026-06-01T04:46:21Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 167.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Rahul",
+      "evidence": "Mera naam hai Rahul.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "32 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Silai line mein karta hun kaam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Tailoring/Sewing",
+        "evidence": "Silai line",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "month ka 25,000 rupaye salary hai",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan ji bolo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Matlab mahine ka 5 se 6,000 rupaye minimum sir. Haan ji sir.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bacchon ke education ke liye, shaadi ke liye",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Sir aap apna decision toh khud hi lete hoge? Haan ji.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% return on savings",
+        "35% annual income for 100 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "endowment",
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly requested a callback at a specific time after hearing the pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a guaranteed savings plan; customer responded neutrally.",
+      "customer_response": "Engaged; customer provided personal details and asked clarifying questions about the policy.",
+      "key_event": "Customer requested to be called back in 1.5 hours as he was driving, then specified 6 PM.",
+      "ending": "The call ended with a confirmed callback scheduled for 6 PM."
+    },
+    "key_quotes": [
+      "Mera naam hai Rahul.",
+      "Abhi toh main duty hun, bike chala raha hun. Abhi baad mein ek dedh ghante ke baad call kijiyega."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

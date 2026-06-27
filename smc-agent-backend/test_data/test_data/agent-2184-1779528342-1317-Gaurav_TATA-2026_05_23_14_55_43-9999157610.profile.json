@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2545946054363922",
+  "source_transcript": "agent-2184-1779528342-1317-Gaurav_TATA-2026_05_23_14_55_43-9999157610.json",
+  "created_at_utc": "2026-06-01T02:34:19Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779528342-1317-Gaurav_TATA-2026_05_23_14_55_43-9999157610.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main try kar lungi, aap kal call back kar lijiye. ... Okay, kal ma'am kitne baje, 12 baje? Ji ma'am.",
+    "summary": "Agent pitched a Tata AIA combined plan; the customer requested a callback for tomorrow at 12:00 PM.",
+    "callback_time_iso": "2026-05-24T12:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aap jo premium pay karenge na, wo aapka refundable hota hai plus tax free hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

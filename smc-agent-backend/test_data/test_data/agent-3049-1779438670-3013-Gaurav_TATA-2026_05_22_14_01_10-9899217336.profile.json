@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "1368941991032871",
+  "source_transcript": "2026_05_22/agent-3049-1779438670-3013-Gaurav_TATA-2026_05_22_14_01_10-9899217336.json",
+  "source_name": "agent-3049-1779438670-3013-Gaurav_TATA-2026_05_22_14_01_10-9899217336.mp3",
+  "created_at_utc": "2026-06-01T05:04:27Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 184.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Meri 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "7 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bata do mam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi, kuch nahi karte.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Investment karna hoga mam?",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combine plan",
+      "premium_quoted_inr": 121943,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent pitched a market-linked product to a novice investor who explicitly stated they have no market knowledge, and the agent misrepresented the product as refundable.",
+      "missed_opportunities": [
+        "Did not explain the product structure clearly beyond premium amount.",
+        "Failed to address the customer's lack of market knowledge."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer remained engaged throughout the call and invited the agent to explain the plan, though the agent's performance was repetitive and disorganized."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a generic investment plan pitch from Tata AIA, to which the customer responded with a neutral inquiry.",
+      "customer_response": "The customer was passive but cooperative, repeatedly asking for the investment amount and agreeing to hear the plan details.",
+      "key_event": "The agent quoted an annual premium of 1,21,943 INR for a 1 crore cover, which the customer acknowledged.",
+      "ending": "The call ended abruptly after the agent restarted the introduction, leaving the conversation in a state of confusion."
+    },
+    "key_quotes": [
+      "Investment karna hoga mam?",
+      "Bata do mam."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

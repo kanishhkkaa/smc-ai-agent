@@ -1,0 +1,96 @@
+{
+  "status": "success",
+  "agent_id": "2089",
+  "call_id": "agent-2089-1779272591-2228-Gaurav_delhi-2026_05_20_15_53_11-7531908404",
+  "source_file": "agent-2089-1779272591-2228-Gaurav_delhi-2026_05_20_15_53_11-7531908404.json",
+  "source_relative": "agent-2089-1779272591-2228-Gaurav_delhi-2026_05_20_15_53_11-7531908404.json",
+  "created_at_utc": "2026-05-25T19:33:51Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2089",
+    "agent_self_introduced_name": "Neetu",
+    "call_id": "agent-2089-1779272591-2228-Gaurav_delhi-2026_05_20_15_53_11-7531908404",
+    "opening": {
+      "self_identified_company": true,
+      "verified_customer_identity": false,
+      "consent_taken": false,
+      "self_identified_name": true,
+      "greeting_quality": "excellent"
+    },
+    "pitch": {
+      "product_pitched": "HDFC Life whole life plan",
+      "pitch_delivered": true,
+      "explains_numbers_clearly": "low",
+      "pitch_clarity": "medium",
+      "uses_jargon_appropriately": true
+    },
+    "discovery": {
+      "personalizes_to_customer": true,
+      "discovery_question_count": 2,
+      "discovery_depth": "moderate"
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "language_quality": "high",
+      "language_used": "hinglish",
+      "empathy": "low",
+      "interrupted_customer": false,
+      "tone_professionalism": "medium",
+      "talk_listen_ratio": "agent_dominates"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "other",
+      "customer_declined_explicitly": false,
+      "end_reason_evidence": "Agent: Achha achha achha.",
+      "graceful_close": false,
+      "last_speaker": "agent",
+      "ended_abruptly": false,
+      "is_ivr_only": false
+    },
+    "outcome": {
+      "outcome": "inconclusive",
+      "drop_off_point": "pitch",
+      "stage_reached": "discovery_done"
+    },
+    "strengths": [
+      "Clear and professional greeting.",
+      "Attempted to personalize the pitch based on age."
+    ],
+    "improvement_areas": [
+      "Empathy towards customer's financial situation.",
+      "Regulatory compliance (disclaimers).",
+      "Professional closing of the call when a lead is not viable."
+    ],
+    "coaching_recommendations": [
+      "The agent should practice active listening. When the customer disclosed they are currently jobless, the agent's response was dismissive and lacked empathy.",
+      "The agent needs to pivot the conversation or gracefully end the call once it is clear the customer is not in a financial position to purchase a new insurance product.",
+      "Ensure all mandatory regulatory disclosures are provided, as they were completely omitted in this pitch."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "Agent: Abhi aap jobless hain?"
+    ],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and the company clearly, then proceeded to pitch an HDFC Life plan. During the discovery phase, the customer revealed they are currently unemployed. The agent responded with a brief, dismissive acknowledgment and the transcript ended abruptly without a proper closing or next steps. The agent failed to show empathy or handle the customer's financial situation professionally.",
+    "extraction_confidence": "high"
+  }
+}

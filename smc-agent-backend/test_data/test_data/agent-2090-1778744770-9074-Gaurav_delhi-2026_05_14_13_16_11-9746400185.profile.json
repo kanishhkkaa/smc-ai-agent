@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "9473478830302168",
+  "source_transcript": "agent-2090-1778744770-9074-Gaurav_delhi-2026_05_14_13_16_11-9746400185.json",
+  "source_name": "agent-2090-1778744770-9074-Gaurav_delhi-2026_05_14_13_16_11-9746400185.mp3",
+  "created_at_utc": "2026-05-16T00:03:26Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "haan bhai hindi se bolo hindi.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "abhi toh nahi call kiya tha.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 70.0,
+      "agent_talk_percent": 30.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "greeting"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "introduction_only",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [
+        "misrepresented_product",
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance product",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "The customer was not interested and the call was incoherent.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer was confused, did not engage with the agent, and the call was incoherent. The customer explicitly stated they did not call for this and the interaction was unproductive."
+    },
+    "summary": "The agent attempted to pitch an HDFC Life product, but the customer was confused and stated they did not request a call. The interaction was disjointed and the customer did not engage with the pitch.",
+    "key_quotes": [
+      "abhi toh nahi call kiya tha.",
+      "haan bhai hindi se bolo hindi."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

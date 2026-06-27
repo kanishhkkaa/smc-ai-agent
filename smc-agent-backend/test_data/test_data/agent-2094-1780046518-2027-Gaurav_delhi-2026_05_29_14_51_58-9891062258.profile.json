@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "2029786343972774",
+  "source_transcript": "2026_05_29/agent-2094-1780046518-2027-Gaurav_delhi-2026_05_29_14_51_58-9891062258.json",
+  "source_name": "agent-2094-1780046518-2027-Gaurav_delhi-2026_05_29_14_51_58-9891062258.mp3",
+  "created_at_utc": "2026-06-01T05:44:39Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 111.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "51 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Property business",
+        "evidence": "Property ka kaam hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer provided short, direct answers to agent questions.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no fixed income, making the product unsuitable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer provided minimal information and the agent ended the call abruptly after learning the customer has no fixed income."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves from HDFC Life and immediately pitched a product with 35% income from the first year.",
+      "customer_response": "Passive and brief, providing only necessary information when prompted.",
+      "key_event": "The agent confirmed the customer has no fixed income, leading to the termination of the call.",
+      "ending": "The agent ended the call abruptly after the customer confirmed they have no fixed income."
+    },
+    "key_quotes": [
+      "51 saal.",
+      "Property ka kaam hai mera."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

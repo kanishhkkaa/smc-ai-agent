@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "2334645793802907",
+  "source_transcript": "2026_05_14/agent-2098-1778744020-2878-Gaurav_delhi-2026_05_14_13_03_40-9891892290__stub.json",
+  "source_name": "agent-2098-1778744020-2878-Gaurav_delhi-2026_05_14_13_03_40-9891892290.mp3",
+  "created_at_utc": "2026-06-01T04:21:56Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 156.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "18-9-72 haan 53.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "hamara jal board mein hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Delhi Jal Board employee",
+        "evidence": "hamara jal board mein hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "lagbhag mahine ka hoga 40-50 hazaar.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "abhi nahi karna humein, abhi maine kiya hai 50000 ka main is saal.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "abhi nahi karna humein, abhi maine kiya hai 50000 ka main is saal.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "lagbhag mahine ka hoga 40-50 hazaar.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "hamara jal board mein hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% fixed income from first year for whole life",
+        "8% return with double tax benefit",
+        "waiver of premium rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not explore existing insurance portfolio beyond the 50k investment mentioned"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer explicitly stated they are not interested in starting a new plan right now as they have already invested 50k this year."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from HDFC Life regarding a new product, to which the customer responded by asking them to proceed.",
+      "customer_response": "The customer was passive and provided information when asked but remained non-committal throughout the pitch.",
+      "key_event": "The customer rejected the pitch by stating they had already made an investment of 50k this year.",
+      "ending": "The call ended after the customer stated they had already invested 50k this year and were not interested in a new plan."
+    },
+    "key_quotes": [
+      "abhi nahi karna humein, abhi maine kiya hai 50000 ka main is saal."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

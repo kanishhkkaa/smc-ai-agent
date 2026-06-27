@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7362325891726062",
+  "source_transcript": "agent-2079-1779528962-6615-Gaurav_delhi-2026_05_23_15_06_03-9643481208.json",
+  "created_at_utc": "2026-06-01T02:26:52Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2079-1779528962-6615-Gaurav_delhi-2026_05_23_15_06_03-9643481208.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Running age meri 27 year. Private job. 3 lakh.",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage and completed full discovery (age 27, salaried, 3L income), but the call ended without a final commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "27",
+        "evidence": "Running age meri 27 year.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Private job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "company first year se hi 35 percent ki income aani start ho jaati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

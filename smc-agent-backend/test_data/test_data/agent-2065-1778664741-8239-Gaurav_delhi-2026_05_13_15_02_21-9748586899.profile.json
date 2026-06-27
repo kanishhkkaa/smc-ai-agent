@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "6413908847333270",
+  "source_transcript": "2026_05_13/agent-2065-1778664741-8239-Gaurav_delhi-2026_05_13_15_02_21-9748586899.json",
+  "source_name": "agent-2065-1778664741-8239-Gaurav_delhi-2026_05_13_15_02_21-9748586899.mp3",
+  "created_at_utc": "2026-06-01T03:37:43Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Abhi age 50.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Housewife.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Housewife.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "husband ji se baat ho jayegi?",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan bolo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "husband ji se baat ho jayegi? Na, unhi office.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "needs_to_consult_family",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36 percent income from first week for whole life",
+        "double tax benefit",
+        "day one life insurance benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was polite and agreed to pass the message to her husband, though she is not the decision maker."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and the customer responded neutrally.",
+      "customer_response": "Passive and cooperative, listening to the pitch and answering basic questions.",
+      "key_event": "Customer clarified she is a housewife and the decision maker is her husband who is currently at the office.",
+      "ending": "Customer agreed to inform her husband about the call when he returns home in the evening."
+    },
+    "key_quotes": [
+      "Abhi age 50.",
+      "Raat ko, main bol dungi."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

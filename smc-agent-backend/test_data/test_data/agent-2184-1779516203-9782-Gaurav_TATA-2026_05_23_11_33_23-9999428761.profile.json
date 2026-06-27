@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6612826563529849",
+  "source_transcript": "agent-2184-1779516203-9782-Gaurav_TATA-2026_05_23_11_33_23-9999428761.json",
+  "created_at_utc": "2026-06-01T02:33:49Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779516203-9782-Gaurav_TATA-2026_05_23_11_33_23-9999428761.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir, fir aapke liye ye plan eligible nahi hai, na?",
+    "summary": "The agent initiated a pitch for a Tata AIA plan, but self-disqualified the prospect after learning he was 60 years old.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "60",
+        "evidence": "Meri 60 saal ka hun main.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "isme aap jo premium pay karenge, wo aapka refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

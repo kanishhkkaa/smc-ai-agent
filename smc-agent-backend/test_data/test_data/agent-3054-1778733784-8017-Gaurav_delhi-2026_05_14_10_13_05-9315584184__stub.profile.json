@@ -1,0 +1,169 @@
+{
+  "status": "success",
+  "profile_id": "9639747497455131",
+  "source_transcript": "2026_05_14/agent-3054-1778733784-8017-Gaurav_delhi-2026_05_14_10_13_05-9315584184__stub.json",
+  "source_name": "agent-3054-1778733784-8017-Gaurav_delhi-2026_05_14_10_13_05-9315584184.mp3",
+  "created_at_utc": "2026-06-01T04:37:11Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 97.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "22 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job hi kar raha hun thoda sa",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "trainee/learner",
+        "evidence": "seekh raha hun abhi toh",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "70-80 hazar rupaye",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "ji boliye mam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "aur toh aapke father se baat ho sakti hai isse related? Customer: abhi toh nahi hai, job pe gaye hain wo.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income within a week for whole life",
+        "8 percent compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 22, earning ~80k/year, and has no financial decision-making authority.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a 22-year-old learner with very low income and no decision-making authority."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and the customer invited her to speak.",
+      "customer_response": "Passive and cooperative, providing information as requested.",
+      "key_event": "Agent pitched a 36% guaranteed income plan, which the customer listened to without objection.",
+      "ending": "Agent ended the call after learning the customer's father was unavailable."
+    },
+    "key_quotes": [
+      "22 hai.",
+      "70-80 hazar rupaye, seekh raha hun abhi toh."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

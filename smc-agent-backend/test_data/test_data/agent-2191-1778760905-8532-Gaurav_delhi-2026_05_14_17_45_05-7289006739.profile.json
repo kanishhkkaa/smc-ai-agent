@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "5245023283740770",
+  "source_transcript": "agent-2191-1778760905-8532-Gaurav_delhi-2026_05_14_17_45_05-7289006739.json",
+  "source_name": "agent-2191-1778760905-8532-Gaurav_delhi-2026_05_14_17_45_05-7289006739.mp3",
+  "created_at_utc": "2026-05-16T00:14:19Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "Customer: 51.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: 51.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, hanji sir. Very good evening sir, Akshay baat kar raha hun HDFC Life ki taraf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: 51.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Usse kya matlab hai mere ko, ye batao? ... Maine kaha usse kya matlab hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Usse kya matlab hai mere ko, ye batao?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed income plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not pivot to explaining why occupation is relevant for financial planning."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was defensive about sharing personal details but did not explicitly ask to be removed from the list. He is interested in the product benefits but skeptical of the agent's questioning process."
+    },
+    "summary": "The agent attempted to pitch an HDFC Life guaranteed income plan. The customer provided his age (51) but became defensive and hostile when asked about his profession, repeatedly questioning the relevance of the question. The call ended without the agent successfully addressing the customer's concerns or completing the discovery process.",
+    "key_quotes": [
+      "Usse kya matlab hai mere ko, ye batao?",
+      "Maine bola na ki usse koi matter hi nahi hota, aap apna bataiye ki aap kya kar sakte hain."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

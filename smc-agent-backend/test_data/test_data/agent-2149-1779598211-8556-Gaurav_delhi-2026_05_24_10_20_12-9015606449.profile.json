@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1360162718457086",
+  "source_transcript": "agent-2149-1779598211-8556-Gaurav_delhi-2026_05_24_10_20_12-9015606449.json",
+  "created_at_utc": "2026-06-01T02:11:03Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2149-1779598211-8556-Gaurav_delhi-2026_05_24_10_20_12-9015606449.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Kal 12 baje, 12 baje call kar lena.",
+    "summary": "Agent pitched an HDFC Life guaranteed product; customer provided age and occupation, then requested a callback for tomorrow at 12 PM.",
+    "callback_time_iso": "2026-05-25T12:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "That is 36.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income aati hai aapke whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

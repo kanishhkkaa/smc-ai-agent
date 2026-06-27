@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "4309005602903576",
+  "source_transcript": "agent-2059-1779698911-5518-Gaurav_delhi-2026_05_25_14_18_32-9560958333.json",
+  "source_name": "agent-2059-1779698911-5518-Gaurav_delhi-2026_05_25_14_18_32-9560958333.mp3",
+  "created_at_utc": "2026-05-27T01:14:46Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Good afternoon ma'am.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main abhi thoda sa baad mein baat karti hun. Main abhi ghar pe hun to main ek baar family se discuss kar lungi fir main aapko call kar lungi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Main abhi ghar pe hun to main ek baar family se discuss kar lungi fir main aapko call kar lungi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Main abhi ghar pe hun to main ek baar family se discuss kar lungi fir main aapko call kar lungi.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "36 percent income within first year for whole life",
+        "8 percent compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent provided an aggressive pitch with unrealistic return claims without understanding the customer's financial profile.",
+      "missed_opportunities": [
+        "Did not ask about existing investments or financial goals.",
+        "Did not attempt to understand the customer's current life stage or needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer agreed to a specific callback time for tomorrow, showing openness to discuss further after family consultation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and immediately launched into a pitch about a guaranteed income plan.",
+      "customer_response": "The customer was passive and polite, listening to the pitch before deferring to family discussion.",
+      "key_event": "The agent pitched a guaranteed income plan with high return claims, and the customer requested time to consult her family.",
+      "ending": "The agent confirmed the callback time for tomorrow at 4 PM and the call ended cordially."
+    },
+    "key_quotes": [
+      "Main abhi ghar pe hun to main ek baar family se discuss kar lungi fir main aapko call kar lungi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

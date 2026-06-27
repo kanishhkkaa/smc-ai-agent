@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "6989508776197758",
+  "source_transcript": "agent-2156-1778590437-365-Gaurav_delhi-2026_05_12_18_23_57-8800192633.json",
+  "source_name": "agent-2156-1778590437-365-Gaurav_delhi-2026_05_12_18_23_57-8800192633.mp3",
+  "created_at_utc": "2026-05-15T06:48:24Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "meri age toh hai 26, 26-27 saal.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "meri age toh hai 26, 26-27 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: haan boliye. Agent: Manshi this side from the HDFC Life insurance...",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "main company mein kaam karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "main company mein kaam karta hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "hame nahi chahiye na ye sab.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "hame nahi chahiye na ye sab.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 0,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they are not interested in the product and ended the conversation."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance plan, claiming guaranteed income benefits. The customer provided their age and occupation but refused to disclose income, eventually stating they were not interested in the product. The call ended abruptly after the customer's refusal.",
+    "key_quotes": [
+      "hame nahi chahiye na ye sab."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

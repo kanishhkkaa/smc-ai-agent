@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "9501675879031951",
+  "source_transcript": "agent-2192-1779190279-6932-Gaurav_delhi-2026_05_19_17_01_20-8948895521.json",
+  "source_name": "agent-2192-1779190279-6932-Gaurav_delhi-2026_05_19_17_01_20-8948895521.mp3",
+  "created_at_utc": "2026-05-22T11:19:54Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 148.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: 26.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job job.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 32. (Context implies 3.2 LPA or 32k/month, mapping to lt_5L)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Yeah okay okay then I will discuss okay.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: No abhi to main hi le raha hu. Apni personal to main hi lunga na.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 3,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year",
+        "8% guaranteed return on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 50000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was polite and proactively suggested a specific time to call back, indicating interest in the discussion."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and pitched a guaranteed income plan, to which the customer responded with interest.",
+      "customer_response": "The customer was engaged and cooperative, answering discovery questions and showing interest in the product details.",
+      "key_event": "The customer agreed to a callback at 7 PM after the agent explained the Sanchay Par Advantage plan.",
+      "ending": "The customer requested to talk later due to being in the office, and the agent agreed to call back at 7 PM."
+    },
+    "key_quotes": [
+      "Apni personal to main hi lunga na.",
+      "I am in office so I will call back 7 o'clock."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

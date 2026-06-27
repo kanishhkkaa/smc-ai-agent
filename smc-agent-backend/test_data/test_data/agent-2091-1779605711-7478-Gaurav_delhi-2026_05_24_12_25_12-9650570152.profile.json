@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "profile_id": "3246377668211029",
+  "source_transcript": "agent-2091-1779605711-7478-Gaurav_delhi-2026_05_24_12_25_12-9650570152.json",
+  "created_at_utc": "2026-06-01T02:08:56Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 243.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779605711-7478-Gaurav_delhi-2026_05_24_12_25_12-9650570152.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Toh mere ko, saving kya karna padega?",
+    "summary": "Agent and senior agent pitched an HDFC Life saving plan; customer completed discovery (age 50, business, 22-23L monthly income) but remained non-committal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50 saal",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Apna business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "22 se 23 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "40 percent ki ek income dena start karti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

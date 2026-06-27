@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "4449904694968652",
+  "source_transcript": "2026_05_14/agent-2018-1778766475-1637-Gaurav_delhi-2026_05_14_19_17_56-9999485145__stub.json",
+  "source_name": "agent-2018-1778766475-1637-Gaurav_delhi-2026_05_14_19_17_56-9999485145.mp3",
+  "created_at_utc": "2026-06-01T04:10:46Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 126.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "50 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "business hai",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "ek do crore ki sale",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "kya amount hai investment karna padega?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "business hai",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% income within a week for lifetime",
+        "8% compounding rate of interest",
+        "double tax benefit",
+        "family of two members covered"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not clarify the 40% income claim vs 12 year saving period"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer is actively asking for investment details and seems interested in the product benefits."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent Himanshu called to pitch a guaranteed plan from HDFC Life, and the customer responded positively.",
+      "customer_response": "The customer is engaged and actively inquiring about the investment amount.",
+      "key_event": "A senior agent (Mahvish) took over the call to continue the pitch and qualify the customer.",
+      "ending": "The customer asked the agent to specify the investment amount after being asked about his profit margins."
+    },
+    "key_quotes": [
+      "kya amount hai investment karna padega?",
+      "kya amount karna padega?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

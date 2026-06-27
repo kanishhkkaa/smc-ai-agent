@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "7845684466972812",
+  "source_transcript": "agent-3042-1779090524-3341-Gaurav_delhi-2026_05_18_13_18_45-9313805761.json",
+  "source_name": "agent-3042-1779090524-3341-Gaurav_delhi-2026_05_18_13_18_45-9313805761.mp3",
+  "created_at_utc": "2026-05-21T02:12:44Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 100.15,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Meri age hai 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Good afternoon mam... Customer: Haan. (Agent addressed as mam, customer did not correct)",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: To aap is age mein job karte ho... Customer: Main job karti hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Hello, ye to mujhe dekhna padega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Par isliye main batati hun, par ye kya loan, loan mil rahi hai kya kuch?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income for whole life",
+        "8 percent return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Income Plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The customer is completely confused about the product and the agent failed to explain it clearly.",
+      "missed_opportunities": [
+        "failed to explain product benefits clearly",
+        "failed to address customer confusion regarding loan vs insurance"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "The customer is hesitant and confused about the product nature, showing low interest in sharing financial details."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed income plan from HDFC Life, and the customer responded with a neutral acknowledgment.",
+      "customer_response": "The customer is passive and confused, repeatedly questioning the nature of the product.",
+      "key_event": "The customer asked if the product was a loan, indicating a complete lack of understanding of the pitch.",
+      "ending": "The agent persisted in asking for income details despite the customer's hesitation, and the call ended without resolution."
+    },
+    "key_quotes": [
+      "Par isliye main batati hun, par ye kya loan, loan mil rahi hai kya kuch?",
+      "Hello, ye to mujhe dekhna padega."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

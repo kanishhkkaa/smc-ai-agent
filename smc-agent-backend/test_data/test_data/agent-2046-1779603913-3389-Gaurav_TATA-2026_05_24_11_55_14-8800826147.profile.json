@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8295212066225299",
+  "source_transcript": "agent-2046-1779603913-3389-Gaurav_TATA-2026_05_24_11_55_14-8800826147.json",
+  "created_at_utc": "2026-06-01T02:06:46Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779603913-3389-Gaurav_TATA-2026_05_24_11_55_14-8800826147.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi mam, utni toh hai nahi abhi. Jyada job mein salary nahi hai hamari.",
+    "summary": "Agent pitched a Tata AIA plan and attempted discovery; the customer was unable to provide income details, and the agent ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "38",
+        "evidence": "Mera toh 38 hai, mam.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi, job karta hun mam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

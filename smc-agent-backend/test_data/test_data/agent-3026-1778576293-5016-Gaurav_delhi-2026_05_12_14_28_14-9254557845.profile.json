@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "2949702026007138",
+  "source_transcript": "agent-3026-1778576293-5016-Gaurav_delhi-2026_05_12_14_28_14-9254557845.json",
+  "source_name": "agent-3026-1778576293-5016-Gaurav_delhi-2026_05_12_14_28_14-9254557845.mp3",
+  "created_at_utc": "2026-05-15T06:56:30Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 129.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Varun",
+      "evidence": "Agent: hello Varun, Varun good afternoon sir",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Rohtak",
+        "evidence": "Customer: main Rohtak se bol raha hun.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_3",
+        "evidence": "Customer: main Rohtak se bol raha hun.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello Varun, Varun good afternoon sir, main Sachin baat kar raha hun, HDFC Life ke behalf se sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: 40-50. ... Agent: monthly, matlab kitna 40 se 50 hazar? Customer: hmm.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 42. Business.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: ha bataiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "fir Rohtak ki branch ka koi contact karwao.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about existing insurance coverage",
+        "did not ask about financial goals"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer provided basic details and engaged with the agent despite initial hesitation about the branch location. He is open to understanding the plan."
+    },
+    "summary": "The agent called Varun from Noida to pitch the HDFC Life Sanchay Par Advantage product. The customer, based in Rohtak, initially requested a local branch contact but agreed to listen to the plan details. The agent successfully collected the customer's age and monthly income before the call ended.",
+    "key_quotes": [
+      "fir Rohtak ki branch ka koi contact karwao.",
+      "42.",
+      "40-50."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

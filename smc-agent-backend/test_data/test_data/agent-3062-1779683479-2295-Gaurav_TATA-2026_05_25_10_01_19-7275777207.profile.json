@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "2165555493085254",
+  "source_transcript": "agent-3062-1779683479-2295-Gaurav_TATA-2026_05_25_10_01_19-7275777207.json",
+  "source_name": "agent-3062-1779683479-2295-Gaurav_TATA-2026_05_25_10_01_19-7275777207.mp3",
+  "created_at_utc": "2026-05-27T01:29:27Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 210.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Customer: 47.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 6 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan. Plan accha hoga toh.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "60 lakh death benefit",
+        "1 crore 20 lakh accidental death benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 218240,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted annual premium of 2,18,240 INR is over 36% of the customer's annual income of 6 LPA, which is financially unrealistic.",
+      "missed_opportunities": [
+        "Did not verify if customer has existing life insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_dropped"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer expressed interest in the plan details despite the high premium quote relative to his income."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan combining term and mutual fund benefits, to which the customer responded with interest.",
+      "customer_response": "The customer was passive and receptive, providing requested details and expressing willingness to hear more about the plan.",
+      "key_event": "The agent quoted a premium of 2,18,240 INR annually, which is significantly high for a customer earning 6 LPA.",
+      "ending": "The agent was mid-pitch explaining disability benefits when the call ended abruptly."
+    },
+    "key_quotes": [
+      "Haan. Plan accha hoga toh."
+    ],
+    "red_flags": [
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

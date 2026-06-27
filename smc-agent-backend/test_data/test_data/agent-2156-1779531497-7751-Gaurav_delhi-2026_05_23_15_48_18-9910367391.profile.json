@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2508695482162978",
+  "source_transcript": "agent-2156-1779531497-7751-Gaurav_delhi-2026_05_23_15_48_18-9910367391.json",
+  "created_at_utc": "2026-06-01T02:32:36Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779531497-7751-Gaurav_delhi-2026_05_23_15_48_18-9910367391.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Ye professional thodi hai, bina bole kaun aise transfer karta hai bhai? Aadha time toh usne kha liya, ab aadha time aap mereko same cheez bataoge kya? Toh do wapas toh phone.",
+    "summary": "The customer was frustrated by an unannounced call transfer and refused to engage with the new agent, demanding to speak to the previous person.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 45,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

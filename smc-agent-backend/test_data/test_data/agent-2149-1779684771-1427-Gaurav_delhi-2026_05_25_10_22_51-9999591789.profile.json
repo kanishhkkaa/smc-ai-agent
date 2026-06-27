@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "2754569907483487",
+  "source_transcript": "agent-2149-1779684771-1427-Gaurav_delhi-2026_05_25_10_22_51-9999591789.json",
+  "source_name": "agent-2149-1779684771-1427-Gaurav_delhi-2026_05_25_10_22_51-9999591789.mp3",
+  "created_at_utc": "2026-05-27T01:21:25Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 54.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi chahiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi chahiye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki guaranteed income aati hai aapki whole life ke liye",
+        "double tax benefit",
+        "8 percent ka rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer showed no interest and the product pitch was aggressive and potentially non-compliant.",
+      "missed_opportunities": [
+        "No discovery questions asked before pitching."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was dismissive from the start and only agreed to listen after the agent insisted, showing low interest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed income product, to which the customer responded with 'Boliye' (Speak).",
+      "customer_response": "The customer was passive and initially dismissive, only agreeing to listen after the agent pushed back.",
+      "key_event": "The customer initially said 'Nahi chahiye' (I don't want it) when the agent introduced the product.",
+      "ending": "The agent asked for the customer's age to continue the pitch, and the transcript ended."
+    },
+    "key_quotes": [
+      "Nahi chahiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min"
+    }
+  }
+}

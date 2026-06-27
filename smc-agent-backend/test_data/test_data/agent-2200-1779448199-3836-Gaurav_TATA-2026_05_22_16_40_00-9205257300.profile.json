@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4353505034668869",
+  "source_transcript": "agent-2200-1779448199-3836-Gaurav_TATA-2026_05_22_16_40_00-9205257300.json",
+  "created_at_utc": "2026-06-01T02:59:07Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 138.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779448199-3836-Gaurav_TATA-2026_05_22_16_40_00-9205257300.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Hum baad mein baat karte hain, aapki awaaz nahi aa rahi hai.",
+    "summary": "The agent attempted to pitch a Tata AIA plan, but the call was terminated due to persistent network and audio issues reported by the agent.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "16",
+        "evidence": "16 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Main just maine abhi 12th pass kari hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

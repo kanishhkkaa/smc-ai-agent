@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5170321981044255",
+  "source_transcript": "agent-2130-1779105089-3264-Gaurav_TATA-2026_05_18_17_21_30-8397971816.json",
+  "source_name": "agent-2130-1779105089-3264-Gaurav_TATA-2026_05_18_17_21_30-8397971816.mp3",
+  "created_at_utc": "2026-05-21T02:06:07Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 359.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: 50 saal hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Nahi abhi to filhal mein hum job hi kar rahe hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 30 hazaar. Agent: 30 hazaar monthly? Customer: Haanji haanji.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer is passive and only responding with 'Ji' or 'Haanji'.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "2 crore accidental cover",
+        "3 crore public transport accidental cover",
+        "1 crore disability benefit",
+        "premium waiver on disability",
+        "10 lakh critical illness cover",
+        "free annual full body checkup",
+        "48 free doctor consultations per year",
+        "25-40% discount on medicines"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product features (1-3 crore cover) are likely far beyond the affordability of a customer earning 30k/month.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is listening and providing information, though the agent's pitch is overwhelming and potentially misaligned with the customer's income."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from Tata AIA to offer a combined term and investment plan.",
+      "customer_response": "The customer is passive, mostly acknowledging the agent's long monologue with 'Ji' or 'Haanji'.",
+      "key_event": "The agent delivered a very long, feature-heavy pitch before asking any discovery questions.",
+      "ending": "The call ended abruptly after the agent confirmed the customer's monthly income."
+    },
+    "key_quotes": [
+      "50 saal hai.",
+      "Nahi abhi to filhal mein hum job hi kar rahe hain.",
+      "30 hazaar monthly? Haanji haanji."
+    ],
+    "red_flags": [
+      "omitted_disclaimer",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

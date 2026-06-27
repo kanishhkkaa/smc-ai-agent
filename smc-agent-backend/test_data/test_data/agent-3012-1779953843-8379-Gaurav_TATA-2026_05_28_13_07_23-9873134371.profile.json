@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "1484784448195658",
+  "source_transcript": "2026_05_28/agent-3012-1779953843-8379-Gaurav_TATA-2026_05_28_13_07_23-9873134371.json",
+  "source_name": "agent-3012-1779953843-8379-Gaurav_TATA-2026_05_28_13_07_23-9873134371.mp3",
+  "created_at_utc": "2026-06-01T05:38:33Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 122.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Delivery karta hun sir. Zomato mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Zomato delivery driver",
+        "evidence": "Zomato delivery driver",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Wahi 20-25, 25-30. (25k/month = 3L/yr)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Married hun, unmarried kyun?",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Baccha hamara ek ladka hai.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "main soch ke bataunga.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "main soch ke bataunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Agent suggested 60k/year, customer did not confirm capacity.",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bank aapke liye ek child plan offer kar raha hai.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main soch ke bataunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "lifetime bonus starting from first year",
+        "tax-free benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The proposed annual premium of 60,000 is likely too high for a delivery driver earning 25-30k/month.",
+      "missed_opportunities": [
+        "Did not verify if the customer has existing life insurance."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to considering the offer but requested time to think."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India regarding a child plan offer.",
+      "customer_response": "The customer was passive and provided information when asked, but remained cautious about committing.",
+      "key_event": "The agent pitched a child plan with guaranteed returns and lifetime benefits, to which the customer responded with a request for time to think.",
+      "ending": "The customer asked for time to think about the proposal before making a decision."
+    },
+    "key_quotes": [
+      "main soch ke bataunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

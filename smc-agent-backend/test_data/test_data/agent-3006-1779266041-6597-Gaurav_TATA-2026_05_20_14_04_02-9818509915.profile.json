@@ -1,0 +1,159 @@
+{
+  "status": "success",
+  "profile_id": "9548133926499287",
+  "source_transcript": "agent-3006-1779266041-6597-Gaurav_TATA-2026_05_20_14_04_02-9818509915.json",
+  "source_name": "agent-3006-1779266041-6597-Gaurav_TATA-2026_05_20_14_04_02-9818509915.mp3",
+  "created_at_utc": "2026-05-24T05:11:04Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "73",
+        "evidence": "Customer: 73.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "Customer: Health insurance main khud advisor hu.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Insurance Advisor",
+        "evidence": "Customer: Health insurance main khud advisor hu.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Health insurance main khud advisor hu.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Health insurance main khud advisor hu.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 73 years old and an insurance advisor himself.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is a financial advisor himself and is 73 years old, making him an unlikely prospect for the products pitched."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and pitched a term plus mutual fund plan, to which the customer responded with curiosity about the plan name.",
+      "customer_response": "The customer was passive and polite, eventually revealing he is an industry professional.",
+      "key_event": "The customer revealed his age as 73, leading the agent to pivot away from the initial product pitch.",
+      "ending": "The call ended after the customer informed the agent that he is an insurance advisor himself."
+    },
+    "key_quotes": [
+      "Health insurance main khud advisor hu."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

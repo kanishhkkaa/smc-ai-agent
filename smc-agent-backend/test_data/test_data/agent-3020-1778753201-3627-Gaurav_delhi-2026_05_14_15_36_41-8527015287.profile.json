@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "3167232249062451",
+  "source_transcript": "agent-3020-1778753201-3627-Gaurav_delhi-2026_05_14_15_36_41-8527015287.json",
+  "source_name": "agent-3020-1778753201-3627-Gaurav_delhi-2026_05_14_15_36_41-8527015287.mp3",
+  "created_at_utc": "2026-05-16T00:18:36Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 155.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi se bahar.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi se bahar.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Delhi is a Tier 1 city.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Ek timing, ek timing de dijiye na sir, aadhe ghante ki timing de dijiye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Arey yaar, is bande ne dimag kharab kar diya.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Arey yaar, is bande ne dimag kharab kar diya.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 20.0,
+      "compliance_flags": [
+        "did_not_verify_identity"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC guarantee product",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is hostile and clearly not interested in the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is clearly frustrated and annoyed by the repeated calls, stating the agent has 'dimag kharab kar diya'. No interest in the product was shown."
+    },
+    "summary": "The agent attempted to pitch an HDFC guarantee product to a customer who was clearly frustrated and hostile. The customer expressed significant annoyance, stating the agent had ruined their mood and that they were tired of the repeated calls. The call ended with the customer expressing clear disinterest.",
+    "key_quotes": [
+      "Arey yaar, is bande ne dimag kharab kar diya.",
+      "Time deke phir mukar jaate hain, ye bhi rehta hai, yaar ye banda karne wala hai."
+    ],
+    "red_flags": [
+      "hostile_customer",
+      "agent_misconduct"
+    ],
+    "extraction_confidence": "high"
+  }
+}

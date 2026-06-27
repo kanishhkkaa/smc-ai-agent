@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "agent_id": "2037",
+  "call_id": "agent-2037-1779254938-2404-Gaurav_delhi-2026_05_20_10_58_58-9891189654",
+  "source_file": "agent-2037-1779254938-2404-Gaurav_delhi-2026_05_20_10_58_58-9891189654.json",
+  "source_relative": "agent-2037-1779254938-2404-Gaurav_delhi-2026_05_20_10_58_58-9891189654.json",
+  "created_at_utc": "2026-05-25T19:31:39Z",
+  "transcript_stats": {
+    "segments": 1,
+    "duration_seconds": null,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2037",
+    "agent_self_introduced_name": "not_disclosed",
+    "call_id": "agent-2037-1779254938-2404-Gaurav_delhi-2026_05_20_10_58_58-9891189654",
+    "opening": {
+      "self_identified_name": false,
+      "consent_taken": false,
+      "greeting_quality": "missing",
+      "verified_customer_identity": false,
+      "self_identified_company": false
+    },
+    "pitch": {
+      "pitch_delivered": false,
+      "uses_jargon_appropriately": false,
+      "product_pitched": "not_disclosed",
+      "explains_numbers_clearly": "not_applicable",
+      "pitch_clarity": "not_applicable"
+    },
+    "discovery": {
+      "discovery_question_count": 0,
+      "personalizes_to_customer": false,
+      "discovery_depth": "none"
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "talk_listen_ratio": "agent_dominates",
+      "language_quality": "high",
+      "language_used": "english",
+      "interrupted_customer": false,
+      "tone_professionalism": "medium",
+      "empathy": "low"
+    },
+    "closing": {
+      "callback_datetime": "not_disclosed",
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "graceful_close": false,
+      "last_speaker": "ivr",
+      "ended_abruptly": false,
+      "end_reason": "voicemail",
+      "end_reason_evidence": "Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up.",
+      "is_ivr_only": true,
+      "customer_declined_explicitly": false
+    },
+    "outcome": {
+      "stage_reached": "no_conversation",
+      "drop_off_point": "greeting",
+      "outcome": "no_human_contact"
+    },
+    "strengths": [
+      "None, as the call was a voicemail."
+    ],
+    "improvement_areas": [
+      "None, as the call was a voicemail."
+    ],
+    "coaching_recommendations": [
+      "The call reached voicemail; ensure call logs are updated to reflect this outcome."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [],
+    "call_grade": "C",
+    "summary": "The call reached the customer's voicemail system. No human interaction occurred.",
+    "extraction_confidence": "high"
+  }
+}

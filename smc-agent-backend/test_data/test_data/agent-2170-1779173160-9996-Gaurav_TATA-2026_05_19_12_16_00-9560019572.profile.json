@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "4289364588410474",
+  "source_transcript": "agent-2170-1779173160-9996-Gaurav_TATA-2026_05_19_12_16_00-9560019572.json",
+  "source_name": "agent-2170-1779173160-9996-Gaurav_TATA-2026_05_19_12_16_00-9560019572.mp3",
+  "created_at_utc": "2026-05-22T11:18:20Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 92.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "Customer: Age 29.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai madam, business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Business hai madam, business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Ho jati hai madam, 7 se 8 lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Lekin abhi nahi, abhi kuch nahi chahiye madam filhal hume.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Lekin abhi nahi, abhi kuch nahi chahiye madam filhal hume.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi madam, pehle se hi hum bahut saare benefit le chuke hain.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Bahut saare paise invest hain madam.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Lekin abhi nahi, abhi kuch nahi chahiye madam filhal hume.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 CR term coverage",
+        "mutual fund return benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA two in one combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is already well-invested and explicitly stated no interest in new products.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage, only investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is already invested in multiple products and explicitly stated they do not want anything right now."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and the customer responded with a neutral 'Haan bataiye'.",
+      "customer_response": "Passive and dismissive, eventually pushing back on the need for more products.",
+      "key_event": "Customer rejected the pitch by stating they already have many benefits and are not interested in new investments.",
+      "ending": "Customer ended the conversation by citing market conditions and existing investments."
+    },
+    "key_quotes": [
+      "Bahut saare paise invest hain madam.",
+      "Lekin abhi nahi, abhi kuch nahi chahiye madam filhal hume.",
+      "Nahi madam, pehle se hi hum bahut saare benefit le chuke hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

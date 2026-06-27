@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3436417995125268",
+  "source_transcript": "agent-2089-1779518593-503-Gaurav_delhi-2026_05_23_12_13_14-8527134134.json",
+  "created_at_utc": "2026-06-01T02:28:32Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779518593-503-Gaurav_delhi-2026_05_23_12_13_14-8527134134.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Neetu, ek baat main abhi na meeting mein hun, baad mein baat karunga. Theek hai? ... Main do, do baje ke baad baat karta hun, theek hai?",
+    "summary": "Agent pitched an HDFC Life plan; customer deferred due to a meeting and agreed to a callback at 2:00 PM.",
+    "callback_time_iso": "2026-05-23T14:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Chandrashekhar",
+        "evidence": "Chandrashekhar.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai as a cash bonus",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

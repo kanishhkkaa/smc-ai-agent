@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "6424870961653807",
+  "source_transcript": "agent-3022-1778748749-6519-Gaurav_delhi-2026_05_14_14_22_29-9990057653.json",
+  "source_name": "agent-3022-1778748749-6519-Gaurav_delhi-2026_05_14_14_22_29-9990057653.mp3",
+  "created_at_utc": "2026-05-16T00:19:20Z",
+  "transcript_stats": {
+    "segments": 2,
+    "duration_seconds": 56.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "hello, ji, abhi jo aapne bola na, 576000 aayega na",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "abhi jo aapne bola na, 576000 aayega na, usko minus karenge",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 80.0,
+      "agent_talk_percent": 20.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "120000 ka 40 percent ho jayega 48000, theek hai, 12 saal tak agar chalaogi toh 12 saalon ka ye hoga 576000",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "no_conversation",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "fit_score_0_10": null,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is actively calculating returns on a financial product, suggesting interest, but the call was a voicemail recording and the customer's intent is unclear."
+    },
+    "summary": "The customer left a voicemail calculating returns on a financial product, likely responding to a previous interaction or message. The customer appears to be analyzing the math of a policy or investment plan. No agent-customer conversation occurred.",
+    "key_quotes": [
+      "120000 ka 40 percent ho jayega 48000, theek hai, 12 saal tak agar chalaogi toh 12 saalon ka ye hoga 576000"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "medium"
+  }
+}

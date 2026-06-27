@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "5723134154819926",
+  "source_transcript": "2026_05_26/agent-3052-1779772554-5561-Gaurav_delhi-2026_05_26_10_45_54-9560399951.json",
+  "source_name": "agent-3052-1779772554-5561-Gaurav_delhi-2026_05_26_10_45_54-9560399951.mp3",
+  "created_at_utc": "2026-06-01T05:11:19Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 161.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "I am not able to handle it because I am having a loan of house loan.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "I am not interested in this plan.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "I am not able to handle it because I am having a loan of house loan.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "I can't give 5000 per month actually as per my budget.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "home loan burden",
+        "insufficient budget"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Sir maine already SIP mein invest kiya hua hai 5000 per month.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "I will try to invest it next year in 2027 and I will try to invest everything anything like in that HDFC or somewhere.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "8-9% compounding interest on actual amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer has a home loan and is currently unable to commit to additional monthly investments.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "child_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer expressed interest in investing in the future (2027) but is currently constrained by a home loan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed plan, and the customer responded politely to hear more.",
+      "customer_response": "The customer was polite but consistently pushed back due to current financial constraints (home loan).",
+      "key_event": "The customer explicitly stated they have a home loan and cannot afford the investment right now, suggesting a potential future timeline of 2027.",
+      "ending": "The agent accepted the customer's final refusal and ended the call professionally."
+    },
+    "key_quotes": [
+      "I am not able to handle it because I am having a loan of house loan.",
+      "I will try to invest it next year in 2027"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "4089996540592779",
+  "source_transcript": "2026_05_27/agent-2021-1779888523-9723-Gaurav_delhi-2026_05_27_18_58_43-9999662238.json",
+  "source_name": "agent-2021-1779888523-9723-Gaurav_delhi-2026_05_27_18_58_43-9999662238.mp3",
+  "created_at_utc": "2026-06-01T05:14:23Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 104.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "75",
+        "evidence": "Customer: 75.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: \"Are toh mera 75 hai, maine aapko bol diya. Toh sir mujhe kya karna hai, ye batao?\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "75 mein kya saving kar payega?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "first year se hi 40,000 rupaye tak ka tax free return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 75 years old; the product is unsuitable for his age profile.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent was unprofessional, dismissive of the customer's age, and the conversation devolved into an argument."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from Tata AIA to pitch a guaranteed income plan, and the customer responded politely.",
+      "customer_response": "The customer was initially polite but became increasingly annoyed by the agent's unprofessional comments regarding his age.",
+      "key_event": "The agent questioned the customer's ability to save due to his age of 75, leading to a confrontational exchange.",
+      "ending": "The call ended abruptly after the agent made inappropriate comments about visiting the customer to push for savings."
+    },
+    "key_quotes": [
+      "75 mein kya saving kar payega?",
+      "Aap aisa na karo. Aap mere sath mein ho, aap saving kar lo, main aata hun, push karunga."
+    ],
+    "red_flags": [
+      "agent_unprofessionalism",
+      "inappropriate_personal_comments"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

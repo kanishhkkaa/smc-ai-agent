@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5448881739285651",
+  "source_transcript": "agent-3023-1779533822-7088-Gaurav_delhi-2026_05_23_16_27_02-7827112611.json",
+  "created_at_utc": "2026-06-01T02:39:31Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3023-1779533822-7088-Gaurav_delhi-2026_05_23_16_27_02-7827112611.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "prospect_is_sales_agent"
+    ],
+    "confidence": "high",
+    "evidence": "Ek bima kara lo, main waisa insurance hi karta hun.",
+    "summary": "The agent self-disqualified the prospect based on age, and the customer revealed he is also an insurance professional.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "main waisa insurance hi karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "every year 36 percent ki income aati hai aapki whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 0.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

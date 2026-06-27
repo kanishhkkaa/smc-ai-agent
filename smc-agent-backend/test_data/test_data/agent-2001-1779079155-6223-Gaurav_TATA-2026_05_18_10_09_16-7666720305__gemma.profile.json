@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779079155-6223-Gaurav_TATA-2026_05_18_10_09_16-7666720305",
+  "source_file": "agent-2001-1779079155-6223-Gaurav_TATA-2026_05_18_10_09_16-7666720305.json",
+  "source_relative": "agent-2001-1779079155-6223-Gaurav_TATA-2026_05_18_10_09_16-7666720305.json",
+  "created_at_utc": "2026-05-21T00:42:05Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 167.66,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Karina",
+    "call_id": "agent-2001-1779079155-6223-Gaurav_TATA-2026_05_18_10_09_16-7666720305",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "term plus investment plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "medium"
+    },
+    "discovery": {
+      "discovery_question_count": 4,
+      "discovery_depth": "shallow",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "medium",
+      "objections_faced": [
+        {
+          "objection_type": "trust",
+          "customer_quote": "Haan toh aaj aaj day one hai toh kal main gaya samajh gujar gaya toh kya ho jayega mil jayega crore?",
+          "agent_response_summary": "Confirmed that the cover is provided from day one.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "already_have_product",
+          "customer_quote": "Haan already hai na aapka time kyun waste karun main.",
+          "agent_response_summary": "Agent accepted the refusal and ended the call.",
+          "resolved_by_agent": false
+        }
+      ]
+    },
+    "compliance": {
+      "compliance_flags": [
+        "did_not_verify_identity",
+        "omitted_disclaimer"
+      ],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "tone_professionalism": "medium",
+      "empathy": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "customer_declined",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": true,
+      "graceful_close": true,
+      "last_speaker": "agent",
+      "end_reason_evidence": "Haan already hai na aapka time kyun waste karun main. Agent: Theek hai sir."
+    },
+    "outcome": {
+      "stage_reached": "pitch_delivered",
+      "drop_off_point": "ask",
+      "outcome": "not_interested"
+    },
+    "strengths": [
+      "Clear introduction of self and company",
+      "Quickly addressed the customer's query about the death benefit"
+    ],
+    "improvement_areas": [
+      "Failed to take consent before starting the pitch",
+      "Did not verify the customer's identity",
+      "Tone became slightly condescending when discussing income"
+    ],
+    "coaching_recommendations": [
+      "Train the agent on the importance of the 'Consent' step to avoid customer irritation",
+      "Coach the agent on soft skills, specifically avoiding phrases that challenge the customer's statements (e.g., regarding ITR and income)",
+      "Ensure identity verification is performed at the start of every call"
+    ],
+    "exemplary_quotes": [
+      "Sir main aapse Karina baat kar rahi hun sir Tata AIA ke behalf se."
+    ],
+    "problematic_quotes": [
+      "Sir ITR file karte hain toh thoda bahut toh nahi hoga na."
+    ],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and the product clearly but failed on basic compliance steps like identity verification and obtaining consent. While she handled the initial query about the cover well, she used a slightly pushy tone regarding the customer's income. The customer eventually declined the offer stating they already have insurance.",
+    "extraction_confidence": "high"
+  }
+}

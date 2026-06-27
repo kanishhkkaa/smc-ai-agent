@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "5844647940601584",
+  "source_transcript": "2026_05_27/agent-2077-1779873853-5875-Gaurav_TATA-2026_05_27_14_54_13-9873047148.json",
+  "source_name": "agent-2077-1779873853-5875-Gaurav_TATA-2026_05_27_14_54_13-9873047148.mp3",
+  "created_at_utc": "2026-06-01T05:16:09Z",
+  "transcript_stats": {
+    "segments": 60,
+    "duration_seconds": 187.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "Customer: 36.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"kya karte ho sir\", \"sir aap smoking\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"bas bhains bandh rakhi hai\", \"dairy kar rakhi hai\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Dairy business",
+        "evidence": "Customer: \"dairy kar rakhi hai\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: \"Mahine ka nu laga lo... 7-8 lakh rupaye bacha.\" (8L/month = 96L/year)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Haan bolo madam.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: \"Kabhi kara hi nahi.\"",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Kabhi kara hi nahi.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term coverage",
+        "mutual fund return",
+        "totally tax free"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent terminated the call due to the customer's education level, indicating a mismatch in target profile.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent abruptly ended the call after discovering the customer's education level, showing no interest in continuing."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and mutual fund plan from Tata AIA.",
+      "customer_response": "The customer was passive and provided information about his dairy business and income when asked.",
+      "key_event": "The agent asked about the customer's education level and terminated the call upon receiving the answer.",
+      "ending": "The agent abruptly ended the call after learning the customer's education level."
+    },
+    "key_quotes": [
+      "Mahine ka nu laga lo. 7-8 lakh rupaye bacha.",
+      "Kabhi kara hi nahi."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "7021961046750665",
+  "source_transcript": "agent-2059-1778844591-6204-Gaurav_delhi-2026_05_15_16_59_51-7503418448.json",
+  "source_name": "agent-2059-1778844591-6204-Gaurav_delhi-2026_05_15_16_59_51-7503418448.mp3",
+  "created_at_utc": "2026-05-18T05:59:01Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 103.3,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "File name: agent-2059-1778844591-6204-Gaurav_delhi-2026_05_15_16_59_51-7503418448.mp3",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "Customer: 38.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Salaried.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 3 LPA.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Haan. Haanji boliye. Haan. Haanji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent income from first year for whole life",
+        "8 percent compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 4800000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer earns 3 LPA, agent is pitching a product with a 48 lakh premium/value, which is completely unaffordable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "The customer is low income (3 LPA) and the agent is pushing a high-premium product (48 lakh mentioned), creating a significant mismatch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself as calling from HDFC Life regarding a new plan.",
+      "customer_response": "The customer was passive, answering questions briefly without showing interest.",
+      "key_event": "The agent made aggressive, likely non-compliant claims about 36% returns and 8% compound interest.",
+      "ending": "The agent was mid-pitch when the transcript cut off."
+    },
+    "key_quotes": [
+      "36 percent ki income provide karti hai",
+      "3 LPA"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

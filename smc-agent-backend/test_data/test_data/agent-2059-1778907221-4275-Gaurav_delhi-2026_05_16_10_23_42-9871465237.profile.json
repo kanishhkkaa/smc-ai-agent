@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "7030011353643195",
+  "source_transcript": "2026_05_16/agent-2059-1778907221-4275-Gaurav_delhi-2026_05_16_10_23_42-9871465237.json",
+  "source_name": "agent-2059-1778907221-4275-Gaurav_delhi-2026_05_16_10_23_42-9871465237.mp3",
+  "created_at_utc": "2026-06-01T04:42:14Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 197.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 30,000. (30k*12 = 3.6L/yr)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Bataiye, bataiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi, abhi abhi plan nahi hai kuch.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Abhi iske baad main plan sochunga abhi time chahiye.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Agent: 60,000. Customer did not explicitly confirm capacity, just listened.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Abhi iske baad main plan sochunga abhi time chahiye.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compound interest on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 27 with 30k monthly income; 60k annual premium is likely too high relative to income.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer agreed to a callback on Monday after initially stating they needed time to think."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves as calling from HDFC Life regarding a new guaranteed plan.",
+      "customer_response": "Initially hesitant and busy, but eventually agreed to a follow-up call after the agent persisted.",
+      "key_event": "The customer agreed to a callback on Monday after initially saying they needed 2-3 days to think.",
+      "ending": "The agent confirmed a callback for Monday and thanked the customer."
+    },
+    "key_quotes": [
+      "Bataiye, bataiye.",
+      "Abhi iske baad main plan sochunga abhi time chahiye.",
+      "2 se 3 din, Monday, Monday kar lo aap."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

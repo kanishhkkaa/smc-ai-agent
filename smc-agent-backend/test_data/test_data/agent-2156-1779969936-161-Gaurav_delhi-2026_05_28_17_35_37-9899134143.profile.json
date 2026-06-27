@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1218700304917267",
+  "source_transcript": "2026_05_28/agent-2156-1779969936-161-Gaurav_delhi-2026_05_28_17_35_37-9899134143.json",
+  "source_name": "agent-2156-1779969936-161-Gaurav_delhi-2026_05_28_17_35_37-9899134143.mp3",
+  "created_at_utc": "2026-06-01T05:36:03Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 145.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Sales.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Electronics sales",
+        "evidence": "Customer: Electronics.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 2.5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Hmm, bataiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% return on premium paid starting from first year",
+        "lifetime income option",
+        "life cover up to 100 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitch relies on unrealistic guaranteed returns (40% of premium) which is highly misleading for a standard insurance product.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is engaged and answering discovery questions, though the agent's pitch is highly suspicious regarding returns."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life regarding information, and the customer invited her to speak.",
+      "customer_response": "Engaged and inquisitive about the returns and mechanics of the plan.",
+      "key_event": "The agent claimed a 40% return on premium from the first year, which the customer questioned.",
+      "ending": "The agent confirmed the customer's annual income and the call ended without a clear next step or closing."
+    },
+    "key_quotes": [
+      "40 percent?",
+      "Kitne time ke baad?",
+      "Bas ek hi time milega ya har mahine milega?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

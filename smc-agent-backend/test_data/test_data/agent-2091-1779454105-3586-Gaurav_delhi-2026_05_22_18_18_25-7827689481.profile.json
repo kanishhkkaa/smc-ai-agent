@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1631878695370213",
+  "source_transcript": "agent-2091-1779454105-3586-Gaurav_delhi-2026_05_22_18_18_25-7827689481.json",
+  "created_at_utc": "2026-06-01T02:52:46Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779454105-3586-Gaurav_delhi-2026_05_22_18_18_25-7827689481.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "25000 per month? Ji.",
+    "summary": "Agent pitched an HDFC Life product and completed discovery (age 35, salaried, 3L annual income), but the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25000 per month",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se aapko 40 percent ki income dena start karti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

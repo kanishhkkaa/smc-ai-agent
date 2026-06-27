@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "2671078952744635",
+  "source_transcript": "agent-2004-1779096543-1381-Gaurav_delhi-2026_05_18_14_59_03-9313697412.json",
+  "source_name": "agent-2004-1779096543-1381-Gaurav_delhi-2026_05_18_14_59_03-9313697412.mp3",
+  "created_at_utc": "2026-05-20T11:06:05Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 310.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Meri age 27 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Hello. Hanji sir",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Mere saalana toh 1 crore tak toh pohanch hi jaata hai around.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Accha theek hai main soch ke batata hun.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 4,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Kam saal ka ho sakta hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Mere saalana toh 1 crore tak toh pohanch hi jaata hai around.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Arey rate of interest kitna 40 percent?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Business hai na bhaiya.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business hai na bhaiya.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income",
+        "8 percent rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life new product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage",
+        "Did not ask about family protection needs"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "other"
+      ],
+      "reasoning": "Customer has high income and is open to considering the plan after thinking."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent calls to pitch a new HDFC Life product with guaranteed income, customer responds with curiosity.",
+      "customer_response": "Customer was initially passive but became engaged when discussing his business and income.",
+      "key_event": "Agent transferred the call to a senior (Rohan) who then discussed the specific plan details.",
+      "ending": "Customer asked for time to think about the proposal."
+    },
+    "key_quotes": [
+      "Mere saalana toh 1 crore tak toh pohanch hi jaata hai around.",
+      "Arey rate of interest kitna 40 percent?",
+      "Accha theek hai main soch ke batata hun."
+    ],
+    "red_flags": [
+      "Agent promised 40% guaranteed income which is a high-risk compliance claim."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

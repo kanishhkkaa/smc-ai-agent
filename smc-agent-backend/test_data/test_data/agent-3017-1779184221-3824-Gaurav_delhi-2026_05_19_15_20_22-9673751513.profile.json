@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1184980561603042",
+  "source_transcript": "agent-3017-1779184221-3824-Gaurav_delhi-2026_05_19_15_20_22-9673751513.json",
+  "source_name": "agent-3017-1779184221-3824-Gaurav_delhi-2026_05_19_15_20_22-9673751513.mp3",
+  "created_at_utc": "2026-05-22T11:23:35Z",
+  "transcript_stats": {
+    "segments": 49,
+    "duration_seconds": 181.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "23",
+        "evidence": "Customer: 23.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Main business karta hu.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "goods distributor",
+        "evidence": "Customer: Per goods ka distributor hu.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: Mere paas teen ghanta teen minute to waise bhi loss hi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Mere paas teen ghanta teen minute to waise bhi loss hi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 lakh ka pension ka bhi option diya jata hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The call was terminated before any meaningful product fit could be established, and the agent's pitch was incoherent.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was visibly frustrated by the call transfer and the agent's unprofessional response, leading to an immediate termination of the call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan, and the customer responded with a neutral 'Haan ji boliye'.",
+      "customer_response": "The customer was initially passive but became increasingly annoyed and hostile due to the poor call handling and transfer.",
+      "key_event": "The call was transferred from the first agent to a second agent, which triggered the customer's irritation and eventual refusal to continue.",
+      "ending": "The customer expressed frustration over wasted time and ended the call abruptly."
+    },
+    "key_quotes": [
+      "Mere paas teen ghanta teen minute to waise bhi loss hi hai.",
+      "ABCD start karna padega na?"
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "pressure_tactic",
+      "tone_professionalism"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

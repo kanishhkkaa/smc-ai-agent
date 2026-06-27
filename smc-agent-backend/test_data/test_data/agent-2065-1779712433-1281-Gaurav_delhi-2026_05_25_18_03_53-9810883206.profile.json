@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1209218754964202",
+  "source_transcript": "agent-2065-1779712433-1281-Gaurav_delhi-2026_05_25_18_03_53-9810883206.json",
+  "source_name": "agent-2065-1779712433-1281-Gaurav_delhi-2026_05_25_18_03_53-9810883206.mp3",
+  "created_at_utc": "2026-05-27T01:15:38Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "office time chal raha hai na",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Ji bataye sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main continue nahi kar paunga, office time chal raha hai na.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-30T11:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent ki money back income deti hai aapki whole life ke liye",
+        "8 percent ka guaranteed return",
+        "double tax ka benefit",
+        "family ke do member cover hoke chalte hain"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed savings plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "No discovery questions asked to understand customer needs or financial profile."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was polite and provided a specific callback time, indicating openness to hear more despite being busy."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from HDFC Life regarding a new plan, and the customer responded politely.",
+      "customer_response": "The customer was polite but passive, quickly citing work constraints to end the pitch.",
+      "key_event": "The customer interrupted the agent's pitch to state they were busy at the office.",
+      "ending": "The call ended cordially after the customer agreed to a callback on Saturday after 11 AM."
+    },
+    "key_quotes": [
+      "Main continue nahi kar paunga, office time chal raha hai na.",
+      "Saturday call kar sakte hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

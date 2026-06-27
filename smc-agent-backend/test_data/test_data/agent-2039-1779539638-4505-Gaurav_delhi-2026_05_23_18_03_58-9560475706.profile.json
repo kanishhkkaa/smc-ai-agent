@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3437053941375354",
+  "source_transcript": "agent-2039-1779539638-4505-Gaurav_delhi-2026_05_23_18_03_58-9560475706.json",
+  "created_at_utc": "2026-06-01T02:21:28Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1779539638-4505-Gaurav_delhi-2026_05_23_18_03_58-9560475706.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap ek kaam karo mam, aap ek kaam karo ye plan jo hai na mere WhatsApp pe daal do. Main pehle isko study karunga, main kal aapse baat karunga.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer requested details on WhatsApp and agreed to a callback tomorrow after 10 AM.",
+    "callback_time_iso": "2026-05-24T10:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Giriraj Singh",
+        "evidence": "Aap Giriraj Singh hain na aap? — Haanji, haanji.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "age ka aap kuch bhi daal do 30 plus mein.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Location Delhi hai",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "Phir aapko interest ke saath wo paise wapas milte hain.",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 30,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

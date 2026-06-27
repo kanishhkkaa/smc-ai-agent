@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "3868177321003205",
+  "source_transcript": "agent-2103-1779686298-3739-Gaurav_delhi-2026_05_25_10_48_18-8595143820.json",
+  "source_name": "agent-2103-1779686298-3739-Gaurav_delhi-2026_05_25_10_48_18-8595143820.mp3",
+  "created_at_utc": "2026-05-27T01:19:11Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 103.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Agent: 45? Customer: Ji?",
+        "confidence": "medium"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Khud ka kaam hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "self-employed",
+        "evidence": "Customer: Khud ka kaam hai.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Saal ki yahi samjhiye 50-60 hazaar.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: Nahi. (in response to minimum premium)",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Khud ka kaam hai.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki income aana start ho jaati hai aapki whole life ke liye",
+        "double tax ka benefit",
+        "80C ka compounding interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer's annual income is too low to afford the minimum premium for the pitched product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer's income is too low for the product, and the agent acknowledged the inability to proceed."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive and provided minimal information, eventually revealing an income level that made the product unaffordable.",
+      "key_event": "The customer disclosed an annual income of 50-60 thousand, which the agent immediately identified as insufficient for the product.",
+      "ending": "The agent acknowledged the customer's inability to afford the minimum premium and ended the call."
+    },
+    "key_quotes": [
+      "Saal ki yahi samjhiye 50-60 hazaar.",
+      "Nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

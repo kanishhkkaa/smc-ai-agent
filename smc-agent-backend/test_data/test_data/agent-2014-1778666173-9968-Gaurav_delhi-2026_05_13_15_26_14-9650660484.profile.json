@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4052336025027199",
+  "source_transcript": "agent-2014-1778666173-9968-Gaurav_delhi-2026_05_13_15_26_14-9650660484.json",
+  "created_at_utc": "2026-06-01T03:11:11Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2014-1778666173-9968-Gaurav_delhi-2026_05_13_15_26_14-9650660484.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh main theek hai, aap kal, kal karna mam. 10 baje tak.",
+    "summary": "Agent pitched an HDFC Life combo plan; customer was busy in a meeting but agreed to a callback tomorrow at 10:00 AM.",
+    "callback_time_iso": "2026-05-14T10:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Gurvinder Singh",
+        "evidence": "Yahan pe jo aapka naam aa raha hai, Mr. Gurvinder Singh aa raha hai, yahi naam likha hai? Haan.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte hain, uska 35 percent company return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

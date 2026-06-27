@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3440736509344932",
+  "source_transcript": "agent-3054-1779615561-4503-Gaurav_delhi-2026_05_24_15_09_21-8447170204.json",
+  "created_at_utc": "2026-06-01T02:16:00Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1779615561-4503-Gaurav_delhi-2026_05_24_15_09_21-8447170204.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "19. Student hun.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; discovery was attempted, but the prospect is a 19-year-old student, leading to no further commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "19.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Student hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki money back income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "1706770408305220",
+  "source_transcript": "agent-2170-1779177123-5292-Gaurav_TATA-2026_05_19_13_22_04-9871040145.json",
+  "source_name": "agent-2170-1779177123-5292-Gaurav_TATA-2026_05_19_13_22_04-9871040145.mp3",
+  "created_at_utc": "2026-05-22T11:18:46Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "\"43-44 year ke age mein nikaloge na\"",
+        "confidence": "medium"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"HDFC Bank mein na branch manager hu mam\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Bank Branch Manager",
+        "evidence": "\"HDFC Bank mein na branch manager hu mam\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Ye product mein charges bahut zyada hai. Theek hai na? Isko chhod do koi.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 2,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Ye product mein charges bahut zyada hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Main main khud hi ye sell karta hu product.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "high mortality charges",
+        "product is expensive"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "\"Main main khud hi ye sell karta hu product.\"",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Main main khud hi ye sell karta hu product.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Param Raksha Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an industry professional who finds the product overpriced and already sells it.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is a bank branch manager who is well-versed in insurance products and explicitly stated the product is too expensive and he sells such products himself."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a '2 in 1' combined plan from Tata AIA, and the customer asked for the product name.",
+      "customer_response": "The customer was dismissive and pushed back immediately, identifying himself as a professional in the same industry.",
+      "key_event": "The customer identified himself as an HDFC Bank branch manager and criticized the product's high mortality charges.",
+      "ending": "The customer ended the call by stating he sells these products himself, and the agent accepted the rejection."
+    },
+    "key_quotes": [
+      "Ye product mein charges bahut zyada hai.",
+      "Main main khud hi ye sell karta hu product."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

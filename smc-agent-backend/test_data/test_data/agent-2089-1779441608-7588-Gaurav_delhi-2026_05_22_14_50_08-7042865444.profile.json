@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "3368862693594442",
+  "source_transcript": "agent-2089-1779441608-7588-Gaurav_delhi-2026_05_22_14_50_08-7042865444.json",
+  "created_at_utc": "2026-06-01T02:52:05Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 207.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779441608-7588-Gaurav_delhi-2026_05_22_14_50_08-7042865444.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Haan, isme kya hota hai ki aapki age ke according jo aapki investment hoti hai sir, keval 12 saal ke liye hoti hai... main aapko ek baar senior part mein clear karwa ke chalti hun",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed discovery (age 37, salaried), and initiated a transfer to a senior agent for further explanation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "16-6-89... 37-37",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Gurgaon",
+        "evidence": "IMT Manesar... Gurgaon se baat kar rahe hain? Ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Customer avoided answering the income question directly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

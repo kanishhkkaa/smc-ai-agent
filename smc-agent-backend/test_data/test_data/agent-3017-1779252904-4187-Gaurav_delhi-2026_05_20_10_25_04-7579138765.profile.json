@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "profile_id": "7693921726882028",
+  "source_transcript": "agent-3017-1779252904-4187-Gaurav_delhi-2026_05_20_10_25_04-7579138765.json",
+  "source_name": "agent-3017-1779252904-4187-Gaurav_delhi-2026_05_20_10_25_04-7579138765.mp3",
+  "created_at_utc": "2026-05-24T05:11:25Z",
+  "transcript_stats": {
+    "segments": 49,
+    "duration_seconds": 157.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main job karta hu.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Agent: Aapka annual package kya hai sir? Customer: 12. Agent: 12 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji, thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T17:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was receptive to a callback at 5 PM despite poor network conditions."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves from Tata AIA and mentioned a new plan, 'Tata Param Raksha Pro'.",
+      "customer_response": "Customer was passive and cooperative, despite struggling with poor network connectivity.",
+      "key_event": "The customer confirmed his age (35) and income (12 LPA) before the call quality deteriorated significantly.",
+      "ending": "The call ended with an agreement to call back at 5 PM due to the customer being in a train with poor network."
+    },
+    "key_quotes": [
+      "Main job karta hu.",
+      "35.",
+      "5 baje ke around."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

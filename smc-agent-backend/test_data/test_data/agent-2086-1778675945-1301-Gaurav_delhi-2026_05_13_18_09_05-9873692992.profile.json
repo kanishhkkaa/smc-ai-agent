@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "8829355873300890",
+  "source_transcript": "2026_05_13/agent-2086-1778675945-1301-Gaurav_delhi-2026_05_13_18_09_05-9873692992.json",
+  "source_name": "agent-2086-1778675945-1301-Gaurav_delhi-2026_05_13_18_09_05-9873692992.mp3",
+  "created_at_utc": "2026-06-01T03:41:50Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "Neha baat kar rahi hun HDFC Life ke behalf se, kaise hain aap? Customer: Badhiya.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "Customer: 58.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: Ji 58 age mein job kar rahe hain sir ya koi business run kar rahe hain aap apna? Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Job",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Bataiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: I can take it on my son's name or something.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% tax free income within 7 days for whole life",
+        "double tax benefit",
+        "double life cover up to age 100"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the son's age or financial dependency."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is open to the product and suggested taking it in their son's name, indicating interest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and asked for time to explain a plan, to which the customer agreed.",
+      "customer_response": "Engaged and open to the pitch, suggesting an alternative beneficiary.",
+      "key_event": "Customer expressed interest in the plan but suggested applying in their son's name instead of their own.",
+      "ending": "The customer suggested taking the plan in their son's name, and the call concluded without a specific next step."
+    },
+    "key_quotes": [
+      "I can take it on my son's name or something."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

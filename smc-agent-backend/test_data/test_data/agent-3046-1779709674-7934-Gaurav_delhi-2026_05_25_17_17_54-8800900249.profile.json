@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "3943084332584708",
+  "source_transcript": "agent-3046-1779709674-7934-Gaurav_delhi-2026_05_25_17_17_54-8800900249.json",
+  "source_name": "agent-3046-1779709674-7934-Gaurav_delhi-2026_05_25_17_17_54-8800900249.mp3",
+  "created_at_utc": "2026-05-27T01:27:54Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 218.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Bengaluru",
+        "evidence": "Customer: Main toh Bengaluru se hoon.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Construction company mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Construction company employee",
+        "evidence": "Customer: Construction company mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 19. Agent: 19 lakh? Customer: Hmm.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Nahi, abhi baat ho pa, abhi toh kuch nahi ho payega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Utna toh main already invest karke rakha hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: ...saal ke 2 lakh, mahine ke 16,000 se? Customer: Hmm.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Utna toh main already invest karke rakha hoon.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Utna toh main already invest karke rakha hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T13:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed income",
+        "double tax benefit",
+        "8% compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore retirement or protection needs beyond tax saving."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to a callback but is currently busy at work and has existing investments."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed product, and the customer responded by inviting the agent to speak.",
+      "customer_response": "The customer was passive and focused on his work, providing brief answers to the agent's questions.",
+      "key_event": "The customer raised an objection regarding tax benefits, stating he already has sufficient investments for tax purposes.",
+      "ending": "The agent and customer agreed to a callback at 1:00 PM the following day."
+    },
+    "key_quotes": [
+      "Utna toh main already invest karke rakha hoon.",
+      "Main toh working mein hoon na abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

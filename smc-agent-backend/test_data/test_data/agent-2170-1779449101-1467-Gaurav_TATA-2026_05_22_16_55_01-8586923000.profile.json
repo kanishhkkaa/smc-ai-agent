@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6950436604277482",
+  "source_transcript": "agent-2170-1779449101-1467-Gaurav_TATA-2026_05_22_16_55_01-8586923000.json",
+  "created_at_utc": "2026-06-01T02:56:37Z",
+  "transcript_stats": {
+    "segments": 64,
+    "duration_seconds": 269.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1779449101-1467-Gaurav_TATA-2026_05_22_16_55_01-8586923000.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh aap ek baar mere ko WhatsApp pe update kar do, actually main abhi thoda meeting mein aaunga, toh main aapko update karta hun.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer requested details on WhatsApp due to being in a meeting.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "26.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera hi hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Yahi koi 10 se 12.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "minimum benchmark hai iska 24",
+      "return_claim_pct": 24,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": true,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

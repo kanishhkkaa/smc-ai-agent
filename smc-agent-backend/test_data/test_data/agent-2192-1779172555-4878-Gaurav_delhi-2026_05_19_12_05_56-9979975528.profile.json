@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "7337668065736933",
+  "source_transcript": "agent-2192-1779172555-4878-Gaurav_delhi-2026_05_19_12_05_56-9979975528.json",
+  "source_name": "agent-2192-1779172555-4878-Gaurav_delhi-2026_05_19_12_05_56-9979975528.mp3",
+  "created_at_utc": "2026-05-22T11:19:19Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Monthly income 50,000. (50k/month = 6LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan toh boliye na aise.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer mentioned having an SIP.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is the one providing income details and discussing his own investments.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% income from first year",
+        "8% guaranteed return on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_dropped"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer provided information willingly but the call was cut off before a clear commitment or rejection."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and the customer asked her to speak more clearly.",
+      "customer_response": "The customer was initially annoyed by the agent's pace but became cooperative once the pitch started.",
+      "key_event": "The agent pitched a guaranteed 35% income and 8% return plan, which the customer listened to without immediate pushback.",
+      "ending": "The call was abruptly cut off while the agent was explaining the premium payment term."
+    },
+    "key_quotes": [
+      "32.",
+      "Business.",
+      "Monthly income 50,000."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

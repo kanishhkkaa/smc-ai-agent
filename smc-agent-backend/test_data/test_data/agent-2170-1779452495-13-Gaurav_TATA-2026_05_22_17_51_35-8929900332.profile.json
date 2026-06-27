@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8936800618852736",
+  "source_transcript": "agent-2170-1779452495-13-Gaurav_TATA-2026_05_22_17_51_35-8929900332.json",
+  "created_at_utc": "2026-06-01T02:56:15Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1779452495-13-Gaurav_TATA-2026_05_22_17_51_35-8929900332.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am, actually ye toll-free number hai, jispe aapne call kiya hai. Ye Jabra Connect ka toll-free number hai, ma'am.",
+    "summary": "The agent called a toll-free number for Jabra Connect; the customer clarified the nature of the number, and the call ended.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke return benefit bhi milne hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

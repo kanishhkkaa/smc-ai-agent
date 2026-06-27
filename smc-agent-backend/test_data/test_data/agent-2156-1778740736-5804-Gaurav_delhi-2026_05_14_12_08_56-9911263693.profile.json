@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "9870616846068227",
+  "source_transcript": "agent-2156-1778740736-5804-Gaurav_delhi-2026_05_14_12_08_56-9911263693.json",
+  "source_name": "agent-2156-1778740736-5804-Gaurav_delhi-2026_05_14_12_08_56-9911263693.mp3",
+  "created_at_utc": "2026-05-16T00:12:29Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 204.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Akash",
+      "evidence": "Customer: Akash.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: mam 32.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: mam 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: sir abhi na pure pan India mein na hamare online campaign chal rahi hai... Customer: ji mam. (Agent addresses customer as 'sir')",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "The entire conversation is in Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job hai. ... Customer: mam hotel industry hai, hotel banking hai, banking.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "hotel banking",
+        "evidence": "Customer: mam hotel industry hai, hotel banking hai, banking.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: annual income mam ye man lijiye nearley 6 lakh, 6.25 lakh rupaye yearly.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer is 32 and employed in the hotel industry.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: main aapko na batati hu abhi nahi, aap please kal morning mein baat kijiyega isi time.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "mam abhi filhal nahi lena mere ko.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Agent: agar main aapko 60 hazaar se plan explain kar du toh aap comfortable rahenge sir? (Customer did not reject the amount, just the timing)",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "objection_handled",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-15 13:30:00",
+        "evidence": "Customer: 1 baje ke aas paas mam, 12, 12:30 baje. Agent: okay, main kal aapko 1:30 baje tak call kar leti hu, okay sir.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "life_insurance",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and explicitly requested a callback for the next day, indicating interest in hearing more about the plan."
+    },
+    "summary": "The agent called Akash to pitch an HDFC Life insurance plan. The customer, a 32-year-old working in the hotel industry with an annual income of 6.25 lakhs, was initially hesitant but agreed to a callback for the following day at 1:30 PM. The agent made a potentially non-compliant claim regarding guaranteed income.",
+    "key_quotes": [
+      "mam 32.",
+      "annual income mam ye man lijiye nearley 6 lakh, 6.25 lakh rupaye yearly.",
+      "mam abhi filhal nahi lena mere ko.",
+      "main aapko na batati hu abhi nahi, aap please kal morning mein baat kijiyega isi time."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

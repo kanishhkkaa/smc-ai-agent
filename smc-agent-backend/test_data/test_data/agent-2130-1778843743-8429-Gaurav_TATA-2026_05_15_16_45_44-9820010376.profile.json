@@ -1,0 +1,61 @@
+{
+  "status": "early_exit_regex",
+  "profile_id": "9859154434833642",
+  "source_transcript": "agent-2130-1778843743-8429-Gaurav_TATA-2026_05_15_16_45_44-9820010376.json",
+  "created_at_utc": "2026-06-01T01:14:27Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 42.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2130-1778843743-8429-Gaurav_TATA-2026_05_15_16_45_44-9820010376.json",
+    "primary_disposition": "voicemail",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "forwarded to voicemail",
+    "summary": "Carrier voicemail recording played; customer did not pick up.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "_source": "early_exit_regex"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1928279854479994",
+  "source_transcript": "agent-2046-1779510767-5185-Gaurav_TATA-2026_05_23_10_02_48-7503252924.json",
+  "created_at_utc": "2026-06-01T02:22:09Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779510767-5185-Gaurav_TATA-2026_05_23_10_02_48-7503252924.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi toh kuch nahi hai, job chhoot gayi hai, abhi abhi paise hi nahi hain.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer disclosed being unemployed and having no money, leading to a natural end of the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Abhi toh kuch nahi hai, job chhoot gayi hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "5 saal baad se hi returns provide kiye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

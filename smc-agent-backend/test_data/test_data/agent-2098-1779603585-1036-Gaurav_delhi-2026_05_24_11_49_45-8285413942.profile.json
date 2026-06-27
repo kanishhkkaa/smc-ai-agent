@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2317804733859999",
+  "source_transcript": "agent-2098-1779603585-1036-Gaurav_delhi-2026_05_24_11_49_45-8285413942.json",
+  "created_at_utc": "2026-06-01T02:09:31Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 52.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779603585-1036-Gaurav_delhi-2026_05_24_11_49_45-8285413942.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan bahar mein hun outside mein.",
+    "summary": "The agent pitched an HDFC Life plan, but the customer was in a noisy environment, so the agent decided to call back later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle saal se hi 40 percent ki income",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

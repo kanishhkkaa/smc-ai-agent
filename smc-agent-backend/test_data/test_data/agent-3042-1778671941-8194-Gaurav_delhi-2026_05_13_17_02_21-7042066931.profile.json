@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "1598284964878815",
+  "source_transcript": "2026_05_13/agent-3042-1778671941-8194-Gaurav_delhi-2026_05_13_17_02_21-7042066931.json",
+  "source_name": "agent-3042-1778671941-8194-Gaurav_delhi-2026_05_13_17_02_21-7042066931.mp3",
+  "created_at_utc": "2026-06-01T04:04:10Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 122.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "29",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 to 4 lakhs",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "koi interest nahi hai sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Koi nahi, abhi aise koi interest nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "fund insufficient"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Matlab savings nahi hoti mere paas, savings bachi nahi hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "35% guaranteed income",
+        "8% return",
+        "double tax benefit",
+        "term insurance",
+        "WOP premium rider"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no savings and explicitly stated no interest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated no interest multiple times and declined to hear more details."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from HDFC Life and immediately pitched a product with high guaranteed returns.",
+      "customer_response": "The customer was passive initially but became firm in declining the offer as the call progressed.",
+      "key_event": "The customer explicitly stated they have no savings and no interest in the product.",
+      "ending": "The agent attempted to push back on the refusal, but the customer maintained their stance and the call ended."
+    },
+    "key_quotes": [
+      "Matlab savings nahi hoti mere paas, savings bachi nahi hai.",
+      "Koi nahi, abhi aise koi interest nahi hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

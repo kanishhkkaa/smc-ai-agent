@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "4025270132333838",
+  "source_transcript": "agent-2037-1779169001-3587-Gaurav_delhi-2026_05_19_11_06_41-9810134502.json",
+  "source_name": "agent-2037-1779169001-3587-Gaurav_delhi-2026_05_19_11_06_41-9810134502.mp3",
+  "created_at_utc": "2026-05-22T11:07:03Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ravindra",
+      "evidence": "Agent: Sir, Mr. Ravindra. Yahan pe jo name show ho raha hai, Mr. Ravindra.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Shaam ko 4 baje kar lijiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: Like isme 60,000 hai yearly. Customer: Achcha, toh 60,000 ka 3% kitna hua?",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Ye, ye, ye, ye kaam na Axis Bank bhi kar raha tha, par samajh nahi aaya mere ko.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: Actually, maine aapko na ek saving plan ke regarding connect kiya hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Ek baar aap mere ko send kar dijiye, main ek baar aaram se check karta hoon, phir main aapko call karta hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% cash bonus return on annual premium",
+        "11 lakh maturity on 60,000 annual premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent is misrepresenting the product as a high-return investment rather than insurance.",
+      "missed_opportunities": [
+        "Did not verify if customer has existing life insurance or protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer requested a callback for 4 PM after reviewing the product details."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as Savan from HDFC Life and confirmed the customer's name as Mr. Ravindra.",
+      "customer_response": "The customer was inquisitive and engaged, asking clarifying questions about the returns and maturity.",
+      "key_event": "The agent made a specific claim of a 35% monthly return on the premium, which the customer questioned.",
+      "ending": "The call ended with the customer requesting a callback at 4 PM to discuss further after reviewing the plan details."
+    },
+    "key_quotes": [
+      "35% return kaun deta hai bhai?",
+      "Ek baar aap mere ko send kar dijiye, main ek baar aaram se check karta hoon, phir main aapko call karta hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

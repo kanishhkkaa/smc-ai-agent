@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1289179292624827",
+  "source_transcript": "agent-2103-1779597404-3207-Gaurav_delhi-2026_05_24_10_06_44-9716770546.json",
+  "created_at_utc": "2026-06-01T02:09:36Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 98.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2103-1779597404-3207-Gaurav_delhi-2026_05_24_10_06_44-9716770546.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Char-paanch lakh to maan lo.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed full discovery (age 35, business, 4-5L income), and the customer remained engaged without a final commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Self.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Char-paanch lakh to maan lo.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aana start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "5837766057510537",
+  "source_transcript": "agent-2192-1778583937-8437-Gaurav_delhi-2026_05_12_16_35_37-7428437887.json",
+  "source_name": "agent-2192-1778583937-8437-Gaurav_delhi-2026_05_12_16_35_37-7428437887.mp3",
+  "created_at_utc": "2026-05-15T06:49:54Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 113.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: 28.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello. Customer: hello. Agent: good evening sir, main Sharik baat kar raha hun HDFC Life ki taraf se. Customer: bolo ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: business. Agent: okay acchi baat hai sir, kis cheez ka business hai? Customer: consultancy ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "consultancy",
+        "evidence": "Customer: consultancy ka.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: 12. Agent: 12 lakh? Customer: hmm.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer is 28 and runs a consultancy business.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer was initially listening but became dismissive after the agent's pushy response.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "ji, wo karke baat karta hun, main samajh lun kya hai kya nahi, phir baat karta hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is the business owner and is evaluating the plan himself.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Sanchay Par Advantage",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals.",
+        "Failed to explain the product clearly, leading to customer confusion."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was interested enough to listen but the agent's aggressive tone and pushy behavior at the end likely damaged the relationship. A cooling-off period is needed before re-engaging."
+    },
+    "summary": "The agent called a 28-year-old business owner to pitch the HDFC Sanchay Par Advantage plan. The agent made misleading claims about guaranteed returns and tax-free income. The customer expressed a need to understand the product better before proceeding, but the agent responded aggressively, causing the customer to disengage.",
+    "key_quotes": [
+      "kya kya kya?",
+      "ji, wo karke baat karta hun, main samajh lun kya hai kya nahi, phir baat karta hun.",
+      "sir kisse samjhenge, hum samjha to rahe hai aapko."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

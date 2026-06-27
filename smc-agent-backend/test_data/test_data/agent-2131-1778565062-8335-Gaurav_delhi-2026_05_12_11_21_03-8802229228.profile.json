@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "8433417927466116",
+  "source_transcript": "agent-2131-1778565062-8335-Gaurav_delhi-2026_05_12_11_21_03-8802229228.json",
+  "source_name": "agent-2131-1778565062-8335-Gaurav_delhi-2026_05_12_11_21_03-8802229228.mp3",
+  "created_at_utc": "2026-05-15T06:45:28Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 186.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Sawan baat kar raha hun HDFC Life ke behalf se. (Hindi/Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: Okay, toh main aapke liye ek job karte hain aap.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Agent: Like aap is age mein job karte hain ya business hai aapka? Customer: Saving karte hain. Kya bolo, kuch bhi karta hun. Agent: Okay, toh main aapke liye ek job karte hain aap.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: It's not like I have other commitments so I have to give that money in one month. Okay, okay sir. Thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "I have around 70 lakhs and I am thinking to invest, not two months maximum.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "It's not like I have other commitments so I have to give that money in one month.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: Dekho India mein 24 insurance company hai. Aap koi bhi insurance product le lo, ek locking period hota hai 3 years ka.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: ...maine aapko na ek saving plan ke regarding connect kiya hai.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: I have around 70 lakhs and I am thinking to invest...",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer requires liquidity within one month, while the pitched insurance product has a 3-year lock-in period.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they have other financial commitments and need the money in one month, making them unsuitable for long-term insurance products. The customer ended the call after the agent continued to push despite the stated constraint."
+    },
+    "summary": "The agent attempted to sell a Sanchay Par Advantage insurance plan to a customer. The customer, who has 70 lakhs to invest, clarified they need the funds back within one month. The agent failed to acknowledge the customer's liquidity constraint and continued to push the long-term insurance product, leading the customer to end the call.",
+    "key_quotes": [
+      "I have around 70 lakhs and I am thinking to invest, not two months maximum.",
+      "It's not like I have other commitments so I have to give that money in one month."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

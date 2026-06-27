@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2901760186458269",
+  "source_transcript": "agent-2129-1779614337-4517-Gaurav_delhi-2026_05_24_14_48_58-9541181521.json",
+  "created_at_utc": "2026-06-01T02:10:32Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 92.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2129-1779614337-4517-Gaurav_delhi-2026_05_24_14_48_58-9541181521.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Chalo koi issue nahi, phir wahan ke nearby jo person honge woh aapko connect kar lenge sir. Thank you sir.",
+    "summary": "Agent pitched an HDFC Life investment plan and completed discovery (age 30, business, Panna city), but the call ended without a commitment or callback request.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "Age hai ji mera 30.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Panna",
+        "evidence": "Panna se, Panna jila se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Ji apna kaam hai ji, building banane ka thekedari ka kaam hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "onward premium ka 36 percent guaranteed aapko as a income ke taur pe aana start ho jata hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

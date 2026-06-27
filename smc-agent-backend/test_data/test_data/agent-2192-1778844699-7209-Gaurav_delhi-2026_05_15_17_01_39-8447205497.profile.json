@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7674727464890922",
+  "source_transcript": "agent-2192-1778844699-7209-Gaurav_delhi-2026_05_15_17_01_39-8447205497.json",
+  "created_at_utc": "2026-06-01T01:17:38Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1778844699-7209-Gaurav_delhi-2026_05_15_17_01_39-8447205497.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Kal sham ke aap 6 baje kar lijiyega.",
+    "summary": "Agent pitched HDFC Life guaranteed plan; customer, while driving, requested a callback-later at 6:00 PM the next day.",
+    "callback_time_iso": "2026-05-15T18:00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir first year se hi",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

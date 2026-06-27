@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "4891772407613467",
+  "source_transcript": "agent-3012-1779097735-1667-Gaurav_TATA-2026_05_18_15_18_55-9821423525.json",
+  "source_name": "agent-3012-1779097735-1667-Gaurav_TATA-2026_05_18_15_18_55-9821423525.mp3",
+  "created_at_utc": "2026-05-21T02:10:29Z",
+  "transcript_stats": {
+    "segments": 74,
+    "duration_seconds": 446.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "25",
+        "evidence": "Customer: Meri abhi 22 saal. Agent: Kitni? Customer: 25.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Unmarried ho sir.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Jindor",
+        "evidence": "Customer: Jindor.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Customer: UP.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai apna.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Business hai apna.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Unmarried.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Customer: Unmarried.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan batao batao.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...bank aapko ek child plan offer kar raha hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business hai apna.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "16 lakh surrender value after 12 years",
+        "tax free returns"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Child Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is single and unmarried; pitching a child plan is premature and likely a misaligned product.",
+      "missed_opportunities": [
+        "Did not ask about current savings or financial goals beyond the pitched product."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was receptive to the pitch and agreed to receive a message, though he preferred to initiate the next contact himself."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India to offer a child plan for the bank's 50th anniversary.",
+      "customer_response": "The customer was passive and mostly listened to the agent's pitch, asking clarifying questions about the returns.",
+      "key_event": "The agent pitched a child plan with guaranteed returns and a 16 lakh surrender value, which the customer acknowledged.",
+      "ending": "The agent agreed to send a message from his personal number, and the customer stated he would reach out himself."
+    },
+    "key_quotes": [
+      "1 lakh rupaye saal ke jama karne hain.",
+      "Toh 16 lakh rupaye alag milenge.",
+      "Main kar dunga aapko khud hi kar dunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "tier_3",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "7_15min"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "9484931138109078",
+  "source_transcript": "agent-3054-1778736204-7562-Gaurav_delhi-2026_05_14_10_53_25-8802736718.json",
+  "source_name": "agent-3054-1778736204-7562-Gaurav_delhi-2026_05_14_10_53_25-8802736718.mp3",
+  "created_at_utc": "2026-05-16T00:27:19Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 242.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Preeti",
+      "evidence": "Agent: hello, ji hi mam very good afternoon good morning aap se Preeti Gupta baat kar rahi hun HDFC Life se. Customer: haanji Preeti.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "41",
+        "evidence": "Customer: 41.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 41.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: hello, ji hi mam... Customer: haanji Preeti.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello, ji hi mam very good afternoon good morning aap se Preeti Gupta baat kar rahi hun HDFC Life se. Customer: haanji Preeti.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 41. Job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: theek hai mam main ek baar yeh ek baar check kar lungi. ... shaam ko. 7 o'clock.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "nahi abhi to main work pe hun na, so fir itna time nahi de paungi, maine basic samajh liya hai baki I will go through it.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: ...guaranteed plan offer kar rahe hain... Customer: kaun sa plan offer hai?",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 4,
+      "lead_grade": "B",
+      "stage_reached": "commitment_given",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-14 19:00:00",
+        "evidence": "Customer: 7 o'clock.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer agreed to a callback at 7 PM, indicating potential interest despite being busy at work."
+    },
+    "summary": "The agent pitched the HDFC Sanchay Par Advantage plan to a 41-year-old salaried customer. The agent made several compliance-risky claims regarding guaranteed returns and interest rates. The customer was busy at work but agreed to a callback at 7 PM.",
+    "key_quotes": [
+      "kaun sa plan offer hai?",
+      "theek hai mam main ek baar yeh ek baar check kar lungi.",
+      "shaam ko. 7 o'clock."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

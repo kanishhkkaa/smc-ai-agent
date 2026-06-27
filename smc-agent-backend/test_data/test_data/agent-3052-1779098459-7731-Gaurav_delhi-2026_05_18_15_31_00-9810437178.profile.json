@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "4643502594120975",
+  "source_transcript": "agent-3052-1779098459-7731-Gaurav_delhi-2026_05_18_15_31_00-9810437178.json",
+  "source_name": "agent-3052-1779098459-7731-Gaurav_delhi-2026_05_18_15_31_00-9810437178.mp3",
+  "created_at_utc": "2026-05-21T02:14:20Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 171.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Customer: 33.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Customer: Main 58. (Agent: Noida sector 58)",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Agent: Noida sector 2... Customer: Main 58. (Implied Uttar Pradesh)",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hi kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Wahi 5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Karwa deti hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": [
+        "insufficient savings"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: Ma'am, saving to kuch nahi ho paati, income se kya hi matlab hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent pitched a savings plan, customer agreed to listen.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Karwa deti hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income starting from first year for whole life",
+        "double tax benefit",
+        "36,000 rupees credit within 7 days of 1 lakh saving"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Savings Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer stated they have no savings capacity, yet agent is pushing a 1 lakh annual premium plan.",
+      "missed_opportunities": [
+        "Did not explore existing LIC policy details."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was receptive and agreed to hear the plan details despite initial hesitation about savings."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed savings plan.",
+      "customer_response": "The customer was passive and compliant, providing information when asked.",
+      "key_event": "The agent pitched a 36% guaranteed income plan and the customer provided his age and income details.",
+      "ending": "The agent promised to explain the plan benefits further and the call ended with the customer agreeing to listen."
+    },
+    "key_quotes": [
+      "Ma'am, saving to kuch nahi ho paati, income se kya hi matlab hai.",
+      "Karwa deti hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

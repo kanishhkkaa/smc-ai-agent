@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4354666950889542",
+  "source_transcript": "agent-3115-1778836894-7238-Gaurav_TATA-2026_05_15_14_51_35-9987542182.json",
+  "created_at_utc": "2026-06-01T01:29:21Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3115-1778836894-7238-Gaurav_TATA-2026_05_15_14_51_35-9987542182.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "85, toh nahi ho payega sir. Family mein koi other member ho jinki age kam ho, any person ho sir? Customer: Nahi ji, koi bhi nahi hai.",
+    "summary": "Agent pitched a Tata AIA combined plan, but the call ended after the agent self-disqualified the prospect due to the customer's age (85).",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "85",
+        "evidence": "85.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

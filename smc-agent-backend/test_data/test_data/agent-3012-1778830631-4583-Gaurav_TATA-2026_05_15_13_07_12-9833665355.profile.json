@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4335139891925139",
+  "source_transcript": "agent-3012-1778830631-4583-Gaurav_TATA-2026_05_15_13_07_12-9833665355.json",
+  "created_at_utc": "2026-06-01T01:19:58Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1778830631-4583-Gaurav_TATA-2026_05_15_13_07_12-9833665355.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mereko ye number pe WhatsApp kar denge kya? Mere paas actually mein meeting mein hun, aap zara mereko WhatsApp kar dijiye, main dekh ke aapko kar leta hun, theek hai?",
+    "summary": "Agent pitched a Central Bank of India saving plan; customer requested a WhatsApp brochure and agreed to a callback at 6:30 PM.",
+    "callback_time_iso": "2026-05-15T18:30",
+    "customer_disclosures": {
+      "name": {
+        "value": "Arnav",
+        "evidence": "Arnav.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "guaranteed return ke saath saath double tax ka benefit diya jata hai, and isi ke saath saath annually bonus bhi diya jata hai jo har 5 years mein increase hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

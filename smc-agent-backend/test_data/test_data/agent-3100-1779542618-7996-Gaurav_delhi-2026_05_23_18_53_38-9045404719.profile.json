@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7714018445063129",
+  "source_transcript": "agent-3100-1779542618-7996-Gaurav_delhi-2026_05_23_18_53_38-9045404719.json",
+  "created_at_utc": "2026-06-01T02:44:48Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 145.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779542618-7996-Gaurav_delhi-2026_05_23_18_53_38-9045404719.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Kuch na hai, theek hai bhai, nahi chahiye humein kuch bhi.",
+    "summary": "Agent pitched an HDFC Life savings plan; the customer asked for clarification but ultimately refused the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guarantee income milti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

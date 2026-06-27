@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "profile_id": "1718121826616177",
+  "source_transcript": "agent-3026-1778752564-8191-Gaurav_delhi-2026_05_14_15_26_04-9911827047.json",
+  "source_name": "agent-3026-1778752564-8191-Gaurav_delhi-2026_05_14_15_26_04-9911827047.mp3",
+  "created_at_utc": "2026-05-16T00:22:08Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 155.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "38.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "38.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Haan bhaiya kaun?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "38.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan haan haan, Wednesday baat kar lena, samjha dena hai na.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 6,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Theek hai, main iske baare mein online padh leta hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Theek hai, main iske baare mein online padh leta hun.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 4,
+      "lead_grade": "B",
+      "stage_reached": "objection_handled",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "Wednesday 2 PM",
+        "evidence": "Wednesday. Dupahar mein 2 baje.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or current savings capacity."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer agreed to a callback on Wednesday to discuss the product after reviewing it online."
+    },
+    "summary": "The agent pitched the HDFC Life Sanchay Par Advantage plan. The customer requested to research the product online first. They agreed to a follow-up call on Wednesday at 2 PM to discuss the product details further.",
+    "key_quotes": [
+      "Theek hai, main iske baare mein online padh leta hun.",
+      "Sanchay Par Advantage hai na?",
+      "Document hi samjha dunga aapko batao."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

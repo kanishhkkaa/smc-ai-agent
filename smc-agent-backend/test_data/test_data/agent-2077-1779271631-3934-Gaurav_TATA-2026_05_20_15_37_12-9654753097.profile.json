@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "8112587364819686",
+  "source_transcript": "agent-2077-1779271631-3934-Gaurav_TATA-2026_05_20_15_37_12-9654753097.json",
+  "source_name": "agent-2077-1779271631-3934-Gaurav_TATA-2026_05_20_15_37_12-9654753097.mp3",
+  "created_at_utc": "2026-05-25T19:21:30Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 123.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "Main toh abhi under 18 hoon",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Haan ji, ma'am, government mein.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "government job",
+        "evidence": "government mein",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Ma'am, main ye nahi bata sakta aapko kuch personal reasons ki wajah se.",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main toh abhi under 18 hoon par main apne father ko suggest karunga is baare mein.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Ma'am, main ye nahi bata sakta aapko kuch personal reasons ki wajah se.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "hum agar 10,000 rupees per month ke hisaab se karte hain invest",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Main papa se karwaunga matlab woh.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 CR term coverage",
+        "mutual fund return",
+        "tax free returns"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "combined plan term plus mutual fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The primary contact is a minor and not the decision maker.",
+      "missed_opportunities": [
+        "Did not verify if the father was available to speak."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "The caller is a minor inquiring on behalf of his father, making the current lead invalid."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and mutual fund plan from Tata AIA.",
+      "customer_response": "The customer was curious and engaged, asking questions about the product procedure despite being a minor.",
+      "key_event": "The customer revealed he is under 18 and inquiring on behalf of his father.",
+      "ending": "The agent began explaining a 1 crore coverage plan for a 40-year-old before the call ended."
+    },
+    "key_quotes": [
+      "Main toh abhi under 18 hoon par main apne father ko suggest karunga is baare mein.",
+      "hum agar 10,000 rupees per month ke hisaab se karte hain invest, toh kitna humein return mil jayega"
+    ],
+    "red_flags": [
+      "Agent continued pitching to a minor after being informed of their age."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

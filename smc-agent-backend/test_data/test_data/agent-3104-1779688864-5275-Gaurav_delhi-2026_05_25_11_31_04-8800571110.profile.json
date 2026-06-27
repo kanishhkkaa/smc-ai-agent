@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "3141855572606614",
+  "source_transcript": "agent-3104-1779688864-5275-Gaurav_delhi-2026_05_25_11_31_04-8800571110.json",
+  "source_name": "agent-3104-1779688864-5275-Gaurav_delhi-2026_05_25_11_31_04-8800571110.mp3",
+  "created_at_utc": "2026-05-27T01:30:28Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 143.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45, 46.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Haan, annual 360. (Agent confirmed 50 lakhs, but customer clarified 360, likely 3.6LPA based on context of 350/360).",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Bata do, thoda time nahi hai, aap us pe WhatsApp pe daal do, theek hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki money back income",
+        "8 percent ka compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Money Back Policy",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent's claims of 36% money-back and 8% compound interest are highly unrealistic and likely misrepresent the product.",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was polite but busy, requested information via WhatsApp rather than continuing the call."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately started pitching a money-back product with high return claims.",
+      "customer_response": "Passive and hurried, eventually asking for information to be sent via WhatsApp.",
+      "key_event": "The agent pitched a 36% money-back and 8% compound interest product, which the customer acknowledged but did not engage with deeply.",
+      "ending": "The customer requested the agent to send the details on WhatsApp due to lack of time, and the call ended."
+    },
+    "key_quotes": [
+      "Bata do, thoda time nahi hai, aap us pe WhatsApp pe daal do, theek hai?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "9264555386320648",
+  "source_transcript": "agent-3042-1779106790-7434-Gaurav_delhi-2026_05_18_17_49_51-9810186741.json",
+  "source_name": "agent-3042-1779106790-7434-Gaurav_delhi-2026_05_18_17_49_51-9810186741.mp3",
+  "created_at_utc": "2026-05-21T02:12:55Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 131.88,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "Customer: 46 hai, 46.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 10 plus hai. Agent: Accha 10 lakh plus hai okay.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: 10 baje ke aas paas. Agent: Theek hai sir, main aapko 10, 10:30 ke aas paas call back karta hun sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi main thoda busy hun, aap mujhe WhatsApp kar dena, to sir 5 minute to aapko time ya to aap kal morning mein kar lena.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T10:30:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "40 percent fixed income from first year for whole life",
+        "8 percent return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was polite, provided requested information, and proactively suggested a callback time for tomorrow morning."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself and the HDFC Life guaranteed plan, to which the customer responded with a polite acknowledgment.",
+      "customer_response": "The customer was engaged and cooperative, providing his age, occupation, and income range without hesitation.",
+      "key_event": "The customer requested a callback for the next morning at 10:00 AM after the agent introduced the Sanchay Par Advantage plan.",
+      "ending": "The call ended with a clear agreement to call back tomorrow at 10:30 AM."
+    },
+    "key_quotes": [
+      "10 plus hai.",
+      "Abhi main thoda busy hun, aap mujhe WhatsApp kar dena, to sir 5 minute to aapko time ya to aap kal morning mein kar lena."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

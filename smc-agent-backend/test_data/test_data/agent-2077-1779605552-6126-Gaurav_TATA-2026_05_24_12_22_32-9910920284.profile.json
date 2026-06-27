@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5933015921735607",
+  "source_transcript": "agent-2077-1779605552-6126-Gaurav_TATA-2026_05_24_12_22_32-9910920284.json",
+  "created_at_utc": "2026-06-01T02:08:00Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779605552-6126-Gaurav_TATA-2026_05_24_12_22_32-9910920284.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir, phir wo aapka ho nahi payega, thank you.",
+    "summary": "The agent performed discovery (age 36, business, 1L annual income) and self-disqualified the prospect due to low income, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "36",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai ji madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "1 lakh. Saal ka.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke return mil rahe hain wo bhi tax free",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

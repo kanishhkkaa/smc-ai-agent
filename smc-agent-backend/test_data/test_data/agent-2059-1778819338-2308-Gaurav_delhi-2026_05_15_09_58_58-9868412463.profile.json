@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1527612070949137",
+  "source_transcript": "agent-2059-1778819338-2308-Gaurav_delhi-2026_05_15_09_58_58-9868412463.json",
+  "source_name": "agent-2059-1778819338-2308-Gaurav_delhi-2026_05_15_09_58_58-9868412463.mp3",
+  "created_at_utc": "2026-05-18T05:58:38Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 138.52,
+    "dominant_language": "en"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "\"Good morning mam\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Nahi please don't call back, I am so busy.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi, humne already le liya hai, so I don't think so dobara hum.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi please don't call back, I am so busy.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40% income from first year for whole life",
+        "8% compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has insurance and explicitly stated she is not interested in further calls.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly requested not to be called back and stated she is too busy."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a pitch about a guaranteed income plan, to which the customer responded with confusion and then disinterest.",
+      "customer_response": "The customer was dismissive and busy, repeatedly stating she already has insurance and does not want to be called.",
+      "key_event": "The customer asked how the agent got her number and requested not to be called back.",
+      "ending": "The customer firmly declined a callback and ended the conversation."
+    },
+    "key_quotes": [
+      "Nahi, humne already le liya hai, so I don't think so dobara hum.",
+      "Nahi please don't call back, I am so busy."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

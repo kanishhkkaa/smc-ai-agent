@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "3773628680958879",
+  "source_transcript": "agent-2156-1778737933-2185-Gaurav_delhi-2026_05_14_11_22_13-9881463376.json",
+  "source_name": "agent-2156-1778737933-2185-Gaurav_delhi-2026_05_14_11_22_13-9881463376.mp3",
+  "created_at_utc": "2026-05-16T00:12:27Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 1.35,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "43",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "43",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "hello good morning sir",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "PMC",
+        "evidence": "PMC",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "43",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Saturday ya Sunday ko phone kijiye madam",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Saturday ya Sunday ko phone kijiye madam",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 1,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "next Saturday or Sunday",
+        "evidence": "Saturday ya Sunday ko phone kijiye madam",
+        "confidence": "medium"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not establish rapport before asking for personal details."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "life_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer asked to be called back on a weekend, indicating potential interest if the timing is right."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance plan. The customer was initially skeptical about the agent's location but eventually provided their age and occupation. The customer requested a callback on the weekend, and the agent attempted to continue the pitch before the call ended.",
+    "key_quotes": [
+      "43",
+      "Saturday ya Sunday ko phone kijiye madam"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "did_not_verify_identity"
+    ],
+    "extraction_confidence": "high"
+  }
+}

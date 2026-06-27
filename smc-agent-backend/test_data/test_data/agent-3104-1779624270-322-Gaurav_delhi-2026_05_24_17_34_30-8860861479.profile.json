@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1574772406306711",
+  "source_transcript": "agent-3104-1779624270-322-Gaurav_delhi-2026_05_24_17_34_30-8860861479.json",
+  "created_at_utc": "2026-06-01T02:18:33Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 51.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779624270-322-Gaurav_delhi-2026_05_24_17_34_30-8860861479.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Customer: 17.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan and asked for the customer's age; the customer stated they are 17, leading to self-disqualification.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "17",
+        "evidence": "17",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se hi 36 percent ki income provide karti hai aapke lifetime ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "4763186156010087",
+  "source_transcript": "2026_05_28/agent-2156-1779967080-5468-Gaurav_delhi-2026_05_28_16_48_01-9415039469.json",
+  "source_name": "agent-2156-1779967080-5468-Gaurav_delhi-2026_05_28_16_48_01-9415039469.mp3",
+  "created_at_utc": "2026-06-01T05:36:03Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "58",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "1 CR",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi koi vichar nahi hai, main bataunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi abhi main baad mein baat karunga, abhi thoda sa busy hun.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Abhi koi vichar nahi hai, main bataunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "40 percent ki income milni shuru ho jati hai",
+        "lifetime income ka option"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 58 and the agent proposed a 12-year premium payment term, which is likely unsuitable for his retirement stage.",
+      "missed_opportunities": [
+        "Did not ask about retirement planning or existing insurance portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "annuity",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was dismissive and explicitly stated no interest in the plan at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life campaign and asked for the customer's age.",
+      "customer_response": "Passive and dismissive, eventually shutting down the conversation.",
+      "key_event": "Customer rejected the 12-year PPT and deferred the conversation indefinitely.",
+      "ending": "The customer stated they have no interest and will inform the agent later, ending the call."
+    },
+    "key_quotes": [
+      "Abhi koi vichar nahi hai, main bataunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

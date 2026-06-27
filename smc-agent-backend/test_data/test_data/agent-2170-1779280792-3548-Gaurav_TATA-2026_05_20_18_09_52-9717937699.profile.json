@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "3516703924655213",
+  "source_transcript": "agent-2170-1779280792-3548-Gaurav_TATA-2026_05_20_18_09_52-9717937699.json",
+  "source_name": "agent-2170-1779280792-3548-Gaurav_TATA-2026_05_20_18_09_52-9717937699.mp3",
+  "created_at_utc": "2026-05-24T05:09:53Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 119.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "Customer: 29.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business, real estate.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Real estate business",
+        "evidence": "Customer: Business, real estate.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: 20, 35, 40, kuch bhi le lijiye.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business, real estate.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "no_pickup_voicemail",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 CR plus 60 lakh cover",
+        "premium refundable",
+        "tax free premium",
+        "pension benefit",
+        "medical benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about family protection needs or specific financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is responsive and provided financial details, though the call was cut off before a pitch could be completed."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA term plus investment plan with a combined cover and refund feature.",
+      "customer_response": "The customer was passive and cooperative, answering discovery questions without resistance.",
+      "key_event": "The agent attempted to qualify the customer's income, which the customer described as variable and high.",
+      "ending": "The call was abruptly cut off while the agent was asking about market investments."
+    },
+    "key_quotes": [
+      "20, 35, 40, kuch bhi le lijiye.",
+      "Nahi."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

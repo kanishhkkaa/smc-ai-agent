@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "3822863928817929",
+  "source_transcript": "agent-3022-1779176785-2227-Gaurav_delhi-2026_05_19_13_16_26-9898999989.json",
+  "source_name": "agent-3022-1779176785-2227-Gaurav_delhi-2026_05_19_13_16_26-9898999989.mp3",
+  "created_at_utc": "2026-05-22T11:24:34Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "25",
+        "evidence": "Customer: \"Pachis.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Self.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Woh bhi nahi interest abhi toh nahi.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Abhi investment ke liye paisa nahi hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Woh bhi nahi interest abhi toh nahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds for investment"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki tax free income",
+        "8 percent ka compounding interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed and traditional plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no funds for investment and no interest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they have no money for investment and no interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life for an information call, to which the customer responded neutrally.",
+      "customer_response": "The customer was passive and dismissive, clearly stating they were not interested in investing.",
+      "key_event": "The customer stated they have no money for investment, which the agent ignored by suggesting a minimum amount.",
+      "ending": "The agent accepted the refusal and ended the call abruptly."
+    },
+    "key_quotes": [
+      "Abhi investment ke liye paisa nahi hai baaki sab theek hai.",
+      "Woh bhi nahi interest abhi toh nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

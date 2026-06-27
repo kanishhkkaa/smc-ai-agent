@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "4945628445061663",
+  "source_transcript": "agent-2086-1779275659-8737-Gaurav_delhi-2026_05_20_16_44_20-8860168888.json",
+  "source_name": "agent-2086-1779275659-8737-Gaurav_delhi-2026_05_20_16_44_20-8860168888.mp3",
+  "created_at_utc": "2026-05-25T19:22:03Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 125.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Neha baat kar rahi hu HDFC Life ke behalf se. How are you? Customer: Ji theek hu. (Agent refers to customer as 'mam')",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Husband ko.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji theek hu. Haan ji. Nahi abhi to nahi. Discuss karna padega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Discuss karna padega.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: Husband ko.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-23T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% tax free income whole life",
+        "8% guaranteed returns",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life unique plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Product pitched with aggressive guaranteed return claims without understanding customer's actual financial goals or needs.",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals (e.g. retirement, child education).",
+        "Did not ask about current insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is open to a follow-up call in a few days but declined to share her husband's contact number."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a plan with guaranteed returns and tax benefits.",
+      "customer_response": "Customer was passive and polite, deferring the decision to her husband.",
+      "key_event": "Customer stated she needs to discuss financial decisions with her husband and declined to share his number.",
+      "ending": "Agent agreed to call back in a few days on the same number after the customer declined to share her husband's contact details."
+    },
+    "key_quotes": [
+      "Discuss karna padega.",
+      "Hmm number to nahi main share kar sakti hu. Aap isi number pe do teen din ke baad connect kar lijiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

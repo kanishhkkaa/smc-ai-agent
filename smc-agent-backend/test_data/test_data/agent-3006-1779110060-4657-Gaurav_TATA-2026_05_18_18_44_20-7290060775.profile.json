@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "6549180778234808",
+  "source_transcript": "agent-3006-1779110060-4657-Gaurav_TATA-2026_05_18_18_44_20-7290060775.json",
+  "source_name": "agent-3006-1779110060-4657-Gaurav_TATA-2026_05_18_18_44_20-7290060775.mp3",
+  "created_at_utc": "2026-05-21T02:10:07Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 158.34,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: Age 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Narela, Delhi",
+        "evidence": "Customer: Main Delhi Narela se baat kar raha hun",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: Main Delhi Narela se baat kar raha hun Haryana ke paas se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Ma'am ek business samajh job samjho job bhi.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "job/business",
+        "evidence": "Customer: Ma'am ek business samajh job samjho job bhi.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 6 lakh tak.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ma'am abhi toh kuch plan nahi hai aise, kuch samay baad agar banta hai toh main aapko bata dunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Ma'am abhi toh kuch plan nahi hai aise, kuch samay baad agar banta hai toh main aapko bata dunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent: Jisme aapko day one se 1 crore ka term cover karke chal raha hai sath mein aapko mutual fund ke return bhi provide kar rahi hai sir.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main thoda dekhunga uske baad hi karunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage.",
+        "Did not probe into the 'business/job' nature to better tailor the product."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to receiving information via WhatsApp but explicitly stated no current plan to invest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA term plus mutual fund plan and immediately asked for the customer's age.",
+      "customer_response": "Customer was polite and engaged, providing details but ultimately deferring the decision.",
+      "key_event": "Customer requested information on WhatsApp instead of proceeding with the application.",
+      "ending": "Agent agreed to send plan details via WhatsApp, and the customer confirmed he would reach out if interested later."
+    },
+    "key_quotes": [
+      "Ma'am abhi toh kuch plan nahi hai aise, kuch samay baad agar banta hai toh main aapko bata dunga.",
+      "Toh aap mujhe WhatsApp pe ye plan dijiye, mujhe kabhi aisa lagega toh WhatsApp pe ya ispe contact kar sakta hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "9897095242929444",
+  "source_transcript": "agent-3023-1779688168-9494-Gaurav_delhi-2026_05_25_11_19_29-8527191559.json",
+  "source_name": "agent-3023-1779688168-9494-Gaurav_delhi-2026_05_25_11_19_29-8527191559.mp3",
+  "created_at_utc": "2026-05-27T01:26:30Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 114.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Customer: 48.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Lagbhag 4 lakh hai, mam.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Theek hai, okay mam. (Passive engagement)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: 10,000, 15,000. (Yearly)",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "36 percent average year income for whole life",
+        "8 percent rate of interest on savings",
+        "double tax benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent rejected the customer due to his budget being too low for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent abruptly terminated the call after the customer stated a budget lower than the agent's expectation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed plan.",
+      "customer_response": "The customer was passive and cooperative throughout the call.",
+      "key_event": "The agent asked for the customer's annual budget and immediately hung up upon hearing it was 10,000-15,000.",
+      "ending": "The agent abruptly ended the call after the customer stated his budget."
+    },
+    "key_quotes": [
+      "36 percent ki income aati hai aapki whole life ke liye.",
+      "Itne mein toh nahi ho payega. Thank you, have a good day."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

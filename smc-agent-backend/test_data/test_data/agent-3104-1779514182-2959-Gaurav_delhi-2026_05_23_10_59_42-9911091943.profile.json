@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5367794045620661",
+  "source_transcript": "agent-3104-1779514182-2959-Gaurav_delhi-2026_05_23_10_59_42-9911091943.json",
+  "created_at_utc": "2026-06-01T02:44:36Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779514182-2959-Gaurav_delhi-2026_05_23_10_59_42-9911091943.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi abhi, abhi madam kuch karne ki koi option hai hi nahi.",
+    "summary": "Agent pitched an HDFC Life guaranteed product; customer declined, stating they have no option for investment at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a year 36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

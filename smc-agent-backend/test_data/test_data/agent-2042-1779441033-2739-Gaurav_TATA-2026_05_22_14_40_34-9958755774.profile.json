@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4274317977693315",
+  "source_transcript": "agent-2042-1779441033-2739-Gaurav_TATA-2026_05_22_14_40_34-9958755774.json",
+  "created_at_utc": "2026-06-01T02:48:17Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2042-1779441033-2739-Gaurav_TATA-2026_05_22_14_40_34-9958755774.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, aap mujhe details zara bhej do ek baar, saari cheezein, par iske, aap mujhe mail kar do, is email id pe.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer asked about returns and investment, then requested details via email.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Meri age 45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Noida se baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "crore mein jaata hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "24.05 percent ka minimum benchmark performance hai sir multi cap fund ka",
+      "return_claim_pct": 5,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

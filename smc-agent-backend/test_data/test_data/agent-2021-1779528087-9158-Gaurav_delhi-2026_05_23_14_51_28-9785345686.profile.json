@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5545136081565876",
+  "source_transcript": "agent-2021-1779528087-9158-Gaurav_delhi-2026_05_23_14_51_28-9785345686.json",
+  "created_at_utc": "2026-06-01T02:19:53Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779528087-9158-Gaurav_delhi-2026_05_23_14_51_28-9785345686.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan abhi chalu kiya hai madam, sab kuch manage kar liya hai na.",
+    "summary": "Agent pitched a Tata AIA saving plan and performed discovery, but the call ended without a commitment or further interest from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Meri age hai madam 45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Nahi madam maine khud ka hi kiya hai abhi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "hamari company aapko first year se hi 80,000 tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

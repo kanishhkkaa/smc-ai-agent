@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "2527425616493563",
+  "source_transcript": "2026_05_13/agent-2129-1778676773-8014-Gaurav_delhi-2026_05_13_18_22_54-9310757416.json",
+  "source_name": "agent-2129-1778676773-8014-Gaurav_delhi-2026_05_13_18_22_54-9310757416.mp3",
+  "created_at_utc": "2026-06-01T03:44:34Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "Age toh ji 60 saal ki hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer referred to himself as 'driver' and 'beta' (son) mentioned.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "driver",
+        "evidence": "main toh driver hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "driver",
+        "evidence": "main toh driver hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Dekho madam mere ko toh dekho in sab cheezon ka itna gyaan nahi hai kyunki main toh driver hun, mere ko gyaan nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "mere ko toh dekho in sab cheezon ka itna gyaan nahi hai",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Toh ye Saturday ko hamara beta aayega, us samay aap phone karke plan ke baare mein bataoge toh zyada better rahega.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% income benefit from first week",
+        "8% compounding growth"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or retirement planning."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "annuity",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to hearing about the plan but deferred the discussion to his son who is more knowledgeable."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive and deferred the decision-making to his son due to lack of knowledge.",
+      "key_event": "The customer disclosed his age and requested a callback for when his son is present.",
+      "ending": "The agent accepted the request to call back on Saturday when the son is available."
+    },
+    "key_quotes": [
+      "mere ko toh dekho in sab cheezon ka itna gyaan nahi hai kyunki main toh driver hun",
+      "Saturday ko hamara beta aayega, us samay aap phone karke plan ke baare mein bataoge toh zyada better rahega"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

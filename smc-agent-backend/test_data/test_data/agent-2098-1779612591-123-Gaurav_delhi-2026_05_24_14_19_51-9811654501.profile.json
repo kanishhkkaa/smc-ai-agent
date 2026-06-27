@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "9415013575068753",
+  "source_transcript": "agent-2098-1779612591-123-Gaurav_delhi-2026_05_24_14_19_51-9811654501.json",
+  "created_at_utc": "2026-06-01T02:09:39Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 94.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779612591-123-Gaurav_delhi-2026_05_24_14_19_51-9811654501.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ha ha, thoda sa main abhi office mein hun, main ye detail baat nahi, detail mein baat nahi kar sakta.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer mentioned having existing insurance and deferred detailed discussion due to being at work.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Jewellery field hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income deke chalna start kar raha hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

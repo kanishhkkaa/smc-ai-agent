@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3505145641852960",
+  "source_transcript": "agent-2016-1779530778-1802-Gaurav_delhi-2026_05_23_15_36_19-8800628788.json",
+  "created_at_utc": "2026-06-01T02:19:26Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2016-1779530778-1802-Gaurav_delhi-2026_05_23_15_36_19-8800628788.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Meri 35 hai bhai.",
+    "summary": "Agent pitched an HDFC Life plan, customer asked about terms and premiums, and provided age, but the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "Meri 35 hai bhai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki advance income ka benefit",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

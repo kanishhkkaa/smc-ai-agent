@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "6195997159094301",
+  "source_transcript": "agent-3020-1778758394-7231-Gaurav_delhi-2026_05_14_17_03_15-9810739594.json",
+  "source_name": "agent-3020-1778758394-7231-Gaurav_delhi-2026_05_14_17_03_15-9810739594.mp3",
+  "created_at_utc": "2026-05-16T00:18:42Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 158.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "21",
+        "evidence": "21 ke age mein job karte hain",
+        "confidence": "medium"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "21 ke age mein job karte hain",
+        "confidence": "medium"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main Gaurav baat kar raha hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "21 ke age mein job karte hain",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "21 ke age mein job karte hain",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "customer_talk_percent": 0.0,
+      "agent_talk_percent": 100.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "no_data",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Agent provided incoherent and misleading product information.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The agent was incoherent, confused the customer's gender, and provided misleading information about the product. The call was essentially a monologue with no actual customer engagement."
+    },
+    "summary": "The agent called the customer to pitch the 'Sanchay Par Advantage' plan. The agent was highly unprofessional, confused the customer's gender, and made several false claims about the product, including guaranteed returns and high interest rates. The customer did not speak during the call.",
+    "key_quotes": [
+      "Isme company aapko first year se hi bonus deti hai.",
+      "isme aapko first year se 40 percent ki income aati hai aapki lifetime.",
+      "Meri jaan mein sir aapko aapki saving par 8 percent ka compounding rate of interest and double tax ka benefit bhi provide ho raha hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

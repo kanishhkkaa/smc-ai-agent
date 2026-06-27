@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "1097638979970105",
+  "source_transcript": "agent-2136-1779699817-3086-Gaurav_TATA-2026_05_25_14_33_38-9839936508.json",
+  "source_name": "agent-2136-1779699817-3086-Gaurav_TATA-2026_05_25_14_33_38-9839936508.mp3",
+  "created_at_utc": "2026-05-27T01:21:03Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 111.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Samajh lijiye 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Solar panel store employee",
+        "evidence": "Ye solar panel ke store mein hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 lakh tak.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Haan, main sun raha hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore life insurance cover",
+        "1 lakh pension option",
+        "10 lakh medical option"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent determined the policy does not connect with the customer's profile (likely due to income).",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent explicitly stated the policy does not connect/fit the customer's profile and ended the call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from Tata AIA to discuss a new plan, and the customer acknowledged.",
+      "customer_response": "The customer was passive and provided information when asked.",
+      "key_event": "The agent realized the product was not suitable for the customer's income level and terminated the call.",
+      "ending": "The agent apologized and stated the policy did not fit the customer's profile, ending the call."
+    },
+    "key_quotes": [
+      "Accha, inka premium kitni honi chahiye? Ye bata do, main phir batata hoon."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

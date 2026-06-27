@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1239557638266936",
+  "source_transcript": "agent-3015-1779511981-4583-Gaurav_TATA-2026_05_23_10_23_02-8587868578.json",
+  "created_at_utc": "2026-06-01T02:36:54Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1779511981-4583-Gaurav_TATA-2026_05_23_10_23_02-8587868578.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Mera husband hai, woh risk ka chalate hain. That is it.",
+    "summary": "Agent pitched a Tata AIA Term Plus ULIP plan; customer inquired about the nature of the plan and provided husband's occupation before the call ended.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Mera husband hai, woh risk ka chalate hain.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "market value ke according wapas kiya jayega",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

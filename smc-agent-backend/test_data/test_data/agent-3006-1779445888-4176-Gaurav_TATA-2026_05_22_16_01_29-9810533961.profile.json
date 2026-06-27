@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1496356400960053",
+  "source_transcript": "agent-3006-1779445888-4176-Gaurav_TATA-2026_05_22_16_01_29-9810533961.json",
+  "created_at_utc": "2026-06-01T02:59:30Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 101.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779445888-4176-Gaurav_TATA-2026_05_22_16_01_29-9810533961.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh aapko abhi insurance ki requirement hai ya nahi? Customer: Nahi.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery, but the customer declined, stating they do not have a requirement for insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "5-6 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

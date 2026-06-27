@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5648496740045953",
+  "source_transcript": "agent-2156-1779429026-2392-Gaurav_delhi-2026_05_22_11_20_26-9718009540.json",
+  "created_at_utc": "2026-06-01T02:55:44Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779429026-2392-Gaurav_delhi-2026_05_22_11_20_26-9718009540.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi main abhi, abhi main busy hu baad mein baat karunga.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery; customer deferred the conversation, stating he is busy and will talk later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "42",
+        "evidence": "42.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Annual income 10 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 3.5,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

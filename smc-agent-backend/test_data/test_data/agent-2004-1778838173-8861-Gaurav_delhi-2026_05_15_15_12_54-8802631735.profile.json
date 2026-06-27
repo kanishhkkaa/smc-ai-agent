@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1342085429893890",
+  "source_transcript": "agent-2004-1778838173-8861-Gaurav_delhi-2026_05_15_15_12_54-8802631735.json",
+  "created_at_utc": "2026-06-01T01:09:22Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2004-1778838173-8861-Gaurav_delhi-2026_05_15_15_12_54-8802631735.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Meri age to laga lo tum 40 hai ji. Job karte hain. 3 lakh. Saal ka.",
+    "summary": "Agent pitched HDFC Life guaranteed income plan; customer provided full BANT discovery (age 40, salaried, 3L income) and engaged with the pitch, but the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Meri age to laga lo tum 40 hai ji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 lakh. Saal ka.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "40 percent ki guaranteed income de rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

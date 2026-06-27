@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "4763118118571182",
+  "source_transcript": "agent-2131-1779193282-3215-Gaurav_delhi-2026_05_19_17_51_23-8447545954.json",
+  "source_name": "agent-2131-1779193282-3215-Gaurav_delhi-2026_05_19_17_51_23-8447545954.mp3",
+  "created_at_utc": "2026-05-22T11:16:06Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 119.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "15000 salary, 20000 ki salary",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Agar 6 baje tak call nahi aayi na khada rakhungi aapko bhi. Samajh yaad rakh lena.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 70,
+      "customer_question_count": 5,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Aapne kaha tha baithne ko. Us din ki thi aapne kaha tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "35% return on savings"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile and not interested in any product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is hostile, aggressive, and clearly annoyed by previous interactions with the agent."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent attempts to pitch a new HDFC Life plan, but the customer immediately interrupts to confront the agent about a previous conversation.",
+      "customer_response": "The customer is extremely hostile and confrontational, focusing on past grievances rather than the pitch.",
+      "key_event": "The customer aggressively challenges the agent about previous calls and promises, ignoring the new product pitch.",
+      "ending": "The call ends in a confused state with the customer continuing to confront the agent about past promises."
+    },
+    "key_quotes": [
+      "Agar 6 baje tak call nahi aayi na khada rakhungi aapko bhi.",
+      "Kya tum kya samajh rahe ho? 15000 salary, 20000 ki salary ki tum khud hi call transfer karoge?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic",
+      "hostile_customer"
+    ],
+    "extraction_confidence": "medium",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 30,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

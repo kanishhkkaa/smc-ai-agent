@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "4983351112222697",
+  "source_transcript": "2026_05_16/agent-3054-1778921296-1728-Gaurav_delhi-2026_05_16_14_18_16-9990169648.json",
+  "source_name": "agent-3054-1778921296-1728-Gaurav_delhi-2026_05_16_14_18_16-9990169648.mp3",
+  "created_at_utc": "2026-06-01T04:50:45Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 153.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Meri hai 45 saal hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main na guard ki job karta hun yahan pe",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "security guard",
+        "evidence": "guard ki job",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Ab meri salary hai 15,000 rupaye mahina. Toh 12 mahine mein ye 1,80,000 rupaye mil jaate hain mujhe.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Theek hai madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "1,000-2,000 rupaye toh save kar lunga main, shayad 500 rupaye.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main na guard ki job karta hun... 1,000-2,000 rupaye toh save kar lunga main",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for lifetime",
+        "8% compounded rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer's savings capacity is significantly lower than the product's minimum requirement.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent dismissed the customer's budget as too low and ended the call abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as Preeti Gupta from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was initially passive and curious, but became dismissive once the agent rejected his budget.",
+      "key_event": "The agent explicitly rejected the customer's disclosed savings capacity of 500-2000 INR per month.",
+      "ending": "The agent ended the call after stating the customer's savings capacity was too low for the product."
+    },
+    "key_quotes": [
+      "Meri hai 45 saal hai.",
+      "Main na guard ki job karta hun yahan pe",
+      "1,000-2,000 rupaye toh save kar lunga main, shayad 500 rupaye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

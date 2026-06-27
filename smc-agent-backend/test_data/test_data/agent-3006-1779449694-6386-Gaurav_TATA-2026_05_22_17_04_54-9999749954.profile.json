@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3197588734267359",
+  "source_transcript": "agent-3006-1779449694-6386-Gaurav_TATA-2026_05_22_17_04_54-9999749954.json",
+  "created_at_utc": "2026-06-01T02:59:29Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779449694-6386-Gaurav_TATA-2026_05_22_17_04_54-9999749954.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Accha, 23 saal.",
+    "summary": "Agent pitched a Tata AIA combined plan and initiated discovery by asking for age; the call ended shortly after the customer disclosed his age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "23",
+        "evidence": "Sir meri current age hai 23.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

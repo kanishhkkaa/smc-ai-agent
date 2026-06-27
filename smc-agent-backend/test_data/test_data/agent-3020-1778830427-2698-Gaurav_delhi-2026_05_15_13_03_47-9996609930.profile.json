@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4596781077607043",
+  "source_transcript": "agent-3020-1778830427-2698-Gaurav_delhi-2026_05_15_13_03_47-9996609930.json",
+  "created_at_utc": "2026-06-01T02:04:00Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1778830427-2698-Gaurav_delhi-2026_05_15_13_03_47-9996609930.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aapki age jaan sakta hun main? Currently running age kya hogi sir? 25. 25 ki age mein by profession aap job karte hain ya phir business karte hain? Job. Annual income kya hogi job mein? 12000.",
+    "summary": "Agent pitched an HDFC Life saving plan and completed discovery, but the call ended abruptly after the customer stated a very low monthly income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "12000",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a week aapke annual premium par 36 percent ki ek income return aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

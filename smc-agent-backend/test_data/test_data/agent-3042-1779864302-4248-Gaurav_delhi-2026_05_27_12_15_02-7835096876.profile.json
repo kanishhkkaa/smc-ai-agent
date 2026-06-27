@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "3027802819186485",
+  "source_transcript": "2026_05_27/agent-3042-1779864302-4248-Gaurav_delhi-2026_05_27_12_15_02-7835096876.json",
+  "source_name": "agent-3042-1779864302-4248-Gaurav_delhi-2026_05_27_12_15_02-7835096876.mp3",
+  "created_at_utc": "2026-06-01T05:23:19Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 114.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Age hogi lagbhag 22-23 ke aas-paas.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Yaar, time to apna business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Yaar, time to apna business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Lagbhag-lagbhag maan lijiye mahina ke 15 se 20 ke aas-paas mein bachat hai na",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Ji, ji. Bataiye sir, hum aapke sun rahe hain.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Actually, kaag mein aisi cheezon mein zyada interest na hun.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Lagbhag-lagbhag maan lijiye mahina ke 15 se 20 ke aas-paas mein bachat hai na",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Nahi, hamare rehte hain. Kuch hamare father ke bhi salah leke chalna padta hai na.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 40 percent ki income",
+        "8 percent ka return",
+        "double tax ka benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explain the product details after the customer agreed to listen."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was initially hesitant but agreed to listen to the pitch after the agent pushed back."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and immediately pitched a guaranteed plan with multiple benefits.",
+      "customer_response": "The customer was initially passive and hesitant, but became more engaged after the agent insisted on explaining the plan.",
+      "key_event": "The customer expressed a lack of interest in insurance products, which the agent countered by insisting on explaining the benefits.",
+      "ending": "The agent thanked the customer for the information and the call concluded without a clear next step or appointment."
+    },
+    "key_quotes": [
+      "Actually, kaag mein aisi cheezon mein zyada interest na hun.",
+      "Ji, ji. Bataiye sir, hum aapke sun rahe hain."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

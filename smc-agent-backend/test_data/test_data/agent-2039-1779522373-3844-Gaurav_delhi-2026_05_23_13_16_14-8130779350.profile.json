@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1531177715044361",
+  "source_transcript": "agent-2039-1779522373-3844-Gaurav_delhi-2026_05_23_13_16_14-8130779350.json",
+  "created_at_utc": "2026-06-01T02:20:55Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1779522373-3844-Gaurav_delhi-2026_05_23_13_16_14-8130779350.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay sir, okay phir toh aap nahi kar payenge invest. ... Okay sir, no issue, thank you.",
+    "summary": "The agent performed discovery, determined the prospect was ineligible due to low income, and ended the call without a refusal from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "23",
+        "evidence": "Meri age toh mam abhi kam hai, 23 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi nahi student nahi hun, main job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Meri mam abhi toh filhal 28,000 hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

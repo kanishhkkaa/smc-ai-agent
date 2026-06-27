@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "9783288724690267",
+  "source_transcript": "agent-2042-1779251994-7229-Gaurav_TATA-2026_05_20_10_09_55-6388398836.json",
+  "source_name": "agent-2042-1779251994-7229-Gaurav_TATA-2026_05_20_10_09_55-6388398836.mp3",
+  "created_at_utc": "2026-05-25T19:20:46Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 145.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "25",
+        "evidence": "Customer: 25.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai sir. Abhi main abhi to main parivar se karke bataunga sir abhi to.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Lekin sir abhi to main already sir SIP wagera karta hoon. Tata ke mutual funds wagera mein to.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Abhi main abhi to main parivar se karke bataunga sir abhi to.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Haan. (Regarding mutual fund knowledge)",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Abhi main abhi to main parivar se karke bataunga sir abhi to.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "needs_to_consult_family",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "1 crore term insurance cover",
+        "no LTCG or STCG tax deduction on withdrawals",
+        "tax free withdrawal after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term plus mutual fund combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent is misrepresenting a ULIP/Endowment product as a pure mutual fund alternative with tax-free benefits, which may not suit a 25-year-old with a 5L income.",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals (e.g. retirement, marriage, house)."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to considering the plan but needs to consult family first."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves from Tata AIA and immediately pitched a new combined term and mutual fund plan.",
+      "customer_response": "The customer was passive but engaged, listening to the pitch and raising a relevant objection about existing investments.",
+      "key_event": "The customer raised an objection about already having SIPs, which the agent countered by highlighting tax benefits of the proposed plan.",
+      "ending": "The call ended with the customer stating they need to discuss with their family before proceeding."
+    },
+    "key_quotes": [
+      "Lekin sir abhi to main already sir SIP wagera karta hoon.",
+      "Abhi main abhi to main parivar se karke bataunga sir abhi to."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

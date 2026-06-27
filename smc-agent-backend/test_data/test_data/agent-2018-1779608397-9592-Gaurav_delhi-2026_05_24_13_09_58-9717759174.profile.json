@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3987867611559600",
+  "source_transcript": "agent-2018-1779608397-9592-Gaurav_delhi-2026_05_24_13_09_58-9717759174.json",
+  "created_at_utc": "2026-06-01T02:05:31Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 146.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2018-1779608397-9592-Gaurav_delhi-2026_05_24_13_09_58-9717759174.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ma'am, aapka awaaz sunayi nahi de raha hai.",
+    "summary": "The agent pitched an HDFC Life plan and completed discovery, but the call was terminated due to persistent audio issues reported by the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Nahi, business hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10-12 lakh rupaye ki ma'am.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36000 ki money back income",
+      "return_claim_pct": 8,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 99,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

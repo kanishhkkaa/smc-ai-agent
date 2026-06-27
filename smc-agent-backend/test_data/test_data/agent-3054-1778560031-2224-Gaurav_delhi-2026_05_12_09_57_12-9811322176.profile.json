@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "profile_id": "6307614281537496",
+  "source_transcript": "agent-3054-1778560031-2224-Gaurav_delhi-2026_05_12_09_57_12-9811322176.json",
+  "source_name": "agent-3054-1778560031-2224-Gaurav_delhi-2026_05_12_09_57_12-9811322176.mp3",
+  "created_at_utc": "2026-05-15T07:00:10Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 118.14,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "meri to abhi mam main hun 45 above hun mam",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "meri to abhi mam main hun 45 above hun mam",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "haan ji hello",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "meri to abhi mam main hun 45 above hun mam",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "aap kar lijiyega dopahar mein kar lijiyega koi dikkat nahi",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "nahi nahi kar sakta mam sorry sorry nahi kar paunga",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-12 14:00:00",
+        "evidence": "kar lena date 2 baje tak",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed_income_plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "needs_analysis",
+        "financial_goal_discovery"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was initially hesitant but agreed to a callback at 2 PM, indicating a willingness to listen to information."
+    },
+    "summary": "The agent called to pitch a guaranteed income plan from HDFC Life. The customer was initially hesitant and busy, but after the agent persisted, the customer agreed to a callback at 2 PM. The agent made questionable claims regarding guaranteed returns and interest rates.",
+    "key_quotes": [
+      "meri to abhi mam main hun 45 above hun mam",
+      "aap kar lijiyega dopahar mein kar lijiyega koi dikkat nahi"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

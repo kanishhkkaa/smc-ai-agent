@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "9767661991572682",
+  "source_transcript": "agent-2170-1779082037-155-Gaurav_TATA-2026_05_18_10_57_17-9769821044.json",
+  "source_name": "agent-2170-1779082037-155-Gaurav_TATA-2026_05_18_10_57_17-9769821044.mp3",
+  "created_at_utc": "2026-05-21T02:07:51Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 443.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "52",
+        "evidence": "Customer: 52.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: 25 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi nahi madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Nahi, sab ullu banate hain log.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "distrust in financial markets"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi. (Regarding market knowledge)",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business. (Implies sole decision maker for business/finances)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "60 lakh term cover (natural)",
+        "1 crore 20 lakh term cover (accidental)",
+        "60 lakh disability cover",
+        "premium totally refundable"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA 2 in 1 plan",
+      "premium_quoted_inr": 289789,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has zero interest in market-linked products and strong distrust in financial institutions.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer expressed strong distrust in financial markets and the agent's product, ending the conversation abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a '2 in 1' Tata AIA plan, and the customer confirmed they could hear the agent.",
+      "customer_response": "The customer was skeptical and dismissive, eventually becoming hostile towards the agent's attempt to discuss market-linked products.",
+      "key_event": "The customer expressed strong distrust in financial markets, leading to a breakdown in the conversation.",
+      "ending": "The agent thanked the customer and ended the call after the customer refused to consider the plan."
+    },
+    "key_quotes": [
+      "Nahi, sab ullu banate hain log.",
+      "Nahi nahi madam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "7_15min"
+    }
+  }
+}

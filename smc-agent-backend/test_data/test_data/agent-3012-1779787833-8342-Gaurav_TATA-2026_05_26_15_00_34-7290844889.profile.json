@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "1591174814362966",
+  "source_transcript": "2026_05_26/agent-3012-1779787833-8342-Gaurav_TATA-2026_05_26_15_00_34-7290844889.json",
+  "source_name": "agent-3012-1779787833-8342-Gaurav_TATA-2026_05_26_15_00_34-7290844889.mp3",
+  "created_at_utc": "2026-06-01T05:10:27Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Aman Prakash",
+      "evidence": "Aman Prakash",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "32 meri age hai",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main abhi office mein hun, apni site pe hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "site engineer/worker",
+        "evidence": "site pe hun",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Main mera abhi koi child toh hai hi nahi.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aap mujhe uska brochure de dijiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Main mera abhi koi child toh hai hi nahi.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Main darasal is samay site pe hun, main abhi baat nahi kar paunga.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "10 percent ka guaranteed return",
+        "10.5 percent ka return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or current investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "child_plan"
+      ],
+      "reasoning": "Customer requested a brochure and agreed to a specific callback time after work hours."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan from Central Bank of India, which the customer immediately clarified was not applicable to him.",
+      "customer_response": "Customer was polite and engaged, correcting the agent's initial assumption about his child and requesting information.",
+      "key_event": "Customer requested a brochure and set a callback time for after 6 PM.",
+      "ending": "The agent confirmed the callback time for 6 PM and thanked the customer."
+    },
+    "key_quotes": [
+      "Aap mujhe uska brochure de dijiye.",
+      "Main abhi office mein hun, apni site pe hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

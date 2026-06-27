@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1160806736432803",
+  "source_transcript": "agent-3055-1779605252-3604-Gaurav_TATA-2026_05_24_12_17_33-9811109130.json",
+  "created_at_utc": "2026-06-01T02:16:12Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3055-1779605252-3604-Gaurav_TATA-2026_05_24_12_17_33-9811109130.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Madam, please main kisi cheez mein invest nahi karna chahta abhi. Sorry mam.",
+    "summary": "Agent pitched an HDFC Life guaranteed saving plan; customer declined, stating they do not want to invest and already hold other policies.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 36 percent ki guaranteed income dena start kar deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

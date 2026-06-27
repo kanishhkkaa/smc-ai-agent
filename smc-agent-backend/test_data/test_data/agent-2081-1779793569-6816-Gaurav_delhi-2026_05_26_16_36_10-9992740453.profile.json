@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "3704111157871821",
+  "source_transcript": "2026_05_26/agent-2081-1779793569-6816-Gaurav_delhi-2026_05_26_16_36_10-9992740453.json",
+  "source_name": "agent-2081-1779793569-6816-Gaurav_delhi-2026_05_26_16_36_10-9992740453.mp3",
+  "created_at_utc": "2026-06-01T05:06:24Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 173.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: Uh, approx aap laga lo 20 LPA.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ek kaam karo, mere ko na sab na WhatsApp pe details share kar do ek baar, kya kuch hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Acha, long term ka hai kya? Koi short term ka batao mere ko agar hai toh.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: Ma'am aapko saal ka 2 lakh ka plan batake chalu... Customer: Theek hai, batao.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked for short term duration specifically.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer is looking for investment options.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Theek hai, batao. (Implies sole decision making)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "close_attempted",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% interest on investment"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer specifically requested a 5-year term, while the pitched product was a 12-year term.",
+      "missed_opportunities": [
+        "Did not verify if the customer has existing life insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "Customer is actively interested in a short-term investment product and requested details via WhatsApp."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan with a 36% income promise, and the customer responded with 'Bataiye'.",
+      "customer_response": "Engaged and inquisitive, specifically steering the conversation toward short-term investment options.",
+      "key_event": "Customer rejected the 12-year plan and insisted on a maximum 5-year duration.",
+      "ending": "Agent agreed to check and send details for a 5-year plan via WhatsApp."
+    },
+    "key_quotes": [
+      "Koi short term ka batao mere ko agar hai toh.",
+      "Ek kaam karo, mere ko na sab na WhatsApp pe details share kar do ek baar, kya kuch hai.",
+      "Koi bhi ho, minimum 5 years hona chahiye. Maximum 5 years, minimum and maximum."
+    ],
+    "red_flags": [
+      "Agent promised 36% income from first year.",
+      "Agent promised 8% interest on investment."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 12,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

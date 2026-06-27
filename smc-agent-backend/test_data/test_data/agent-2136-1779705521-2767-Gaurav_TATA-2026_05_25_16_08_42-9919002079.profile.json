@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "5838050020759976",
+  "source_transcript": "agent-2136-1779705521-2767-Gaurav_TATA-2026_05_25_16_08_42-9919002079.json",
+  "source_name": "agent-2136-1779705521-2767-Gaurav_TATA-2026_05_25_16_08_42-9919002079.mp3",
+  "created_at_utc": "2026-05-27T01:21:13Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 279.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Nahi, main apna business karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Customer: Nahi, main apna business karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Lagbhag, are ho jaata hai 10-10 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Nahi, abhi toh, abhi ruk jao, mere paas time nahi hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 4,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi, abhi toh, abhi ruk jao, mere paas time nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi, woh main bataunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-25T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "fund double ho kar hi provide hoga"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "endowment",
+        "child_plan",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "ulip",
+        "health_insurance",
+        "mutual_fund_sip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer agreed to a callback at 7 PM, showing some interest despite being busy."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA plan and the customer asked what it was about.",
+      "customer_response": "Customer was passive and busy, repeatedly deferring the pitch until a later time.",
+      "key_event": "Customer agreed to a callback after initially being dismissive due to lack of time.",
+      "ending": "The call ended with the customer agreeing to a callback at 7 PM."
+    },
+    "key_quotes": [
+      "Main soch ke bataunga kya karna hai.",
+      "Nahi, abhi toh, abhi ruk jao, mere paas time nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

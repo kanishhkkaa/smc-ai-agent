@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "6743114038502241",
+  "source_transcript": "agent-2016-1779189608-1072-Gaurav_delhi-2026_05_19_16_50_08-8954998216.json",
+  "source_name": "agent-2016-1779189608-1072-Gaurav_delhi-2026_05_19_16_50_08-8954998216.mp3",
+  "created_at_utc": "2026-05-22T11:06:36Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Saurabh",
+      "evidence": "Saurabh baat kar raha tha HDFC Life ke behalf se. ... Customer: 27. ... Agent: Working hai kya sir, ya study kar rahe hain? Customer: Working. ... Agent: Financial decision aap lete hain ... Customer: Myself.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Working.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi, ab interested nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi, ab interested nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: Financial decision aap lete hain ... Customer: Myself.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer showed no interest in the product or the investment amount.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they are not interested after hearing the minimum investment requirement."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from HDFC Life regarding a plan, and the customer responded neutrally.",
+      "customer_response": "The customer was passive initially but became dismissive once the product was pitched and the minimum investment was mentioned.",
+      "key_event": "The customer asked about the minimum investment, and upon hearing it, immediately declined further interest.",
+      "ending": "The customer ended the conversation by stating they were not interested."
+    },
+    "key_quotes": [
+      "Nahi, ab interested nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3215204457087525",
+  "source_transcript": "agent-3022-1778822210-2832-Gaurav_delhi-2026_05_15_10_46_51-9313634467.json",
+  "created_at_utc": "2026-06-01T01:21:16Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 57.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1778822210-2832-Gaurav_delhi-2026_05_15_10_46_51-9313634467.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Tumne phone kiya hai na, phone tum rakho. Are nahi yaar, phone rakho.",
+    "summary": "Agent pitched a HDFC Life guaranteed plan; customer expressed strong disinterest and repeatedly requested the agent to end the call and hang up.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a week 36 percent ki income aani start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": true,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

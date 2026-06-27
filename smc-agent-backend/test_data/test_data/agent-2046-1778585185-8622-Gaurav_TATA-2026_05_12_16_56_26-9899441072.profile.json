@@ -1,0 +1,210 @@
+{
+  "status": "success",
+  "profile_id": "2160919584625978",
+  "source_transcript": "agent-2046-1778585185-8622-Gaurav_TATA-2026_05_12_16_56_26-9899441072.json",
+  "source_name": "agent-2046-1778585185-8622-Gaurav_TATA-2026_05_12_16_56_26-9899441072.mp3",
+  "created_at_utc": "2026-05-15T06:35:47Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 4.36,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "24",
+        "evidence": "Customer: haan ji 24.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "Customer: haan ji 24.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: ya very good evening sir. main aapse Divya baat kar rahi hun TATA AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: 18 lakh okay.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: 24. ... job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: okay okay aage bataiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "acha jo aapne bataya 73 wo mujhe sabko pay karna hai right?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "kaise pay karna hai one time ya?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "sir mujhe 1 crore rupaye milenge?",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "25K_plus",
+        "evidence": "Agent: toh aapka jo premium aa raha hai aapki age pe wo aa raha hai 73878 sir per year. Customer: okay.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: term plan jante hai aap? Customer: haan ji.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: haan ji bataiye.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "bant_total": 9,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 85.0,
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "TATA AIA Life Insurance Plan (Term + Investment)",
+      "fit_score_0_10": 6,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name or type (e.g., ULIP vs Endowment) clearly.",
+        "Did not ask about specific financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "unknown",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is young, employed, and showed interest in the product details, though they were confused by the agent's explanation of the term/investment structure. A follow-up is recommended to clarify the product benefits."
+    },
+    "summary": "The agent contacted a 24-year-old customer to pitch a TATA AIA life insurance plan that combines term coverage and investment returns. The customer, who is employed with an annual income of 18 lakhs, expressed interest but was confused about the premium payment structure and the nature of the 1 crore sum assured. The agent explained the premium amount and payment frequency, but the call was interrupted before the full product details were clarified.",
+    "key_quotes": [
+      "acha jo aapne bataya 73 wo mujhe sabko pay karna hai right?",
+      "sir mujhe 1 crore rupaye milenge?",
+      "matlab maine 10 saal itna hi invest kar diya."
+    ],
+    "red_flags": [
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "status": "success",
+  "profile_id": "5113090678756987",
+  "source_transcript": "2026_05_28/agent-2046-1779957920-7827-Gaurav_TATA-2026_05_28_14_15_21-7838865110.json",
+  "source_name": "agent-2046-1779957920-7827-Gaurav_TATA-2026_05_28_14_15_21-7838865110.mp3",
+  "created_at_utc": "2026-06-01T05:29:14Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 141.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "24",
+        "evidence": "Hamari age hai 24 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent addressed customer as 'sir'.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Hum kaam karte hain mandi mein. Sabzi ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Vegetable business in mandi",
+        "evidence": "Sabzi ka kaam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "45,000 per month = 5.4L per year.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer showed no interest and focused on his own plans.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Plot-lot wagera lenge, kheti-baadi karenge.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is making his own decisions regarding farming and property.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "double tax benefit",
+        "10 lakh medical cover",
+        "1 lakh monthly pension at retirement"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is interested in physical assets (land/farming) and not insurance products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is focused on agricultural and real estate investments and showed no interest in the insurance product pitched."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, to which the customer responded with a neutral 'Haan ji'.",
+      "customer_response": "Passive and disinterested, providing minimal information to the agent's questions.",
+      "key_event": "The customer clarified his focus is on farming and buying plots, effectively dismissing the insurance pitch.",
+      "ending": "The agent thanked the customer and ended the call after realizing the customer had no interest in the product."
+    },
+    "key_quotes": [
+      "Hum kaam karte hain mandi mein.",
+      "Plot-lot wagera lenge, kheti-baadi karenge aur yahi plan hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

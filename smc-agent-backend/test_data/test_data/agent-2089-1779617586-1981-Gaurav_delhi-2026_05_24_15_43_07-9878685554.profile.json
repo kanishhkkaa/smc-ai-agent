@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4969096151522703",
+  "source_transcript": "agent-2089-1779617586-1981-Gaurav_delhi-2026_05_24_15_43_07-9878685554.json",
+  "created_at_utc": "2026-06-01T02:08:27Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 111.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779617586-1981-Gaurav_delhi-2026_05_24_15_43_07-9878685554.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir, chhole bech lijiye, phir baad mein baat karte hain.",
+    "summary": "The agent completed discovery (age 40, business, 2L annual income) but ended the call abruptly after the customer made a sarcastic remark about his business.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Yearly bata raha hun yaar... 2 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki guaranteed income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

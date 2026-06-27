@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "4555817463940935",
+  "source_transcript": "2026_05_29/agent-2077-1780050401-5793-Gaurav_TATA-2026_05_29_15_56_42-9643820005.json",
+  "source_name": "agent-2077-1780050401-5793-Gaurav_TATA-2026_05_29_15_56_42-9643820005.mp3",
+  "created_at_utc": "2026-06-01T05:43:50Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 171.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "20",
+        "evidence": "Mere to 20 saal hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Padhai karte ho abhi tak? Customer: Bilkul ma'am.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek hai, main Tannu Noida ke naam se save kar leta.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one se 1 crore ke term coverage ke saath mutual fund return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a 20-year-old student with no stated income or financial planning needs.",
+      "missed_opportunities": [
+        "Did not qualify the customer's financial status or interest in insurance."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was friendly and engaged in personal conversation, though the product pitch was largely ignored in favor of small talk."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from Tata AIA regarding a combined plan, and the customer responded with 'Haanji'.",
+      "customer_response": "Customer was passive regarding the product but engaged in personal banter about the agent's age and job.",
+      "key_event": "The agent shifted from a product pitch to a personal conversation about her age and job, which dominated the call.",
+      "ending": "Customer saved the agent's number and promised to call if there was a requirement."
+    },
+    "key_quotes": [
+      "Hoga to main puch ke zaroor bataunga.",
+      "Theek hai, main Tannu Noida ke naam se save kar leta."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "unprofessional_conduct"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

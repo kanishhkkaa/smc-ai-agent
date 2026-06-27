@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "profile_id": "4581231956088231",
+  "source_transcript": "agent-3012-1778751037-5511-Gaurav_TATA-2026_05_14_15_00_37-9999931259.json",
+  "source_name": "agent-3012-1778751037-5511-Gaurav_TATA-2026_05_14_15_00_37-9999931259.mp3",
+  "created_at_utc": "2026-05-16T00:17:10Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 97.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Sir good afternoon, main Central Bank of India ke behalf se Manish baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Abhi toh bilkul mat karo yaar, abhi busy chal raha hai aur abhi koi maine kaha na meri requirement nahi hai, assess main karunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi sir, aise meri koi banking ya insurance ki abhi koi requirement nahi hai sir main.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Aisa kaunsa plan aa gaya yaar jo 10 percent ka return hai, aisa toh koi plan nahi hota, guaranteed toh kabhi bhi nahi hota sir.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Aisa kaunsa plan aa gaya yaar jo 10 percent ka return hai, aisa toh koi plan nahi hota, guaranteed toh kabhi bhi nahi hota sir.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "assess main karunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Lifetime Partner Plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has no interest in insurance products and questioned the validity of the guaranteed return claim.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they are not interested, have no requirement, and asked the agent not to contact them again."
+    },
+    "summary": "The agent called to pitch a 'Lifetime Partner Plan' from Central Bank of India, claiming a 10% guaranteed return. The customer was skeptical of the guaranteed return claim and explicitly stated they had no requirement for insurance. The customer eventually asked the agent not to call again.",
+    "key_quotes": [
+      "Aisa kaunsa plan aa gaya yaar jo 10 percent ka return hai, aisa toh koi plan nahi hota, guaranteed toh kabhi bhi nahi hota sir.",
+      "Abhi toh bilkul mat karo yaar, abhi busy chal raha hai"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

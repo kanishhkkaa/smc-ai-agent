@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6337088726281211",
+  "source_transcript": "agent-2049-1779448188-3734-Gaurav_delhi-2026_05_22_16_39_48-9810683311.json",
+  "created_at_utc": "2026-06-01T02:49:16Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779448188-3734-Gaurav_delhi-2026_05_22_16_39_48-9810683311.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir 15,000 rupaye sir. Main waiter hun yahan pe. Ye Bhubaneswar mein ek cafe hai, udhar waiter hun.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery (age 41, waiter, 15k monthly income); the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "41 saal",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Bhubaneswar",
+        "evidence": "Ye Bhubaneswar mein ek cafe hai",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main naukri karta hun sir ji. Main waiter hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Sir 15,000 rupaye sir.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

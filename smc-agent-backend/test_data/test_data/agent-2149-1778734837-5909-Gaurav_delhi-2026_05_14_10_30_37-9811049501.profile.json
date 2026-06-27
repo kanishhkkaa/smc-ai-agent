@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "8624719119658164",
+  "source_transcript": "agent-2149-1778734837-5909-Gaurav_delhi-2026_05_14_10_30_37-9811049501.json",
+  "source_name": "agent-2149-1778734837-5909-Gaurav_delhi-2026_05_14_10_30_37-9811049501.mp3",
+  "created_at_utc": "2026-05-16T00:11:38Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 139.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "aap se Priya baat kar rahi hun, HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "no thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "maine to karva liya madam is baar to.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "maine to abhi IndusInd bank mein karvaya hai, kaafi accha plan tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed product",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "6_12_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer explicitly stated they have already purchased a plan and declined further interest in insurance or loans."
+    },
+    "summary": "The agent called to pitch an HDFC Life guaranteed product. The customer declined, stating they had already purchased a plan through IndusInd Bank. The agent attempted to continue the pitch, but the customer remained uninterested and declined further offers for insurance or loans.",
+    "key_quotes": [
+      "maine to karva liya madam is baar to.",
+      "maine to abhi IndusInd bank mein karvaya hai, kaafi accha plan tha.",
+      "no thank you."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

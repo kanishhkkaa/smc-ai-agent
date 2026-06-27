@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1605014761389330",
+  "source_transcript": "agent-2037-1779527028-13-Gaurav_delhi-2026_05_23_14_33_49-9891531123.json",
+  "created_at_utc": "2026-06-01T02:20:17Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 98.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779527028-13-Gaurav_delhi-2026_05_23_14_33_49-9891531123.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi karni, nahi.",
+    "summary": "Agent pitched an HDFC Life investment plan and attempted discovery, but the customer refused to proceed further.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "Meri age 29.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho uska 35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

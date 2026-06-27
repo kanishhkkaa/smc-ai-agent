@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7212823599554820",
+  "source_transcript": "agent-3012-1779527558-4556-Gaurav_TATA-2026_05_23_14_42_38-9953003520.json",
+  "created_at_utc": "2026-06-01T02:36:40Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779527558-4556-Gaurav_TATA-2026_05_23_14_42_38-9953003520.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Madam ji, karna toh 5 baje ke kareeb call karna. Main abhi kuch...",
+    "summary": "Agent pitched a child plan from Central Bank of India; customer requested a callback at 5 PM.",
+    "callback_time_iso": "2026-05-23T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi se hi baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return milega",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

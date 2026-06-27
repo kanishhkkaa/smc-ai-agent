@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8526002459406963",
+  "source_transcript": "agent-2001-1779625309-3703-Gaurav_TATA-2026_05_24_17_51_49-9621030953.json",
+  "created_at_utc": "2026-06-01T02:05:10Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2001-1779625309-3703-Gaurav_TATA-2026_05_24_17_51_49-9621030953.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, woh mujhe pata hai, mujhe 12 se 6 saal tak dena hoga, 12 saal tak, tab refund milega aapko.",
+    "summary": "The agent pitched a Tata AIA combined plan; the customer demonstrated prior knowledge of insurance products and remained engaged without committing to a purchase.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aapka refundable hai sir jo bhi aap premium pay kar rahe ho",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

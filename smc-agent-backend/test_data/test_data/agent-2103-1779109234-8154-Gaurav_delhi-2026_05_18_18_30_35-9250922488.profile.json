@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "6228394655665126",
+  "source_transcript": "agent-2103-1779109234-8154-Gaurav_delhi-2026_05_18_18_30_35-9250922488.json",
+  "source_name": "agent-2103-1779109234-8154-Gaurav_delhi-2026_05_18_18_30_35-9250922488.mp3",
+  "created_at_utc": "2026-05-21T02:06:01Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 83.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Private job karte hain yaar.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Private job",
+        "evidence": "Customer: Private job karte hain, government job nahi karte.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Monthly income mera yahi 25, 25-26 hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan, batao kya kaam hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi, LIC ki nahi, kahan LIC ki hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "guaranteed 36 percent income from first year for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitched (36% guaranteed return) is highly unrealistic and likely mis-sold, and the customer has no prior investment experience.",
+      "missed_opportunities": [
+        "Did not assess risk appetite or long-term financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is open to hearing about the plan but has no prior investment experience and low income."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and the customer asked what the purpose of the call was.",
+      "customer_response": "Customer was passive and provided information when asked, though slightly confused about his own employment status.",
+      "key_event": "The agent made a highly questionable claim of 36% guaranteed lifetime income.",
+      "ending": "The agent finished the discovery phase and the call ended without a clear next step or closing."
+    },
+    "key_quotes": [
+      "Monthly income mera yahi 25, 25-26 hai.",
+      "Nahi, LIC ki nahi, kahan LIC ki hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

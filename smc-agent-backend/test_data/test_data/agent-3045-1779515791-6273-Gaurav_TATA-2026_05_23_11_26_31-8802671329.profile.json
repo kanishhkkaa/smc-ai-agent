@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1449296286280231",
+  "source_transcript": "agent-3045-1779515791-6273-Gaurav_TATA-2026_05_23_11_26_31-8802671329.json",
+  "created_at_utc": "2026-06-01T02:40:29Z",
+  "transcript_stats": {
+    "segments": 66,
+    "duration_seconds": 262.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779515791-6273-Gaurav_TATA-2026_05_23_11_26_31-8802671329.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Dekhiye, agar aap mujhe nahi batayenge toh main, mera friend already kya kehte hain, Tata AIA mein kya kehte hain, assistant manager hai. Main usse discuss kar lunga.",
+    "summary": "Agent pitched a Tata AIA plan but discouraged the customer due to affordability concerns; customer decided to consult his friend who works at Tata AIA.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "28",
+        "evidence": "Meri age meri 28 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "main job nahi karta",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "meri salary 25,000 hai",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "amount bhi aapka refundable rahega",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "3506981402679279",
+  "source_transcript": "agent-2149-1779712615-2792-Gaurav_delhi-2026_05_25_18_06_56-9560102378.json",
+  "source_name": "agent-2149-1779712615-2792-Gaurav_delhi-2026_05_25_18_06_56-9560102378.mp3",
+  "created_at_utc": "2026-05-27T01:21:36Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: 50 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Customer: Ma'am main to retired ho gaya.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Automotive",
+        "evidence": "Customer: Automotive.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Agent: Haan to sir aap aisa bole na, aapko plan nahi lena to aap keh rahe ki main retired hun. Koi baat nahi, thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Koi plan lene ka...",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki guaranteed income aati hai aapki whole life ke liye"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is retired and explicitly stated no interest in plans.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was clearly annoyed by the agent's questioning and the agent abruptly ended the call when the customer expressed disinterest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life to share information about a guaranteed income product.",
+      "customer_response": "The customer was passive initially but became defensive and dismissive when the agent questioned his retirement status.",
+      "key_event": "The agent challenged the customer's retirement age, leading to a breakdown in the conversation.",
+      "ending": "The agent abruptly ended the call after the customer expressed disinterest."
+    },
+    "key_quotes": [
+      "50 saal.",
+      "Ma'am main to retired ho gaya.",
+      "Koi plan lene ka..."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

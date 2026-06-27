@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "7681633232409230",
+  "source_transcript": "agent-3042-1779083640-4042-Gaurav_delhi-2026_05_18_11_24_01-9351674140.json",
+  "source_name": "agent-3042-1779083640-4042-Gaurav_delhi-2026_05_18_11_24_01-9351674140.mp3",
+  "created_at_utc": "2026-05-21T02:12:40Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 72.8,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "20",
+        "evidence": "Customer: Meri age 20.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Good morning ma'am... Customer: Yes ma'am.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Customer: Padhai karti hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "student",
+        "evidence": "Customer: Padhai karti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Yes bolo sir kya information hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Aap mere se hi kar sakte ho.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income for whole life",
+        "8 percent return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a 20-year-old student with no income, making her unsuitable for a high-premium insurance product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a 20-year-old student with no independent income, making her a poor prospect for this product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life and immediately launched into a pitch for a guaranteed income plan.",
+      "customer_response": "The customer was passive and compliant, answering the agent's questions directly.",
+      "key_event": "The agent attempted to pitch a high-premium product to a student, then realized the mismatch when asking about her occupation.",
+      "ending": "The agent ended the call after realizing the customer is a student and not the primary decision-maker."
+    },
+    "key_quotes": [
+      "HDFC ne first time ek aisa guaranteed plan design kiya hai jisme company aapko first year se 40 percent ki guaranteed income deti hai"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

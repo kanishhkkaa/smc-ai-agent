@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "9670144374110514",
+  "source_transcript": "agent-2156-1778571067-5097-Gaurav_delhi-2026_05_12_13_01_07-9811631660.json",
+  "source_name": "agent-2156-1778571067-5097-Gaurav_delhi-2026_05_12_13_01_07-9811631660.mp3",
+  "created_at_utc": "2026-05-15T06:47:49Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 106.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: Ah 40.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: Ah 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, good afternoon sir. Manshi this side from the HDFC Life insurance, second information ke regarding call kari hai sir aapko. Customer: Haan boliye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: Ah fruit ka kaam hai mera.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "fruit business",
+        "evidence": "Customer: Ah fruit ka kaam hai mera.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: 10,000.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: Ah 40. Fruit ka kaam hai mera.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan boliye. Ah 40. Ah fruit ka kaam hai mera. 10,000.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer's stated income is too low for the product pitched.",
+      "missed_opportunities": [
+        "Did not verify if the customer understood the product or had any specific financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer provided basic information but the income stated (10,000 annually) is extremely low, suggesting either a misunderstanding or a lack of financial capacity for the product. Further qualification is needed to determine if he is a viable lead."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance plan, claiming 40% income from the first year. The customer, a 40-year-old fruit business owner, provided his age and stated an annual income of 10,000. The call ended after the agent acknowledged the income figure.",
+    "key_quotes": [
+      "Ah 40.",
+      "Ah fruit ka kaam hai mera.",
+      "10,000."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

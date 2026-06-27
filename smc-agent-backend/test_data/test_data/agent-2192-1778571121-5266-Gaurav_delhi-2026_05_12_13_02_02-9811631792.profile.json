@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "profile_id": "7378620612169754",
+  "source_transcript": "agent-2192-1778571121-5266-Gaurav_delhi-2026_05_12_13_02_02-9811631792.json",
+  "source_name": "agent-2192-1778571121-5266-Gaurav_delhi-2026_05_12_13_02_02-9811631792.mp3",
+  "created_at_utc": "2026-05-15T06:49:42Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 320.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "37",
+        "evidence": "Agent: 37.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Agent: 37.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: ji ji mam ji. (Agent refers to customer as 'sir')",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: ji very good afternoon sir, main Shalini baat kar rahi hun HDFC Life se... (Conversation in Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job karte hain mam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: haan 5 lakh ke andar hi hai, 5 lakh ke andar hi hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_no_kids",
+        "evidence": "Customer: ji ji mam ji. (Agent asks 'aapki shadi ho rakhi hai?' and customer confirms)",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Customer: bacche nahi hain, wo bacche kiye nahi hain hum, abhi",
+        "confidence": "high"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: bacche nahi hain, wo bacche kiye nahi hain hum, abhi, aise loan phone khatam ho jate, bacche ke bare mein sochenge.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: ji mam main thoda busy hun, fir call.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "hamare itni income nahi hai mam, income utni nahi hai mam.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "mere already teen teen loan chal rahe hain.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: ji ji mam ji. (Customer is the one managing his own loans and finances)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer has multiple active loans and low income, making him unsuitable for a long-term savings/investment plan at this time.",
+      "missed_opportunities": [
+        "Did not pivot to debt management or protection-only products despite customer mentioning loans."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is currently under financial strain due to multiple loans and explicitly stated he is not interested in purchasing at this time. However, he was polite and listened to the pitch, suggesting a follow-up after his financial situation improves."
+    },
+    "summary": "The agent called to pitch the HDFC Life Sanchay Par Advantage plan. The customer repeatedly declined, citing low income and multiple active loans. The agent persisted despite the customer's clear lack of interest and financial constraints, eventually leading the customer to end the call.",
+    "key_quotes": [
+      "hamare itni income nahi hai mam, income utni nahi hai mam.",
+      "mere already teen teen loan chal rahe hain.",
+      "bacche nahi hain, wo bacche kiye nahi hain hum, abhi"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

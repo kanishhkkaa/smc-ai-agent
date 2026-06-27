@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6933707458574757",
+  "source_transcript": "agent-3017-1779537263-4786-Gaurav_delhi-2026_05_23_17_24_23-8826754547.json",
+  "created_at_utc": "2026-06-01T02:38:22Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 113.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779537263-4786-Gaurav_delhi-2026_05_23_17_24_23-8826754547.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sorry sir, phir toh aap is plan ke liye eligible nahi hai, kyunki ismein minimum jo minimum honi chahiye 5 lakh honi chahiye income saal ki.",
+    "summary": "Agent performed discovery, determined the customer was ineligible due to income requirements, and ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "22.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Working.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25-30 hazaar mahine.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi investment aap is plan mein karte hain, saara refundable hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

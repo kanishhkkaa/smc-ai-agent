@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4236026103271587",
+  "source_transcript": "agent-2028-1779443302-1956-Gaurav_TATA-2026_05_22_15_18_23-9810816841.json",
+  "created_at_utc": "2026-06-01T02:47:31Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2028-1779443302-1956-Gaurav_TATA-2026_05_22_15_18_23-9810816841.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai, okay.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery, but the call ended without a commitment or further action.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "Meri age hai 41.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Main job bhi aur business bhi dono cheez hai. Apni dukan hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "22-23 hazaar",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

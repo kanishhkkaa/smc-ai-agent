@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5664170528634207",
+  "source_transcript": "agent-3023-1779252121-8167-Gaurav_delhi-2026_05_20_10_12_02-8700414225.json",
+  "source_name": "agent-3023-1779252121-8167-Gaurav_delhi-2026_05_20_10_12_02-8700414225.mp3",
+  "created_at_utc": "2026-05-24T05:13:08Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hu.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Meri salary above 60,000 hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main ek baar review karta hu. Agar mujhe samajh mein aaya, main aapko bata dunga, theek hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Aap iske details mujhe WhatsApp kar denge kya? Main ek baar review karke phir aapse baat karu.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% cash bonus as a cash bonus for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent provided misleading information regarding '36% income' which was later clarified as a 'cash bonus', causing confusion.",
+      "missed_opportunities": [
+        "No discovery questions asked about customer's financial goals or existing portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to reviewing information but insisted on receiving details via WhatsApp before committing."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately launched into a pitch for a guaranteed plan.",
+      "customer_response": "Customer was passive but firm in his request for written information rather than verbal pressure.",
+      "key_event": "The customer pushed back against the agent's pressure to discuss the plan verbally, insisting on receiving details on paper/WhatsApp first.",
+      "ending": "The agent reluctantly agreed to end the call after the customer insisted on reviewing details via WhatsApp."
+    },
+    "key_quotes": [
+      "Aap iske details mujhe WhatsApp kar denge kya? Main ek baar review karke phir aapse baat karu.",
+      "Mujhe on paper cheezein hoti hain na to behtar samajh mein aata hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

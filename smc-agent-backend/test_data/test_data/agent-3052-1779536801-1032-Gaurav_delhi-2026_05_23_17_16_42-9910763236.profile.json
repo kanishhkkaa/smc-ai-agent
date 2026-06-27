@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2911966783582171",
+  "source_transcript": "agent-3052-1779536801-1032-Gaurav_delhi-2026_05_23_17_16_42-9910763236.json",
+  "created_at_utc": "2026-06-01T02:43:10Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3052-1779536801-1032-Gaurav_delhi-2026_05_23_17_16_42-9910763236.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Mera itna toh income hai nahi. Main toh carpenter ka, lakdi ka kaam karta hun ji.",
+    "summary": "Agent pitched the Smart Value Income Plan; customer disclosed his occupation and income, expressing financial inability to afford the plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Main toh carpenter ka, lakdi ka kaam karta hun ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Koi 20-25 hazaar rupaye.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Smart Value Income Plan",
+    "compliance": {
+      "return_claim_quote": "7 days ke andar hi 36 percent ki guaranteed income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

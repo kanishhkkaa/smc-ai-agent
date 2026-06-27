@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "8323440076161778",
+  "source_transcript": "2026_05_26/agent-3006-1779779375-1895-Gaurav_TATA-2026_05_26_12_39_35-9953656728.json",
+  "source_name": "agent-3006-1779779375-1895-Gaurav_TATA-2026_05_26_12_39_35-9953656728.mp3",
+  "created_at_utc": "2026-06-01T05:09:51Z",
+  "transcript_stats": {
+    "segments": 63,
+    "duration_seconds": 242.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sudhir Sharma",
+      "evidence": "Sudhir Sharma",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "48",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Ye koi mera approx 5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji, theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Abhi toh nahi ho payega.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "premium too high"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi, samjha nahi main.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "protection",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Sudhir Sharma",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T17:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 177780,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted premium of 1.77L is disproportionately high for a 5L annual income.",
+      "missed_opportunities": [
+        "cross-sell health insurance earlier"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was open to discussing health insurance after declining the term plan and agreed to a scheduled callback."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, and the customer confirmed his age.",
+      "customer_response": "Customer was initially passive but became engaged once the agent pivoted to health insurance.",
+      "key_event": "Customer declined the expensive term plan premium and requested information on health insurance instead.",
+      "ending": "Agent confirmed a callback for 5 PM today with the health insurance team."
+    },
+    "key_quotes": [
+      "Abhi toh nahi ho payega.",
+      "Ji, karwa dijiyega aaj sir."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "6254207479143860",
+  "source_transcript": "agent-2082-1779708857-1129-Gaurav_delhi-2026_05_25_17_04_17-8800793220.json",
+  "source_name": "agent-2082-1779708857-1129-Gaurav_delhi-2026_05_25_17_04_17-8800793220.mp3",
+  "created_at_utc": "2026-05-27T01:16:35Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 131.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Ye office ka number hai, yahan pe private number nahi hai. ... Are office ka number hai, sarkari number hai.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Government office employee",
+        "evidence": "sarkari number hai",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Galat jagah phone kiya hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Toh aadmi paise kahan se bachayega?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Ye office ka number hai, yahan pe private number nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unsolicited call to office number"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "pehle saal se ek guaranteed aur regular income",
+        "pehle din se aapka insurance cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The customer is a government office line and expressed no interest in the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was clearly annoyed by the unsolicited call to a government office number and explicitly stated it was the wrong place."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed savings plan from Tata AIA, to which the customer responded with passive acknowledgment.",
+      "customer_response": "The customer was defensive and annoyed, questioning the agent's process and the nature of the call.",
+      "key_event": "The customer revealed the number is a government office line, not a personal one, and told the agent they called the wrong place.",
+      "ending": "The agent attempted to continue the pitch despite the customer stating it was a government office number, leading to an abrupt end."
+    },
+    "key_quotes": [
+      "Toh aadmi paise kahan se bachayega?",
+      "Lekin aapne phone bina jaane kaise kar diya?",
+      "Galat jagah phone kiya hai."
+    ],
+    "red_flags": [
+      "agent_called_government_office_number",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "7254843924827365",
+  "source_transcript": "2026_05_21/agent-3012-1779343640-3311-Gaurav_TATA-2026_05_21_11_37_20-9825937493.json",
+  "source_name": "agent-3012-1779343640-3311-Gaurav_TATA-2026_05_21_11_37_20-9825937493.mp3",
+  "created_at_utc": "2026-06-01T04:59:45Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 208.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Theek hai, contact karwa do, okay.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi, mujhe aisa kuch nahi chahiye, theek hai.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Mujhe HDFC wale ne call kiya tha kuch dino pehle, ji, woh day one se 45 percent mujhe return de raha tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "\"bank aapko child plan offer kar raha hai\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Aap Ahmedabad ki koi nearby branch ke bande ko aap bolo mujhe contact kar le, main usse baat kar lunga.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-21T11:42:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "30% cash bonus from year 1, increasing to 35% and 41%",
+        "16 lakh surrender value after 12 years",
+        "tax-free returns under 10(10)D"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is focused on high-return claims from competitors and is not convinced by the current product's value proposition.",
+      "missed_opportunities": [
+        "Did not verify if the customer actually has the HDFC product or if it was a sales pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to hearing from a local branch representative but skeptical of the current agent's pitch compared to a competitor's offer."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan from Central Bank of India, which the customer initially declined.",
+      "customer_response": "Customer was initially dismissive but became engaged when comparing the agent's offer to a competitor's claim.",
+      "key_event": "Customer challenged the agent's pitch by citing a 45% return offer from a competitor, leading to a breakdown in the agent's credibility.",
+      "ending": "Agent agreed to have a local branch representative contact the customer within 5 minutes."
+    },
+    "key_quotes": [
+      "Mujhe HDFC wale ne call kiya tha kuch dino pehle, ji, woh day one se 45 percent mujhe return de raha tha.",
+      "Aap Ahmedabad ki koi nearby branch ke bande ko aap bolo mujhe contact kar le, main usse baat kar lunga."
+    ],
+    "red_flags": [
+      "Agent engaged in a heated debate about competitor product returns instead of pivoting to value."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

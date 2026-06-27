@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "1037833942178668",
+  "source_transcript": "2026_05_16/agent-2131-1778912864-2447-Gaurav_delhi-2026_05_16_11_57_44-9122458503.json",
+  "source_name": "agent-2131-1778912864-2447-Gaurav_delhi-2026_05_16_11_57_44-9122458503.mp3",
+  "created_at_utc": "2026-06-01T04:45:43Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "38",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Purnia",
+        "evidence": "Purnia jila",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Bihar",
+        "evidence": "Bihar",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "kheti-bari ka kaam karte hain",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "farming",
+        "evidence": "kheti-bari ka kaam",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "ek saal mein yahi 1 lakh ke kareeb",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "bal-baccha chhota-chhota teen-char",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "3-4",
+        "evidence": "bal-baccha chhota-chhota teen-char",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi ho payega sir",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi ho payega sir, kyunki hum log ka bal-baccha chhota-chhota teen-char, usko khana.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "low annual income",
+        "high family expenses"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Nahi ho payega sir",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "hum log ka to private kaam hai na bhai",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35 percent company aapko return kar deti hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 50000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has very low annual income and high family expenses, making him unsuitable for the pitched investment product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated inability to invest due to family expenses and low income."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and pitched a guaranteed savings plan, to which the customer responded by asking him to speak.",
+      "customer_response": "Passive and polite, providing information but clearly not interested in the financial commitment.",
+      "key_event": "The customer declined the investment proposal citing family expenses and low annual income.",
+      "ending": "The agent acknowledged the customer's financial constraints and ended the call politely."
+    },
+    "key_quotes": [
+      "Nahi ho payega sir, kyunki hum log ka bal-baccha chhota-chhota teen-char, usko khana."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

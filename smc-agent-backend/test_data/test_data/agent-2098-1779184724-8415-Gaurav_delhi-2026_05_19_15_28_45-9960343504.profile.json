@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "3493758827421129",
+  "source_transcript": "agent-2098-1779184724-8415-Gaurav_delhi-2026_05_19_15_28_45-9960343504.json",
+  "source_name": "agent-2098-1779184724-8415-Gaurav_delhi-2026_05_19_15_28_45-9960343504.mp3",
+  "created_at_utc": "2026-05-22T11:15:00Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 96.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "'Bolo kya hua? Kiske liye phone kiya?'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "both",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Filhal kisi. Call do.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T16:30:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% guaranteed income from first year",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life new plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "No discovery performed; agent pushed product aggressively without understanding customer needs.",
+      "missed_opportunities": [
+        "discovery_questions",
+        "needs_analysis"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was dismissive and clearly annoyed by the agent's tone, though agreed to a callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life, and the customer responded with a curt 'Bolo kya hua?'.",
+      "customer_response": "The customer was initially hostile and dismissive, questioning the reason for the call.",
+      "key_event": "The agent made aggressive guaranteed return claims, which the customer ignored to focus on ending the call.",
+      "ending": "The agent confirmed a callback time of 4:30 PM the next day and ended the call."
+    },
+    "key_quotes": [
+      "Bolo kya hua? Kiske liye phone kiya?",
+      "Aap bhi toh waise hi bol rahe ho."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "agent_confrontational_with_customer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

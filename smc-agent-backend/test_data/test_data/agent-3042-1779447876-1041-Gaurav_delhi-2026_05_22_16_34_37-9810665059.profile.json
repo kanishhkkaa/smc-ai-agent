@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1199592450773040",
+  "source_transcript": "agent-3042-1779447876-1041-Gaurav_delhi-2026_05_22_16_34_37-9810665059.json",
+  "created_at_utc": "2026-06-01T03:03:10Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779447876-1041-Gaurav_delhi-2026_05_22_16_34_37-9810665059.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Haan 50,000 ki LIC chal rahi hai.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan, completed full discovery (age 30, job, 3L income), and customer confirmed existing LIC policy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income deti hai whole life ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

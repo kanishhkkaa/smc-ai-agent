@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "7439664920527027",
+  "source_transcript": "agent-3054-1779705254-437-Gaurav_delhi-2026_05_25_16_04_14-9560495524.json",
+  "source_name": "agent-3054-1779705254-437-Gaurav_delhi-2026_05_25_16_04_14-9560495524.mp3",
+  "created_at_utc": "2026-05-27T01:29:05Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Priti Gupta",
+      "evidence": "Aap se Priti Gupta baat kar rahi hun HDFC Life ke behalf se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Aap se Priti Gupta baat kar rahi hun HDFC Life ke behalf se. (Agent addresses customer as 'ma'am')",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Ye humein kuch aata hi nahi, hum kar hi nahi payenge ye kuch.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Ye humein kuch aata hi nahi, hum kar hi nahi payenge ye kuch.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Ye humein kuch aata hi nahi, hum kar hi nahi payenge ye kuch.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Ye humein kuch aata hi nahi, hum kar hi nahi payenge ye kuch.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income for lifetime",
+        "8 percent compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer lacks understanding and interest in financial products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated she is unable to understand or participate in the process and has no one else to consult."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as Priti Gupta from HDFC Life and immediately started pitching a guaranteed plan.",
+      "customer_response": "The customer was passive and dismissive, stating she does not understand the product and cannot participate.",
+      "key_event": "The customer rejected the pitch by stating she does not know how to handle such products and cannot do it.",
+      "ending": "The agent asked to speak with a family member, the customer said she is alone, and the agent ended the call."
+    },
+    "key_quotes": [
+      "Ye humein kuch aata hi nahi, hum kar hi nahi payenge ye kuch."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

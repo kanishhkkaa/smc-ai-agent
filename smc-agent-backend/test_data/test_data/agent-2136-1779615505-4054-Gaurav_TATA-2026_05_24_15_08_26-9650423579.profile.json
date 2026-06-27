@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5782526393469752",
+  "source_transcript": "agent-2136-1779615505-4054-Gaurav_TATA-2026_05_24_15_08_26-9650423579.json",
+  "created_at_utc": "2026-06-01T02:10:37Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1779615505-4054-Gaurav_TATA-2026_05_24_15_08_26-9650423579.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi abhi toh plan nahi chahiye sir, filhal mein kyunki woh na hamara TV kharab ho gaya hai, toh ismein abhi time lagega.",
+    "summary": "The agent pitched the Tata Param Rakshak Pro plan, but the customer declined, citing current financial priorities due to a broken television.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

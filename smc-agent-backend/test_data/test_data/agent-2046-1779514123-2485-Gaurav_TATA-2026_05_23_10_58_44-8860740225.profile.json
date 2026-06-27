@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3341062716678212",
+  "source_transcript": "agent-2046-1779514123-2485-Gaurav_TATA-2026_05_23_10_58_44-8860740225.json",
+  "created_at_utc": "2026-06-01T02:22:04Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779514123-2485-Gaurav_TATA-2026_05_23_10_58_44-8860740225.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, humein kuch nahi karna.",
+    "summary": "The agent pitched a Tata AIA combined plan, but the customer explicitly refused, stating they were not interested in any insurance products.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aapka refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

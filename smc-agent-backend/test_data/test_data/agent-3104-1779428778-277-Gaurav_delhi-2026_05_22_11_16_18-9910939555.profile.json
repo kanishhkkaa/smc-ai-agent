@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2153486649943901",
+  "source_transcript": "agent-3104-1779428778-277-Gaurav_delhi-2026_05_22_11_16_18-9910939555.json",
+  "created_at_utc": "2026-06-01T03:08:15Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779428778-277-Gaurav_delhi-2026_05_22_11_16_18-9910939555.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Afternoon mein kar lo, 3-4 baje.",
+    "summary": "Agent pitched an HDFC Life guaranteed product; customer requested details via WhatsApp and agreed to a callback between 3-4 PM.",
+    "callback_time_iso": "2026-05-22T15:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

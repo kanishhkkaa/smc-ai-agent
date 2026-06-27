@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "3689433798446360",
+  "source_transcript": "agent-3104-1778576489-6579-Gaurav_delhi-2026_05_12_14_31_30-9810231019.json",
+  "source_name": "agent-3104-1778576489-6579-Gaurav_delhi-2026_05_12_14_31_30-9810231019.mp3",
+  "created_at_utc": "2026-05-15T07:02:24Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 352.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: 26",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 26",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hai sir, very good afternoon. Shivam baat kar raha hun HDFC Life se. (Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "Agent: company ka naam bata sakte ho sir ek baar? Customer: nahi wo confidential hai.",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: 6 lakh per annum.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: 26, job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: theek hai, aap bataiye plan kya hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "actually main interested nahi hun.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "10K_25K",
+        "evidence": "Agent: 1,20,000 rupaye ki investment karne mein aapko koi dikkat pareshani to nahi rahegi jaise aapka annual income 6 lakh ki hai",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Agent: aapke financial decision hote hain, kya aap khud lete hain ya matlab aapke ghar walon ke hote hain sir? ghar walon ke hote hain.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 2,
+      "bant_total": 5,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Saving Plan",
+      "fit_score_0_10": 4,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals.",
+        "Did not clarify the product structure beyond high-level claims."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and did not reject the call outright, eventually asking for the plan details. He ended the call by saying he would call back on the same number, suggesting he is open to further information."
+    },
+    "summary": "The agent cold-called a 26-year-old salaried individual to pitch an HDFC Life saving plan. The customer initially expressed a lack of interest but agreed to hear the details after the agent persisted. The customer stated that financial decisions are made by his family and ended the call by saying he would call back on the same number.",
+    "key_quotes": [
+      "actually main interested nahi hun.",
+      "theek hai, aap bataiye plan kya hai.",
+      "main isi number pe aapko call kar lunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

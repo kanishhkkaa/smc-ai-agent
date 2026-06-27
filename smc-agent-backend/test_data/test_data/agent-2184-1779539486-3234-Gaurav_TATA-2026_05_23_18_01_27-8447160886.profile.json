@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "2422789288865218",
+  "source_transcript": "agent-2184-1779539486-3234-Gaurav_TATA-2026_05_23_18_01_27-8447160886.json",
+  "created_at_utc": "2026-06-01T02:34:29Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 109.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779539486-3234-Gaurav_TATA-2026_05_23_18_01_27-8447160886.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "prospect_is_sales_agent"
+    ],
+    "confidence": "high",
+    "evidence": "Investment toh hum dusron ki karwate hain. Chalo sir fir theek hai, unhi ka karwaiye sir fir aap.",
+    "summary": "The agent pitched a Tata AIA life insurance plan, but the customer, who is a financial professional, declined the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "Investment toh hum dusron ki karwate hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

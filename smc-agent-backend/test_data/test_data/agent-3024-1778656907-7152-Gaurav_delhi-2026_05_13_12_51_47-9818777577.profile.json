@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "3258654162253270",
+  "source_transcript": "2026_05_13/agent-3024-1778656907-7152-Gaurav_delhi-2026_05_13_12_51_47-9818777577.json",
+  "source_name": "agent-3024-1778656907-7152-Gaurav_delhi-2026_05_13_12_51_47-9818777577.mp3",
+  "created_at_utc": "2026-06-01T04:04:01Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 110.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "58 madam.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain, government job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "government job",
+        "evidence": "government job",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "1 lakh se plus hai madam.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan ji ji ji theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% cumulative income within 7 days"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent is promising unrealistic, immediate returns (35% in 7 days) on a life insurance product, which is highly misleading.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or retirement goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "annuity",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is engaged, providing personal details, and seems interested in the promised returns."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a 35% return within 7 days.",
+      "customer_response": "Engaged and inquisitive, asking for details about the plan.",
+      "key_event": "Customer confirmed age and interest in the 12-year saving commitment.",
+      "ending": "The agent is in the middle of gathering financial details to tailor the plan explanation."
+    },
+    "key_quotes": [
+      "Woh kya plan hai madam bataiye na?",
+      "1 lakh se plus hai madam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

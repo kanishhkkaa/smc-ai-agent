@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "6480510401101032",
+  "source_transcript": "2026_05_27/agent-3049-1779863685-8672-Gaurav_TATA-2026_05_27_12_04_46-9640623414.json",
+  "source_name": "agent-3049-1779863685-8672-Gaurav_TATA-2026_05_27_12_04_46-9640623414.mp3",
+  "created_at_utc": "2026-06-01T05:23:27Z",
+  "transcript_stats": {
+    "segments": 82,
+    "duration_seconds": 276.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Aditya",
+      "evidence": "Aditya, main Aditya.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "38",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Aditya",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Self-employed.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Self-employed",
+        "evidence": "Self-employed.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "mere mahine ka income 30, 30 ke upar hai, 30 to 35 hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan, woh kitna? Same?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Haan madam.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Aditya, main Aditya.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "premium refundable with interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "combined plan",
+      "premium_quoted_inr": 221957,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted annual premium of ~2.2L is significantly high relative to the customer's annual income of ~4L.",
+      "missed_opportunities": [
+        "Did not explore the customer's specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is engaged and asking for specific premium details, though the premium quoted is high relative to his income."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called to promote a combined term and investment plan from Tata AIA, and the customer engaged immediately.",
+      "customer_response": "Engaged and inquisitive, providing personal details and asking for premium breakdowns.",
+      "key_event": "The agent quoted a quarterly premium of 55,491 rupees after confirming the customer's age, smoking status, and income.",
+      "ending": "The agent confirmed the quarterly premium amount and asked if it was comfortable for the customer."
+    },
+    "key_quotes": [
+      "Woh toh, ye kya hai?",
+      "mere mahine ka income 30, 30 ke upar hai, 30 to 35 hai.",
+      "3 mahine ke liye kitna? 3 mahine ke liye kitna hota hai?"
+    ],
+    "red_flags": [
+      "premium_quoted_inr is over 50% of annual income"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

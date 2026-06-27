@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "4289426685511828",
+  "source_transcript": "agent-3062-1778835723-6802-Gaurav_TATA-2026_05_15_14_32_04-9892539123.json",
+  "created_at_utc": "2026-06-01T01:26:47Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1778835723-6802-Gaurav_TATA-2026_05_15_14_32_04-9892539123.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "prospect_is_sales_agent"
+    ],
+    "confidence": "high",
+    "evidence": "Main insurance sector mein hi hun, toh aap mujhe jo bhi hai aap mereko ye number pe WhatsApp hai, aap wo pura plan bhejo main padh karke.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer, who works in the insurance sector, requested a brochure via WhatsApp to review the plan details.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "Main insurance sector mein hi hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 39,
+    "bant_score": 1.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3901136140957866",
+  "source_transcript": "agent-3017-1779530604-382-Gaurav_delhi-2026_05_23_15_33_24-8109678937.json",
+  "created_at_utc": "2026-06-01T02:38:06Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 137.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779530604-382-Gaurav_delhi-2026_05_23_15_33_24-8109678937.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai, 10 lakhs means. Toh koi baat nahi sir, aap main ek kaam karta hun, aapko ismein bata deta hun sir.",
+    "summary": "Agent pitched Tata Param Rakshak Pro, completed discovery (age 45, business, 10L annual income), and the call ended while the agent was explaining plan benefits.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Sanjay Goswami",
+        "evidence": "Nahi, Sanjay Goswami ji se baat ho rahi hai.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Meri 45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Apna aalu ka business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "10 lakh saal bhar ka.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "1 lakh ke pension ka bhi option milta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

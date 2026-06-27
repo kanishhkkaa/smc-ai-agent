@@ -1,0 +1,196 @@
+{
+  "status": "success",
+  "profile_id": "8705664899017543",
+  "source_transcript": "agent-2001-1778742924-3843-Gaurav_TATA-2026_05_14_12_45_25-7290065101.json",
+  "source_name": "agent-2001-1778742924-3843-Gaurav_TATA-2026_05_14_12_45_25-7290065101.mp3",
+  "created_at_utc": "2026-05-15T23:50:52Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 130.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Badal",
+      "evidence": "Customer: haanji. Agent: Badal. Customer: sorry? Agent: Badal, film nahi dekhi Bobby Deol wali film Badal. Customer: haan sir dekhi to hai maine Badal wali movie sir. Agent: accha, to mera naam Badal hai",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: haan sir dekhi to hai maine Badal wali movie sir. Agent: accha, to mera naam Badal hai, nahi nahi sir, ab wo wale Badal kaise ho sakte hain, wo to Bobby Deol hai na sir, aap dusre wale hue na phir to. Customer: are main bilkul waise hi lagta hun, to copy. Agent: accha, aap unhi ke jaise lagte ho, Bobby Deol ke jaise sir. Customer: ji. Agent: to aapne unki tarah haircut karwa rakha hoga. Customer: mere jabi to maa baap ne mera naam Badal rakha film ko dekh ke.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: good afternoon, bataiye seva. Agent: aap se na sir Anjali Sharma baat kar rahi hun sir aap se from TATA AIA se sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: haan sir dekhi to hai maine Badal wali movie sir. Agent: accha, to mera naam Badal hai, nahi nahi sir, ab wo wale Badal kaise ho sakte hain, wo to Bobby Deol hai na sir, aap dusre wale hue na phir to. Customer: are main bilkul waise hi lagta hun, to copy.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: kaunse fund ka? Agent: T-ULIP sir, term plus mutual fund investment... Customer: accha, haan daal rakha hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent: T-ULIP sir, term plus mutual fund investment, yani ki jo aap apne term coverage ke liye sir jo premium aap pay karoge na sir, wo amount sir aapka yahan par ye refundable rahega sir.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "B",
+      "stage_reached": "commitment_given",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "today at 5 PM",
+        "evidence": "Customer: 5 baje. ... Agent: 5 baje, 5 baje. Customer: evening, 5 baje? Agent: ji, ji.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "T-ULIP",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage or specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer agreed to a callback at 5 PM and engaged in friendly banter with the agent, indicating openness to further conversation."
+    },
+    "summary": "The agent called the customer to pitch a TATA AIA T-ULIP plan, claiming it offers refundable premiums and tax benefits. The customer, who already invests in mutual funds, was receptive and agreed to a callback at 5 PM. The conversation included lighthearted banter about the customer's name and resemblance to an actor.",
+    "key_quotes": [
+      "kaunse fund ka?",
+      "accha, haan daal rakha hai.",
+      "chalo theek hai, main free hone ke baad phone karunga, main office mein hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

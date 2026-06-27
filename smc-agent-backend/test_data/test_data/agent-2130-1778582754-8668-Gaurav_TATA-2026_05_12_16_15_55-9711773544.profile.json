@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "3215992828698820",
+  "source_transcript": "agent-2130-1778582754-8668-Gaurav_TATA-2026_05_12_16_15_55-9711773544.json",
+  "source_name": "agent-2130-1778582754-8668-Gaurav_TATA-2026_05_12_16_15_55-9711773544.mp3",
+  "created_at_utc": "2026-05-15T06:44:55Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 114.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Aditya",
+      "evidence": "Aditya baat kar raha hun Tata AIA se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "haan good afternoon sir, Aditya baat kar raha hun Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "theek hai. ... haan sir yeh bhi hai, theek hai sir theek.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "term plan toh bhai maine le rakha hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 1,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer already has a term plan and the agent failed to pivot to the investment component effectively.",
+      "missed_opportunities": [
+        "Did not explore the mutual fund component after the customer rejected the term plan."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "health_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was skeptical about the need for a second term plan but remained polite. A follow-up after some time might be appropriate if a different value proposition is presented."
+    },
+    "summary": "The agent pitched a Tata AIA term-plus-investment plan to the customer. The customer stated they already have a term plan, and the agent failed to effectively address this objection or pivot to the investment benefits, leading to a lukewarm conclusion.",
+    "key_quotes": [
+      "term plan toh bhai maine le rakha hai.",
+      "toh dobara de do term plan le lun?"
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

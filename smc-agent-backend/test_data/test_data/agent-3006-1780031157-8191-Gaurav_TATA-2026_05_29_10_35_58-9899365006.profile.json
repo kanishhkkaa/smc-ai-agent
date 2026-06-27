@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "profile_id": "7718621076683202",
+  "source_transcript": "2026_05_29/agent-3006-1780031157-8191-Gaurav_TATA-2026_05_29_10_35_58-9899365006.json",
+  "source_name": "agent-3006-1780031157-8191-Gaurav_TATA-2026_05_29_10_35_58-9899365006.mp3",
+  "created_at_utc": "2026-06-01T05:45:57Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 111.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Manish Sharma",
+      "evidence": "Manish Sharma",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "63",
+        "evidence": "Madam meri hai 63.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Madam meri hai 63. Haan retire hun madam, aur kya. (Customer refers to himself as 'sir' in the transcript)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Haan retire hun madam, aur kya.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek hai karwa dena.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": [
+        "health coverage for seniors"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Madam budhape ka sahara hai toh kam se kam bimariyan hoti hain, toh 20 ek lakh toh cover hona chahiye na.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Manish Sharma, theek hai, 5 minutes mein na aapko call aa jayega, aap pick karke hum baat kar lijiyega ek baar.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-29T10:40:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not provide specific health insurance product details, deferred to health team."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "reasoning": "Customer is interested in health insurance coverage for his age group and agreed to a callback."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA combined plan, and the customer responded with interest.",
+      "customer_response": "The customer was engaged and inquisitive about health insurance options for his age.",
+      "key_event": "The customer shifted the conversation from the initial investment pitch to inquiring about health insurance coverage and premiums.",
+      "ending": "The agent confirmed a callback from the health team within 5 minutes, and the customer agreed."
+    },
+    "key_quotes": [
+      "Madam budhape ka sahara hai toh kam se kam bimariyan hoti hain, toh 20 ek lakh toh cover hona chahiye na."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

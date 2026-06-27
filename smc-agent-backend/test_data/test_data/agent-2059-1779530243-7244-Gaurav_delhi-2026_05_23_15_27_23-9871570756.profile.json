@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "2417614371527916",
+  "source_transcript": "agent-2059-1779530243-7244-Gaurav_delhi-2026_05_23_15_27_23-9871570756.json",
+  "created_at_utc": "2026-06-01T02:24:29Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779530243-7244-Gaurav_delhi-2026_05_23_15_27_23-9871570756.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai aap kal kar lena call. Isi time pe kar lena.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer initially refused due to existing policies but agreed to a callback tomorrow at 3 PM.",
+    "callback_time_iso": "2026-05-24T15:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

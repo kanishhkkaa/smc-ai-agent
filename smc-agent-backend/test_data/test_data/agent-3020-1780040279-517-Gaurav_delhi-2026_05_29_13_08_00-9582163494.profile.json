@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "2668812865324777",
+  "source_transcript": "2026_05_29/agent-3020-1780040279-517-Gaurav_delhi-2026_05_29_13_08_00-9582163494.json",
+  "source_name": "agent-3020-1780040279-517-Gaurav_delhi-2026_05_29_13_08_00-9582163494.mp3",
+  "created_at_utc": "2026-06-01T05:46:43Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "hamari to 55 ho gayi",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "furniture ki dukan mein job karte hai naukri",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "furniture shop employee",
+        "evidence": "furniture ki dukan mein job karte hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "saal ki wahi ho jaata hai ek dedh lakh ho jaata hai",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer provided short, passive responses throughout the call.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% money back return annually on premium for lifetime",
+        "8% compounding rate of interest on total savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitch is highly aggressive and likely unsuitable for the customer's low income level.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is passive and provides minimal information, showing little interest in the product pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life regarding a savings plan, to which the customer responded neutrally.",
+      "customer_response": "The customer is passive, providing short answers and minimal engagement with the agent's pitch.",
+      "key_event": "The agent made several aggressive claims about guaranteed returns and interest rates.",
+      "ending": "The call ended abruptly after the customer disclosed his annual income."
+    },
+    "key_quotes": [
+      "hamari to 55 ho gayi",
+      "saal ki wahi ho jaata hai ek dedh lakh ho jaata hai"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

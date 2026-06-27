@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7912236676755741",
+  "source_transcript": "agent-2156-1779441149-3698-Gaurav_delhi-2026_05_22_14_42_29-9910504077.json",
+  "created_at_utc": "2026-06-01T02:55:40Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 166.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779441149-3698-Gaurav_delhi-2026_05_22_14_42_29-9910504077.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "12 saal toh, bas tight padega.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery; customer expressed concern about the 12-year payment term, but the call ended without a final refusal or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "53",
+        "evidence": "53",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Private company mein kaam karte hain madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "5 se 6 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

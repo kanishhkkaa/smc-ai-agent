@@ -1,0 +1,201 @@
+{
+  "status": "success",
+  "profile_id": "1487787608218826",
+  "source_transcript": "2026_05_14/agent-3049-1778744067-3274-Gaurav_TATA-2026_05_14_13_04_28-9555530792__stub.json",
+  "source_name": "agent-3049-1778744067-3274-Gaurav_TATA-2026_05_14_13_04_28-9555530792.mp3",
+  "created_at_utc": "2026-06-01T04:36:24Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 441.22,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "46 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "koi requirement aayegi toh.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "1,89,000 toh bahut zyada hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "abhi maine haal hi mein kiya hai, isliye main kar nahi paunga, thoda ruk ke karunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "premium too high",
+        "recent financial commitments",
+        "general economic hardship"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "waise aap market ki knowledge rakhte ho sir, SIP, mutual fund, stock, ya khud ka koi aapki portfolio chal rahi ho sir? Ji.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "term plus investment plan",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main kar nahi paunga",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "day one 1 crore term cover",
+        "mutual fund returns",
+        "pension and medical facility",
+        "premium refundable as per market",
+        "no charges on withdrawal after 5 years",
+        "tax free amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 189612,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Premium is significantly high relative to the customer's stated annual income of 5L.",
+      "missed_opportunities": [
+        "Did not explore health insurance needs specifically despite mentioning it."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "health_insurance",
+        "other"
+      ],
+      "reasoning": "Customer is polite and open to future contact after 6 months, despite current financial constraints."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and investment plan from Tata AIA and asked for the customer's age.",
+      "customer_response": "Customer was initially passive but became firm about his inability to purchase due to recent financial commitments.",
+      "key_event": "Customer rejected the high premium and stated he would need at least 6 months before considering new investments.",
+      "ending": "Customer agreed to save the agent's number for future reference and the call ended cordially."
+    },
+    "key_quotes": [
+      "1,89,000 toh bahut zyada hai",
+      "abhi maine haal hi mein kiya hai, isliye main kar nahi paunga, thoda ruk ke karunga.",
+      "koi requirement aayegi toh."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "7_15min"
+    }
+  }
+}

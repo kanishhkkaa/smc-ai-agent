@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6415453810883353",
+  "source_transcript": "agent-2131-1779455527-5645-Gaurav_delhi-2026_05_22_18_42_07-8826616882.json",
+  "created_at_utc": "2026-06-01T02:54:53Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2131-1779455527-5645-Gaurav_delhi-2026_05_22_18_42_07-8826616882.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Winding ka, wo to niche level ka kaam hai, peon wagera ka.",
+    "summary": "Agent pitched an HDFC Life plan and attempted discovery, but the call ended abruptly after the customer described his occupation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "41",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho, uska 35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

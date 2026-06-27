@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "2765776479576891",
+  "source_transcript": "agent-3006-1779683668-3305-Gaurav_TATA-2026_05_25_10_04_28-8527182131.json",
+  "source_name": "agent-3006-1779683668-3305-Gaurav_TATA-2026_05_25_10_04_28-8527182131.mp3",
+  "created_at_utc": "2026-05-27T01:24:24Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Ji job hai private sector.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "private sector job",
+        "evidence": "Customer: Ji job hai private sector.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Around 6. Agent: 6 lakhs.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi toh main thoda busy hun, thoda short time hai, aap phir kabhi Saturday Sunday ko kar lijiyega, abhi mujhe office ke liye ready hoke nikalna hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi toh main thoda busy hun, thoda short time hai, aap phir kabhi Saturday Sunday ko kar lijiyega, abhi mujhe office ke liye ready hoke nikalna hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-30T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund combine plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "ulip"
+      ],
+      "reasoning": "Customer was polite and requested a callback at a more convenient time."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves from Tata AIA and the customer acknowledged.",
+      "customer_response": "The customer was polite but brief, indicating they were busy and needed to leave for work.",
+      "key_event": "The customer requested a callback for the weekend because they were busy.",
+      "ending": "The agent agreed to call back later as requested by the customer."
+    },
+    "key_quotes": [
+      "Abhi toh main thoda busy hun, thoda short time hai, aap phir kabhi Saturday Sunday ko kar lijiyega"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

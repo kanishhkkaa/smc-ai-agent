@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "7672562223760274",
+  "source_transcript": "agent-2018-1778762833-5349-Gaurav_delhi-2026_05_14_18_17_14-9992380711.json",
+  "source_name": "agent-2018-1778762833-5349-Gaurav_delhi-2026_05_14_18_17_14-9992380711.mp3",
+  "created_at_utc": "2026-05-15T23:53:17Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 145.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: meri age ho rahi hai 26 27.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: meri age ho rahi hai 26 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: very good evening sir, main aapse Himanshu Rawat baat kar raha hun HDFC Life se. Customer: haan ji bolo ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: main to business karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Customer: main to business karta hun.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: main to business karta hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: kya bol rahe ho tum yahan kya bol rahe ho ji.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: main to business karta hun.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Plus",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Agent is misrepresenting a life insurance product as a high-return investment scheme with guaranteed 36% returns.",
+      "missed_opportunities": [
+        "Did not establish customer's actual financial goals or needs."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was distracted (on a tractor) and the agent's pitch was aggressive and potentially misleading. Re-approach is possible but requires a more professional, transparent approach."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance product, misrepresenting it as a high-return investment scheme with guaranteed 36% returns. The customer, who is a business owner, was distracted (on a tractor) and showed little interest. The call ended abruptly without any clear next steps.",
+    "key_quotes": [
+      "kya bol rahe ho tum yahan kya bol rahe ho ji.",
+      "main tractor pe hun phir bataiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

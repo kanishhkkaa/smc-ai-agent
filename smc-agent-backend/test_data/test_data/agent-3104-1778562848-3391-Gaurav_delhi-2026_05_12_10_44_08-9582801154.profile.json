@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "6980500032335333",
+  "source_transcript": "agent-3104-1778562848-3391-Gaurav_delhi-2026_05_12_10_44_08-9582801154.json",
+  "source_name": "agent-3104-1778562848-3391-Gaurav_delhi-2026_05_12_10_44_08-9582801154.mp3",
+  "created_at_utc": "2026-05-15T07:02:19Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 2.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: age hai hamari 40 saal.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: age hai hamari 40 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Greater Noida is in Uttar Pradesh.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Greater Noida",
+        "evidence": "Customer: ye Greater Noida sector 1.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_2",
+        "evidence": "Greater Noida is a developing city in NCR.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Transcript is in Hindi/Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: business kar raha hun, restaurant hai Baba Parathe ke naam se.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "restaurant owner",
+        "evidence": "Customer: restaurant hai Baba Parathe ke naam se.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "25L_plus",
+        "evidence": "Customer: daily ka hai 20 se 25 hazaar. (Implies high monthly income)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer is a business owner (restaurant).",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: sir koi baat nahi tum reh lo, kuch mat karo rehne do. Agent: are rehne de tu khamkha time.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "hum investment nahi karenge, loan de rahe ho kya kar rahe ho ye seedhi seedhi batao.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "sir koi baat nahi tum reh lo, kuch mat karo rehne do.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "25K_plus",
+        "evidence": "Customer: 1 lakh rupaye se kya hoga itne bade kaam mein kam se kam 2-3 lakh to dijiye tab to benefit hoga.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer questioned the agent's pitch and understood the concept of investment vs loan.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 1 lakh rupaye se kya hoga itne bade kaam mein kam se kam 2-3 lakh to dijiye tab to benefit hoga, 1 lakh se kya karenge.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "close_attempted",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer was looking for a loan, agent pitched an investment plan.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer was clearly frustrated by the agent's unprofessional behavior and lack of clarity, eventually telling the agent to stop calling. The agent also responded unprofessionally at the end of the call."
+    },
+    "summary": "The agent called a restaurant owner to pitch an investment plan, claiming guaranteed returns. The customer was confused, initially thinking it was a loan offer, and expressed frustration with the agent's pitch. The call ended abruptly with the customer telling the agent to stop calling and the agent responding unprofessionally.",
+    "key_quotes": [
+      "hum investment nahi karenge, loan de rahe ho kya kar rahe ho ye seedhi seedhi batao.",
+      "1 lakh rupaye se kya hoga itne bade kaam mein kam se kam 2-3 lakh to dijiye tab to benefit hoga, 1 lakh se kya karenge.",
+      "sir koi baat nahi tum reh lo, kuch mat karo rehne do."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

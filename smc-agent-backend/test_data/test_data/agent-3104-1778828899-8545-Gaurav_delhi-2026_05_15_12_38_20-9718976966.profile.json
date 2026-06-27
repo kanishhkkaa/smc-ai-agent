@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "9210858524403976",
+  "source_transcript": "agent-3104-1778828899-8545-Gaurav_delhi-2026_05_15_12_38_20-9718976966.json",
+  "source_name": "agent-3104-1778828899-8545-Gaurav_delhi-2026_05_15_12_38_20-9718976966.mp3",
+  "created_at_utc": "2026-05-18T06:08:56Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 134.54,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mohammad Shiraz",
+      "evidence": "Hello, hello, Mohammad Shiraz Ahmedabad baat kar rahe hain?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Mohammad Shiraz",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Ahmedabad",
+        "evidence": "Hello, hello, Mohammad Shiraz Ahmedabad baat kar rahe hain?",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Agent: Toh around maan leta hun main 10 lakh maan lun sir? Customer: Isse zyada hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: Theek hai, toh sir saal ka 1 lakh 20,000 rupees ke according bataun comfortable rahega? Customer: Theek hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed income starting from first year for whole life",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed income plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is listening, asking clarifying questions about taxability and returns, and agreed to the premium amount discussion."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces an HDFC Life guaranteed income plan with a 36% return promise, and the customer asks for details.",
+      "customer_response": "Customer is engaged and asking clarifying questions about the product mechanics and tax implications.",
+      "key_event": "Customer confirms their annual income is above 10 lakhs and agrees to discuss a plan based on a 1.2 lakh annual premium.",
+      "ending": "The call cuts off abruptly while the agent is explaining the tax-free nature of the returns."
+    },
+    "key_quotes": [
+      "12 saal ka investment karna padega?",
+      "Woh kaise possible hai?",
+      "Ye taxable income?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

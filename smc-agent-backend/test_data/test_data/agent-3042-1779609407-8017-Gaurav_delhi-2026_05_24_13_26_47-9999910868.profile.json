@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5553436636174698",
+  "source_transcript": "agent-3042-1779609407-8017-Gaurav_delhi-2026_05_24_13_26_47-9999910868.json",
+  "created_at_utc": "2026-06-01T02:14:13Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 65.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779609407-8017-Gaurav_delhi-2026_05_24_13_26_47-9999910868.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe 4 baje call karo, theek hai?",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage; customer initially declined but then requested a callback at 4 PM to discuss health insurance with an expert.",
+    "callback_time_iso": "2026-05-24T16:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "41",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income aur sath hi 8 percent ka return",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

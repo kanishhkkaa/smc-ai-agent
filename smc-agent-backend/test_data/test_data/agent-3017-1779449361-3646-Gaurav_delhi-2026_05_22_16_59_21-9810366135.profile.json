@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9645404054137530",
+  "source_transcript": "agent-3017-1779449361-3646-Gaurav_delhi-2026_05_22_16_59_21-9810366135.json",
+  "created_at_utc": "2026-06-01T03:01:14Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 50.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779449361-3646-Gaurav_delhi-2026_05_22_16_59_21-9810366135.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aap call kar lena 6:30 baje ke kareeb, tab plan samajh lunga.",
+    "summary": "Agent pitched Tata Param Raksha Pro; customer initially declined but agreed to a callback at 6:30 PM to understand the plan.",
+    "callback_time_iso": "2026-05-22T18:30",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "2568114787076372",
+  "source_transcript": "agent-2086-1779279057-8051-Gaurav_delhi-2026_05_20_17_40_57-9821488797.json",
+  "source_name": "agent-2086-1779279057-8051-Gaurav_delhi-2026_05_20_17_40_57-9821488797.mp3",
+  "created_at_utc": "2026-05-25T19:23:51Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi toh ma'am itna budget hai hi nahi karne ka.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Actually ma'am abhi toh main le rakhi hai meri policy wagera LIC mein chal rahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Abhi toh ma'am itna budget hai hi nahi karne ka.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "budget constraints"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% tax free income whole life",
+        "8% guaranteed returns"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life unique plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no budget and existing insurance commitments.",
+      "missed_opportunities": [
+        "Did not probe for specific health insurance needs despite the customer mentioning they don't have one."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly stated budget constraints and lack of interest in new products at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and asked for time, to which the customer agreed.",
+      "customer_response": "Passive and dismissive due to budget constraints and existing commitments.",
+      "key_event": "Customer raised an objection regarding existing LIC policies and lack of budget.",
+      "ending": "Agent accepted the customer's refusal and ended the call politely."
+    },
+    "key_quotes": [
+      "Abhi toh ma'am itna budget hai hi nahi karne ka.",
+      "Actually ma'am abhi toh main le rakhi hai meri policy wagera LIC mein chal rahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

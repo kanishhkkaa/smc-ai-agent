@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "1033185146265639",
+  "source_transcript": "agent-3006-1779175751-2779-Gaurav_TATA-2026_05_19_12_59_11-9784171734.json",
+  "source_name": "agent-3006-1779175751-2779-Gaurav_TATA-2026_05_19_12_59_11-9784171734.mp3",
+  "created_at_utc": "2026-05-22T11:20:58Z",
+  "transcript_stats": {
+    "segments": 70,
+    "duration_seconds": 185.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Bhagwan Singh",
+      "evidence": "Customer: Bhagwan Singh.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Bhagwan ji. (Name implies male, but not explicitly stated).",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Ajmer",
+        "evidence": "Customer: Ajmer Rajasthan se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Rajasthan",
+        "evidence": "Customer: Ajmer Rajasthan se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Madam 60-70 hazar rupaye ho jaati hai mahine ki. (Approx 7.2-8.4 LPA).",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji madam theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Pata nahi CA ko malum hai mujhe pata nahi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Customer: Business chahiye. (Referring to business loan).",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi karwao madam main baat. (Regarding loan discussion).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T13:04:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined term plus mutual fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is looking for a business loan, not insurance.",
+      "missed_opportunities": [
+        "health_insurance"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "other"
+      ],
+      "reasoning": "Customer is interested in a business loan and agreed to a callback, but showed low engagement with the initial insurance pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA combined term/mutual fund plan and asked for the customer's age.",
+      "customer_response": "Customer was passive and focused primarily on his interest in a business loan rather than the insurance product.",
+      "key_event": "Customer redirected the conversation from the insurance pitch to his need for a business loan.",
+      "ending": "Agent confirmed she would arrange a callback for the loan within 5 minutes and the customer agreed."
+    },
+    "key_quotes": [
+      "Business hai madam.",
+      "Madam 60-70 hazar rupaye ho jaati hai mahine ki.",
+      "Business chahiye."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

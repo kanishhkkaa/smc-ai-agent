@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "8574501713661373",
+  "source_transcript": "2026_05_28/agent-3020-1779944627-8406-Gaurav_delhi-2026_05_28_10_33_47-9711584745.json",
+  "source_name": "agent-3020-1779944627-8406-Gaurav_delhi-2026_05_28_10_33_47-9711584745.mp3",
+  "created_at_utc": "2026-06-01T05:38:44Z",
+  "transcript_stats": {
+    "segments": 60,
+    "duration_seconds": 185.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "56",
+        "evidence": "Meri running age aayegi 56.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Main thekedar hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Thekedar",
+        "evidence": "Main thekedar hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Income ho jaati hogi 20-1 lakh rupaye ki.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bhaiya main gaadi chala raha hun, baba to kariye 1 ghanta baad call.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Har saal waale mein nahi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Ek ek baar, ek pehli kis jaa, dusri ki pata nahi lage kab banni hai, kab na honi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "difficulty in tracking/remembering recurring premium payments"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main thekedar hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-28T11:33:47"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income return on annual premium within a week, lifetime",
+        "8% compounding rate of interest on total savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly stated he prefers single premium payments, while the agent insisted on recurring annual premiums.",
+      "missed_opportunities": [
+        "Did not pivot to a single premium product despite customer's clear preference."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is busy driving but agreed to a callback in one hour, indicating potential interest if the product is explained properly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a saving plan with high return promises, to which the customer responded neutrally.",
+      "customer_response": "Customer was initially skeptical about recurring premium payments but remained engaged until he had to stop for driving.",
+      "key_event": "Customer expressed frustration with past insurance experiences regarding recurring premiums, and the agent attempted to counter with app-based tracking.",
+      "ending": "Customer asked the agent to call back in one hour as he was driving."
+    },
+    "key_quotes": [
+      "Ek ek baar, ek pehli kis jaa, dusri ki pata nahi lage kab banni hai, kab na honi.",
+      "Bhaiya main gaadi chala raha hun, baba to kariye 1 ghanta baad call."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

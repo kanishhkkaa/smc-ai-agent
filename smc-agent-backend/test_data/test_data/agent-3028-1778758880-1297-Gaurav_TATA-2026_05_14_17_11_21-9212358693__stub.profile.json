@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "4216040934978419",
+  "source_transcript": "2026_05_14/agent-3028-1778758880-1297-Gaurav_TATA-2026_05_14_17_11_21-9212358693__stub.json",
+  "source_name": "agent-3028-1778758880-1297-Gaurav_TATA-2026_05_14_17_11_21-9212358693.mp3",
+  "created_at_utc": "2026-06-01T04:35:26Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 63.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "\"aisa loan hai koi bharne ke baad jo na jama karna ho, dene ke baad jama na karna pade toh batao\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "1 crore ka plan hamari sunne ki kshamta na hai ji",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "aisa loan hai koi bharne ke baad jo na jama karna ho, dene ke baad jama na karna pade toh batao",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not interested in life insurance and is making unrealistic demands.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was dismissive of the insurance products and made a sarcastic request for a loan that doesn't need repayment, indicating no genuine interest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from Tata AIA and the customer responded with a neutral greeting.",
+      "customer_response": "The customer was dismissive and sarcastic throughout the pitch.",
+      "key_event": "The customer sarcastically asked for a loan that does not require repayment, which the agent correctly identified as impossible.",
+      "ending": "The agent acknowledged that such a loan does not exist and the call effectively ended."
+    },
+    "key_quotes": [
+      "1 crore ka plan hamari sunne ki kshamta na hai ji",
+      "aisa loan hai koi bharne ke baad jo na jama karna ho, dene ke baad jama na karna pade toh batao"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

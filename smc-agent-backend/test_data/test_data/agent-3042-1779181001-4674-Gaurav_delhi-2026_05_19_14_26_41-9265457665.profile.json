@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "2458849684158481",
+  "source_transcript": "agent-3042-1779181001-4674-Gaurav_delhi-2026_05_19_14_26_41-9265457665.json",
+  "source_name": "agent-3042-1779181001-4674-Gaurav_delhi-2026_05_19_14_26_41-9265457665.mp3",
+  "created_at_utc": "2026-05-22T11:25:50Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 132.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 15-20. Agent: 15-20 lakh rupaye right? Customer: Haan 15-20 lakh haan.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Hmm.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "fixed_deposit"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "40 percent fixed income from first year for whole life",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "9 lakh 20,000 cash bonus tax free"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "endowment",
+        "ulip",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "child_plan",
+        "annuity",
+        "health_insurance",
+        "other"
+      ],
+      "reasoning": "Customer is listening and providing information, though the call was cut off before a decision could be made."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life and immediately pitched a guaranteed plan with 40% fixed income.",
+      "customer_response": "The customer was passive, providing information when asked but not initiating conversation.",
+      "key_event": "The agent pitched the 'Sanchay Par Advantage' plan with specific guaranteed return figures.",
+      "ending": "The agent was in the middle of explaining the 13th-year benefits when the transcript ended."
+    },
+    "key_quotes": [
+      "Wahi 15-20.",
+      "Haan haan hai na."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

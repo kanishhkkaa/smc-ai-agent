@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7966669679444317",
+  "source_transcript": "agent-3022-1779611438-1706-Gaurav_delhi-2026_05_24_14_00_38-9991172169.json",
+  "created_at_utc": "2026-06-01T02:13:19Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779611438-1706-Gaurav_delhi-2026_05_24_14_00_38-9991172169.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Meri age hai ji 75.",
+    "summary": "Agent pitched an HDFC Life plan; customer inquired about the bank and disclosed their age as 75 before the call ended.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "75",
+        "evidence": "Meri age hai ji 75.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aani start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

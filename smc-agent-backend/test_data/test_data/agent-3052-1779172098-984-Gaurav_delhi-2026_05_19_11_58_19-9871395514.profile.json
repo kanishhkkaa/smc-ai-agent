@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1560626670347377",
+  "source_transcript": "agent-3052-1779172098-984-Gaurav_delhi-2026_05_19_11_58_19-9871395514.json",
+  "source_name": "agent-3052-1779172098-984-Gaurav_delhi-2026_05_19_11_58_19-9871395514.mp3",
+  "created_at_utc": "2026-05-22T11:27:31Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 124.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ojaswi",
+      "evidence": "Agent: waise good name bata dijiye kya likhte hain sir? Customer: Ojaswi.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ek baar WhatsApp pe kuch toh bhej dijiye main dekh loonga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "ICICI se le liya sir maine.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: hamara minimum plan sir monthly ka 5000 se start hai",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 37 percent hai wahan pe.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: ICICI se le liya sir maine.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income",
+        "40 percent guaranteed income"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has a similar guaranteed income product from a competitor.",
+      "missed_opportunities": [
+        "Did not ask about the specific features of the ICICI plan to identify gaps."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is open to reviewing information via WhatsApp and agreed to a follow-up call in the evening."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a guaranteed income plan, to which the customer responded positively but immediately mentioned a competitor product.",
+      "customer_response": "Customer was passive but firm about having already purchased a similar product from a competitor.",
+      "key_event": "Customer revealed they already purchased a plan from ICICI with a 37% return, prompting the agent to adjust their pitch to 40%.",
+      "ending": "Agent agreed to send details via WhatsApp and scheduled a follow-up call for the evening."
+    },
+    "key_quotes": [
+      "ICICI se le liya sir maine.",
+      "37 percent hai wahan pe.",
+      "Ek baar WhatsApp pe kuch toh bhej dijiye main dekh loonga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "4877223264948978",
+  "source_transcript": "2026_05_28/agent-2137-1779961378-6824-Gaurav_TATA-2026_05_28_15_12_58-9953920821.json",
+  "source_name": "agent-2137-1779961378-6824-Gaurav_TATA-2026_05_28_15_12_58-9953920821.mp3",
+  "created_at_utc": "2026-06-01T05:36:47Z",
+  "transcript_stats": {
+    "segments": 83,
+    "duration_seconds": 260.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: \"main to pandit hun\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "Customer: \"Haryana se.\"",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Business. ... Mera hai puja ka.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Pandit/Religious services",
+        "evidence": "Customer: \"Mera hai puja ka. ... biya-piya padhte hain\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: \"Ek saal, ek mahine ka. ... 5 lakh rupaye\" (5L/month = 60L/year).",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"Gharwali ke naam pe ho jayega.\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Kar dena, kabhi kar dena.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: \"Bata dunga na, koi se duty pe jayegi, jab puch bataunga\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-28T17:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent questioned the customer's eligibility for insurance due to lack of tax filings.",
+      "missed_opportunities": [
+        "Did not clarify the specific product name despite pitching it as a combined plan."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer was cooperative and agreed to a callback, though he is currently busy with work."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan combining term insurance and mutual fund benefits, to which the customer responded neutrally.",
+      "customer_response": "The customer was passive and cooperative, answering questions about his profession and income.",
+      "key_event": "The agent questioned the customer's eligibility for insurance due to lack of tax filings, leading to a discussion about his wife's employment.",
+      "ending": "The agent agreed to call back at 5 PM, and the customer confirmed he would be available then."
+    },
+    "key_quotes": [
+      "Mera hai puja ka.",
+      "Gharwali ke naam pe ho jayega.",
+      "Kar dena, kabhi kar dena."
+    ],
+    "red_flags": [
+      "Agent questioned customer's eligibility for insurance based on tax status during the call."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

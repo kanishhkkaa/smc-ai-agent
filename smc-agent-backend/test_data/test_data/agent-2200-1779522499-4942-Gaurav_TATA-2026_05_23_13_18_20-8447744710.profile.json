@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2946876268768486",
+  "source_transcript": "agent-2200-1779522499-4942-Gaurav_TATA-2026_05_23_13_18_20-8447744710.json",
+  "created_at_utc": "2026-06-01T02:35:30Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 91.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779522499-4942-Gaurav_TATA-2026_05_23_13_18_20-8447744710.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sorry ma'am, main nahi kar paunga.",
+    "summary": "Agent performed discovery, determined the prospect was ineligible due to low income, and ended the call; the customer subsequently declined.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25 hai ma'am.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Income 18 hai, 18-20.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4623841181995648",
+  "source_transcript": "agent-3062-1779513028-3723-Gaurav_TATA-2026_05_23_10_40_28-9582083304.json",
+  "created_at_utc": "2026-06-01T02:43:58Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 125.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779513028-3723-Gaurav_TATA-2026_05_23_10_40_28-9582083304.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Mam actually abhi mera kuch chal raha hai, ek do din mein call kariyega toh main baat kar paunga.",
+    "summary": "Agent pitched the Param Rakshak Life Pro Plus plan and completed discovery; customer requested a callback in a couple of days as he is currently busy.",
+    "callback_time_iso": "2026-05-25T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "53",
+        "evidence": "53",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "1.5 lakh monthly",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Param Rakshak Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

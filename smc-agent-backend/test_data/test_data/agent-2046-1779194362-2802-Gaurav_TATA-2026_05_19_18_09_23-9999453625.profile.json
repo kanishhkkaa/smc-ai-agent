@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "5913782540130456",
+  "source_transcript": "agent-2046-1779194362-2802-Gaurav_TATA-2026_05_19_18_09_23-9999453625.json",
+  "source_name": "agent-2046-1779194362-2802-Gaurav_TATA-2026_05_19_18_09_23-9999453625.mp3",
+  "created_at_utc": "2026-05-22T11:08:22Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 240.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 40,000. (Monthly income of 40k is 4.8 LPA)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi 5:30 baje main ghar pahunchunga tab dhyan se baat karunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Toh bataiye iske baare mein.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Agar normal koi bimari ho jaye hospital mein admit hona pade. Toh uske liye paise milenge?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "needs medical coverage for hospitalization"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: MBA.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent mentioned retirement pension and customer listened.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi liya madam company de rakhi hai pehle. (Implies he manages his own insurance decisions)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T17:30:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined investment plan",
+      "premium_quoted_inr": 111876,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product is a life insurance/investment plan, but the customer is specifically asking for general medical/hospitalization coverage which this plan does not provide.",
+      "missed_opportunities": [
+        "Did not pivot to a standalone health insurance product when the customer expressed need for hospitalization coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is interested enough to ask for details and set a callback time, despite the agent's poor explanation of the medical component."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined investment plan with life cover, medical insurance, and pension; customer agreed to listen.",
+      "customer_response": "Customer was initially passive but became inquisitive about the product details and eventually pushed back on the medical coverage.",
+      "key_event": "Customer realized the medical insurance component was only for critical illness and not general hospitalization.",
+      "ending": "Customer requested a callback at 5:30 PM as he was driving."
+    },
+    "key_quotes": [
+      "Agar normal koi bimari ho jaye hospital mein admit hona pade. Toh uske liye paise milenge?",
+      "Abhi 5:30 baje main ghar pahunchunga tab dhyan se baat karunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

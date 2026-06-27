@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5290020617742811",
+  "source_transcript": "agent-2082-1779605929-9215-Gaurav_delhi-2026_05_24_12_28_49-9873730523.json",
+  "created_at_utc": "2026-06-01T02:08:13Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2082-1779605929-9215-Gaurav_delhi-2026_05_24_12_28_49-9873730523.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Rakh dijiye mujhe koi insurance nahi. ... Nahi chahiye.",
+    "summary": "The agent attempted to pitch a Tata AIA insurance plan, but the customer refused, stating they were not interested in any insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

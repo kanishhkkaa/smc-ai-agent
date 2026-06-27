@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "2501567915138274",
+  "source_transcript": "agent-2046-1779189593-935-Gaurav_TATA-2026_05_19_16_49_54-9667073151.json",
+  "source_name": "agent-2046-1779189593-935-Gaurav_TATA-2026_05_19_16_49_54-9667073151.mp3",
+  "created_at_utc": "2026-05-22T11:08:19Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "18",
+        "evidence": "Customer: 18.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Agent: Sir 18 ki age pe toh aap waise bhi student honge. Customer: Haan, bilkul sahi.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "student",
+        "evidence": "Agent: Sir 18 ki age pe toh aap waise bhi student honge. Customer: Haan, bilkul sahi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Haan abhi rehne do. Main bahar hu.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main bahar hu.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "But abhi nahi karunga na.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 18 ki age mein stock mein SIP wagera toh kar hi sakte hain.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Na na, hamara hi hai. Aur investment ki koi dikkat nahi hai, kar toh main bhi sakta hu.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an 18-year-old student and not the target demographic for a retirement/life insurance plan.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is 18, student, and explicitly stated they are not interested in this product at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA plan, and the customer responded with a neutral 'Haan ji bataiye'.",
+      "customer_response": "Customer was dismissive and pushed back against the agent's condescending tone regarding their age and financial capability.",
+      "key_event": "The agent questioned the customer's ability to invest due to their age, leading to a defensive response from the customer.",
+      "ending": "The agent ended the call after the customer challenged the agent's knowledge of investment options."
+    },
+    "key_quotes": [
+      "18 ki age mein stock mein SIP wagera toh kar hi sakte hain.",
+      "But abhi nahi karunga na."
+    ],
+    "red_flags": [
+      "agent_condescending_to_customer",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3962912032751241",
+  "source_transcript": "agent-2200-1778828637-6248-Gaurav_TATA-2026_05_15_12_33_58-9811103488.json",
+  "created_at_utc": "2026-06-01T02:03:44Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1778828637-6248-Gaurav_TATA-2026_05_15_12_33_58-9811103488.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Okay, toh sorry fir toh aap not eligible ho jayenge. Thank you so much.",
+    "summary": "Agent pitched a Tata AIA plan, performed discovery, and self-disqualified the prospect because she is a student.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "Meri age hai 22.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Abhi college finish nahi hua hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

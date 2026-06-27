@@ -1,0 +1,160 @@
+{
+  "status": "success",
+  "profile_id": "2001140120487962",
+  "source_transcript": "2026_05_21/agent-3081-1779343546-2507-Gaurav_delhi-2026_05_21_11_35_46-8169996340.json",
+  "source_name": "agent-3081-1779343546-2507-Gaurav_delhi-2026_05_21_11_35_46-8169996340.mp3",
+  "created_at_utc": "2026-06-01T05:03:19Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "64",
+        "evidence": "64 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Abhi retire ho gaya hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired",
+        "evidence": "Abhi retire ho gaya hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "widowed",
+        "evidence": "hamari patni ka dehaant ho gaya hai",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "bacche log apna apna bahar rehte hain",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Aaj kal kaun dikhta hai madam, toh kisko dekhenge?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "hum akele rehte hain gaon mein",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is retired and has no dependents or financial need for the pitched insurance product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is retired, living alone, and expressed no interest or need for insurance products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA plan and asked for the customer's age, which the customer provided.",
+      "customer_response": "Customer was passive and dismissive, eventually explaining his personal situation to end the call.",
+      "key_event": "Customer revealed he is retired, widowed, and living alone, effectively closing the sales opportunity.",
+      "ending": "The agent acknowledged the customer's situation and ended the call politely."
+    },
+    "key_quotes": [
+      "Abhi retire ho gaya hun, ab kya job karunga? 64 saal toh ho gaya, zindagi bhar kaam hi karein kya madam?",
+      "Madam, hamari patni ka dehaant ho gaya hai, bacche log apna apna bahar rehte hain, hum akele rehte hain gaon mein."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

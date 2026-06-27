@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "7073017108888379",
+  "source_transcript": "agent-2016-1779080743-8966-Gaurav_delhi-2026_05_18_10_35_44-9716674759.json",
+  "source_name": "agent-2016-1779080743-8966-Gaurav_delhi-2026_05_18_10_35_44-9716674759.mp3",
+  "created_at_utc": "2026-05-20T08:58:56Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 92.86,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "29",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business hai.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi toh filhal mein thoda dikkat hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Abhi toh filhal mein thoda dikkat hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "business is slow",
+        "financial difficulty"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Abhi toh filhal mein thoda dikkat hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "35 percent guaranteed income for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is in early stages of business and facing financial constraints; pushing a 60k annual premium is inappropriate.",
+      "missed_opportunities": [
+        "Did not explore lower premium options or health insurance which might be more relevant for a new business owner."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly stated business is slow and they are facing financial difficulties, making them a poor prospect for immediate investment."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a cold call about an HDFC Life plan offering 35% guaranteed income.",
+      "customer_response": "The customer was passive and hesitant, eventually citing financial constraints due to a new business.",
+      "key_event": "The agent pitched a 35% guaranteed income plan, which the customer questioned, followed by the agent ignoring the customer's stated financial struggle to push a 5k/month premium.",
+      "ending": "The agent abruptly ended the call after the customer expressed financial difficulty."
+    },
+    "key_quotes": [
+      "Abhi thoda business jo hai na abhi starting hi kiye hain thoda manda chal raha hai isi karan.",
+      "Abhi toh filhal mein thoda dikkat hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

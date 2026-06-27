@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6040787733098715",
+  "source_transcript": "agent-2156-1779534673-4122-Gaurav_delhi-2026_05_23_16_41_13-9958838819.json",
+  "created_at_utc": "2026-06-01T02:32:47Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 107.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779534673-4122-Gaurav_delhi-2026_05_23_16_41_13-9958838819.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi toh main study kar raha hun college.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery; customer is a 22-year-old student, and the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "Meri hai 22 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Abhi toh main study kar raha hun college.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "1616427470703424",
+  "source_transcript": "agent-3049-1779093409-5174-Gaurav_TATA-2026_05_18_14_06_50-9321028954.json",
+  "source_name": "agent-3049-1779093409-5174-Gaurav_TATA-2026_05_18_14_06_50-9321028954.mp3",
+  "created_at_utc": "2026-05-21T02:13:52Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 207.15,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vidhi",
+      "evidence": "Agent: Vidhi good evening sir, aap se na Muskan baat kar rahi hun sir Tata AIA se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "Customer: 51.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Agent: And abhi aap by professional job karte ho business sir? Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Pehle main hospital hun, baad mein baat karunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "mutual_funds",
+        "stocks"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Main sab mein karta hun.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main sab mein karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "premium with interest refundable",
+        "guaranteed income"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Saving Plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore specific retirement or protection needs despite age 51."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was polite but currently occupied at a hospital, indicating a need to follow up later."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and pitched a combined term and investment plan.",
+      "customer_response": "The customer was passive and cooperative until he had to end the call due to being at a hospital.",
+      "key_event": "The customer disclosed he was at a hospital, leading to the termination of the call.",
+      "ending": "The customer stated he would talk later when free from the hospital, and the agent agreed."
+    },
+    "key_quotes": [
+      "Pehle main hospital hun, baad mein baat karunga.",
+      "Main sab mein karta hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

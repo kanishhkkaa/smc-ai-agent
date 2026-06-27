@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "6268004567061147",
+  "source_transcript": "agent-2037-1779541859-2957-Gaurav_delhi-2026_05_23_18_41_00-9899031550.json",
+  "created_at_utc": "2026-06-01T02:21:03Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779541859-2957-Gaurav_delhi-2026_05_23_18_41_00-9899031550.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "abusive_words_present",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi rehne do, nahi chahiye mujhe, theek hai?",
+    "summary": "The customer expressed strong skepticism about the plan's returns, used abusive language, and ultimately rejected the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho, uska 35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 44,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

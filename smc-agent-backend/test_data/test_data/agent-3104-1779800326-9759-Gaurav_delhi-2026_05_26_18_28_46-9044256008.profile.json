@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "1123613472228746",
+  "source_transcript": "2026_05_26/agent-3104-1779800326-9759-Gaurav_delhi-2026_05_26_18_28_46-9044256008.json",
+  "source_name": "agent-3104-1779800326-9759-Gaurav_delhi-2026_05_26_18_28_46-9044256008.mp3",
+  "created_at_utc": "2026-06-01T05:13:00Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 148.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Age hai meri abhi to 27 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent addressed customer as 'sir'.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Noida ke paas hai 62.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi, main baam hain, daroga hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Police officer/Daroga",
+        "evidence": "daroga",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Income hai meri 50,000. Mahine ka? Mahine ka.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek theek theek theek.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi, aur kuch nahi karna hai, yahi bahut hai mere liye.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi, koi nahi liya.",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Yahi meri job hai lagi hui hai tankha.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year",
+        "double tax benefit",
+        "8% compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore retirement or protection needs despite the customer's occupation."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is passive but allowed the agent to continue the pitch after initial hesitation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed product with high return claims, and the customer responded after a brief silence.",
+      "customer_response": "Passive and somewhat dismissive, but eventually agreed to listen to the plan details.",
+      "key_event": "Customer agreed to hear the plan details after initially stating he did not want to do any other investments.",
+      "ending": "The agent began explaining the Sanchay Par Advantage plan details."
+    },
+    "key_quotes": [
+      "Nahi, aur kuch nahi karna hai, yahi bahut hai mere liye.",
+      "Theek theek theek theek."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

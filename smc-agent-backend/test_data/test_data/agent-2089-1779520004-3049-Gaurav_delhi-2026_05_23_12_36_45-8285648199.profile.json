@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4963170908337398",
+  "source_transcript": "agent-2089-1779520004-3049-Gaurav_delhi-2026_05_23_12_36_45-8285648199.json",
+  "created_at_utc": "2026-06-01T02:28:25Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 112.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779520004-3049-Gaurav_delhi-2026_05_23_12_36_45-8285648199.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay, to abhi aapke liye saal ka 1 lakh saving karna comfortable rahega sir? Customer: Na.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed discovery (age 34, salaried, 3L annual income), and ended the call after the customer rejected the proposed premium amount.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "34",
+        "evidence": "34",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25000 mahine ka",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

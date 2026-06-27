@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4894933040448857",
+  "source_transcript": "agent-3024-1778826073-3571-Gaurav_delhi-2026_05_15_11_51_14-9971028122.json",
+  "created_at_utc": "2026-06-01T01:23:00Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3024-1778826073-3571-Gaurav_delhi-2026_05_15_11_51_14-9971028122.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage plan, completed discovery (age 26-27, salaried, -25k monthly income), and customer declined after being asked about interest in investment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "26 saal, 27, 26, 27 le lijiye.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job, job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Meri salary lagbhag hum overtime laga ke wahi 25, 24, 25.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki guaranteed income aani start ho jaati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

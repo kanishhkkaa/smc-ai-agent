@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5032863753309020",
+  "source_transcript": "agent-2049-1779431608-4732-Gaurav_delhi-2026_05_22_12_03_29-8800119021.json",
+  "created_at_utc": "2026-06-01T02:49:05Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779431608-4732-Gaurav_delhi-2026_05_22_12_03_29-8800119021.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, nahi sir maine kuch karana nahi hai abhi.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the customer declined, stating they do not want to proceed with anything at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "Meri 50 hogi.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Chota sa business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30 se 35 hazaar.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

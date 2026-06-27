@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1520343810756619",
+  "source_transcript": "agent-2086-1779426953-4485-Gaurav_delhi-2026_05_22_10_45_53-8826098344.json",
+  "created_at_utc": "2026-06-01T02:51:50Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2086-1779426953-4485-Gaurav_delhi-2026_05_22_10_45_53-8826098344.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, abhi zarurat nahi hai. Main actually kaafi jagah invest kiya hua hai. Maine HDFC mein hi kiya hua hai kaafi jagah, toh mereko zarurat nahi hai.",
+    "summary": "Agent pitched an HDFC Life plan; customer declined, stating they already have investments and a dedicated manager with HDFC.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "savings par 8 percent ki guaranteed returns",
+      "return_claim_pct": 8,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 33,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

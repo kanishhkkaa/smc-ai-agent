@@ -1,0 +1,106 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779079864-1568-Gaurav_TATA-2026_05_18_10_21_04-7303473155",
+  "source_file": "agent-2001-1779079864-1568-Gaurav_TATA-2026_05_18_10_21_04-7303473155.json",
+  "source_relative": "agent-2001-1779079864-1568-Gaurav_TATA-2026_05_18_10_21_04-7303473155.json",
+  "created_at_utc": "2026-05-21T00:42:26Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 136.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Anjali",
+    "call_id": "agent-2001-1779079864-1568-Gaurav_TATA-2026_05_18_10_21_04-7303473155",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": true
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "Term plus mutual fund combined plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "medium"
+    },
+    "discovery": {
+      "discovery_question_count": 4,
+      "discovery_depth": "moderate",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "medium",
+      "objections_faced": [
+        {
+          "objection_type": "timing",
+          "customer_quote": "Abhi WhatsApp karega to abhi kaam kar rahe hain hum log.",
+          "agent_response_summary": "The agent explained that she needs to brief the customer on the plan first and asked for a more comfortable time to connect.",
+          "resolved_by_agent": true
+        }
+      ]
+    },
+    "compliance": {
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "verbatim_examples": [
+        "premium pay karenge wo aapka refundable hota hai plus tax free hota hai"
+      ]
+    },
+    "communication": {
+      "tone_professionalism": "high",
+      "empathy": "medium",
+      "talk_listen_ratio": "balanced",
+      "interrupted_customer": false,
+      "language_quality": "high",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": true,
+      "callback_datetime": "5 baje ke baad",
+      "next_steps_clarity": "high"
+    },
+    "call_end": {
+      "end_reason": "callback_scheduled",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false,
+      "graceful_close": true,
+      "last_speaker": "agent",
+      "end_reason_evidence": "Theek hai sir main aapko ek baar call karti hun. Theek hai sir. Customer: Okay. Agent: Okay thank you."
+    },
+    "outcome": {
+      "stage_reached": "discovery_done",
+      "drop_off_point": "ask",
+      "outcome": "callback_scheduled"
+    },
+    "strengths": [
+      "Maintained a professional and polite tone throughout the call",
+      "Efficiently gathered basic demographic and financial information",
+      "Successfully converted a 'busy' objection into a scheduled callback"
+    ],
+    "improvement_areas": [
+      "Failed to ask for the customer's consent to speak at the beginning of the call",
+      "Made absolute claims about premiums being refundable without providing necessary disclaimers"
+    ],
+    "coaching_recommendations": [
+      "Instruct the agent to use a consent-seeking opening (e.g., 'Is this a good time to talk?') to improve customer experience",
+      "Provide compliance training on the risks of promising 'refundable' premiums to avoid mis-selling claims"
+    ],
+    "exemplary_quotes": [
+      "Wahi main aap se keh rahi hun aap mujhe koi comfortable time bata sakte hain apna aapko samne se call kar lungi."
+    ],
+    "problematic_quotes": [
+      "premium pay karenge wo aapka refundable hota hai plus tax free hota hai"
+    ],
+    "call_grade": "B",
+    "summary": "Agent Anjali introduced a TATA AIA combined plan and conducted basic discovery regarding the customer's age, occupation, and income. The customer was busy at work and requested information via WhatsApp, which the agent professionally deflected to secure a callback for 5 PM. However, the agent made a compliance risk by claiming premiums are refundable without a disclaimer.",
+    "extraction_confidence": "high"
+  }
+}

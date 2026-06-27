@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "4657767598198379",
+  "source_transcript": "2026_05_16/agent-3110-1778923701-2852-Gaurav_delhi-2026_05_16_14_58_22-9650652423.json",
+  "source_name": "agent-3110-1778923701-2852-Gaurav_delhi-2026_05_16_14_58_22-9650652423.mp3",
+  "created_at_utc": "2026-06-01T04:52:16Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 264.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Krishna Shukla",
+      "evidence": "Aapka poora naam yahan pe shubh naam show ho raha hai sir Krishna Shukla, right? Customer: Ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "41",
+        "evidence": "12th of August 1985",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Aapka poora naam yahan pe shubh naam show ho raha hai sir Krishna Shukla, right? Customer: Ji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Main hoon, wife hai aur do bacche hain.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "3",
+        "evidence": "Main hoon, wife hai aur do bacche hain.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hot",
+        "evidence": "Bhej dijiye, bilkul bhej dijiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Term insurance to already maine liya hua hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "needs health insurance for family"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Health ke liye kuch hai?",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer provided details for wife and children and requested quotes.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "15 minute claim settlement ratio",
+        "day one coverage for all diseases"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Argo",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not cross-sell life insurance despite customer interest in savings plan initially"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was actively engaged, provided family details, and requested specific quotes for health insurance."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a savings plan; customer responded neutrally but engaged when the topic shifted to health insurance.",
+      "customer_response": "Engaged and inquisitive, actively providing details and asking about specific plan features.",
+      "key_event": "Customer requested health insurance quotes for 10L and 15L for his family of four.",
+      "ending": "Agent confirmed the customer's name and promised to send quotations and follow up within 10 minutes."
+    },
+    "key_quotes": [
+      "Health ke liye kuch hai?",
+      "15 lakh ke upar.",
+      "Bhej dijiye, bilkul bhej dijiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

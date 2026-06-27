@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "8693649132636724",
+  "source_transcript": "agent-2192-1778836397-2868-Gaurav_delhi-2026_05_15_14_43_17-9718767476.json",
+  "source_name": "agent-2192-1778836397-2868-Gaurav_delhi-2026_05_15_14_43_17-9718767476.mp3",
+  "created_at_utc": "2026-05-18T06:05:20Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 239.38,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "31",
+        "evidence": "31.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Mobile phone sales",
+        "evidence": "Mobile phone sales.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "50,000 monthly.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Unmarried.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Saal ka 1 lakh rupaye.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi kuch nahi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Unmarried.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% income from first year",
+        "8% guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals",
+        "Did not explain risk factors"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to listening and provided budget details, but has no specific goal or urgency."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a guaranteed plan with high returns.",
+      "customer_response": "Customer was passive, answering questions directly without showing much enthusiasm or resistance.",
+      "key_event": "The agent transferred the call to a senior manager to close the deal.",
+      "ending": "Customer agreed to consider the plan after the senior manager asked for a budget commitment."
+    },
+    "key_quotes": [
+      "Aap explain kariye phir sochna.",
+      "Saal ka 1 lakh rupaye."
+    ],
+    "red_flags": [
+      "Agent promised 35% income and 8% guaranteed return without explaining the product structure or risks."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

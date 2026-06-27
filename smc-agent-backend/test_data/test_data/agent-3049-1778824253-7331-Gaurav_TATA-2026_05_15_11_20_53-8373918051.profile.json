@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8632855154945880",
+  "source_transcript": "agent-3049-1778824253-7331-Gaurav_TATA-2026_05_15_11_20_53-8373918051.json",
+  "created_at_utc": "2026-06-01T01:24:41Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3049-1778824253-7331-Gaurav_TATA-2026_05_15_11_20_53-8373918051.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay sir, aap ki age ke hisab se aap eligible nahi ho abhi.",
+    "summary": "Agent pitched a Tata AIA combined plan, but the customer's age (80) made them ineligible for the eligibility-based disqualification by the agent.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "80",
+        "evidence": "80 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata AIA term plus investment plan",
+    "compliance": {
+      "return_claim_quote": "premium pay kar rahe ho na sir, woh aap ka with interest aap ka refundable rahega.",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "6309882964050150",
+  "source_transcript": "2026_05_16/agent-2046-1778935728-8031-Gaurav_TATA-2026_05_16_18_18_49-9324352628.json",
+  "source_name": "agent-2046-1778935728-8031-Gaurav_TATA-2026_05_16_18_18_49-9324352628.mp3",
+  "created_at_utc": "2026-06-01T04:41:59Z",
+  "transcript_stats": {
+    "segments": 76,
+    "duration_seconds": 287.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ashish",
+      "evidence": "Agent: Your good name by the way? Customer: Ashish.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "Customer: 46.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: Wahi ITR to 25 lakh ka hoga.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Barabar hai. Madam premium kitna hai uska?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi madam, madam mujhe 5 saal ka hai kaise bharna hai?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "To madam mere ko ek ghante baad phone karo na kyunki main abhi ja raha hun.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "tax liability"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer understands ITR and tax benefits (80C/10-10D).",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "tax_saving",
+        "evidence": "Customer: Tax to bharte hain hum log samjho ki 5-6 lakh rupaye bharte hain tax.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Yes yes yes. (Regarding ITR/Tax)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement",
+        "40 lakh return after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 315516,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the market-linked nature of the 18% return claim."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was engaged, asked relevant questions about premium and returns, and proactively scheduled a callback."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA investment plan; customer responded with interest.",
+      "customer_response": "Engaged and inquisitive, asking for specific coverage amounts and return details.",
+      "key_event": "Customer requested a 1 crore cover instead of the 60 lakh quote, and then asked for a callback due to being busy.",
+      "ending": "Customer requested a callback for Monday after 12 PM, which the agent confirmed."
+    },
+    "key_quotes": [
+      "Barabar hai. Madam premium kitna hai uska?",
+      "1 crore ke aaju baju jao na.",
+      "Parso ka time lo Monday ko. Monday ko."
+    ],
+    "red_flags": [
+      "Agent promised 18% market returns as a fixed outcome."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

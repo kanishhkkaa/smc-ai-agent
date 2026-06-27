@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4245574669849407",
+  "source_transcript": "agent-2037-1779541987-3927-Gaurav_delhi-2026_05_23_18_43_07-9958065502.json",
+  "created_at_utc": "2026-06-01T02:21:00Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779541987-3927-Gaurav_delhi-2026_05_23_18_43_07-9958065502.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir, woh yeh hai na mere father ka number hai, aap yeh mere paas, mere father expire ho gaye",
+    "summary": "The agent pitched an HDFC Life plan, but the prospect revealed his father is deceased and he is an unemployed 19-year-old, leading the agent to end the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "Meri toh sir 19 saal hi hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "main toh job bhi nahi karta kahin bhi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho, uska 35 percent sir company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 35,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": "success",
+  "agent_id": "2149",
+  "call_id": "agent-2149-1779257732-7209-Gaurav_delhi-2026_05_20_11_45_33-9971603945",
+  "source_file": "agent-2149-1779257732-7209-Gaurav_delhi-2026_05_20_11_45_33-9971603945.json",
+  "source_relative": "agent-2149-1779257732-7209-Gaurav_delhi-2026_05_20_11_45_33-9971603945.json",
+  "created_at_utc": "2026-05-25T19:34:58Z",
+  "transcript_stats": {
+    "segments": 3,
+    "duration_seconds": 2.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2149",
+    "agent_self_introduced_name": "not_disclosed",
+    "call_id": "agent-2149-1779257732-7209-Gaurav_delhi-2026_05_20_11_45_33-9971603945",
+    "opening": {
+      "self_identified_company": false,
+      "greeting_quality": "weak",
+      "consent_taken": false,
+      "self_identified_name": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "explains_numbers_clearly": "not_applicable",
+      "pitch_clarity": "not_applicable",
+      "pitch_delivered": false,
+      "product_pitched": "not_disclosed",
+      "uses_jargon_appropriately": false
+    },
+    "discovery": {
+      "discovery_depth": "none",
+      "personalizes_to_customer": false,
+      "discovery_question_count": 0
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "talk_listen_ratio": "balanced",
+      "language_used": "english",
+      "interrupted_customer": false,
+      "tone_professionalism": "low",
+      "empathy": "low",
+      "language_quality": "low"
+    },
+    "closing": {
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps",
+      "close_attempted": false
+    },
+    "call_end": {
+      "graceful_close": false,
+      "last_speaker": "agent",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "end_reason_evidence": "Agent: Yes.",
+      "customer_declined_explicitly": false,
+      "end_reason": "other"
+    },
+    "outcome": {
+      "drop_off_point": "greeting",
+      "outcome": "inconclusive",
+      "stage_reached": "introduction_only"
+    },
+    "strengths": [],
+    "improvement_areas": [
+      "Professional greeting and introduction.",
+      "Stating the purpose of the call."
+    ],
+    "coaching_recommendations": [
+      "The agent failed to introduce themselves or the company.",
+      "The agent failed to state the purpose of the call.",
+      "The call was too short to establish any meaningful interaction."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "Hello.",
+      "Yes."
+    ],
+    "call_grade": "D",
+    "summary": "The call was extremely brief and lacked any professional introduction, purpose, or engagement. The agent failed to identify themselves or the company, and the interaction ended abruptly without any progress.",
+    "extraction_confidence": "high"
+  }
+}

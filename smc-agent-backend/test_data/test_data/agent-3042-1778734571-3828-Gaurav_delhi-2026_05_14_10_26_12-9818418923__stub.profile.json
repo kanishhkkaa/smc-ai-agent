@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "1415066307748179",
+  "source_transcript": "2026_05_14/agent-3042-1778734571-3828-Gaurav_delhi-2026_05_14_10_26_12-9818418923__stub.json",
+  "source_name": "agent-3042-1778734571-3828-Gaurav_delhi-2026_05_14_10_26_12-9818418923.mp3",
+  "created_at_utc": "2026-06-01T04:35:29Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "60 sir.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "mera business hai bhai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "four wheeler business",
+        "evidence": "four wheeler ka business hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "income meri daily 10000 hai bhai. (10k*30=300k/month = 3.6L/yr)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer answered all questions calmly.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "mera business hai bhai.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for whole life",
+        "8% return",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or savings capacity."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer provided all requested information without resistance, though no commitment was made."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "Passive and cooperative, answering all discovery questions directly.",
+      "key_event": "The agent gathered age, occupation, income, and existing product status without any pushback from the customer.",
+      "ending": "The agent thanked the customer after gathering profile information, and the call concluded without a next step."
+    },
+    "key_quotes": [
+      "income meri daily 10000 hai bhai.",
+      "mera business hai bhai."
+    ],
+    "red_flags": [
+      "Agent promised 35% guaranteed income and 8% return on a product, which is highly likely a misrepresentation of a life insurance product."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

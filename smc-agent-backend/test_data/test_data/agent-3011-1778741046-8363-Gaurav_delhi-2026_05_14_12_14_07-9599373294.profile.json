@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "1138891052016083",
+  "source_transcript": "agent-3011-1778741046-8363-Gaurav_delhi-2026_05_14_12_14_07-9599373294.json",
+  "source_name": "agent-3011-1778741046-8363-Gaurav_delhi-2026_05_14_12_14_07-9599373294.mp3",
+  "created_at_utc": "2026-05-16T00:16:17Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 225.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main Ankit baat kar raha hun HDFC Life se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "driver",
+        "evidence": "main driving karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "driver",
+        "evidence": "main driving karta hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "meri income 26000 rupaye aate hain account mein salary.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "mujhe ghar banana hai.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "ganji ganji ganji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "mujhe koi nahi chahiye, kuch nahi chahiye bhaiya.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "form 16 mujhe nahi pata sir, dekho maine kabhi loan liya nahi hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "home_purchase",
+        "evidence": "mujhe ghar banana hai.",
+        "confidence": "high"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "jo jo behtar hoga woh karwa do",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 0,
+      "bant_total": 8,
+      "lead_grade": "B",
+      "stage_reached": "commitment_given",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 6,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer is looking for a loan, not a saving plan.",
+      "missed_opportunities": [
+        "home_loan_cross_sell",
+        "personal_loan_cross_sell"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [
+        "home_loan",
+        "personal_loan",
+        "life_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is actively seeking a loan and agreed to be contacted by the loan department."
+    },
+    "summary": "The agent initially pitched a guaranteed saving plan, which the customer rejected. The customer expressed a need for a loan to build a house. The agent pivoted to discussing loan requirements, gathered basic income and employment details, and promised to transfer the lead to the loan department.",
+    "key_quotes": [
+      "mujhe koi nahi chahiye, kuch nahi chahiye bhaiya.",
+      "mujhe personal loan chahiye, mujhe ghar banana hai.",
+      "meri income 26000 rupaye aate hain account mein salary.",
+      "dekho maine kabhi loan liya nahi hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

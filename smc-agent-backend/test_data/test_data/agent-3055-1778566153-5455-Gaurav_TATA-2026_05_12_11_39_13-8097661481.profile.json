@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "4221284992523050",
+  "source_transcript": "agent-3055-1778566153-5455-Gaurav_TATA-2026_05_12_11_39_13-8097661481.json",
+  "source_name": "agent-3055-1778566153-5455-Gaurav_TATA-2026_05_12_11_39_13-8097661481.mp3",
+  "created_at_utc": "2026-05-15T07:00:43Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 164.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "Customer: 36",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 36",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: ji, very good morning sir. Pooja baat kar rahi hun aap se HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: civil line mein kaam hota hai.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "civil line",
+        "evidence": "Customer: civil line mein kaam hota hai.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: 36",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: awaaz abhi kat raha hai mam. ... Customer: 36 ... Customer: matlab samjha nahi main. ... Customer: aisa toh koi plan aaya nahi mere paas abhi.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 10.0,
+      "agent_talk_percent": 90.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Saving Plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not perform proper discovery of financial goals or existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was passive and did not show active interest, but did not explicitly reject the call. The agent's pitch was aggressive and potentially misleading, which may have caused the customer to disengage."
+    },
+    "summary": "The agent called the customer to pitch a guaranteed savings plan from HDFC Life. The customer was passive, provided minimal information, and expressed confusion about the product. The agent did not conduct a proper discovery and the call ended abruptly after the pitch.",
+    "key_quotes": [
+      "awaaz abhi kat raha hai mam.",
+      "matlab samjha nahi main.",
+      "aisa toh koi plan aaya nahi mere paas abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

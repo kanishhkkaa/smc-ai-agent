@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9789220906819268",
+  "source_transcript": "agent-2106-1779607312-479-Gaurav_delhi-2026_05_24_12_51_52-9136815272.json",
+  "created_at_utc": "2026-06-01T02:10:31Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2106-1779607312-479-Gaurav_delhi-2026_05_24_12_51_52-9136815272.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Abhi toh Mumbai mein hun.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, but the call ended during the conversation without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Mumbai",
+        "evidence": "Abhi toh Mumbai mein hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai. Bijli, bijli, bijli.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se aapko 40 percent ki income de rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

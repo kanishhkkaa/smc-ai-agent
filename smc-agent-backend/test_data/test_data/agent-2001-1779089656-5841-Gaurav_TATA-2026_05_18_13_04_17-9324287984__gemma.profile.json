@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779089656-5841-Gaurav_TATA-2026_05_18_13_04_17-9324287984",
+  "source_file": "agent-2001-1779089656-5841-Gaurav_TATA-2026_05_18_13_04_17-9324287984.json",
+  "source_relative": "agent-2001-1779089656-5841-Gaurav_TATA-2026_05_18_13_04_17-9324287984.json",
+  "created_at_utc": "2026-05-21T00:42:26Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 108.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Kareena",
+    "call_id": "agent-2001-1779089656-5841-Gaurav_TATA-2026_05_18_13_04_17-9324287984",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "term plus investment plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "high"
+    },
+    "discovery": {
+      "discovery_question_count": 1,
+      "discovery_depth": "none",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "low",
+      "objections_faced": [
+        {
+          "objection_type": "other",
+          "customer_quote": "Main nahi bata sakta, mera ye mobile dusre ka hai, main to call karne ke liye liya hun. Ab jiska phone hai wahi bata payega.",
+          "agent_response_summary": "The agent simply acknowledged the statement and ended the call.",
+          "resolved_by_agent": false
+        }
+      ]
+    },
+    "compliance": {
+      "compliance_flags": [
+        "did_not_verify_identity"
+      ],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "tone_professionalism": "high",
+      "empathy": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "wrong_number",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false,
+      "graceful_close": false,
+      "last_speaker": "agent",
+      "end_reason_evidence": "Okay sir."
+    },
+    "outcome": {
+      "stage_reached": "pitch_delivered",
+      "drop_off_point": "ask",
+      "outcome": "inconclusive"
+    },
+    "strengths": [
+      "Clear self-introduction and company identification."
+    ],
+    "improvement_areas": [
+      "Failure to obtain customer consent before pitching.",
+      "Failure to verify the identity of the person on the call."
+    ],
+    "coaching_recommendations": [
+      "Instruct the agent to always ask for consent (e.g., 'Is this a good time to talk?') before proceeding to the pitch.",
+      "Reinforce the necessity of verifying the customer's identity at the start of the call to avoid wasting time on wrong numbers or unauthorized persons."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and the company clearly and delivered a pitch for a combined term and investment plan. However, she failed to take consent or verify the customer's identity. The call ended abruptly when the customer revealed he was using someone else's phone and could not provide the required information.",
+    "extraction_confidence": "high"
+  }
+}

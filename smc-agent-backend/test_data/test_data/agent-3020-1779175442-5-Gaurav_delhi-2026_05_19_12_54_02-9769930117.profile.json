@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1434516442019659",
+  "source_transcript": "agent-3020-1779175442-5-Gaurav_delhi-2026_05_19_12_54_02-9769930117.json",
+  "source_name": "agent-3020-1779175442-5-Gaurav_delhi-2026_05_19_12_54_02-9769930117.mp3",
+  "created_at_utc": "2026-05-22T11:24:08Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 193.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Mumbai",
+        "evidence": "Customer: Mumbai.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Mahine ka 30,000.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Okay.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Policies mein interest nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Agent: Mahine ka 5,000 hota hai sir. Customer: Haan bataye.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% money back return annually on premium",
+        "8% compounding rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Saving Plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The premium quoted (60k/year) is 16% of the customer's annual income (3.6L), which is unaffordable.",
+      "missed_opportunities": [
+        "Did not explore life stage or protection needs beyond generic script."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is passive and listening, though initially stated no interest in policies."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself as calling from HDFC Life regarding a new plan.",
+      "customer_response": "Customer is passive, mostly responding with 'Okay' or 'Barabar' throughout the pitch.",
+      "key_event": "Agent made aggressive guaranteed return claims (36% money back) and ignored the customer's initial lack of interest.",
+      "ending": "The agent was mid-calculation of returns when the transcript ended."
+    },
+    "key_quotes": [
+      "Policies mein interest nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

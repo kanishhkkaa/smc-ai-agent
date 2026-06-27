@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5524691559962514",
+  "source_transcript": "agent-3055-1779531043-4033-Gaurav_TATA-2026_05_23_15_40_44-8470855617.json",
+  "created_at_utc": "2026-06-01T02:43:44Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3055-1779531043-4033-Gaurav_TATA-2026_05_23_15_40_44-8470855617.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ah, savings plan. Aage kya karna hai isse?",
+    "summary": "Agent pitched an HDFC Life guaranteed savings plan; the customer expressed confusion but continued the conversation by asking about the plan's purpose.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 36 percent ki guaranteed income dena start kar deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

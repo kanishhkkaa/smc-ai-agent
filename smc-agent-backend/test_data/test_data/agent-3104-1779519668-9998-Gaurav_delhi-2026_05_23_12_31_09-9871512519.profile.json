@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "1832556747741586",
+  "source_transcript": "agent-3104-1779519668-9998-Gaurav_delhi-2026_05_23_12_31_09-9871512519.json",
+  "created_at_utc": "2026-06-01T02:44:50Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779519668-9998-Gaurav_delhi-2026_05_23_12_31_09-9871512519.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Evening 6 o'clock aapke baad.",
+    "summary": "Agent pitched an HDFC Life saving investment plan; customer initially declined due to existing policies but agreed to a callback at 6 PM.",
+    "callback_time_iso": "2026-05-23T18:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "32",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Is age mein bhi aap job kar rahi hain ma'am? Haanji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

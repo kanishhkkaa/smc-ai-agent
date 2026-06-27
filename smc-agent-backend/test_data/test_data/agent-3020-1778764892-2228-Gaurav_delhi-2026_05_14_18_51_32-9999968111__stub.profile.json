@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "1114820656424923",
+  "source_transcript": "2026_05_14/agent-3020-1778764892-2228-Gaurav_delhi-2026_05_14_18_51_32-9999968111__stub.json",
+  "source_name": "agent-3020-1778764892-2228-Gaurav_delhi-2026_05_14_18_51_32-9999968111.mp3",
+  "created_at_utc": "2026-06-01T04:34:39Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 193.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: chalo theek hai, main gaur karunga, aapka number aa hi gaya, main le lunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income return on annual premium",
+        "40% income return on annual premium",
+        "8% compounding rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product was pitched with unrealistic return claims and lacked alignment with the customer's actual financial needs.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals.",
+        "Did not clarify the premium amount or customer's budget."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was non-committal but did not reject the call, though the agent's final comment was dismissive."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan with a 36% income return promise, and the customer asked for details.",
+      "customer_response": "The customer was passive and inquisitive, asking for clarification on benefits rather than pushing back.",
+      "key_event": "The agent promised a 40% return on annual premiums and 8% compounding interest, which the customer questioned.",
+      "ending": "The customer said he would consider it, but the agent abruptly ended the conversation by stating the number was not for callbacks."
+    },
+    "key_quotes": [
+      "kis cheez ka hai ye plan?",
+      "ye premium ko ye bataiye plan mein ji mere ko benefit kya hai",
+      "chalo theek hai, main gaur karunga, aapka number aa hi gaya, main le lunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "4850286924556276",
+  "source_transcript": "2026_05_27/agent-3012-1779875458-9902-Gaurav_TATA-2026_05_27_15_20_59-9873185986.json",
+  "source_name": "agent-3012-1779875458-9902-Gaurav_TATA-2026_05_27_15_20_59-9873185986.mp3",
+  "created_at_utc": "2026-06-01T05:21:27Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Saurabh",
+      "evidence": "Agent: Theek hai, naam aapka Saurabh? Customer: Ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Agent: Aapki kya age hogi? Customer: Meri 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Gurgaon",
+        "evidence": "Agent: Aap mujhe bhej do, ya kyunki abhi toh filhal office ke hi kaam kar rahe hain hum bhi. Accha, toh theek hai, phir main aapko Saturday call karta hun na. Customer: Saturday call kar lijiye, sir. Agent: Okay, kis time karun? Agent: Aap same time kar lijiye. Agent: Theek hai, naam aapka Saurabh? Customer: Ji. Agent: Okay sir. (Context: Agent mentioned Gurgaon earlier)",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: job kis field mein karte hain aap? Customer: Corporate.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Corporate job",
+        "evidence": "Customer: Corporate.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Agent: annual package kya hold karte honge? Customer: Haan, around 18. Agent: 18 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Agent: Aap married ho ya unmarried ho? Customer: Sir, main married hun.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Saturday call kar lijiye, sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: bank aapko ek child plan offer kar raha hai.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer engaged directly with the agent regarding the plan.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-30T15:20:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "10 percent ka guaranteed return milega",
+        "lifetime tak bonus aata hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or investment portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "child_plan",
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was cooperative, provided personal details, and agreed to a specific callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from Central Bank of India and offered a child plan to celebrate the bank's 50th anniversary.",
+      "customer_response": "Engaged and cooperative throughout the call.",
+      "key_event": "The customer agreed to a callback on Saturday at the same time after the agent pitched a child plan.",
+      "ending": "The agent confirmed the callback time for Saturday and verified the customer's name."
+    },
+    "key_quotes": [
+      "Accha, kya hai child plan?",
+      "Saturday call kar lijiye, sir."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

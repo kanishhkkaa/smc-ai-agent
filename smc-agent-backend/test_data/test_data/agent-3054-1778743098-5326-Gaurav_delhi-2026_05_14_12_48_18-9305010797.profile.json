@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "8489858197349107",
+  "source_transcript": "agent-3054-1778743098-5326-Gaurav_delhi-2026_05_14_12_48_18-9305010797.json",
+  "source_name": "agent-3054-1778743098-5326-Gaurav_delhi-2026_05_14_12_48_18-9305010797.mp3",
+  "created_at_utc": "2026-05-16T00:27:30Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 45",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: ji hi so very good afternoon, aap se Preeti Gupta baat kar rahi hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Customer: private tuition",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "private tuition",
+        "evidence": "Customer: private tuition",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: mahine ka 10000. Agent: okay saal ka 120000 right? Customer: haan haan",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: 45",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: haan to wahi to main aap se keh raha hun ki aapko puchna hai batana hai aap log samjhane lagte hain. Customer: mushkil se mushkil se mushkil se haan mushkil se chal pata hai, mushkil se chal pata hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: mushkil se mushkil se mushkil se haan mushkil se chal pata hai, mushkil se chal pata hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guarantee plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has very low income and struggles to meet basic expenses; insurance product is not suitable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer expressed significant financial difficulty, stating it is very hard to manage expenses on his current income. The agent's pitch was inappropriate for his financial situation."
+    },
+    "summary": "The agent called to pitch a guaranteed income plan. The customer, a 45-year-old private tutor earning 10,000 INR per month, expressed that he struggles to meet his basic expenses. The agent continued to push the product despite the customer's clear financial constraints.",
+    "key_quotes": [
+      "mushkil se mushkil se mushkil se haan mushkil se chal pata hai",
+      "haan to wahi to main aap se keh raha hun ki aapko puchna hai batana hai aap log samjhane lagte hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

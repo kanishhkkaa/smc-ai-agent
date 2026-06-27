@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "6458388136426936",
+  "source_transcript": "agent-3022-1778829338-2505-Gaurav_delhi-2026_05_15_12_45_38-9868264575.json",
+  "source_name": "agent-3022-1778829338-2505-Gaurav_delhi-2026_05_15_12_45_38-9868264575.mp3",
+  "created_at_utc": "2026-05-18T06:06:47Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 129.36,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "File name: agent-3022-1778829338-2505-Gaurav_delhi-2026_05_15_12_45_38-9868264575.mp3",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: Meri age 50 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "File name: Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Nahi, job karta hun main.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Mera hai madam 15,000 into 12. 1,80,000.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Madam, ek baat batao, 15,000 rupaye mahina mein investment bhi karun main, ghar bhi chalaun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Madam, ek baat batao, 15,000 rupaye mahina mein investment bhi karun main, ghar bhi chalaun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient income to cover both household expenses and investments"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: Madam, ek baat batao, 15,000 rupaye mahina mein investment bhi karun main, ghar bhi chalaun.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi, nahi, nahi. (in response to having existing investment plans)",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Uske alawa koi batane se mujhe main sunke kar lunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se hi 36% ki income aani start ho jaati hai aapki whole life ke liye",
+        "double tax benefit bhi aapko provide kiye jaate hain"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has very low income and explicitly stated he cannot afford investments.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer expressed significant financial strain, stating he cannot manage investments and household expenses on his current income."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a product pitch for a guaranteed income plan, and the customer responded by listening.",
+      "customer_response": "The customer was initially passive but became defensive when asked about his income and investment capacity, highlighting his financial constraints.",
+      "key_event": "The customer pushed back on the feasibility of investing given his low monthly income of 15,000 INR.",
+      "ending": "The agent acknowledged the customer's financial difficulty and ended the call politely."
+    },
+    "key_quotes": [
+      "Madam, ek baat batao, 15,000 rupaye mahina mein investment bhi karun main, ghar bhi chalaun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

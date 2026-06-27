@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "3631130032203031",
+  "source_transcript": "2026_05_27/agent-3015-1779873818-5566-Gaurav_TATA-2026_05_27_14_53_38-8447731925.json",
+  "source_name": "agent-3015-1779873818-5566-Gaurav_TATA-2026_05_27_14_53_38-8447731925.mp3",
+  "created_at_utc": "2026-06-01T05:21:49Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Meri age hogi 22.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Sales ka kaam karte hain, Parle-G company mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Sales marketing at Parle-G",
+        "evidence": "Sales marketing ka kaam hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Kitna ho jaata hoga? Customer: 21. (Assuming 21k/month = 2.52L/yr)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi, itna toh possible nahi hoga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, itna toh possible nahi hoga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer indicated 3.5k/month was not possible.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer was evaluating the premium affordability himself.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 40000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer's income and savings capacity do not align with the quoted premium.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated the premium amount was not possible for him and the agent immediately ended the call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA term plus ULIP plan and the customer asked for starting details.",
+      "customer_response": "The customer was initially curious about the plan structure but became dismissive once the premium amount was disclosed.",
+      "key_event": "The customer stated that a 3,500 monthly premium was not possible for him.",
+      "ending": "The agent accepted the customer's rejection and ended the call abruptly."
+    },
+    "key_quotes": [
+      "Nahi, itna toh possible nahi hoga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

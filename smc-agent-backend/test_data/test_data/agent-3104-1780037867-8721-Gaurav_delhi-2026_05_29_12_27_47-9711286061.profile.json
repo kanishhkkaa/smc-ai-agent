@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "5575860584018042",
+  "source_transcript": "2026_05_29/agent-3104-1780037867-8721-Gaurav_delhi-2026_05_29_12_27_47-9711286061.json",
+  "source_name": "agent-3104-1780037867-8721-Gaurav_delhi-2026_05_29_12_27_47-9711286061.mp3",
+  "created_at_utc": "2026-06-01T05:48:14Z",
+  "transcript_stats": {
+    "segments": 81,
+    "duration_seconds": 265.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Age bhi hai 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Dono hi hai. (referring to job and business)",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job and business",
+        "evidence": "job kar rahe hain, business hai? Dono hi hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Chalo dekhte hain mam, karna, agar busy nahi huye toh call utha lenge pakka.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "main leta hi nahi hun, kyunki mere ko interest hi nahi hai un cheezon mein",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "12 saal toh bahut lamba time hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "distrust of insurance products",
+        "concern over long-term commitment (12 years)"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "monthly ke 5,000",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Kaam toh apne andar hi hai saara.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-29T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed tax free income for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer expressed strong aversion to long-term commitments, making a 12-year product a poor initial fit.",
+      "missed_opportunities": [
+        "failed to ask about specific financial goals beyond generic savings"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is skeptical about long-term commitments but agreed to a callback at 4 PM."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and pitched a guaranteed plan, to which the customer responded with interest.",
+      "customer_response": "Customer was initially skeptical and dismissive of long-term insurance products but remained engaged enough to schedule a callback.",
+      "key_event": "The customer expressed strong hesitation regarding the 12-year commitment, leading the agent to pivot to discussing shorter lock-in periods and multiple product options.",
+      "ending": "The call ended with the customer agreeing to a 4 PM callback if he is not busy."
+    },
+    "key_quotes": [
+      "12 saal toh bahut lamba time hai.",
+      "12 minute ki nahi pata insaan ki, aap 12 saal ka time rakh rahe ho.",
+      "main leta hi nahi hun, kyunki mere ko interest hi nahi hai un cheezon mein"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

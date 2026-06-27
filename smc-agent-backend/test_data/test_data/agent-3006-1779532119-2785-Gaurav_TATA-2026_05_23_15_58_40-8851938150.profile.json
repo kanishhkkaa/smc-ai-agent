@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4620972620976269",
+  "source_transcript": "agent-3006-1779532119-2785-Gaurav_TATA-2026_05_23_15_58_40-8851938150.json",
+  "created_at_utc": "2026-06-01T02:35:39Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 93.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779532119-2785-Gaurav_TATA-2026_05_23_15_58_40-8851938150.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Kaun si? Apolus. Spelling bolna ma'am, spell karna.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery, but the call ended abruptly during company name verification.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Noida.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Package 25 per month.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund se acche returns milte hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

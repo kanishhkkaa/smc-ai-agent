@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5212908324963812",
+  "source_transcript": "agent-3012-1779527885-7367-Gaurav_TATA-2026_05_23_14_48_05-9873817550.json",
+  "created_at_utc": "2026-06-01T02:37:02Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 143.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779527885-7367-Gaurav_TATA-2026_05_23_14_48_05-9873817550.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai. Okay sir, thank you sir.",
+    "summary": "Agent pitched a child plan, completed discovery (age 40, 20k monthly income), then self-disqualified the prospect due to perceived low income, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20,000 rupaye mahine ka",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return milega sir",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

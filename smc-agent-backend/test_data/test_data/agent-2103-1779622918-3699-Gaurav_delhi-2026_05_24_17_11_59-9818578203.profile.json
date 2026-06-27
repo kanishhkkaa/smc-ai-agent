@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3570280560854115",
+  "source_transcript": "agent-2103-1779622918-3699-Gaurav_delhi-2026_05_24_17_11_59-9818578203.json",
+  "created_at_utc": "2026-06-01T02:10:07Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2103-1779622918-3699-Gaurav_delhi-2026_05_24_17_11_59-9818578203.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am maine nahi lena.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan; customer initially refused, provided age and occupation, but the call ended without further interest or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40 ho gayi hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Hum housewife hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aana start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

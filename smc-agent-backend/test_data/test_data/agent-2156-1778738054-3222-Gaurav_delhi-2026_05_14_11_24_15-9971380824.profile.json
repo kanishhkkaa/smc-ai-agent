@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "7708251642980596",
+  "source_transcript": "agent-2156-1778738054-3222-Gaurav_delhi-2026_05_14_11_24_15-9971380824.json",
+  "source_name": "agent-2156-1778738054-3222-Gaurav_delhi-2026_05_14_11_24_15-9971380824.mp3",
+  "created_at_utc": "2026-05-16T00:12:25Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Customer: Abhi toh 22 saal hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "Customer: Abhi toh 22 saal hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hello. Agent: Good morning sir. Agent: Hello, Mansi this side from the HDFC Life insurance, information ke regarding call kari hai sir aapko.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "Customer: Main kuch nahi karta, main toh ghar pe kheti baadi karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "kheti baadi",
+        "evidence": "Customer: Main kuch nahi karta, main toh ghar pe kheti baadi karta hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Abhi toh 22 saal hai. Customer: Main kuch nahi karta, main toh ghar pe kheti baadi karta hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi toh 22 saal hai. Customer: Main kuch nahi karta, main toh ghar pe kheti baadi karta hun.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is young and currently involved in farming; he is not the primary target for a high-premium insurance product, but he was polite and willing to listen."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance plan. The customer, a 22-year-old farmer, provided his age and occupation. The call ended while the agent was beginning to explain the plan.",
+    "key_quotes": [
+      "Abhi toh 22 saal hai.",
+      "Main kuch nahi karta, main toh ghar pe kheti baadi karta hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2341394933277443",
+  "source_transcript": "agent-3054-1778819266-2092-Gaurav_delhi-2026_05_15_09_57_47-9350016108.json",
+  "created_at_utc": "2026-06-01T01:24:59Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 96.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1778819266-2092-Gaurav_delhi-2026_05_15_09_57_47-9350016108.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Saving kya karunga ji, main to khaate mein rupaye ko nahi ji, khaate mein mere rupaye ke 1000 rupaye kat gaye ji.",
+    "summary": "Agent pitched an HDFC Life guarantee plan; customer expressed frustration with bank deductions and declined the pitch by stating he has no money in his account.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi ization 40 percent ki income provide kar rahi hai aapke lifetime ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 42,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

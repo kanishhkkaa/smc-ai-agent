@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "8453399568602041",
+  "source_transcript": "agent-2091-1779690545-9003-Gaurav_delhi-2026_05_25_11_59_06-7042265550.json",
+  "source_name": "agent-2091-1779690545-9003-Gaurav_delhi-2026_05_25_11_59_06-7042265550.mp3",
+  "created_at_utc": "2026-05-27T01:19:58Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 120.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Are non-guaranteed hi hai yaar, ab confusion mat karo mujhe, itna clear hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Ye non-guaranteed hai, market linked hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "misleading product information"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Maine kaafi ispe research kar liya hai.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent ki income dena start karti hai aapki whole life ke liye"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is looking for guaranteed returns, but the agent pitched a participating plan while incorrectly labeling it as guaranteed.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "The customer is well-informed, skeptical, and frustrated by the agent's inaccurate product claims."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a savings plan with a 40% income promise, and the customer responded politely but with immediate interest in the product details.",
+      "customer_response": "The customer was pushing back, correcting the agent's false claims about the product's nature.",
+      "key_event": "The customer challenged the agent's claim that the 'Sanchay Par Advantage' plan is guaranteed, correctly identifying it as non-guaranteed/participating.",
+      "ending": "The second agent attempted to clarify the product type, but the customer remained skeptical and ended the discussion on the product's nature."
+    },
+    "key_quotes": [
+      "Ye non-guaranteed hai, market linked hai.",
+      "Maine kaafi ispe research kar liya hai.",
+      "Are non-guaranteed hi hai yaar, ab confusion mat karo mujhe, itna clear hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "2234824464490198",
+  "source_transcript": "agent-2129-1779715518-5093-Gaurav_delhi-2026_05_25_18_55_18-9871274999.json",
+  "source_name": "agent-2129-1779715518-5093-Gaurav_delhi-2026_05_25_18_55_18-9871274999.mp3",
+  "created_at_utc": "2026-05-27T01:20:22Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Abhi toh main drive kar raha tha actually na. Abhi drive karte karte zyada baat karunga na, toh police wale pakad lenge madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Mam, abhi toh nahi hai plan, kuch bhi kahin bhi invest karne ka. Baad mein baat kar lein.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Abhi toh main drive kar raha tha actually na. Abhi drive karte karte zyada baat karunga na, toh police wale pakad lenge madam.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent tax free income whole life",
+        "8 percent guaranteed returns",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life unique plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "No discovery performed; agent pushed product without understanding customer needs.",
+      "missed_opportunities": [
+        "discovery_questions",
+        "needs_analysis"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer was polite and provided a valid reason for ending the call (driving), suggesting openness to a future conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life and immediately launched into a product pitch.",
+      "customer_response": "Passive and dismissive, citing lack of interest and driving as reasons to end the call.",
+      "key_event": "Customer declined the pitch citing no current interest in investing, followed by a request to end the call due to driving.",
+      "ending": "Agent asked to call back tomorrow morning after the customer agreed to talk later."
+    },
+    "key_quotes": [
+      "Mam, abhi toh nahi hai plan, kuch bhi kahin bhi invest karne ka. Baad mein baat kar lein.",
+      "Abhi toh main drive kar raha tha actually na. Abhi drive karte karte zyada baat karunga na, toh police wale pakad lenge madam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "7999676894817253",
+  "source_transcript": "agent-3023-1778754110-1239-Gaurav_delhi-2026_05_14_15_51_50-9999749560.json",
+  "source_name": "agent-3023-1778754110-1239-Gaurav_delhi-2026_05_14_15_51_50-9999749560.mp3",
+  "created_at_utc": "2026-05-16T00:20:19Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 275.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Main toh 28 ka hun main.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Main toh 28 ka hun main.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer refers to himself as '28 ka hun' (masculine).",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "File name contains 'Gaurav_delhi'",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "File name contains 'Gaurav_delhi'",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "File name contains 'Gaurav_delhi'",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent and customer are speaking in Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Job bhi hai, business bhi hai madam. Construction ka kaam hai madam. IT mein madam, IT network.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Construction business and IT network job",
+        "evidence": "Construction ka kaam hai madam. IT mein madam, IT network.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "25L_plus",
+        "evidence": "Salary se madam 1 lakh rupaye aur business se 2-2.5 lakh rupaye mil jaate hain.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Young professional with family business involvement.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hot",
+        "evidence": "Bahut badhiya madam, yehi karwa do.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "25K_plus",
+        "evidence": "Monthly 10,000 aur yearly 1,20,000, comfortable rahega? Customer: Haan bilkul, koi dikkat nahi, sahi hai.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer is doing quick mental math on the premium vs income.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent pitched a 'saving plan'.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is actively discussing investment terms and calculating pocket burden.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "bant_total": 10,
+      "lead_grade": "A",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Saving Plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not verify if the customer has adequate life cover before pitching a savings plan."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "high",
+      "reselling_likelihood": "high",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was very receptive, engaged, and asked for the next steps in the pitch. The call ended due to technical issues, not lack of interest."
+    },
+    "summary": "The agent pitched a guaranteed savings plan to a 28-year-old male working in IT and construction. The customer was highly interested and agreed to the premium amount of 1.2L annually. The call was interrupted by technical issues while the agent was explaining the 13th-year scenario, and the agent requested to call back from a different number.",
+    "key_quotes": [
+      "Bahut badhiya madam, yehi karwa do.",
+      "Pocket se maine 7 lakh dene hain, ab bataiye aage."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

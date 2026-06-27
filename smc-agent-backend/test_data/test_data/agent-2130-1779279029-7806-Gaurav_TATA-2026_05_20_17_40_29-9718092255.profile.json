@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "3585959602746172",
+  "source_transcript": "agent-2130-1779279029-7806-Gaurav_TATA-2026_05_20_17_40_29-9718092255.json",
+  "source_name": "agent-2130-1779279029-7806-Gaurav_TATA-2026_05_20_17_40_29-9718092255.mp3",
+  "created_at_utc": "2026-05-24T05:08:18Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 173.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: By business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Customer: By business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 6-7 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Bahut zyada hai nahi karna hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Bahut zyada hai nahi karna hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Bahut zyada hai nahi karna hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 CR life cover",
+        "2 CR accidental cover (personal vehicle)",
+        "3 CR accidental cover (commercial vehicle)",
+        "tax free benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "combined term plus investment plan",
+      "premium_quoted_inr": 221000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The quoted premium of 2.21 lakhs annually is significantly disproportionate to the customer's annual income of 6-7 lakhs.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly rejected the high premium and showed no interest in continuing the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and investment plan from Tata AIA, to which the customer responded with a curt 'Boliye'.",
+      "customer_response": "The customer was passive initially but became firm and dismissive once the high premium was quoted.",
+      "key_event": "The agent quoted an annual premium of 2.21 lakhs, which the customer immediately rejected as too expensive.",
+      "ending": "The customer rejected the offer due to high cost and the agent accepted the refusal."
+    },
+    "key_quotes": [
+      "Bahut zyada hai nahi karna hai."
+    ],
+    "red_flags": [
+      "ignored_customer_budget",
+      "guaranteed_returns_claim,"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

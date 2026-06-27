@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "8148932946335170",
+  "source_transcript": "agent-2129-1779093708-7337-Gaurav_delhi-2026_05_18_14_11_48-9810125677.json",
+  "source_name": "agent-2129-1779093708-7337-Gaurav_delhi-2026_05_18_14_11_48-9810125677.mp3",
+  "created_at_utc": "2026-05-20T11:06:37Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 241.54,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "File: agent-2129-1779093708-7337-Gaurav_delhi-2026_05_18_14_11_48-9810125677.mp3",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Customer: Main abhi 22 ka hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Customer: Abhi toh main college student hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "college student",
+        "evidence": "Customer: Abhi toh main college student hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Customer: Abhi toh main college student hun.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Haan wo main abhi dekh lunga, like agar mere kisi relative ko karna ho toh.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Toh ye kya deposit interest plan hai?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Toh ye savings account hai ya phir ye MOD hai, ye kya hai ye?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Customer: Abhi toh main college student hun.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked about deposit interest vs investment plan.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35 percent guaranteed income whole life",
+        "8 percent growth on premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Guaranteed Income Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a student with no income; product is a high-premium investment plan.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is a student with no current income, and the lead was for a relative, making immediate conversion unlikely."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent opened with a pitch for a 35% guaranteed income plan, to which the customer responded with curiosity.",
+      "customer_response": "Customer was skeptical and asked clarifying questions about the nature of the product (deposit vs. investment).",
+      "key_event": "Customer revealed he is a college student, causing the agent to lose interest in the lead.",
+      "ending": "Agent ended the call abruptly after realizing the customer was a student."
+    },
+    "key_quotes": [
+      "Toh ye kya deposit interest plan hai?",
+      "Abhi toh main college student hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "6157408229019188",
+  "source_transcript": "agent-3006-1778749617-3715-Gaurav_TATA-2026_05_14_14_36_58-8588840385.json",
+  "source_name": "agent-3006-1778749617-3715-Gaurav_TATA-2026_05_14_14_36_58-8588840385.mp3",
+  "created_at_utc": "2026-05-16T00:15:41Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 138.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Poonam",
+      "evidence": "Poonam baat kar rahi hun Tata AIA se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi is the location.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Agent: Delhi se hi baat kar rahe hain aap? Customer: haan ji.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Delhi is a Tier 1 city.",
+        "confidence": "high"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: ji very good afternoon, Poonam baat kar rahi hun Tata AIA se. Customer: Tata AIA se? Agent: haan, aapse na mujhe term insurance ke regarding baat karni hai.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: to job karte hain, business karte hain aap? Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Agent: 1 lakh per month? Customer: haan ji.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer is 45 and working.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: theek hai madam, interested nahi hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "theek hai madam, interested nahi hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer rejected the 15k monthly premium.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: wo to file mein kar rakhi hai maine thode bahut.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer asked for 1 crore term insurance.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 0,
+      "bant_total": 5,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [],
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Param Rakshak Life Pro Plus",
+      "fit_score_0_10": 4,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore lower premium options after the customer rejected the initial quote."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer was interested in the product initially but found the premium too high for his budget. He might be open to a lower-premium plan in the future."
+    },
+    "summary": "The agent contacted the customer regarding a 1 crore term insurance plan. The customer, a 45-year-old salaried individual from Delhi, expressed interest in the coverage but rejected the plan after learning the monthly premium was 15,182 INR. The call ended with the customer stating he was not interested.",
+    "key_quotes": [
+      "bataiye, ek kitne ka 1 crore ka term insurance?",
+      "plan rider wagera baad mein dekhenge, pehle mere ko ye batao aapki monthly kitni kist hai?",
+      "theek hai madam, interested nahi hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

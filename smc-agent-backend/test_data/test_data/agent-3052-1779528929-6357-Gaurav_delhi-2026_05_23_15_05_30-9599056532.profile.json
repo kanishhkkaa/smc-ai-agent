@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6025378590316523",
+  "source_transcript": "agent-3052-1779528929-6357-Gaurav_delhi-2026_05_23_15_05_30-9599056532.json",
+  "created_at_utc": "2026-06-01T02:42:40Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 165.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3052-1779528929-6357-Gaurav_delhi-2026_05_23_15_05_30-9599056532.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh, toh isliye abhi baat nahi kar paunga detail mein aapse, aap mujhe do din baad call kar lijiyega. ... Haan, Monday connect kar lijiyega aap.",
+    "summary": "Customer requested a specific HDFC Life plan, provided age and name, but deferred the detailed discussion to Monday due to being in a hospital.",
+    "callback_time_iso": "2026-05-25T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Chetan",
+        "evidence": "Chetan, theek hai Chetan sir",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "32",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "HDFC Life Click 2 Protect Supreme",
+    "compliance": {
+      "return_claim_quote": "company aapko pehle hi saal se income deti hai, aapka first annual premium ka 35 percent ka",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 29,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

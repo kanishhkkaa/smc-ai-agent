@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7663847039655262",
+  "source_transcript": "agent-2046-1779515253-1535-Gaurav_TATA-2026_05_23_11_17_33-9250709694.json",
+  "created_at_utc": "2026-06-01T02:22:11Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779515253-1535-Gaurav_TATA-2026_05_23_11_17_33-9250709694.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi ji.",
+    "summary": "Agent pitched a Tata AIA combined plan and asked about age; customer provided age but declined interest in the product.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "meri age abhi 45-40 age hai ji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "5 saal baad hi returns provide kiye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "5176787147639500",
+  "source_transcript": "agent-2156-1778755429-2088-Gaurav_delhi-2026_05_14_16_13_50-8393007275.json",
+  "source_name": "agent-2156-1778755429-2088-Gaurav_delhi-2026_05_14_16_13_50-8393007275.mp3",
+  "created_at_utc": "2026-05-16T00:12:47Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 204.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 42",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: haan ji ... Customer: hello good afternoon sir",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: army",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "army",
+        "evidence": "Customer: army",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: under 10 lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 42, army job",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: mere ko aisa kuch zarurat bhi nahi hai need bhi nahi hai sir",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "mere ko aisa kuch zarurat bhi nahi hai need bhi nahi hai sir",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 1,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life investment plan",
+      "fit_score_0_10": 1,
+      "mismatch": true,
+      "mismatch_reason": "Customer explicitly stated no need for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer explicitly stated they have no need for the product and the agent was dismissive of this feedback."
+    },
+    "summary": "The agent called the customer to pitch an HDFC Life investment plan. The customer, a 42-year-old in the army, stated they had no need for the product. The agent ignored the customer's objection and continued to push the plan, resulting in a cold interaction.",
+    "key_quotes": [
+      "mere ko aisa kuch zarurat bhi nahi hai need bhi nahi hai sir"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

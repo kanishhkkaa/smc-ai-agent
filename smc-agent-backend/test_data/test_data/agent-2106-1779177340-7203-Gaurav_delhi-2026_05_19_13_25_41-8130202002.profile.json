@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "9733132885248135",
+  "source_transcript": "agent-2106-1779177340-7203-Gaurav_delhi-2026_05_19_13_25_41-8130202002.json",
+  "source_name": "agent-2106-1779177340-7203-Gaurav_delhi-2026_05_19_13_25_41-8130202002.mp3",
+  "created_at_utc": "2026-05-22T11:15:16Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 193.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Meri age abhi 43.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Main Sector 50 se baat kar rahi hoon. (Gender inferred from 'rahi hoon')",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Main Sector 50 se baat kar rahi hoon.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Main Sector 50 se baat kar rahi hoon. (Context implies Noida, UP)",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Nahi, main aise business hi chalati hoon. Guest house chalate hain hum log.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Guest house owner",
+        "evidence": "Guest house chalate hain hum log.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aap mujhe WhatsApp mein likh ke bhejna zara iska.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi, time nahi hai. Bilkul bhi time nahi hai. Mere paas abhi sunne ke liye bhi time nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Aap comfortable ho 1 lakh rupees mein? (Customer agreed to 1 lakh yearly)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Income aapko 40% ki pehle saal se aati rehni chahiye. (Implied wealth creation/income)",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Nahi, main aise business hi chalati hoon. Guest house chalate hain hum log.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": "2026-05-22T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "40% income annually",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond income."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer requested the plan name via WhatsApp and agreed to a follow-up call on Friday."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced HDFC Life and a new plan with income benefits, to which the customer responded with a neutral 'Haan ji'.",
+      "customer_response": "The customer was initially passive but became engaged once the income benefit was explained, eventually requesting a follow-up.",
+      "key_event": "The customer requested the plan name be sent via WhatsApp after expressing interest in the income structure.",
+      "ending": "The agent agreed to send the plan name via WhatsApp and call back on Friday."
+    },
+    "key_quotes": [
+      "Aap mujhe WhatsApp mein likh ke bhejna zara iska.",
+      "Yearly 1 lakh rupees mujhe matlab woh karna hai.",
+      "Friday mere paas time hoti hai toh phir main milti hoon na."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

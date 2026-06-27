@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2736202729980039",
+  "source_transcript": "agent-2082-1779431893-7144-Gaurav_delhi-2026_05_22_12_08_14-9910911428.json",
+  "created_at_utc": "2026-06-01T02:51:22Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2082-1779431893-7144-Gaurav_delhi-2026_05_22_12_08_14-9910911428.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh phir toh, sir, nahi bachega.",
+    "summary": "The agent pitched a Tata AIA savings plan, but after the customer disclosed a monthly income of 20,000, the agent self-disqualified the prospect.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Bhavishya",
+        "evidence": "Bhavishya ji se baat ho rahi hai?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20,000 kamata hun.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle saal se hi ek guaranteed aur regular income",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

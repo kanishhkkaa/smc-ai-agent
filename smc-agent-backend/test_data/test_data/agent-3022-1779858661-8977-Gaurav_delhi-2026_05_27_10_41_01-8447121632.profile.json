@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "2094900119412411",
+  "source_transcript": "2026_05_27/agent-3022-1779858661-8977-Gaurav_delhi-2026_05_27_10_41_01-8447121632.json",
+  "source_name": "agent-3022-1779858661-8977-Gaurav_delhi-2026_05_27_10_41_01-8447121632.mp3",
+  "created_at_utc": "2026-06-01T05:22:12Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "ma'am",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Chinese food ki dukaan hai aur plus tiffin service.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Chinese food shop and tiffin service",
+        "evidence": "Chinese food ki dukaan hai aur plus tiffin service.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Main apne husband se baat karungi",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main puch lungi, wo waise baat nahi karte, main puch lungi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Main apne husband se baat karungi, wo mujhe batayenge.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Main apne husband se baat karungi, wo mujhe batayenge.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% of premium credited to savings account from first year",
+        "double tax benefit",
+        "8% compound interest on savings"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about family protection needs despite mentioning it."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is open to discussing with her husband but is not the primary decision-maker."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a money-back product with specific return claims.",
+      "customer_response": "Passive and deferential to her husband regarding financial decisions.",
+      "key_event": "Customer stated she needs to consult her husband before proceeding.",
+      "ending": "The call ended with the customer agreeing to consult her husband and provide a response later."
+    },
+    "key_quotes": [
+      "Main apne husband se baat karungi, wo mujhe batayenge.",
+      "Agar wo hoga to main aapko jawab de dungi yes ya no."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

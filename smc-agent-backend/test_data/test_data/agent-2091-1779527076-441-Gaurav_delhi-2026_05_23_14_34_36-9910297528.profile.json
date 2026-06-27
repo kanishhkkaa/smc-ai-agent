@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7257734157741601",
+  "source_transcript": "agent-2091-1779527076-441-Gaurav_delhi-2026_05_23_14_34_36-9910297528.json",
+  "created_at_utc": "2026-06-01T02:29:46Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779527076-441-Gaurav_delhi-2026_05_23_14_34_36-9910297528.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Jo bhi aapka plan wagera ek baar WhatsApp kar do, main phir baat karta hun.",
+    "summary": "Agent pitched an HDFC Life product; customer requested a brochure on WhatsApp and agreed to a follow-up call on Monday.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Main toh Delhi se baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "40 percent ki guaranteed income",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7841507687358745",
+  "source_transcript": "agent-2059-1779455865-8199-Gaurav_delhi-2026_05_22_18_47_46-9811822937.json",
+  "created_at_utc": "2026-06-01T02:50:18Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779455865-8199-Gaurav_delhi-2026_05_22_18_47_46-9811822937.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Naveen ji isko kal subah karne please main abhi office se nikal raha tha.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan; customer requested a callback for the next morning and provided an alternative contact number.",
+    "callback_time_iso": "2026-05-23T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "2502117487919291",
+  "source_transcript": "agent-2059-1778828687-6701-Gaurav_delhi-2026_05_15_12_34_47-9716333915.json",
+  "source_name": "agent-2059-1778828687-6701-Gaurav_delhi-2026_05_15_12_34_47-9716333915.mp3",
+  "created_at_utc": "2026-05-18T05:58:46Z",
+  "transcript_stats": {
+    "segments": 84,
+    "duration_seconds": 251.76,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vikas Parmanik",
+      "evidence": "Customer: Vikas Parmanik.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Customer: 33.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: Main Delhi se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job kar raha.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 55-60. (Agent confirms 60,000)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi nahi abhi chahiye hi nahi abhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Already mera chal raha hai abhi kaafi saare.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "mera pocket itna allow nahi kar raha hai ki main kuch aur abhi karun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "budget constraints",
+        "already has sufficient products"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Agent: Toh minimum ₹5,000 se aap kar sakte hain sir. Customer: Nahi nahi abhi chahiye hi nahi abhi.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Actually sir mujhe ye chahiye hi nahi abhi.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income from first year",
+        "8% compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly stated they do not need more products and have budget constraints.",
+      "missed_opportunities": [
+        "Did not ask about existing coverage types to tailor a better fit."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer explicitly stated they do not want the product and their pocket does not allow for further investment."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed plan with high return claims, and the customer responded with a neutral 'Bataiye'.",
+      "customer_response": "Customer was passive and repeatedly expressed lack of interest, citing existing products and budget constraints.",
+      "key_event": "Customer raised a strong objection about not needing more products and budget constraints, which the agent tried to overcome by lowering the entry barrier.",
+      "ending": "Customer firmly declined the offer again, and the agent accepted the refusal."
+    },
+    "key_quotes": [
+      "Already mera chal raha hai abhi kaafi saare.",
+      "mera pocket itna allow nahi kar raha hai ki main kuch aur abhi karun.",
+      "Nahi nahi abhi chahiye hi nahi abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

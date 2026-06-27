@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8179200564678973",
+  "source_transcript": "agent-2081-1779526499-5508-Gaurav_delhi-2026_05_23_14_25_00-8882327966.json",
+  "created_at_utc": "2026-06-01T02:26:55Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2081-1779526499-5508-Gaurav_delhi-2026_05_23_14_25_00-8882327966.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "4-500 rupaye bachte hain roz.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage and completed discovery, but the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50 ke aas paas.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Sabzi bechta hun main.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "4-500 rupaye bachte hain roz.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "HDFC Life Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se na 36 percent ki income provide kar raha hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

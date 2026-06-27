@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1680377278821998",
+  "source_transcript": "agent-2077-1779443710-5456-Gaurav_TATA-2026_05_22_15_25_10-7042060289.json",
+  "created_at_utc": "2026-06-01T02:50:42Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779443710-5456-Gaurav_TATA-2026_05_22_15_25_10-7042060289.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Fir nahi ho payega bas sir, koi baat nahi.",
+    "summary": "Agent completed discovery (age 29, job, 2.5-3L income) but self-disqualified the prospect due to low income, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "Ma'am main 29 ka hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job, job karta hun ma'am.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Lagbhag 2.5-3 tak pahunch jaati hai aaram se.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund return diye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

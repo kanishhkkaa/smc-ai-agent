@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5127382762048186",
+  "source_transcript": "2026_05_21/agent-2170-1779344016-6498-Gaurav_TATA-2026_05_21_11_43_37-7622011804.json",
+  "source_name": "agent-2170-1779344016-6498-Gaurav_TATA-2026_05_21_11_43_37-7622011804.mp3",
+  "created_at_utc": "2026-06-01T04:58:19Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 183.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Government servant hun na madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Government servant",
+        "evidence": "Government servant hun na madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Madam mera personal information main aapko kyun share karun?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Aur mera already Yes Bank mein chalu hai madam.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Madam mera personal information main aapko kyun share karun?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Usme ETF aata hai, mutual fund aata hai, fund allocation aata hai aur term plan aata hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Family family ka hi hai, complete family ka hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is satisfied with employer-provided benefits and unwilling to pay additional premiums.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was defensive about sharing personal information and explicitly stated he does not want to pay from his own pocket."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a 'combined' Tata AIA plan, and the customer immediately countered by mentioning his existing Yes Bank investment scheme.",
+      "customer_response": "The customer was guarded and resistant, repeatedly questioning why he should share personal information and emphasizing his existing employer-provided benefits.",
+      "key_event": "The customer pushed back on sharing income details, leading to a tense exchange about the limitations of his employer-provided insurance.",
+      "ending": "The agent concluded by summarizing that the customer does not want to pay from his own pocket, to which the customer agreed."
+    },
+    "key_quotes": [
+      "Madam mera personal information main aapko kyun share karun?",
+      "Government mein kya kya karenge ab? Government mein toh dena padta hai.",
+      "Seedhi-seedhi baat hai, seedhi-seedhi baat hai ki aap apni jeb se paisa nahi pay karna chahte hain, right sir?"
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

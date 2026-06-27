@@ -1,0 +1,162 @@
+{
+  "status": "success",
+  "profile_id": "7134140530428434",
+  "source_transcript": "agent-3062-1779107648-4663-Gaurav_TATA-2026_05_18_18_04_08-9810439329.json",
+  "source_name": "agent-3062-1779107648-4663-Gaurav_TATA-2026_05_18_18_04_08-9810439329.mp3",
+  "created_at_utc": "2026-05-21T02:15:15Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 88.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mohan",
+      "evidence": "Agent: Mohan, woh khush hua.",
+      "confidence": "medium"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Main teen baar shaadi kar chuka hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Main teen baar shaadi kar chuka hun.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Main bahut bura hun, mujhe bahut log gaali de rahe hain, mujhpe hans rahe hain, main zindagi se pareshan ho chuka hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": null,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is using the call for personal venting and nonsensical conversation, showing no interest in financial products."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from Tata AIA, and the customer immediately responded with distress and personal anecdotes.",
+      "customer_response": "The customer was erratic and engaged in a bizarre, non-professional conversation about his personal life.",
+      "key_event": "The customer claimed to be married three times and discussed his neighbor's romantic advances.",
+      "ending": "The agent ended the call after the customer agreed to stop pursuing his neighbor."
+    },
+    "key_quotes": [
+      "Main teen baar shaadi kar chuka hun.",
+      "Main bahut bura hun, mujhe bahut log gaali de rahe hain, mujhpe hans rahe hain, main zindagi se pareshan ho chuka hun."
+    ],
+    "red_flags": [
+      "customer_unstable_behavior"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

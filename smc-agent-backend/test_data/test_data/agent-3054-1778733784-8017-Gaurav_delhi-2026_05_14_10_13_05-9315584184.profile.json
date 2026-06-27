@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "2537061055277415",
+  "source_transcript": "agent-3054-1778733784-8017-Gaurav_delhi-2026_05_14_10_13_05-9315584184.json",
+  "source_name": "agent-3054-1778733784-8017-Gaurav_delhi-2026_05_14_10_13_05-9315584184.mp3",
+  "created_at_utc": "2026-05-16T00:27:16Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 97.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Customer: 22 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "Customer: 22 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: ji very good morning sir, main aapse Preeti Gupta baat kar rahi hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: abhi toh job hi kar raha hun thoda sa.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "learning job",
+        "evidence": "Customer: abhi income kya apna kaam hai kahi ja rahe hain thoda bas seekh rahe hain abhi.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: 70-80 hazar rupaye, seekh raha hun abhi toh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: abhi toh job hi kar raha hun thoda sa. ... seekh raha hun abhi toh.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: ji boliye mam. ... haan ji. ... 22 hai. ... abhi toh job hi kar raha hun thoda sa.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Agent: aur toh aapke father se baat ho sakti hai isse related? Customer: abhi toh nahi hai, job pe gaye hain wo.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guarantee plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is a 22-year-old learner with very low income, unsuitable for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is a 22-year-old learner with very low income (70-80k per annum), making them unsuitable for the insurance product pitched."
+    },
+    "summary": "The agent pitched a guaranteed income plan to a 22-year-old customer who is currently in a learning job with an annual income of 70-80k INR. The customer was not a suitable lead, and the agent ended the call after learning the father was not available. The agent made misleading claims about guaranteed returns.",
+    "key_quotes": [
+      "22 hai.",
+      "70-80 hazar rupaye, seekh raha hun abhi toh."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

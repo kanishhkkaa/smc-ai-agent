@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "1007987072747956",
+  "source_transcript": "2026_05_29/agent-3104-1780040680-4146-Gaurav_delhi-2026_05_29_13_14_41-9582944732.json",
+  "source_name": "agent-3104-1780040680-4146-Gaurav_delhi-2026_05_29_13_14_41-9582944732.mp3",
+  "created_at_utc": "2026-06-01T05:48:13Z",
+  "transcript_stats": {
+    "segments": 51,
+    "duration_seconds": 158.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "54",
+        "evidence": "1972",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"Aap se Preeti Gupta baat kar rahi hun\" (Agent), \"sir\" (Agent addressing customer)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "\"Krishi kaary kar raha hun, kheti baadi.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Farmer/Agriculture",
+        "evidence": "\"Krishi kaary kar raha hun, kheti baadi.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "\"60,000 rupaye toh kamate hi nahi upar se saal ka\"",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Theek hai, phir rehne dijiye.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "60,000 rupaye toh kamate hi nahi upar se saal ka.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient income to invest"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "\"60,000 rupaye toh kamate hi nahi upar se saal ka.\"",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Dono hi nahi hai.\" (referring to job/business, implying sole financial status)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent tax free income for whole life",
+        "8 percent compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no income to support the minimum annual premium of 60,000.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they do not have the income to support the minimum investment and the agent was unprofessional."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and pitched a guaranteed plan with 36% tax-free income.",
+      "customer_response": "Customer was initially passive but became firm about his lack of income and inability to afford the product.",
+      "key_event": "The agent insulted the customer's age disclosure, and the customer subsequently clarified his lack of income.",
+      "ending": "The agent acknowledged the product was not possible for the customer and ended the call."
+    },
+    "key_quotes": [
+      "60,000 rupaye toh kamate hi nahi upar se saal ka.",
+      "Theek hai, phir rehne dijiye."
+    ],
+    "red_flags": [
+      "agent_insulted_customer",
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

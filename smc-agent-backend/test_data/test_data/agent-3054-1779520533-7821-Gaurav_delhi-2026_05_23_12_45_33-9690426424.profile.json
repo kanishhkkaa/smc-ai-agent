@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4182336232403317",
+  "source_transcript": "agent-3054-1779520533-7821-Gaurav_delhi-2026_05_23_12_45_33-9690426424.json",
+  "created_at_utc": "2026-06-01T02:43:00Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 147.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1779520533-7821-Gaurav_delhi-2026_05_23_12_45_33-9690426424.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir aapki na voice break ho rahi hai. Main ek baar apne number se karun? Ye systematic call hai to shayad is case mein network issue ho raha hai.",
+    "summary": "The agent attempted to pitch an HDFC Life plan but the call suffered from persistent network issues, leading the agent to attempt a reconnection.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se 36 percent ke guaranteed income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

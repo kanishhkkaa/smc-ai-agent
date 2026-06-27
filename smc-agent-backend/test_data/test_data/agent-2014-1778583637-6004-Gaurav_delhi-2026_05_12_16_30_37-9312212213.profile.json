@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "3796069461621154",
+  "source_transcript": "agent-2014-1778583637-6004-Gaurav_delhi-2026_05_12_16_30_37-9312212213.json",
+  "source_name": "agent-2014-1778583637-6004-Gaurav_delhi-2026_05_12_16_30_37-9312212213.mp3",
+  "created_at_utc": "2026-05-15T06:31:42Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 177.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Akshay",
+      "evidence": "yahan pe aapka naam sir Akshay show kar raha hai, right sir? Speaker 2: ji right.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Kirti Nagar, Delhi.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Speaker 2: Kirti Nagar, bhaiya. Speaker 1: kahan pe? Speaker 2: Kirti Nagar, Kirti Nagar, Delhi.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Kirti Nagar, Delhi.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Speaker 1: haan, oh very good evening, Gautam baat kar raha hun HDFC Life ke behalf se, how are you? Speaker 2: fine, kya?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Speaker 2: accha, theek hai, bahut badhiya, daal ke dekh lo, agar hota toh phir aap se baat karunga.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 6,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "aapka plan aisa kaunsa hai jo 35 percent de, bank baba ban jayega thode dino baad, 35 percent doge toh.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "fixed_deposit"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Speaker 2: bhai bank mein jo FD wagera hai uska kya rate hai? ... 8 percent, theek hai, 8 percent mein FD karwa do, uske against mein main agar loan leta hun toh",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Agent is misrepresenting a life insurance product as a high-yield savings plan with 35% returns.",
+      "missed_opportunities": [
+        "Did not clarify the nature of the product (insurance vs savings).",
+        "Did not address the customer's interest in FD/loans properly."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is skeptical of the 35% return claim but agreed to receive information via WhatsApp. He is open to reviewing documentation before deciding on a meeting."
+    },
+    "summary": "The agent contacted Akshay to pitch an HDFC Life product, claiming a 35% return within 7-10 days. The customer was highly skeptical of the return claim, comparing it to standard FD rates. The agent failed to explain the product correctly, leading to a mismatch in expectations. The call ended with the agent agreeing to send product details via WhatsApp.",
+    "key_quotes": [
+      "aapka plan aisa kaunsa hai jo 35 percent de, bank baba ban jayega thode dino baad, 35 percent doge toh.",
+      "lekin kaunsi, woh mere ko WhatsApp pe bhej do, pehle 35 percent mere ko pata toh lage."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

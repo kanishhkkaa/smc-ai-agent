@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5993801633781154",
+  "source_transcript": "agent-2156-1778829648-5372-Gaurav_delhi-2026_05_15_12_50_49-9891638693.json",
+  "created_at_utc": "2026-06-01T01:16:13Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1778829648-5372-Gaurav_delhi-2026_05_15_12_50_49-9891638693.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe mail kar dijiye jo bhi aap benefits bata rahe hain na. Main padh ke I will reply back to you.",
+    "summary": "Agent pitched HDFC Life plan with first-year income and lifetime income features, and the customer requested a callback/email/details via mail.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi na ma'am 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

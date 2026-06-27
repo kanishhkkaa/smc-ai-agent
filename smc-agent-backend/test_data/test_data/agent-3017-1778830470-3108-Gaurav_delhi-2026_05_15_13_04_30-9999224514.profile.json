@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2943813359225064",
+  "source_transcript": "agent-3017-1778830470-3108-Gaurav_delhi-2026_05_15_13_04_30-9999224514.json",
+  "created_at_utc": "2026-06-01T01:20:36Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1778830470-3108-Gaurav_delhi-2026_05_15_13_04_30-9999224514.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, meri actually abhi maine abhi ke liye apne saare investment kar diye hain, toh abhi main kuch soch nahi rahi hun.",
+    "summary": "Agent pitched a Tata AIA term plus investment plan; customer declined, stating she has already made her investments.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

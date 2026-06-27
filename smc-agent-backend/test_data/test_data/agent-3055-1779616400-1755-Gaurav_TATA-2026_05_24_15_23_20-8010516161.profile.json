@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9105447453272617",
+  "source_transcript": "agent-3055-1779616400-1755-Gaurav_TATA-2026_05_24_15_23_20-8010516161.json",
+  "created_at_utc": "2026-06-01T02:16:37Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 143.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3055-1779616400-1755-Gaurav_TATA-2026_05_24_15_23_20-8010516161.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "abhi to mam main abhi koi plan plan dekh nahi raha hun",
+    "summary": "Agent pitched Sanchay Par Advantage; customer completed discovery (35, salaried, 3.6L annual income) but stated he is not looking for a plan currently.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Punjab",
+        "evidence": "main to abhi Punjab mein hun",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "monthly 30000 hai",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

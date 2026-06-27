@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "1115670318470185",
+  "source_transcript": "agent-2065-1778560399-4395-Gaurav_delhi-2026_05_12_10_03_19-9899225928.json",
+  "source_name": "agent-2065-1778560399-4395-Gaurav_delhi-2026_05_12_10_03_19-9899225928.mp3",
+  "created_at_utc": "2026-05-15T06:36:43Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 85.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: 26 saal",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 26 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: hello good morning sir main amar baat kar raha hun HDFC Life se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "self_employed",
+        "evidence": "Customer: main main apna kaam karta hun ji ... main yahan kaam kar raha hun school mein bijli ka",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "school electrician",
+        "evidence": "Customer: main yahan kaam kar raha hun school mein bijli ka",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: meri wahi rahegi ji 24000",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: 26 saal",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: nahi nahi ek kaam karo main yahan kaam kar raha hun school mein bijli ka lekin abhi thodi der baad mein phone karunga",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Agent: sir is plan mein minimum investment 7000 ka hota hai 7000 saal ka ... Customer: nahi nahi ek kaam karo",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 3,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "later today",
+        "evidence": "Customer: abhi thodi der baad mein phone karunga",
+        "confidence": "medium"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed savings plan",
+      "fit_score_0_10": 3,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "needs assessment",
+        "financial goal identification"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer was polite but busy at work; he did not explicitly reject the offer but deferred the conversation."
+    },
+    "summary": "The agent called to pitch an HDFC Life guaranteed savings plan. The customer, a 26-year-old school electrician, provided his age and income but requested a callback later as he was busy at work. The agent did not complete the pitch or discovery process.",
+    "key_quotes": [
+      "26 saal",
+      "main yahan kaam kar raha hun school mein bijli ka lekin abhi thodi der baad mein phone karunga"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "5835563029425775",
+  "source_transcript": "agent-3115-1778823661-2546-Gaurav_TATA-2026_05_15_11_11_02-7290040143.json",
+  "source_name": "agent-3115-1778823661-2546-Gaurav_TATA-2026_05_15_11_11_02-7290040143.mp3",
+  "created_at_utc": "2026-05-18T06:09:34Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 174.06,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "20",
+        "evidence": "Customer: 20 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: 'Toh koi plan wagera dekh rahe ho abhi aap sir?'",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: 'Sleeper bus. Sleeper bus online.'",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Sleeper bus business",
+        "evidence": "Customer: 'Sleeper bus.'",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: 'Aati hai, 50 se 60 lakh.' (Context implies annual/high income, though customer was vague, 50-60L is clearly 25L+).",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: 'Ye sab nahi padenge, no.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Zarurat toh padti nahi hai, theek hai? Ye sab nahi padenge, no.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 'Haan, dekh rahe ho, bataiye.'",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term cover from day one"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 20 years old and explicitly stated no need for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer explicitly rejected the pitch and showed no interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA plan, and the customer responded with 'Haan, bataiye.'",
+      "customer_response": "The customer was passive initially but became dismissive and rejected the pitch towards the end.",
+      "key_event": "The customer rejected the pitch by saying 'Zarurat toh padti nahi hai, theek hai? Ye sab nahi padenge, no.'",
+      "ending": "The customer explicitly stated they do not need the product and ended the conversation."
+    },
+    "key_quotes": [
+      "Zarurat toh padti nahi hai, theek hai? Ye sab nahi padenge, no."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

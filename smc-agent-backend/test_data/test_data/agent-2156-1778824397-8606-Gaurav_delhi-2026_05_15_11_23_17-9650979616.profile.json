@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7094102760571074",
+  "source_transcript": "agent-2156-1778824397-8606-Gaurav_delhi-2026_05_15_11_23_17-9650979616.json",
+  "created_at_utc": "2026-06-01T01:16:03Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 105.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1778824397-8606-Gaurav_delhi-2026_05_15_11_23_17-9650979616.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi le sakta main toh. Account open karna nahi hai bol rahe hai, phir account ki plan bol rahe hai, samajh nahi pa raha main kya hai.",
+    "summary": "Agent pitched HDFC Life plan with income features, but customer expressed disinterest and confusion regarding account opening requirements.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

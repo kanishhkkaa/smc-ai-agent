@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "6580346356253191",
+  "source_transcript": "2026_05_16/agent-2049-1778916569-4516-Gaurav_delhi-2026_05_16_12_59_29-7827291002.json",
+  "source_name": "agent-2049-1778916569-4516-Gaurav_delhi-2026_05_16_12_59_29-7827291002.mp3",
+  "created_at_utc": "2026-06-01T04:41:53Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 137.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "26 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25 thousand",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Unmarried",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji kahiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Agar detail hai nahi aapke paas, toh phir aapko kya pata ki kya benefit hoga kya woh.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "ek aisa unique plan design kiya hai sir, jisme company aapko pehle hi saal se ek regular income provide kara rahi hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "LIC wagera mostly parents dekhte honge father aapke? Haanji.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "needs_to_consult_family",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "pehle saal se ek regular income provide kara rahi hai aapki whole life tak",
+        "saving sirf ek limit time tak 12 saal tak hi karna hai",
+        "returns benefit ka support hai, woh aapki whole life aapki 100 ki age tak aapko aayega"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage or specific financial goals beyond income."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was initially annoyed by the lack of information but provided details and engaged with the senior agent."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a plan offering regular income from the first year, to which the customer responded with interest.",
+      "customer_response": "Initially frustrated by the lack of information, but became cooperative after the senior agent joined.",
+      "key_event": "The senior agent joined the call, identified the product as 'Sanchay Par Advantage', and pivoted to asking for the father's contact details.",
+      "ending": "The senior agent requested the customer's father's contact number to discuss the plan further."
+    },
+    "key_quotes": [
+      "Agar detail hai nahi aapke paas, toh phir aapko kya pata ki kya benefit hoga kya woh.",
+      "Example mein samjha sakte ho aap?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

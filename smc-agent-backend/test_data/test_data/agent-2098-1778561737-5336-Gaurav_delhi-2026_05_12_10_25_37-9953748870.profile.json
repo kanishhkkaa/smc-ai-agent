@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "8613189774933520",
+  "source_transcript": "agent-2098-1778561737-5336-Gaurav_delhi-2026_05_12_10_25_37-9953748870.json",
+  "source_name": "agent-2098-1778561737-5336-Gaurav_delhi-2026_05_12_10_25_37-9953748870.mp3",
+  "created_at_utc": "2026-05-15T06:42:32Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 103.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "main Abhishek aapse baat kar raha hun HDFC Life se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "main abhi thoda office mein hun",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "evening mein hoga after 6:30. sure, koi issue nahi hai sir. aapko 6:30 kar lunga seedha, theek hai? okay, thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "main abhi thoda office mein hun",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-12 18:30:00",
+        "evidence": "evening mein hoga after 6:30",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "traditional product with tax benefit and term coverage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and agreed to a specific callback time in the evening, indicating interest in hearing more about the product."
+    },
+    "summary": "The agent called to pitch a traditional HDFC Life product. The customer was busy at the office and requested a callback in the evening. The agent successfully scheduled a follow-up call for 6:30 PM.",
+    "key_quotes": [
+      "main abhi thoda office mein hun",
+      "evening mein hoga after 6:30."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6741590829540226",
+  "source_transcript": "agent-3110-1778829525-4225-Gaurav_delhi-2026_05_15_12_48_46-9873458778.json",
+  "created_at_utc": "2026-06-01T01:29:22Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3110-1778829525-4225-Gaurav_delhi-2026_05_15_12_48_46-9873458778.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Main aapko puch sakta hun, main usse haan ya na bol dunga. Abhi bata sakta nahi hun main.",
+    "summary": "Agent pitched HDFC Life guaranteed income plan, completed partial discovery (age 35, salaried/banking, occupation/field, and customer'```json way of a question/refusal to answer income), and the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki fixed income de rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4914124138152283",
+  "source_transcript": "agent-2092-1778825147-5465-Gaurav_TATA-2026_05_15_11_35_48-9711899195.json",
+  "created_at_utc": "2026-06-01T01:12:51Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1778825147-5465-Gaurav_TATA-2026_05_15_11_35_48-9711899195.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sorry sir, you are not eligible for that.",
+    "summary": "Agent pitched a Tata AIA plan, but the customer is 16 years old, leading to the agent self-disqualified the prospect and ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "16",
+        "evidence": "I am just 16 year old.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 46,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

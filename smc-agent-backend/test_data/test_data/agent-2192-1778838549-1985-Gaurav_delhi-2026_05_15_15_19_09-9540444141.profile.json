@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7121263113309457",
+  "source_transcript": "agent-2192-1778838549-1985-Gaurav_delhi-2026_05_15_15_19_09-9540444141.json",
+  "created_at_utc": "2026-06-01T01:17:31Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1778838549-1985-Gaurav_delhi-2026_05_15_15_19_09-9540444141.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Plan ki behtar jaankari ke liye kya main aapki running age jaan sakti hun sir? Kyunki jo plan hai woh age ke according work karta. Customer: 19.",
+    "summary": "Agent pitched a HDFC Life guaranteed plan, and the customer's age (19) was disclosed, age-based eligibility check was age-related, and the student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student status was student-",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "19.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Abhi toh aap study kar rahe honge na? Customer: Yes.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir first week se, jo ki sir aapko whole life tak hi milta rehta hai.",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

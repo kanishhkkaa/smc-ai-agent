@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9721938849289531",
+  "source_transcript": "agent-2090-1779520582-8278-Gaurav_delhi-2026_05_23_12_46_24-9717114310.json",
+  "created_at_utc": "2026-06-01T02:29:05Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 85.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779520582-8278-Gaurav_delhi-2026_05_23_12_46_24-9717114310.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main main kisi jagah pe gaon mein rehta hun, koi woh nahi karta, kaam nahi karta.",
+    "summary": "Agent pitched an HDFC Life plan and attempted discovery; the customer stated they live in a village and are unemployed, leading to no further engagement.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "koi woh nahi karta, kaam nahi karta.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi ek income aati hai 35 percent ki cash income",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

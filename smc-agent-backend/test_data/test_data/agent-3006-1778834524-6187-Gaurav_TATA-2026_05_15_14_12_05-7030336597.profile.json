@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "3119046502375740",
+  "source_transcript": "agent-3006-1778834524-6187-Gaurav_TATA-2026_05_15_14_12_05-7030336597.json",
+  "source_name": "agent-3006-1778834524-6187-Gaurav_TATA-2026_05_15_14_12_05-7030336597.mp3",
+  "created_at_utc": "2026-05-18T06:05:22Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 147.1,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Agent: \"age kitni hogi aapki sir?\" Customer: \"30.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"age kitni hogi aapki sir?\" (Agent addresses customer as sir)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Nagpur",
+        "evidence": "Customer: \"Nagpur.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Maharashtra",
+        "evidence": "Customer: \"Nagpur.\" (Nagpur is in Maharashtra)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Job hai, business bhi hai, dono hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Job and Business owner",
+        "evidence": "Customer: \"Job hai, business bhi hai, dono hai.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: \"Monthly 60 hai mera.\" (60k/month = 7.2LPA) and \"Business toh mera ek dedh lakh ka hai mahine ka.\" (1.5L/month = 18LPA). Total > 25LPA.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Haan toh mam aap mujhe plan samjha ke batana. Main 7 baje ke baad aap mujhe call kar do 7 ke baad.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: \"Monthly 60 hai mera.\" (Job) + \"dedh lakh ka hai mahine ka.\" (Business). High income implies high savings capacity.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: \"Haan SIP hai meri.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Main 7 baje ke baad aap mujhe call kar do 7 ke baad.\" (Implies he is the one to decide/listen)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-15T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR term cover",
+        "company within interest refund kar rahi hai",
+        "pension aur medical ki facility"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term Plus Mutual Fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer explicitly asked for a callback at 7 PM and expressed interest in understanding the plan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined Term Plus Mutual Fund plan from Tata AIA, and the customer engaged immediately.",
+      "customer_response": "The customer was cooperative, providing income and location details, and requested a callback at a specific time.",
+      "key_event": "The customer requested a callback after 7 PM to discuss the plan in detail.",
+      "ending": "The agent agreed to call back after 7 PM as requested by the customer."
+    },
+    "key_quotes": [
+      "Main 7 baje ke baad aap mujhe call kar do 7 ke baad.",
+      "Haan toh mam aap mujhe plan samjha ke batana."
+    ],
+    "red_flags": [
+      "Agent made guaranteed return claims (interest refund).",
+      "Agent misrepresented product as a combined Term/Mutual Fund plan."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_2",
+      "life_stage": "family_building",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

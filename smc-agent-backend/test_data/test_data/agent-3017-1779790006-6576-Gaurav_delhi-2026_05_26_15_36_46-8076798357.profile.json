@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "9026284132054425",
+  "source_transcript": "2026_05_26/agent-3017-1779790006-6576-Gaurav_delhi-2026_05_26_15_36_46-8076798357.json",
+  "source_name": "agent-3017-1779790006-6576-Gaurav_delhi-2026_05_26_15_36_46-8076798357.mp3",
+  "created_at_utc": "2026-06-01T05:10:51Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 204.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Customer: Mam 33.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: ...aapki age ko jo main cover karke chal rahi hun mam... Customer: Haanji mam.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Mam, main restaurant mein hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "restaurant employee",
+        "evidence": "Customer: Mam, main restaurant mein hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Mam 70,000. Agent: 70,000 mahine ka, right? Customer: Haanji. (70k*12=8.4L)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Mam, mere husband ka hota hai.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Mam, main aapki baat kal karwa dungi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Customer: Mam, mere husband ka hota hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 108370,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "health_insurance",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "Customer was cooperative throughout the call and explicitly agreed to facilitate a conversation with her husband tomorrow."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from Tata AIA and pitched a combined term and ULIP plan.",
+      "customer_response": "The customer was engaged and cooperative, providing her details and agreeing to connect the agent with her husband.",
+      "key_event": "The customer disclosed that her husband makes the financial decisions and agreed to facilitate a call with him tomorrow.",
+      "ending": "The call ended with the customer agreeing to have her husband speak with the agent tomorrow."
+    },
+    "key_quotes": [
+      "Mam, mere husband ka hota hai.",
+      "Mam, main aapki baat kal karwa dungi."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

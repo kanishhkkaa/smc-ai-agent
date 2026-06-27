@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "2728475947723850",
+  "source_transcript": "agent-2129-1779174813-4268-Gaurav_delhi-2026_05_19_12_43_34-9413437765.json",
+  "source_name": "agent-2129-1779174813-4268-Gaurav_delhi-2026_05_19_12_43_34-9413437765.mp3",
+  "created_at_utc": "2026-05-22T11:15:28Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 188.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "\"Gaurav_delhi\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "\"Gaurav_delhi\"",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Nahi, bilkul bhi nahi.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "both",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi nahi, hai mere paas LIC karwa rakhi hai maine.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Rehndo, nahi karwana hume.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Sir itne paise bhi nahi ho.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Nahi, main nahi karwaunga.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "35% tax free income annually for whole life",
+        "8% compounded growth"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated they do not have the funds and are satisfied with their existing LIC policy.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer repeatedly declined and expressed lack of interest and financial capacity."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life plan with a 35% annual income promise, which the customer immediately met with skepticism.",
+      "customer_response": "The customer was consistently resistant, repeatedly stating they were not interested and already had insurance.",
+      "key_event": "The customer explicitly stated they did not have the financial capacity for the proposed plan.",
+      "ending": "The customer firmly declined again, and the agent attempted one final probe about loans before the call ended."
+    },
+    "key_quotes": [
+      "Nahi, bilkul bhi nahi.",
+      "Rehndo, nahi karwana hume.",
+      "Sir itne paise bhi nahi ho."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

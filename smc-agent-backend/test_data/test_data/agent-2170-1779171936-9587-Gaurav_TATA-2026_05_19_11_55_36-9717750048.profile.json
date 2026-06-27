@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "4754330371122328",
+  "source_transcript": "agent-2170-1779171936-9587-Gaurav_TATA-2026_05_19_11_55_36-9717750048.json",
+  "source_name": "agent-2170-1779171936-9587-Gaurav_TATA-2026_05_19_11_55_36-9717750048.mp3",
+  "created_at_utc": "2026-05-22T11:18:17Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Ajib aadmi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Doob gaya sara paisa.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "loss of money in previous investments"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Kiya hai. Doob gaya sara paisa.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "1 CR term coverage",
+        "mutual fund return benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a negative perception of market-linked products due to past losses.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was dismissive, sarcastic, and ended the call abruptly after expressing negative past investment experiences."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA plan, and the customer responded with sarcasm regarding the company's status.",
+      "customer_response": "Customer was sarcastic and dismissive throughout the interaction.",
+      "key_event": "Customer stated that his previous investments in mutual funds had failed, leading to the end of the conversation.",
+      "ending": "Customer abruptly ended the call after expressing frustration with past investments."
+    },
+    "key_quotes": [
+      "Tata toh mar gaya bechara.",
+      "Doob gaya sara paisa."
+    ],
+    "red_flags": [
+      "agent_unprofessional_comment_at_end"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

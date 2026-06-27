@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4116298849735516",
+  "source_transcript": "agent-2049-1779517692-2699-Gaurav_delhi-2026_05_23_11_58_12-9560503939.json",
+  "created_at_utc": "2026-06-01T02:23:15Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 56.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779517692-2699-Gaurav_delhi-2026_05_23_11_58_12-9560503939.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "So ma'am financial decision aap hi leti hain, koi aur leta hai?",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery (age 29, salaried, 16k monthly income), but the call ended before a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "29.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Meri monthly income hai 16,000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2591802773083701",
+  "source_transcript": "agent-2046-1779444841-5177-Gaurav_TATA-2026_05_22_15_44_02-7042872602.json",
+  "created_at_utc": "2026-06-01T02:48:37Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779444841-5177-Gaurav_TATA-2026_05_22_15_44_02-7042872602.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ji, toh ek baar na pura plan step-by-step brief kar deti hun, kaise work karta hai. Usse pehle aapki age jaan sakti hun? 40. Kya karte hain aap 40 ki age mein sir? By profession job, business? Haan, hum toh wo mistri ka kaam karte hain.",
+    "summary": "Agent pitched a Tata AIA plan and performed partial discovery (age 40, skilled trade), but the call ended before completion or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Haan, hum toh wo mistri ka kaam karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi investment karte hain na aap is plan mein, saara refundable hota hai sir",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

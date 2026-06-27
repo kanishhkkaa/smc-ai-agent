@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "5954131999404417",
+  "source_transcript": "agent-2131-1779175307-8744-Gaurav_delhi-2026_05_19_12_51_48-7878780515.json",
+  "source_name": "agent-2131-1779175307-8744-Gaurav_delhi-2026_05_19_12_51_48-7878780515.mp3",
+  "created_at_utc": "2026-05-22T11:15:54Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 238.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Milk dairy hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Milk dairy owner",
+        "evidence": "Customer: Milk dairy hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Ek saal ka hai. (referring to 2 lakh)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Agent 2: Married hain, unmarried hain? Customer: Married.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Sir bolo na. Sir bolo kya hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 6,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "FD mein to aisa nahi hota hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: FD mein to aisa nahi hota hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: Baad mein sir bachcho ke education ke liye sir aap paisa isme save kar sakte ho.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main khud leta hu.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "35% return within 7 to 10 days"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving investment income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitched is clearly unsuitable for a low-income individual and the agent's claims are fraudulent.",
+      "missed_opportunities": [
+        "Proper needs analysis for a dairy business owner"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "health_insurance",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is curious about the product but the agent's aggressive and misleading pitch regarding returns caused confusion."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a cold call pitch for an HDFC Life savings plan, promising a 35% return within 10 days.",
+      "customer_response": "The customer was initially curious but became increasingly confused and skeptical due to the agent's vague and misleading claims.",
+      "key_event": "The agent made a false claim about a 35% return within 7-10 days, which the customer immediately questioned by comparing it to an FD.",
+      "ending": "The second agent attempted to redirect the conversation to the customer's father, and the customer was in the process of responding when the call ended."
+    },
+    "key_quotes": [
+      "FD mein to aisa nahi hota hai.",
+      "Sir bolo kya hai?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "5426043494272936",
+  "source_transcript": "2026_05_13/agent-3115-1778666880-5835-Gaurav_TATA-2026_05_13_15_38_01-7042308257.json",
+  "source_name": "agent-3115-1778666880-5835-Gaurav_TATA-2026_05_13_15_38_01-7042308257.mp3",
+  "created_at_utc": "2026-06-01T04:08:56Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 225.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "50 plus",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Saturday ko call kar lo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "pension ki facility mil jayegi",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore natural death coverage",
+        "2 crore accidental death coverage (personal vehicle)",
+        "3 crore accidental death coverage (public transport)",
+        "1 crore instant payout on permanent disability",
+        "10 lakh annual medical claim facility"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer agreed to a specific callback time on Saturday."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA and a combined plan, then asked for the customer's age.",
+      "customer_response": "Customer was passive, listening to the pitch, and eventually requested a callback.",
+      "key_event": "Customer agreed to a callback after the agent finished the product pitch.",
+      "ending": "The agent confirmed the callback for Saturday at 2 PM."
+    },
+    "key_quotes": [
+      "Saturday ko call kar lo.",
+      "2 baje ke baad."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

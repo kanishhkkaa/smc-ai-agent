@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "3616419366954982",
+  "source_transcript": "agent-3012-1779520488-7417-Gaurav_TATA-2026_05_23_12_44_48-8585960303.json",
+  "created_at_utc": "2026-06-01T02:36:50Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 157.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779520488-7417-Gaurav_TATA-2026_05_23_12_44_48-8585960303.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap 50 ka bata dijiye, 50 ki...",
+    "summary": "Agent pitched a child plan; customer completed discovery (age 41, salaried, 35k monthly income) and requested a lower premium quote.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "Meri mam 41 hogi.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun mam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Income meri monthly 35,000 hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return diya jayega",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

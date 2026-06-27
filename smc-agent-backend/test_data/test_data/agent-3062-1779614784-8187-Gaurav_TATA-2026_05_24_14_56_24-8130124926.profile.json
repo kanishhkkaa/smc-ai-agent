@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6859683030352469",
+  "source_transcript": "agent-3062-1779614784-8187-Gaurav_TATA-2026_05_24_14_56_24-8130124926.json",
+  "created_at_utc": "2026-06-01T02:17:15Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 134.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779614784-8187-Gaurav_TATA-2026_05_24_14_56_24-8130124926.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, life insurance nahi chahiye. Mujhe, mujhe do, ek do account khulwane hain yaar, uske liye baat karni thi, mujhe laga main HDFC se baat kar raha hun.",
+    "summary": "The customer clarified they were looking for HDFC bank account services, not life insurance, and explicitly stated they do not want life insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Lucknow",
+        "evidence": "Aap rehne wale kahan ke ho? Lucknow.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 35,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

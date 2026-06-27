@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5020526716230864",
+  "source_transcript": "2026_05_21/agent-3055-1779340145-1696-Gaurav_TATA-2026_05_21_10_39_06-9717549794.json",
+  "source_name": "agent-3055-1779340145-1696-Gaurav_TATA-2026_05_21_10_39_06-9717549794.mp3",
+  "created_at_utc": "2026-06-01T05:02:23Z",
+  "transcript_stats": {
+    "segments": 49,
+    "duration_seconds": 249.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "Customer: 34.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Faridabad",
+        "evidence": "Customer: Main Faridabad se baat kar raha hoon.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Automotive sector job",
+        "evidence": "Customer: Automotive.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 15 LPA.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Number, number save kar leta hoon, aapka call kar lunga, busy hoon thoda.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income for whole life",
+        "38% cash bonus return after second premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond income."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer requested to save the number and call back later due to being busy, indicating potential interest but current unavailability."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a guaranteed savings plan, to which the customer responded by asking for details.",
+      "customer_response": "Customer was passive and compliant throughout the pitch, providing requested details and agreeing to listen.",
+      "key_event": "Senior agent joined the call to pitch the 'Sanchay Par Advantage' plan after the initial discovery phase.",
+      "ending": "Customer stated they were busy and asked the agent to call back later after saving the number."
+    },
+    "key_quotes": [
+      "Number, number save kar leta hoon, aapka call kar lunga, busy hoon thoda."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

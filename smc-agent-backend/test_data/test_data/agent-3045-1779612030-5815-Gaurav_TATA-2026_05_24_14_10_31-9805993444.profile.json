@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8354379376353223",
+  "source_transcript": "agent-3045-1779612030-5815-Gaurav_TATA-2026_05_24_14_10_31-9805993444.json",
+  "created_at_utc": "2026-06-01T02:14:33Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779612030-5815-Gaurav_TATA-2026_05_24_14_10_31-9805993444.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Tomorrow, tomorrow.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer was busy but agreed to a callback for the following day.",
+    "callback_time_iso": "2026-05-25T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "market ke returns bhi aap gain kar paate hain sir, wo bhi tax free",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

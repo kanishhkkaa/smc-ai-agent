@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "9742260661734227",
+  "source_transcript": "2026_05_29/agent-2077-1780054713-3242-Gaurav_TATA-2026_05_29_17_08_34-9711443043.json",
+  "source_name": "agent-2077-1780054713-3242-Gaurav_TATA-2026_05_29_17_08_34-9711443043.mp3",
+  "created_at_utc": "2026-06-01T05:43:58Z",
+  "transcript_stats": {
+    "segments": 83,
+    "duration_seconds": 283.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "Customer: Age 58.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hai madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Agent: 5 lakh aapka annual income hai right? Customer: Haan ji.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Chalo madam theek hai thank you hai na. (Dismissive tone)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 6,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "wahi toh dobara se aapko repeat karna padega madam chalo theek hai thank you hai na.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: maine saare mein kiya hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Job hai madam. (Implies sole decision maker)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 300000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 58 and agent deemed him ineligible for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer explicitly ended the call twice due to frustration with the agent's repetitive and unprofessional handling."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a 'combine plan' (term + mutual fund) and the customer responded with interest.",
+      "customer_response": "The customer was initially engaged but became increasingly frustrated and dismissive due to the agent's incompetence and repetitive questioning.",
+      "key_event": "The senior agent joined the call, which caused the customer to lose patience as he was forced to repeat his information.",
+      "ending": "The customer firmly ended the call after the senior agent suggested he was ineligible for the plan."
+    },
+    "key_quotes": [
+      "wahi toh dobara se aapko repeat karna padega madam chalo theek hai thank you hai na.",
+      "maine saare mein kiya hai wahi toh dobara se aapko repeat karna padega madam chalo theek hai thank you hai na."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "pressure_tactic",
+      "incompetent_agent_handling"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

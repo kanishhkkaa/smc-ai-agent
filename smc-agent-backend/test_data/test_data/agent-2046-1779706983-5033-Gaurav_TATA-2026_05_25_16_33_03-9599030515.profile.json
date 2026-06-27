@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "6924496856828587",
+  "source_transcript": "agent-2046-1779706983-5033-Gaurav_TATA-2026_05_25_16_33_03-9599030515.json",
+  "source_name": "agent-2046-1779706983-5033-Gaurav_TATA-2026_05_25_16_33_03-9599030515.mp3",
+  "created_at_utc": "2026-05-27T01:14:03Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 118.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"Sir, sorry to disturb you\" (Agent addresses customer as Sir).",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "\"Main hun Delhi se hi hun.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "\"Main hun Delhi se hi hun.\"",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Accha, ek cheez batao, aapne call kiya Tata AIA se, toh aap ye batao mera number jo hai, ye number mera number customer care pe kyun nahi lagta hai?\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Maine le rakha hun madam, term plan le rakha hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "customer care connectivity issue"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance",
+        "ulip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "\"Haan, term plan hai aur investment hai, woh market value pe hai, woh bhi main le rakha hun.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "medical benefit",
+        "pension benefit",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has term and investment products and expressed no interest in new ones.",
+      "missed_opportunities": [
+        "Did not attempt to resolve or escalate the customer's service complaint effectively."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is already well-covered with existing products and was more interested in resolving a customer service issue than discussing new plans."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and pitched a combined plan, to which the customer responded by stating he already has a term plan.",
+      "customer_response": "Customer was passive but firm about already owning products and redirected the conversation to a service complaint.",
+      "key_event": "The customer challenged the agent's reason for calling by stating he already has term and investment plans, then pivoted to a complaint about customer care connectivity.",
+      "ending": "The call ended with the agent admitting she could not resolve the customer's service issue regarding his phone number not connecting to customer care."
+    },
+    "key_quotes": [
+      "Maine le rakha hun madam, term plan le rakha hun.",
+      "Accha, ek cheez batao, aapne call kiya Tata AIA se, toh aap ye batao mera number jo hai, ye number mera number customer care pe kyun nahi lagta hai?"
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

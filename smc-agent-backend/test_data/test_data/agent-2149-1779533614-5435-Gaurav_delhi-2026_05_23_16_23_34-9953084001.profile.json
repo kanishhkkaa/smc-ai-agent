@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "8138231094786812",
+  "source_transcript": "agent-2149-1779533614-5435-Gaurav_delhi-2026_05_23_16_23_34-9953084001.json",
+  "created_at_utc": "2026-06-01T02:32:19Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 132.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2149-1779533614-5435-Gaurav_delhi-2026_05_23_16_23_34-9953084001.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sanchay Par Advantage, toh chalo main check karta hun, fir baat karunga aapse.",
+    "summary": "Agent pitched Sanchay Par Advantage; customer questioned returns and tax benefits, mentioned existing HDFC policy, and deferred to check details himself.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 38,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

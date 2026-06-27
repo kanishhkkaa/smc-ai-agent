@@ -1,0 +1,204 @@
+{
+  "status": "success",
+  "profile_id": "5277083601787855",
+  "source_transcript": "agent-3042-1778592832-6458-Gaurav_delhi-2026_05_12_19_03_53-9871516708.json",
+  "source_name": "agent-3042-1778592832-6458-Gaurav_delhi-2026_05_12_19_03_53-9871516708.mp3",
+  "created_at_utc": "2026-05-15T06:57:51Z",
+  "transcript_stats": {
+    "segments": 77,
+    "duration_seconds": 288.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "Customer: Meri 53 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "Customer: Meri 53 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Agent: Aap Delhi se hi baat kar rahe hain NCR se? Customer: Haan ji, NCR se.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi NCR",
+        "evidence": "Agent: Aap Delhi se hi baat kar rahe hain NCR se? Customer: Haan ji, NCR se.",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Agent: Aap Delhi se hi baat kar rahe hain NCR se? Customer: Haan ji, NCR se.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello. Customer: Hello. Agent: Yes, good evening sir. Aap se main Abhishek baat kar raha hun HDFC Life se. (Conversation continues in Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main private job karta hun information security mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Information Security (IT)",
+        "evidence": "Customer: Main private job karta hun information security mein.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: Meri 53 hai. (Inferred from age)",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Toh kal 3 baje kar lijiye baat.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 7,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "12 saal ke baad, mujhe nahi chahiye.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Mujhe interest kitna milega, yani mera total income kitna hoga?",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "5K_10K",
+        "evidence": "Agent: Minimum investment kitna hota hai iske andar? Customer: 60,000 annually. (Customer confirms interest at this level)",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: I want liquid, I want liquid, I want liquid money. (Customer is focused on liquidity)",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: I want liquid, I want liquid, I want liquid money.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Toh kal 3 baje kar lijiye baat. (Customer is making the decision to talk and evaluate)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "bant_total": 9,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-14 15:00:00",
+        "evidence": "Customer: Toh kal 3 baje kar lijiye baat.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 70.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 6,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the difference between guaranteed returns and market-linked returns clearly."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "gt_15min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is interested in the product's liquidity and returns, and has scheduled a follow-up call to discuss details."
+    },
+    "summary": "The agent contacted the customer to pitch the HDFC Life Sanchay Par Advantage plan. The customer expressed a strong need for liquidity and questioned the returns and investment period. The agent addressed the concerns by explaining the 5-year premium payment term and liquidity options. A follow-up call was scheduled for the day after tomorrow at 3 PM.",
+    "key_quotes": [
+      "I want liquid, I want liquid, I want liquid money.",
+      "Minimum investment kitna hota hai iske andar?",
+      "Toh kal 3 baje kar lijiye baat."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

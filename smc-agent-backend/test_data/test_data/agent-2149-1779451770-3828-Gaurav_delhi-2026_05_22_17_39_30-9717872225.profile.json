@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4963527886115787",
+  "source_transcript": "agent-2149-1779451770-3828-Gaurav_delhi-2026_05_22_17_39_30-9717872225.json",
+  "created_at_utc": "2026-06-01T02:55:44Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 144.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2149-1779451770-3828-Gaurav_delhi-2026_05_22_17_39_30-9717872225.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai ma'am, Saturday. Aap around 11 kya aap kar dijiyega na? 11:00 AM.",
+    "summary": "Agent pitched an HDFC Life saving and investment plan; customer initially expressed disinterest but agreed to a callback on Saturday at 11:00 AM.",
+    "callback_time_iso": "2026-05-23T11:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Om",
+        "evidence": "Full name kya likhte hain apna? Om.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

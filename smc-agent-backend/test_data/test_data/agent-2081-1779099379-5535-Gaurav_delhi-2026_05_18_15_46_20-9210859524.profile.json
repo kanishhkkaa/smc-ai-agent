@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "1096351882647142",
+  "source_transcript": "agent-2081-1779099379-5535-Gaurav_delhi-2026_05_18_15_46_20-9210859524.json",
+  "source_name": "agent-2081-1779099379-5535-Gaurav_delhi-2026_05_18_15_46_20-9210859524.mp3",
+  "created_at_utc": "2026-05-20T11:06:19Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 239.12,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "60",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Sir, sir ye dono cheez ka hai sir.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Main Delhi se baat kar raha hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Main Delhi se baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Apna kaam hai gaadiyon ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Car export business",
+        "evidence": "Gaadiyan export mein lagi hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Ho jaati hai 1 lakh ke upar upar.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main 2 lakh bhi laga dunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 6,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "soch ke batayenge",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Main 2 lakh bhi laga dunga.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked basic questions about the plan type.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Investment plan, yes sir.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main 2 lakh bhi laga dunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent income",
+        "8 percent tax free return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer has high income and willingness to invest, just needs a proper explanation without the rush."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent cold-called the customer regarding an HDFC Life saving plan, and the customer responded with confusion.",
+      "customer_response": "Customer was initially annoyed by the agent's speed but became engaged once the financial discussion started.",
+      "key_event": "Customer confirmed an income of over 1 lakh per month and expressed willingness to invest 2 lakhs.",
+      "ending": "Customer ended the call by stating he would think about the proposal."
+    },
+    "key_quotes": [
+      "Main 2 lakh bhi laga dunga.",
+      "aaram se bologe toh mere samajh mein aa jayegi, aap itni jaldi jaldi bolte ho.",
+      "soch ke batayenge sab."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_1",
+      "life_stage": "retired",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

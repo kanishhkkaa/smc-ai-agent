@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "8300756658055990",
+  "source_transcript": "agent-2092-1779184476-6117-Gaurav_TATA-2026_05_19_15_24_38-7877277635.json",
+  "source_name": "agent-2092-1779184476-6117-Gaurav_TATA-2026_05_19_15_24_38-7877277635.mp3",
+  "created_at_utc": "2026-05-22T11:13:50Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Dhanraj Joshi",
+      "evidence": "Sir Dhanraj Joshi ji se baat ho rahi hai? Customer: Dhanraj ji Joshi mere pitaji hain.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Aur upar jaake baat karni padegi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 50,
+      "customer_question_count": 1,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Dhanraj ji Joshi mere pitaji hain. Aur upar jaake baat karni padegi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 crore term insurance",
+        "mutual fund combine plan",
+        "medical features free of cost",
+        "pension facility",
+        "tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "1 crore term insurance plus mutual fund combine plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The intended customer is deceased.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was hostile and informed the agent that the person she was trying to reach is deceased."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself and the company, and the customer confirmed he could hear her.",
+      "customer_response": "The customer was hostile and dismissive, informing the agent that the intended recipient is deceased.",
+      "key_event": "The customer revealed that the person the agent was trying to reach is deceased.",
+      "ending": "The agent apologized and the call effectively ended."
+    },
+    "key_quotes": [
+      "Dhanraj ji Joshi mere pitaji hain.",
+      "Aur upar jaake baat karni padegi."
+    ],
+    "red_flags": [
+      "customer_deceased"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 50,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

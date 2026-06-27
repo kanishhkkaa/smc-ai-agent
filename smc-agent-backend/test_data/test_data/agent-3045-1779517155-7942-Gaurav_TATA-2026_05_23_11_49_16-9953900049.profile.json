@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8252561942721738",
+  "source_transcript": "agent-3045-1779517155-7942-Gaurav_TATA-2026_05_23_11_49_16-9953900049.json",
+  "created_at_utc": "2026-06-01T02:41:03Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 150.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779517155-7942-Gaurav_TATA-2026_05_23_11_49_16-9953900049.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan, velle lag hi rahe ho sir aapki baaton se aap.",
+    "summary": "The agent attempted to pitch a Tata AIA insurance plan, but the customer engaged in irrelevant personal conversation, leading the agent to end the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 37,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

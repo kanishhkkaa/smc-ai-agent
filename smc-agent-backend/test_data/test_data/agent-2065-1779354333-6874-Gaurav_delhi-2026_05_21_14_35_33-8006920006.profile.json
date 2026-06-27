@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "2195709701651330",
+  "source_transcript": "2026_05_21/agent-2065-1779354333-6874-Gaurav_delhi-2026_05_21_14_35_33-8006920006.json",
+  "source_name": "agent-2065-1779354333-6874-Gaurav_delhi-2026_05_21_14_35_33-8006920006.mp3",
+  "created_at_utc": "2026-06-01T05:53:13Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 139.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer agreed to a callback after initial confusion.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi nahi sir, baad mein batana, driving kar raha hun main.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-23T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% annual income for whole life",
+        "8% interest on premium paid"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent's claims of 36% annual income and 8% interest are highly unrealistic and likely misleading.",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing insurance."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "Customer agreed to a callback on Saturday after 6 PM, showing moderate interest despite initial confusion."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan with a 36% annual income promise, to which the customer responded with interest.",
+      "customer_response": "Customer was initially confused by the agent's claims of high returns and eventually pushed back due to driving.",
+      "key_event": "The agent claimed a 36% annual income plus 8% interest, which the customer questioned as a 44% total return.",
+      "ending": "The call ended with a scheduled callback for Saturday after 6 PM."
+    },
+    "key_quotes": [
+      "36 percent ek aur 8 percent aur, 36 aur 8, 44 percent ho gaya yearly?",
+      "Abhi nahi sir, baad mein batana, driving kar raha hun main."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

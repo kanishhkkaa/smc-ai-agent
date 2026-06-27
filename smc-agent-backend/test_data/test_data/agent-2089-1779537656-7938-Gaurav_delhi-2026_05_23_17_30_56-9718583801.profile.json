@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8204142178428305",
+  "source_transcript": "agent-2089-1779537656-7938-Gaurav_delhi-2026_05_23_17_30_56-9718583801.json",
+  "created_at_utc": "2026-06-01T02:28:36Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779537656-7938-Gaurav_delhi-2026_05_23_17_30_56-9718583801.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ji nahi, main bahar hun thoda abhi.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, but the call ended while attempting to get the father's contact number.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "22.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Ji student.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

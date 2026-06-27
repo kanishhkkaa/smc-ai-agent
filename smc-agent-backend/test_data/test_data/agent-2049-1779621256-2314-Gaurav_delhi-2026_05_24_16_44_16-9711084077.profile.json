@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8650656133959023",
+  "source_transcript": "agent-2049-1779621256-2314-Gaurav_delhi-2026_05_24_16_44_16-9711084077.json",
+  "created_at_utc": "2026-06-01T02:07:16Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779621256-2314-Gaurav_delhi-2026_05_24_16_44_16-9711084077.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Abhi toh main kuch nahi karti hun.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, but the call ended after the customer identified as a homemaker without further commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Abhi toh main kuch nahi karti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

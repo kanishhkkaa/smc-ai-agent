@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4735646435922663",
+  "source_transcript": "agent-3104-1779625238-3496-Gaurav_delhi-2026_05_24_17_50_39-8287698164.json",
+  "created_at_utc": "2026-06-01T02:18:28Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 85.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779625238-3496-Gaurav_delhi-2026_05_24_17_50_39-8287698164.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Bataiye, main aapko kab tak connect kar lun? Do ghante baad.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan; customer initially refused but later agreed to a callback in two hours.",
+    "callback_time_iso": "2026-05-24T19:50",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main khud bank ke andar job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

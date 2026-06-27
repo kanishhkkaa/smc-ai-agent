@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "8486519679065405",
+  "source_transcript": "agent-2106-1779699908-3853-Gaurav_delhi-2026_05_25_14_35_08-9958791174.json",
+  "source_name": "agent-2106-1779699908-3853-Gaurav_delhi-2026_05_25_14_35_08-9958791174.mp3",
+  "created_at_utc": "2026-05-27T01:20:05Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 97.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Customer: Noida.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi to nahi kar payenge yaar, ya aap mere ko ek ghante baad call kar lijiye, tab kar lenge baat.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Aap kahan se bol rahe ho? Ye broker karke aise bol rahe ho aap?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Abhi to nahi kar payenge yaar, ya aap mere ko ek ghante baad call kar lijiye, tab kar lenge baat.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-25T15:35:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "term insurance inbuilt"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life new plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "No discovery performed; agent pushed product immediately without understanding customer needs.",
+      "missed_opportunities": [
+        "No discovery questions asked regarding financial goals or current investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is skeptical of cold calls but agreed to a follow-up call in one hour."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as being from HDFC Life and immediately pitched a plan with guaranteed returns.",
+      "customer_response": "The customer was skeptical and defensive, questioning the agent's legitimacy and the nature of the call.",
+      "key_event": "The customer challenged the agent's legitimacy, leading to a discussion about face-to-face meetings.",
+      "ending": "The customer requested a callback in one hour, which the agent agreed to."
+    },
+    "key_quotes": [
+      "Aap kahan se bol rahe ho? Ye broker karke aise bol rahe ho aap?",
+      "Are yaar phone, phone to bahut aate hain, ab kaun genuine hai, kaun nahi, kaise?",
+      "Abhi to nahi kar payenge yaar, ya aap mere ko ek ghante baad call kar lijiye, tab kar lenge baat."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2867477669043324",
+  "source_transcript": "agent-2059-1779537017-2813-Gaurav_delhi-2026_05_23_17_20_18-7827509282.json",
+  "created_at_utc": "2026-06-01T02:25:17Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779537017-2813-Gaurav_delhi-2026_05_23_17_20_18-7827509282.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh sir apne aap father ka number provide karwa sakte hain, jaise ki unko plan acche se samjha dun",
+    "summary": "Agent pitched a plan to a 20-year-old prospect who was deemed ineligible and referred the agent to his father.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "20",
+        "evidence": "20",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

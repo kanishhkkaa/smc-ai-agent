@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8332372851517559",
+  "source_transcript": "agent-3100-1779527468-3753-Gaurav_delhi-2026_05_23_14_41_08-8377966557.json",
+  "created_at_utc": "2026-06-01T02:44:31Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779527468-3753-Gaurav_delhi-2026_05_23_14_41_08-8377966557.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, nahi.",
+    "summary": "The agent attempted to pitch an HDFC Life savings plan, but the customer was uninterested and the call ended without a meaningful exchange.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guarantee income milti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

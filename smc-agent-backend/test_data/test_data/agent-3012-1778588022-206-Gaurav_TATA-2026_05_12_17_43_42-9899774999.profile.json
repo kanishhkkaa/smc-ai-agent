@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "9411876315153518",
+  "source_transcript": "agent-3012-1778588022-206-Gaurav_TATA-2026_05_12_17_43_42-9899774999.json",
+  "source_name": "agent-3012-1778588022-206-Gaurav_TATA-2026_05_12_17_43_42-9899774999.mp3",
+  "created_at_utc": "2026-05-15T07:06:13Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 142.9,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40 years.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 40 years.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: \"ma'am\", \"karti hongi\"",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: \"main Central Bank of India ke behalf se Manish Sharma baat kar raha hun.\" Customer: \"dekhiye mere liye to abhi possible nahi hai\"",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business_owner",
+        "evidence": "Customer: \"mera ek profession to mera kaam hai apna.\"",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: annually matlab 10 se plus hi hai, 10 lakh se upar hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"maine just abhi apni beti ki bhi policy li hai\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: \"maine just abhi apni beti ki bhi policy li hai\"",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Lekin main abhi interested hi nahi hun, aap samajh rahe hain, main maine aapko bola na maine abhi already kiya hai\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35.0,
+      "agent_talk_percent": 65.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "dekhiye mere liye to abhi possible nahi hai, kyunki mera investment hai, chal raha hai, meri policies hai, investment hai, to wo chal raha hai, abhi to possible nahi ho payega.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: \"mera investment hai, chal raha hai, meri policies hai\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"dekhiye mere liye to abhi possible nahi hai\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "insurance_plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore the nature of existing policies to identify protection gaps."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite but firm about not being interested currently due to recent investments. She suggested re-contacting in the future."
+    },
+    "summary": "The agent called to pitch an insurance plan from Central Bank of India, claiming guaranteed returns and cash bonuses. The customer, a 40-year-old business owner, declined the offer, stating she had recently purchased multiple policies and investments. The call ended with the customer suggesting she might be open to future contact, but she was not interested at this time.",
+    "key_quotes": [
+      "dekhiye mere liye to abhi possible nahi hai, kyunki mera investment hai, chal raha hai, meri policies hai",
+      "Lekin main abhi interested hi nahi hun, aap samajh rahe hain, main maine aapko bola na maine abhi already kiya hai"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

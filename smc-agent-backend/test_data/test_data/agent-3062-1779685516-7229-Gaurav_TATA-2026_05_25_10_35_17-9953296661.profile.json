@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "8963597453803928",
+  "source_transcript": "agent-3062-1779685516-7229-Gaurav_TATA-2026_05_25_10_35_17-9953296661.json",
+  "source_name": "agent-3062-1779685516-7229-Gaurav_TATA-2026_05_25_10_35_17-9953296661.mp3",
+  "created_at_utc": "2026-05-27T01:29:29Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Avinash Pathak",
+      "evidence": "Mera Avinash Pathak.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "To main aapse baad mein baat karta hun abhi thoda sa main busy hun.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-25T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan (term/mutual fund/medical/pension)",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Failed to secure age during the initial opening."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "retirement_plan",
+        "health_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "annuity",
+        "child_plan",
+        "other"
+      ],
+      "reasoning": "Customer agreed to a callback time, indicating moderate interest despite being busy."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and pitched a combined term/mutual fund/pension/medical plan, to which the customer responded with 'Ji'.",
+      "customer_response": "Passive and slightly impatient, focusing on the product details rather than the agent's questions.",
+      "key_event": "The customer interrupted the agent's discovery process to ask for product details, then requested a callback due to being busy.",
+      "ending": "The call ended with the customer providing his name and agreeing to a callback between 2 and 3 PM."
+    },
+    "key_quotes": [
+      "Mujhe investment kya karna hai ye bataye aap.",
+      "To main aapse baad mein baat karta hun abhi thoda sa main busy hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

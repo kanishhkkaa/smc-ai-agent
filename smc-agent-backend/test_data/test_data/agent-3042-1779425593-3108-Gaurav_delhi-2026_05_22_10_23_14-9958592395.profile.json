@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "7534316527797206",
+  "source_transcript": "2026_05_22/agent-3042-1779425593-3108-Gaurav_delhi-2026_05_22_10_23_14-9958592395.json",
+  "source_name": "agent-3042-1779425593-3108-Gaurav_delhi-2026_05_22_10_23_14-9958592395.mp3",
+  "created_at_utc": "2026-06-01T05:04:08Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Age hogi 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Karta kuch nahi hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "farmer",
+        "evidence": "kheti baadi",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye Manmohan ji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "40 percent income from first year for whole life",
+        "8 percent return",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is a farmer with no stated income, making a high-premium insurance product a poor fit.",
+      "missed_opportunities": [
+        "Did not ask about family protection needs despite the customer being 45."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is listening and answering questions, though he has no formal occupation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and the customer invited him to speak.",
+      "customer_response": "The customer is passive and cooperative, answering the agent's discovery questions.",
+      "key_event": "The agent pitched a plan with guaranteed returns and income benefits, then proceeded to ask discovery questions.",
+      "ending": "The agent acknowledged the customer's lack of existing insurance and the call concluded without a clear next step."
+    },
+    "key_quotes": [
+      "Bataiye Manmohan ji.",
+      "Age hogi 45.",
+      "Karta kuch nahi hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

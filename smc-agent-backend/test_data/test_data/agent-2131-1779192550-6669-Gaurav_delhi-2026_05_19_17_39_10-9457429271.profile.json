@@ -1,0 +1,166 @@
+{
+  "status": "success",
+  "profile_id": "1847833615510781",
+  "source_transcript": "agent-2131-1779192550-6669-Gaurav_delhi-2026_05_19_17_39_10-9457429271.json",
+  "source_name": "agent-2131-1779192550-6669-Gaurav_delhi-2026_05_19_17_39_10-9457429271.mp3",
+  "created_at_utc": "2026-05-22T11:16:02Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Yatin Kumar",
+      "evidence": "Agent: Aapka naam sir yahan pe Yatin Kumar ho raha hai show. Customer: Haan haan yahi naam hai mera.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Main nahi nahi yaar HDFC mein na credit card ke liye enquiry daali thi... Mere ko aapke usme interest nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Saving plan pe nahi jaana.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving investment income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no interest in insurance products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated no interest in insurance products and requested contact only regarding a credit card inquiry."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and the customer immediately interrupted to address his credit card inquiry.",
+      "customer_response": "Customer was firm and clear about his lack of interest in insurance, redirecting the agent to his credit card inquiry.",
+      "key_event": "Customer clarified he only wanted a call regarding a credit card and had no interest in the insurance saving plan.",
+      "ending": "Agent agreed to send a WhatsApp message with his contact details as requested by the customer."
+    },
+    "key_quotes": [
+      "Mere ko aapke usme interest nahi hai.",
+      "Saving plan pe nahi jaana."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

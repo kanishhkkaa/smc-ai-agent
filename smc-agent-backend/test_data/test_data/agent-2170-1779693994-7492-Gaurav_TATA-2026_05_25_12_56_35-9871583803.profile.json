@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "profile_id": "1002832294352560",
+  "source_transcript": "agent-2170-1779693994-7492-Gaurav_TATA-2026_05_25_12_56_35-9871583803.json",
+  "source_name": "agent-2170-1779693994-7492-Gaurav_TATA-2026_05_25_12_56_35-9871583803.mp3",
+  "created_at_utc": "2026-05-27T01:22:42Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 151.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "18",
+        "evidence": "Customer: \"Meri age hai 18.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Aap se Priyanshi baat kar rahi hun main Tata AIA se.\" (Agent refers to customer as 'sir')",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: \"Main Delhi se, ma'am main Delhi se baat kar raha hun.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: \"Main Delhi se, ma'am main Delhi se baat kar raha hun.\"",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: \"Main darasal post master hun.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "post master",
+        "evidence": "Customer: \"Main darasal post master hun.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: \"Mera ho jata hai mahine ka ek dedh lakh.\" (1.5L/month = 18LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Okay, bataiye.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: \"Nahi, nahi.\" (in response to investing in market)",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Customer: \"Mere mama hain, wo lete hain.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "2 in 1 plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 18 and does not control his own finances.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is 18 years old and defers all financial decisions to his uncle, making him a poor prospect for immediate sales."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a '2 in 1' plan from Tata AIA and asked if the customer had invested in the market before.",
+      "customer_response": "The customer was passive and provided brief answers to the agent's discovery questions.",
+      "key_event": "The agent expressed skepticism regarding the customer's age and income, questioning his claim of being a postmaster earning 1.5 lakh per month.",
+      "ending": "The agent began to brief the customer on the plan after confirming his location."
+    },
+    "key_quotes": [
+      "Mera ho jata hai mahine ka ek dedh lakh.",
+      "Meri age hai 18.",
+      "Mere mama hain, wo lete hain."
+    ],
+    "red_flags": [
+      "Agent questioned the customer's credibility regarding his age and profession in a confrontational manner."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "tier_1",
+      "life_stage": "early_career",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

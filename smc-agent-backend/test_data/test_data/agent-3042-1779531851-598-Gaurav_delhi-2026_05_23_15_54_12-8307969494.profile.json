@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2721573267277850",
+  "source_transcript": "agent-3042-1779531851-598-Gaurav_delhi-2026_05_23_15_54_12-8307969494.json",
+  "created_at_utc": "2026-06-01T02:40:46Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779531851-598-Gaurav_delhi-2026_05_23_15_54_12-8307969494.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Are ma'am...",
+    "summary": "The agent attempted to pitch an HDFC Life plan and performed partial discovery, but the call ended abruptly due to a potential network or speaker issue.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Meri 45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Main mistri ka kaam karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki fixed income deti hai whole life ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

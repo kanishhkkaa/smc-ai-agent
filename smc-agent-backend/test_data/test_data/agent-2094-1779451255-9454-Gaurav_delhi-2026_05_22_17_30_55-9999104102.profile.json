@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9105621749468306",
+  "source_transcript": "agent-2094-1779451255-9454-Gaurav_delhi-2026_05_22_17_30_55-9999104102.json",
+  "created_at_utc": "2026-06-01T02:53:39Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 75.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1779451255-9454-Gaurav_delhi-2026_05_22_17_30_55-9999104102.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "mere ko isliye nahi hai kyunki already pehli baat to mere paas do teen plans hain aur main khud ek banker hun.",
+    "summary": "The customer declined the pitch, stating they already hold multiple insurance plans and work as a banker at Utkarsh Small Finance Bank.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "main abhi Utkarsh Small Finance Bank mein hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se sir 40 percent ka ek guaranteed income aana shuru ho jata hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

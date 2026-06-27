@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "5181518765320348",
+  "source_transcript": "2026_05_14/agent-3012-1778748996-8528-Gaurav_TATA-2026_05_14_14_26_36-9711411905__stub.json",
+  "source_name": "agent-3012-1778748996-8528-Gaurav_TATA-2026_05_14_14_26_36-9711411905.mp3",
+  "created_at_utc": "2026-06-01T04:33:25Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "nahi sir abhi nahi ho paayega, sorry.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "pehle toh main drive kar raha hun, doosra sir abhi saving bachat kahan rahi hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "abhi jama karne ke liye nahi hai",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient savings",
+        "high cost of living"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "abhi jama karne ke liye nahi hai",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent return on savings",
+        "30 percent cash bonus on premium from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no disposable income for investment.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they have no funds to invest and declined the offer due to financial constraints."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself as calling from Central Bank of India and the customer responded neutrally.",
+      "customer_response": "Customer was pushing back throughout the call, citing financial constraints and current inability to invest.",
+      "key_event": "Customer raised a strong objection regarding lack of disposable income to start an investment.",
+      "ending": "Agent accepted the refusal politely and ended the call."
+    },
+    "key_quotes": [
+      "abhi saving bachat kahan rahi hai, itni mehngai mein bhi main kar di ki sab paise kharch ho jaate hain.",
+      "plan sunne mein maza aata hai jab jeb mein kuch paisa ho.",
+      "nahi sir abhi nahi ho paayega, sorry."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

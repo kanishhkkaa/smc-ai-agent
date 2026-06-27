@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8641495065595443",
+  "source_transcript": "agent-3045-1779520952-1472-Gaurav_TATA-2026_05_23_12_52_32-7060410497.json",
+  "created_at_utc": "2026-06-01T02:41:09Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779520952-1472-Gaurav_TATA-2026_05_23_12_52_32-7060410497.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Tata ki maine na Tata AIA se maine do policy already kara rakhi hai, aur mera third ka plan nahi hai.",
+    "summary": "The customer declined the pitch, stating they already hold two Tata AIA policies and have no requirement for further insurance or loans.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 48,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

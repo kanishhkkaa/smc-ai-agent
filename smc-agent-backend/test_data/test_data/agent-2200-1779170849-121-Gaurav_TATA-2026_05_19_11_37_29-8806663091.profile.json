@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "4413992512534231",
+  "source_transcript": "agent-2200-1779170849-121-Gaurav_TATA-2026_05_19_11_37_29-8806663091.json",
+  "source_name": "agent-2200-1779170849-121-Gaurav_TATA-2026_05_19_11_37_29-8806663091.mp3",
+  "created_at_utc": "2026-05-22T11:19:59Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 123.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "67",
+        "evidence": "Ab mera age hai 67.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Haan toh aise sabko kyun disturb karte baithte hain aap?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 50,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Aapka yeh number kahan se mila?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unsolicited calls",
+        "poor voice quality",
+        "lack of data filtering by age"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Term plus mutual fund combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age (67) is outside the eligibility for the pitched product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is 67 years old, which is outside the product eligibility, and expressed frustration at being disturbed during a meeting."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA regarding a combined plan, but the call was plagued by poor voice quality and confusion.",
+      "customer_response": "Customer was annoyed by the unsolicited call and the poor voice quality, eventually pushing back on the agent's lack of data.",
+      "key_event": "Customer revealed his age is 67, causing the agent to admit the product was not suitable.",
+      "ending": "Customer ended the conversation by stating he was in a meeting and frustrated by the interruption."
+    },
+    "key_quotes": [
+      "Aapka yeh number kahan se mila?",
+      "Haan toh aise sabko kyun disturb karte baithte hain aap?",
+      "Ab mera age hai 67."
+    ],
+    "red_flags": [
+      "poor_data_quality_targeting"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 50,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

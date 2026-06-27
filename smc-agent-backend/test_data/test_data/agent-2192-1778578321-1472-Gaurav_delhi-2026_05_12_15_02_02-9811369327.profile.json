@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "profile_id": "3429666084947097",
+  "source_transcript": "agent-2192-1778578321-1472-Gaurav_delhi-2026_05_12_15_02_02-9811369327.json",
+  "source_name": "agent-2192-1778578321-1472-Gaurav_delhi-2026_05_12_15_02_02-9811369327.mp3",
+  "created_at_utc": "2026-05-15T06:49:43Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 194.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "main toh budha aadmi hun, 60 saal ka ho gaya hun, haan 60 saal ka ho gaya hun.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "main toh budha aadmi hun, 60 saal ka ho gaya hun, haan 60 saal ka ho gaya hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "hello, good afternoon, main Charik baat kar raha hun HDFC Life ki taraf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "itni 10 lakh ke aas paas.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "main toh budha aadmi hun, 60 saal ka ho gaya hun, haan 60 saal ka ho gaya hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "nahi nahi yaar iski baat hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "main abhi main filhal aisa kuch mera mann nahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "bhai sahab meri koi aur bhi investment hai na commitment hai na pehle se.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: lumpsum amount hoga ya ek kishton mein dena padega?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: haan bilkul decision main hi leta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "C",
+      "stage_reached": "close_attempted",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 70.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Whole Life Income Plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "The product pitched (whole life income plan) is likely unsuitable for a 60-year-old individual who already has existing financial commitments and expressed no current interest.",
+      "missed_opportunities": [
+        "Did not explore the customer's actual retirement needs or existing portfolio."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is currently hesitant due to existing financial commitments but did not explicitly refuse future contact. He is the sole decision-maker and has a stable income, making him a potential lead for a more transparent product later."
+    },
+    "summary": "The agent cold-called a 60-year-old customer to pitch a whole life income plan, making aggressive claims about guaranteed 35% returns. The customer, who is a salaried individual with existing financial commitments, expressed no interest in the product and declined to move forward with the sale. The agent attempted to pressure the customer into a meeting despite the customer's clear lack of interest.",
+    "key_quotes": [
+      "main toh budha aadmi hun, 60 saal ka ho gaya hun",
+      "bhai sahab meri koi aur bhi investment hai na commitment hai na pehle se.",
+      "main abhi main filhal aisa kuch mera mann nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "2036140912994993",
+  "source_transcript": "agent-3045-1779511796-3016-Gaurav_TATA-2026_05_23_10_19_56-9953594520.json",
+  "created_at_utc": "2026-06-01T02:40:45Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779511796-3016-Gaurav_TATA-2026_05_23_10_19_56-9953594520.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi nahi, abhi kaam dhandhe nahi hai.",
+    "summary": "The agent pitched a Tata AIA insurance plan, but the customer declined, citing a lack of current income and business activity.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

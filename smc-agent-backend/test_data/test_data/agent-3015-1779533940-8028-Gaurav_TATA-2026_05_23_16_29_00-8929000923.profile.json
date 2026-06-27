@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "4463135795830561",
+  "source_transcript": "agent-3015-1779533940-8028-Gaurav_TATA-2026_05_23_16_29_00-8929000923.json",
+  "created_at_utc": "2026-06-01T02:37:11Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 157.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1779533940-8028-Gaurav_TATA-2026_05_23_16_29_00-8929000923.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi to dekh ke batana hoga, kyunki mere paas abhi hai na. Koi nahi, agar mere ko chahiye hoga, I will call you.",
+    "summary": "Agent pitched the Param Raksha Pro Plus plan; customer acknowledged having an existing policy and deferred, stating they would call if interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Raksha Pro Plus",
+    "compliance": {
+      "return_claim_quote": "75 percent paisa ULIP plan, matlab market mein lagayegi, mutual fund mein lagayegi, jisse ki aapko return aayega market trend ke according",
+      "return_claim_pct": 75,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

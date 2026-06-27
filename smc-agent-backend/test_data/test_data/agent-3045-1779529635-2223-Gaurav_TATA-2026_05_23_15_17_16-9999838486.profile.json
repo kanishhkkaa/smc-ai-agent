@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2652072267502438",
+  "source_transcript": "agent-3045-1779529635-2223-Gaurav_TATA-2026_05_23_15_17_16-9999838486.json",
+  "created_at_utc": "2026-06-01T02:41:27Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779529635-2223-Gaurav_TATA-2026_05_23_15_17_16-9999838486.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi toh, abhi details toh malum hi kar sakte hain, sunne ke baad woh bhi.",
+    "summary": "Agent pitched the Tata Param Rakshak Life Pro Plus plan; customer remained non-committal and hesitant to provide personal details, ending the call without a clear outcome.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "premium rahega, woh interest ke sath ma'am is plan mein refundable rehta hai as per the market",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

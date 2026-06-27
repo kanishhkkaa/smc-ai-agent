@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "2953060315800959",
+  "source_transcript": "agent-2001-1779179697-3808-Gaurav_TATA-2026_05_19_14_04_58-9765963555.json",
+  "source_name": "agent-2001-1779179697-3808-Gaurav_TATA-2026_05_19_14_04_58-9765963555.mp3",
+  "created_at_utc": "2026-05-22T11:05:15Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Manoj Rajanandipkar",
+      "evidence": "Manoj Rajanandipkar",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "36 hai mera running age",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan boliye na.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "abhi thoda main kaam mein hun",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one se hi 1 crore plus 60 lakh ka cover",
+        "premium pay karenge wo aapka refundable hota hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer agreed to a callback for tomorrow evening, showing moderate interest in reviewing details."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and the customer responded politely.",
+      "customer_response": "Passive and busy, but willing to review information later.",
+      "key_event": "Customer requested details to be sent and deferred the conversation due to being busy.",
+      "ending": "Agent confirmed a callback for tomorrow at 6 PM."
+    },
+    "key_quotes": [
+      "36 hai mera running age.",
+      "Aap mujhe agar bhejenge details toh main check karke phir baad mein iske upar details mein baat karte hain",
+      "Kal kijiye evening mein phir 6 baje."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

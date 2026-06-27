@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "4573325379732072",
+  "source_transcript": "agent-3045-1778827817-8962-Gaurav_TATA-2026_05_15_12_20_17-9212371281.json",
+  "source_name": "agent-3045-1778827817-8962-Gaurav_TATA-2026_05_15_12_20_17-9212371281.mp3",
+  "created_at_utc": "2026-05-18T06:07:27Z",
+  "transcript_stats": {
+    "segments": 51,
+    "duration_seconds": 147.74,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "65",
+        "evidence": "65 saal age hai aapki.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Ji sir, very good afternoon.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Wife bhi to hamare, hamare se hi joint hai, woh bhi 65 saal ki hain.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Karwa do hamara, hain?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asks for pension and medical benefits in a term/ULIP product.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Aisa hai isme hamari pension bhi aur medical milega?",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Wife bhi to hamare, hamare se hi joint hai, woh bhi 65 saal ki hain.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term and mutual fund combined",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age (65) exceeds product eligibility.",
+      "missed_opportunities": [
+        "Did not ask about current financial status or existing investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "annuity"
+      ],
+      "reasoning": "Customer is interested in retirement/medical products but is ineligible for the current term/ULIP product due to age."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces Tata AIA term insurance and customer responds with 'Bolo'.",
+      "customer_response": "Customer is engaged and interested in the product features, specifically pension and medical.",
+      "key_event": "Agent realizes the customer is 65 years old and states the product might not be available for that age.",
+      "ending": "Agent promises to check availability and call back, which the customer accepts."
+    },
+    "key_quotes": [
+      "Mere liye ho koi plan to batao.",
+      "Karwa do hamara, hain?"
+    ],
+    "red_flags": [
+      "Agent misrepresenting product as having guaranteed tax-free market returns and combined medical/pension facilities."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

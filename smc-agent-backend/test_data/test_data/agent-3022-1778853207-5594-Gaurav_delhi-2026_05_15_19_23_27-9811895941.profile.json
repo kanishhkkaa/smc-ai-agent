@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2621481072551547",
+  "source_transcript": "agent-3022-1778853207-5594-Gaurav_delhi-2026_05_15_19_23_27-9811895941.json",
+  "created_at_utc": "2026-06-01T01:22:16Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1778853207-5594-Gaurav_delhi-2026_05_15_19_23_27-9811895941.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Mujhe nahi chahiye, aapne lagayi main not interested hun.",
+    "summary": "Agent pitched a HDFC Life saving plan with high returns, but the customer explicitly refused the pitch and stated they were not interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a week aapke annual premium par 36 percent ki ek money back return aati hai, aapko lifetime aapke har premium par har saal.",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3529780761431141",
+  "source_transcript": "agent-2090-1779522929-8674-Gaurav_delhi-2026_05_23_13_25_30-9555159169.json",
+  "created_at_utc": "2026-06-01T02:28:55Z",
+  "transcript_stats": {
+    "segments": 51,
+    "duration_seconds": 183.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779522929-8674-Gaurav_delhi-2026_05_23_13_25_30-9555159169.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Ma'am abhi bahut saari chal rahi hain, isliye sabhi hum kuch bata nahi sakte. Isliye abhi thoda ruk karke hum baat karenge aapse.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer completed discovery but deferred due to existing financial commitments, requesting to talk later without a specific time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "52",
+        "evidence": "52.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai apna sir? Ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Yahi koi 70-80. (70-80k monthly = 8.4-9.6L annual, but customer clarified 70-80k total income, likely monthly, but given the context of 60k annual saving, it is likely <5L annual)",
+        "confidence": "medium"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki income ka support",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

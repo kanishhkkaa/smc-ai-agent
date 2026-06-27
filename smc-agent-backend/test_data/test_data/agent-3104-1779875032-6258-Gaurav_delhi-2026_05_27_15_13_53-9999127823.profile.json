@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "2430089194413002",
+  "source_transcript": "2026_05_27/agent-3104-1779875032-6258-Gaurav_delhi-2026_05_27_15_13_53-9999127823.json",
+  "source_name": "agent-3104-1779875032-6258-Gaurav_delhi-2026_05_27_15_13_53-9999127823.mp3",
+  "created_at_utc": "2026-06-01T05:26:46Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 97.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "48",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "\"housewife hain\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "\"Nahi\" (in response to \"job kar rahi hain\")",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "\"husband hi dekhte honge\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Badhiya, aap bataiye.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "woh is samay office mein hain toh baat nahi ho payegi",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "\"policy wagera honge woh aapke husband hi dekhte honge\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-06-03T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year",
+        "double tax benefit",
+        "8% compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a homemaker and defers all financial decisions to her husband, who is currently unavailable.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was polite and provided a clear timeline for re-engagement, despite husband's current unavailability."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a guaranteed income product, to which the customer responded politely.",
+      "customer_response": "Customer was passive and polite, deferring all financial decisions to her husband.",
+      "key_event": "Customer explicitly stated her husband is in meetings and requested a callback in one week.",
+      "ending": "The call ended cordially after the customer confirmed a callback time of one week."
+    },
+    "key_quotes": [
+      "woh is samay office mein hain toh baat nahi ho payegi",
+      "abhi woh one week ke baad aayenge toh tab aap call kar lijiyega"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

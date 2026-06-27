@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "agent_id": "2137",
+  "call_id": "agent-2137-1779254651-9816-Gaurav_TATA-2026_05_20_10_54_12-9971843234",
+  "source_file": "agent-2137-1779254651-9816-Gaurav_TATA-2026_05_20_10_54_12-9971843234.json",
+  "source_relative": "agent-2137-1779254651-9816-Gaurav_TATA-2026_05_20_10_54_12-9971843234.json",
+  "created_at_utc": "2026-05-25T19:34:47Z",
+  "transcript_stats": {
+    "segments": 1,
+    "duration_seconds": null,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2137",
+    "agent_self_introduced_name": "not_disclosed",
+    "call_id": "agent-2137-1779254651-9816-Gaurav_TATA-2026_05_20_10_54_12-9971843234",
+    "opening": {
+      "verified_customer_identity": false,
+      "consent_taken": false,
+      "self_identified_company": false,
+      "self_identified_name": false,
+      "greeting_quality": "missing"
+    },
+    "pitch": {
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "not_applicable",
+      "product_pitched": "not_disclosed",
+      "pitch_clarity": "not_applicable",
+      "pitch_delivered": false
+    },
+    "discovery": {
+      "discovery_question_count": 0,
+      "personalizes_to_customer": false,
+      "discovery_depth": "none"
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "verbatim_examples": [],
+      "compliance_flags": []
+    },
+    "communication": {
+      "language_used": "english",
+      "tone_professionalism": "medium",
+      "language_quality": "high",
+      "empathy": "low",
+      "interrupted_customer": false,
+      "talk_listen_ratio": "agent_dominates"
+    },
+    "closing": {
+      "callback_datetime": "not_disclosed",
+      "callback_scheduled": false,
+      "close_attempted": false,
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "is_ivr_only": false,
+      "customer_declined_explicitly": false,
+      "last_speaker": "ivr",
+      "end_reason_evidence": "Hi, if you record your name and reason for calling, I'll see if this person is available.",
+      "graceful_close": false,
+      "ended_abruptly": false,
+      "end_reason": "voicemail"
+    },
+    "outcome": {
+      "outcome": "no_human_contact",
+      "stage_reached": "no_conversation",
+      "drop_off_point": "greeting"
+    },
+    "strengths": [],
+    "improvement_areas": [
+      "Agent failed to engage or leave a message upon reaching voicemail."
+    ],
+    "coaching_recommendations": [
+      "The agent reached a voicemail and did not leave a professional message. Ensure the agent is trained to leave a concise, professional callback request when reaching voicemail."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [],
+    "call_grade": "C",
+    "summary": "The agent reached a voicemail system and the call ended immediately without any interaction or message left by the agent.",
+    "extraction_confidence": "high"
+  }
+}

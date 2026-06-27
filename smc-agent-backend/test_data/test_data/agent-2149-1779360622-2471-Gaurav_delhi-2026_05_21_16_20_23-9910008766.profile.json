@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "4637232355564392",
+  "source_transcript": "2026_05_21/agent-2149-1779360622-2471-Gaurav_delhi-2026_05_21_16_20_23-9910008766.json",
+  "source_name": "agent-2149-1779360622-2471-Gaurav_delhi-2026_05_21_16_20_23-9910008766.mp3",
+  "created_at_utc": "2026-06-01T04:57:40Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Anuradha",
+      "evidence": "Anuradha ma'am",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "I am 60 plus.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Ma'am",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Actually I am not interested. Thank you so much.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Actually I am not interested.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compounding rate of interest",
+        "double tax benefit",
+        "family care option covering two family members"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is over 60 and the product is not suitable for her age profile.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "annuity",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was polite but clearly not interested in the product for herself due to her age."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called from HDFC Life to pitch a guaranteed income product, and the customer responded with a polite refusal.",
+      "customer_response": "Customer was initially dismissive but agreed to listen briefly before politely declining again.",
+      "key_event": "Customer disclosed she is 60 plus, leading the agent to pivot to a referral-based approach.",
+      "ending": "The call ended cordially with the customer agreeing to inform her family about the plan."
+    },
+    "key_quotes": [
+      "Actually I am not interested.",
+      "I am 60 plus.",
+      "Main bata doongi unko."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

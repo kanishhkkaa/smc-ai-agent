@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "8258596861061724",
+  "source_transcript": "agent-2149-1779184610-7358-Gaurav_delhi-2026_05_19_15_26_50-7976420806.json",
+  "source_name": "agent-2149-1779184610-7358-Gaurav_delhi-2026_05_19_15_26_50-7976420806.mp3",
+  "created_at_utc": "2026-05-22T11:17:00Z",
+  "transcript_stats": {
+    "segments": 70,
+    "duration_seconds": 282.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kamlesh",
+      "evidence": "\"Aur apna full name kya likhte hain Kamlesh?\" \"Haan Kamlesh.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "\"Jaan sakti hu abhi aapki current age kya hogi?\" \"28.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"Sir very good afternoon.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Jaipur",
+        "evidence": "\"Waise abhi aap baat kahan se kar rahe hain Delhi ya Noida?\" \"Main nahi main Jaipur se baat kar raha hu.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Rajasthan",
+        "evidence": "\"Jaipur\" is in Rajasthan.",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"Job karte hain koi self business hoga?\" \"Main job hi hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "\"Jaan sakti hu job se aapka annual ya monthly income kya ho jata hai\" \"30 lakh per annum.\"",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Mast raho aur kaam karte raho.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main plan karunga aapko khud hi call kar lunga koi dikkat nahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Main udhar jana nahi chahta ki mera share market mein paisa fasa pada hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "funds tied up in share market"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "stocks"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "\"mera share market mein paisa fasa pada hai\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Main plan karunga aapko khud hi call kar lunga\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compounding rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is currently focused on liquidating existing market investments and is not looking for new financial commitments.",
+      "missed_opportunities": [
+        "Did not explore the customer's long-term financial goals beyond the immediate market situation."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "other"
+      ],
+      "reasoning": "Customer was polite and even offered career advice to the agent, but explicitly stated he is not interested until his current market investments are liquidated."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a aggressive remark about being angry, followed by a standard HDFC Life sales pitch.",
+      "customer_response": "The customer was passive and polite, listening to the pitch but ultimately pushing back due to current market exposure.",
+      "key_event": "The customer explicitly declined the offer, stating he wants to wait until his current share market investments are liquidated.",
+      "ending": "The call ended on a friendly note with the customer offering the agent professional motivation."
+    },
+    "key_quotes": [
+      "Main udhar jana nahi chahta ki mera share market mein paisa fasa pada hai.",
+      "Mast raho aur kaam karte raho."
+    ],
+    "red_flags": [
+      "Agent opened the call by stating she was angry.",
+      "Agent made unsubstantiated claims about 36% income and 8% compounding."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_2",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

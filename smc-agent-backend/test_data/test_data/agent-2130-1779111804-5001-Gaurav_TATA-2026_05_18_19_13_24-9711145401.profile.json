@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "9146148786904356",
+  "source_transcript": "agent-2130-1779111804-5001-Gaurav_TATA-2026_05_18_19_13_24-9711145401.json",
+  "source_name": "agent-2130-1779111804-5001-Gaurav_TATA-2026_05_18_19_13_24-9711145401.mp3",
+  "created_at_utc": "2026-05-21T02:06:13Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 215.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "19",
+        "evidence": "19 saal ki hun main.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Haanji, main working hun aur saath mein study bhi kar rahi hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "working and student",
+        "evidence": "Haanji, main working hun aur saath mein study bhi kar rahi hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Accha, theek hai, main ghar mein discuss karke batati hun aapko, theek hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Accha, theek hai, main ghar mein discuss karke batati hun aapko, theek hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Accha, theek hai, main ghar mein discuss karke batati hun aapko, theek hai?",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan",
+      "premium_quoted_inr": 55725,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or existing coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "endowment",
+        "health_insurance",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is interested enough to ask for specific premium details but wants to consult family before deciding."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA combined term and investment plan, and the customer responded with interest.",
+      "customer_response": "The customer was engaged and inquisitive, asking specific questions about premium amounts and policy terms.",
+      "key_event": "The agent quoted an annual premium of 55,725 INR for a 5-year limited pay term plan.",
+      "ending": "The customer stated she would discuss with her family and call back herself, ending the call politely."
+    },
+    "key_quotes": [
+      "19 saal ki hun main.",
+      "Accha, theek hai, main ghar mein discuss karke batati hun aapko, theek hai?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

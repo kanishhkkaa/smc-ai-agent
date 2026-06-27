@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "8788872180646833",
+  "source_transcript": "agent-2089-1778755075-9184-Gaurav_delhi-2026_05_14_16_07_56-9811279487.json",
+  "source_name": "agent-2089-1778755075-9184-Gaurav_delhi-2026_05_14_16_07_56-9811279487.mp3",
+  "created_at_utc": "2026-05-16T00:03:12Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 164.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "hi",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "mujhe zara iska plan aur uski jo woh hai apna brochure wagera bhej do zara, theek hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 5,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "koi bhi government ka koi bhi plan ho aisa mujhe toh lag nahi raha, koi 35 percent, jo bank hain apni FD wagera pe 6-7 percent, 10 percent de rahi hain, toh 35 percent kaise de sakte hain?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "5K_10K",
+        "evidence": "minimum isme hota hai mahine ka 5000 hota hai... Customer: toh yearly, yearly 1 lakh ka jama kara dete",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "koi bhi government ka koi bhi plan ho aisa mujhe toh lag nahi raha, koi 35 percent, jo bank hain apni FD wagera pe 6-7 percent, 10 percent de rahi hain",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "paise grow karna",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 4,
+      "mismatch": true,
+      "mismatch_reason": "Agent misrepresented the product returns as 35% income, causing confusion and skepticism.",
+      "missed_opportunities": [
+        "Did not clarify the difference between cash bonus and actual ROI."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer requested a brochure and showed interest in understanding the product, despite initial skepticism about the returns."
+    },
+    "summary": "The agent pitched the HDFC Sanchay Par Advantage plan, claiming a 35% cash bonus on the annual premium. The customer was skeptical about the high returns compared to bank FDs. The agent struggled to clarify the difference between the cash bonus and the actual ROI, eventually agreeing to send a brochure to the customer.",
+    "key_quotes": [
+      "35 percent ki income degi?",
+      "koi bhi government ka koi bhi plan ho aisa mujhe toh lag nahi raha",
+      "mujhe zara iska plan aur uski jo woh hai apna brochure wagera bhej do zara"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

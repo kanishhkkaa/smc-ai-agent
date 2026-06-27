@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2260074623591305",
+  "source_transcript": "agent-3100-1779608491-366-Gaurav_delhi-2026_05_24_13_11_31-9873324822.json",
+  "created_at_utc": "2026-06-01T02:17:36Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779608491-366-Gaurav_delhi-2026_05_24_13_11_31-9873324822.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Accha, chalo thank you sir.",
+    "summary": "Agent pitched an HDFC Life saving plan and completed discovery, but ended the call after learning the customer's income and occupation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "Meri age 50 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job, haan 50 saal ka hun job karta hun. Helper hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Monthly income 13000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guarantee income aati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

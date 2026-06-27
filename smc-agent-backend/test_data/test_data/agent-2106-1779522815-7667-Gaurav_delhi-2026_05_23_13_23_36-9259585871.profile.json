@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5892690899275100",
+  "source_transcript": "agent-2106-1779522815-7667-Gaurav_delhi-2026_05_23_13_23_36-9259585871.json",
+  "created_at_utc": "2026-06-01T02:30:58Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2106-1779522815-7667-Gaurav_delhi-2026_05_23_13_23_36-9259585871.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "10 minute baad kar liyo aap.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer completed discovery (age 40, business) and requested a callback in 10 minutes.",
+    "callback_time_iso": "2026-05-23T13:33",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Age 40 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karta hoon main.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki guaranteed income",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

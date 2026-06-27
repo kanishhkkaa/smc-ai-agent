@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "2808771443784929",
+  "source_transcript": "2026_05_21/agent-3012-1779354953-2427-Gaurav_TATA-2026_05_21_14_45_53-8588021403.json",
+  "source_name": "agent-3012-1779354953-2427-Gaurav_TATA-2026_05_21_14_45_53-8588021403.mp3",
+  "created_at_utc": "2026-06-01T05:00:09Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 219.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "38",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hi hai, ma'am. Real estate mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Real estate",
+        "evidence": "Real estate mein hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Daughter nahi hai.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "filhal abhi comfort nahi hun",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Jab death hi ho jayega toh phir us benefit ka kya fayda karun?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Job ka kya hai, uncertainty hai, kab job hai, kab nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "job uncertainty"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bank aapko ek child plan offer kar raha hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main job ka kuch guarantee hota nahi hai... filhal abhi comfort nahi hun",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer has high job insecurity and no immediate need for a child plan.",
+      "missed_opportunities": [
+        "Did not pivot to a more flexible or lower-premium product given the job uncertainty."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer expressed significant job insecurity and explicitly stated he is not comfortable proceeding at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan from Central Bank of India to celebrate the bank's 50th anniversary.",
+      "customer_response": "Customer was initially passive but became increasingly hesitant due to job uncertainty and skepticism about insurance benefits.",
+      "key_event": "Customer raised a concern about job uncertainty, which led to the agent attempting to explain premium payment flexibility before the customer ultimately declined.",
+      "ending": "The agent acknowledged the customer's lack of comfort and ended the call politely."
+    },
+    "key_quotes": [
+      "Jab death hi ho jayega toh phir us benefit ka kya fayda karun?",
+      "Job ka kya hai, uncertainty hai, kab job hai, kab nahi hai.",
+      "filhal abhi comfort nahi hun"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

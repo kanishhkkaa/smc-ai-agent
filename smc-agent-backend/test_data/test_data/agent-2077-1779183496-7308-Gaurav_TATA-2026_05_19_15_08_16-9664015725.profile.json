@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "9073228011056539",
+  "source_transcript": "agent-2077-1779183496-7308-Gaurav_TATA-2026_05_19_15_08_16-9664015725.json",
+  "source_name": "agent-2077-1779183496-7308-Gaurav_TATA-2026_05_19_15_08_16-9664015725.mp3",
+  "created_at_utc": "2026-05-22T11:10:51Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Paise kahan bachte hain madam? Halat dekh rahe ho na?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi madam, kis ke bare mein? Kis ke bare mein hai main samjha hi nahi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Paise kahan bachte hain madam?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "financial hardship"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 CR ke term coverage ke saath mutual fund return",
+        "plan aapka tax free rehta hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated they have no money to invest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated financial hardship and lack of interest in investment products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA term/mutual fund plan, and the customer responded with a neutral 'Haan bolo'.",
+      "customer_response": "The customer was confused by the pitch and eventually pushed back citing financial hardship.",
+      "key_event": "The customer expressed confusion about the product and then stated they have no money to invest due to current circumstances.",
+      "ending": "The agent attempted to ask about the customer's employment status, but the customer remained dismissive, leading to an abrupt end."
+    },
+    "key_quotes": [
+      "Kis ke bare mein aapne phone kiya?",
+      "Paise kahan bachte hain madam?",
+      "Halat dekh rahe ho na?"
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

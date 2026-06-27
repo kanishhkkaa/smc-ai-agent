@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "2000271662518678",
+  "source_transcript": "2026_05_13/agent-3045-1778667486-1038-Gaurav_TATA-2026_05_13_15_48_06-8588833150.json",
+  "source_name": "agent-3045-1778667486-1038-Gaurav_TATA-2026_05_13_15_48_06-8588833150.mp3",
+  "created_at_utc": "2026-06-01T04:04:44Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 104.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sachin",
+      "evidence": "Haanji ma'am main Sachin baat kar raha hun",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "26",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Annual package 20 lakh rupaye",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji bataiye ma'am, kya plan hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Iski knowledge matlab main samjha nahi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one se hi 1 crore plus 60 lakh cover",
+        "premium pay karenge wo aapka refundable hota hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name beyond 'combined plan'"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer is responsive and providing information, though the call was interrupted before a clear product pitch or objection."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and the customer confirmed his identity.",
+      "customer_response": "Engaged and cooperative, answering discovery questions without resistance.",
+      "key_event": "The agent initiated a pitch for a combined term/investment plan and began discovery.",
+      "ending": "The call was interrupted while the agent was explaining market-linked concepts."
+    },
+    "key_quotes": [
+      "Haanji bataiye ma'am, kya plan hai?",
+      "Annual package 20 lakh rupaye."
+    ],
+    "red_flags": [
+      "Agent claimed premium is refundable on a term plan (misrepresentation)",
+      "Agent claimed day-one 1.6cr cover (potential misrepresentation of product structure)"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

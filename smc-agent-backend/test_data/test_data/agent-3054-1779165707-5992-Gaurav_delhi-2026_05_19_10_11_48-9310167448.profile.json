@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "5838424984321186",
+  "source_transcript": "agent-3054-1779165707-5992-Gaurav_delhi-2026_05_19_10_11_48-9310167448.json",
+  "source_name": "agent-3054-1779165707-5992-Gaurav_delhi-2026_05_19_10_11_48-9310167448.mp3",
+  "created_at_utc": "2026-05-22T11:27:41Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 219.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Rajiv Bhandara",
+      "evidence": "\"unka naam se bhi aa raha hai Rajiv ke naam se Bhandara\"",
+      "confidence": "medium"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "\"Meri abhi 53 hai.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"housewife hoon\" (for the first speaker), \"Ji hi sir\" (for the second speaker)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "\"housewife hoon\" (referring to spouse)",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "\"housewife hoon\" (referring to spouse)",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Na na madam, hai hi nahi hai payment hi nahi hai, paisa hi nahi hai\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "\"investment ke hisaab se toh paise nahi hai abhi.\"",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "\"Na na madam, hai hi nahi hai payment hi nahi hai, paisa hi nahi hai\"",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "lack of funds"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "\"paisa hi nahi hai\"",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"financial decision aap lete ho matlab aapke husband hi lete honge na ma'am?\" \"Haan haan ji.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for lifetime",
+        "8% compounded rate of interest",
+        "double tax benefit",
+        "two to three additional benefits for family",
+        "two family members covered"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no funds for investment.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they have no money for investment and are not interested in loans or other products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called claiming a campaign for a guaranteed plan and the customer asked what the plan was.",
+      "customer_response": "Customer was initially passive but became firm and dismissive once the requirement for investment was clarified.",
+      "key_event": "The customer realized the plan required investment rather than being 'free of cost' and explicitly stated they had no money.",
+      "ending": "Customer firmly rejected the offer due to lack of funds and the agent ended the call."
+    },
+    "key_quotes": [
+      "\"investment ke hisaab se toh paise nahi hai abhi.\"",
+      "\"paisa hi nahi hai\""
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5714644088724192",
+  "source_transcript": "agent-3054-1779166280-9973-Gaurav_delhi-2026_05_19_10_21_20-9312061374.json",
+  "source_name": "agent-3054-1779166280-9973-Gaurav_delhi-2026_05_19_10_21_20-9312061374.mp3",
+  "created_at_utc": "2026-05-22T11:27:42Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Raju Ali",
+      "evidence": "Raju Ali",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "Age 55.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai? Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business hai? Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "dhai teen lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Lete nahi ho kya sir aap interest? Nahi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds to invest"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Ab kama lenge apna pandrah bees hazaar rupaye mahine ke.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Ab kar hi nahi rakha itne woh hi nahi hai kahan se karein.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business hai? Business hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income for lifetime",
+        "double tax benefit",
+        "8 percent compounded rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no interest and no financial capacity for investment.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer expressed lack of interest and financial constraints, and the agent ended the call abruptly after the customer's pushback."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life regarding a new guaranteed plan, to which the customer responded with a neutral 'Haan bolo'.",
+      "customer_response": "The customer was passive and skeptical, eventually stating he has no interest or capacity for investment.",
+      "key_event": "The customer explicitly stated he does not have interest in the product and lacks the financial capacity to invest.",
+      "ending": "The agent abruptly ended the call after the customer confirmed he was not interested."
+    },
+    "key_quotes": [
+      "Ab kar hi nahi rakha itne woh hi nahi hai kahan se karein.",
+      "Nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

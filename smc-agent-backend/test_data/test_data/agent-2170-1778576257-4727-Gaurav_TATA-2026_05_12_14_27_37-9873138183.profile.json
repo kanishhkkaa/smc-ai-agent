@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "7076767910883798",
+  "source_transcript": "agent-2170-1778576257-4727-Gaurav_TATA-2026_05_12_14_27_37-9873138183.json",
+  "source_name": "agent-2170-1778576257-4727-Gaurav_TATA-2026_05_12_14_27_37-9873138183.mp3",
+  "created_at_utc": "2026-05-15T06:48:35Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 80.56,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "54",
+        "evidence": "Customer: 54",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "Customer: 54",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: very good afternoon sir, aap se Priyanshi baat kar rahi hun main Tata AIA se. Customer: ji boliye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: private job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: 18 abhi. (Context implies 18 LPA based on agent's question about annual income).",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: 54, private job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: haan to phir jabhi to puch raha hun aapse, main socha main raun aap se puch lun.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: isme age aur income kya salary kya hoti hai?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 1,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA two in one combine plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Agent stated the product is not suitable for the customer's profile.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "6_12_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is 54 years old and the agent explicitly stated the product is not suitable for him based on his income. No further interest or need was expressed."
+    },
+    "summary": "The agent called to pitch a Tata AIA two-in-one plan. During the discovery phase, the customer disclosed he is 54 years old and works a private job with an annual income of 18 LPA. The agent concluded the product was not suitable for the customer. The customer also confirmed no interest in health insurance.",
+    "key_quotes": [
+      "isme age aur income kya salary kya hoti hai?",
+      "sir isme to phir bilkul bhi nahi jayega."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

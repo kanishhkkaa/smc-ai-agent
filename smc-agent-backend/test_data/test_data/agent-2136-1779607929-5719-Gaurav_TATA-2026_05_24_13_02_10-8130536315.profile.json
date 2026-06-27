@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2377847878939868",
+  "source_transcript": "agent-2136-1779607929-5719-Gaurav_TATA-2026_05_24_13_02_10-8130536315.json",
+  "created_at_utc": "2026-06-01T02:10:43Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1779607929-5719-Gaurav_TATA-2026_05_24_13_02_10-8130536315.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Woh bhi abhi yahan pe hai nahi.",
+    "summary": "Agent pitched Tata Param Rakshak plan and completed discovery for the customer, who then stated her husband was unavailable to discuss further.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "31",
+        "evidence": "31.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "I am a housewife.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak",
+    "compliance": {
+      "return_claim_quote": "After all include aapko medical ki bhi facility mil jaati hai aur 1 lakh ke pension ka bhi option last mein",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

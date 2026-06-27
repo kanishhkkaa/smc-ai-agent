@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "4730310496411355",
+  "source_transcript": "agent-3012-1779171180-3109-Gaurav_TATA-2026_05_19_11_43_01-9812079812.json",
+  "source_name": "agent-3012-1779171180-3109-Gaurav_TATA-2026_05_19_11_43_01-9812079812.mp3",
+  "created_at_utc": "2026-05-22T11:22:20Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Rinku",
+      "evidence": "Agent: Naam kya hoga aapka? Customer: Rinku.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "Customer: Meri 34.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Main DTC ka driver hoon. (DTC drivers are historically male, but not explicitly stated).",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "driver",
+        "evidence": "Customer: Main DTC ka driver hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "DTC driver",
+        "evidence": "Customer: Main DTC ka driver hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Agent: Married honge na sir aap? Customer: Yeah.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Customer: Child ki age 2.5 saal.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai ji, theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Bhai abhi nahi, tu mere ko call back kar kabhi thoda time leke kyunki main na abhi driving kar raha hoon.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...bank aapko ek child plan offer kar raha hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "10% tak ka guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "child plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "child_plan"
+      ],
+      "reasoning": "Customer was polite and provided a specific callback time, indicating interest in hearing more when not busy."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a child plan offer from Central Bank of India, and the customer asked for details.",
+      "customer_response": "The customer was passive and receptive, eventually pausing the conversation due to driving.",
+      "key_event": "The customer requested a callback because he was driving and identified his profession.",
+      "ending": "The agent agreed to call back at 3:00 PM as requested by the customer."
+    },
+    "key_quotes": [
+      "Bhai abhi nahi, tu mere ko call back kar kabhi thoda time leke kyunki main na abhi driving kar raha hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

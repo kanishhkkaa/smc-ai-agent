@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3572352326729720",
+  "source_transcript": "agent-3081-1779530039-5556-Gaurav_delhi-2026_05_23_15_23_59-9654391352.json",
+  "created_at_utc": "2026-06-01T02:44:30Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3081-1779530039-5556-Gaurav_delhi-2026_05_23_15_23_59-9654391352.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Ji LIC le rakhi hai 8000 ki salana. Sorry, half yearly.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer disclosed existing LIC policy and the call ended without a final commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40 years.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Annual aapko 4.5 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

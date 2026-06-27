@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "6810386585330886",
+  "source_transcript": "2026_05_16/agent-2090-1778928408-4167-Gaurav_delhi-2026_05_16_16_16_49-9456483668.json",
+  "source_name": "agent-2090-1778928408-4167-Gaurav_delhi-2026_05_16_16_16_49-9456483668.mp3",
+  "created_at_utc": "2026-06-01T04:44:20Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "19",
+        "evidence": "Customer: \"Meri 19.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Customer: \"Furniture ka karta hun, furniture.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Furniture business/work",
+        "evidence": "Customer: \"Furniture ka karta hun\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: \"Mahine ka 40 bhi, 50 bhi, 10.\" (Implies 120k-600k/yr range).",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "sole_earner",
+        "evidence": "Customer: \"Mere father ka death ho gaya.\" (Implies sole earner/head of household).",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"60,000 haan comfortable hai.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Customer: \"60,000 haan comfortable hai.\" (Annual, so 5k/month).",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent pitched as a saving investment plan.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Mere father ka death ho gaya.\" (Implies he is the sole decision maker).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% income from first year",
+        "8% compounding growth",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 19 and a sole earner in a trade; a high-premium guaranteed savings plan may not be the most suitable product compared to basic protection.",
+      "missed_opportunities": [
+        "term_insurance"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is engaged, responsive to questions, and confirmed budget comfort for the suggested premium."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new HDFC Life plan with guaranteed income and growth benefits.",
+      "customer_response": "Engaged and cooperative throughout the pitch.",
+      "key_event": "Customer confirmed that a 60,000 annual premium is comfortable for him.",
+      "ending": "The call ended abruptly while the customer was explaining his monthly income variability."
+    },
+    "key_quotes": [
+      "60,000 haan comfortable hai.",
+      "Main furniture ka karta hun."
+    ],
+    "red_flags": [
+      "Agent pitched a complex savings product to a 19-year-old sole earner."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

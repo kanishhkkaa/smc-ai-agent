@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "7948392500953691",
+  "source_transcript": "agent-3042-1779192565-6796-Gaurav_delhi-2026_05_19_17_39_25-7827832259.json",
+  "source_name": "agent-3042-1779192565-6796-Gaurav_delhi-2026_05_19_17_39_25-7827832259.mp3",
+  "created_at_utc": "2026-05-22T11:25:58Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Main keh raha hoon aap non-stop baat karoge, saamne wale ko bolne nahi doge toh kaise baat karunga main?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "But abhi need nahi hai iski.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Main keh raha hoon aapke yahan se call aaya tha mujhe pehle bhi, maine unse discuss kiya tha is plan ke baare mein",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 40 percent ki income",
+        "8 percent ke rate of interest",
+        "double tax benefit",
+        "term coverage"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no need for the product and has been contacted previously.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer has been contacted multiple times and has explicitly stated they are not interested at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves and immediately launched into a pitch about a product offering 40% income from the first year.",
+      "customer_response": "The customer was pushing back, expressing frustration with the agent's non-stop talking and reiterating that they have no current need for the product.",
+      "key_event": "The customer interrupted the agent to complain about the agent's non-stop talking and stated they had already discussed the plan previously.",
+      "ending": "The agent accepted the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "But abhi need nahi hai iski.",
+      "Main keh raha hoon aap non-stop baat karoge, saamne wale ko bolne nahi doge toh kaise baat karunga main?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

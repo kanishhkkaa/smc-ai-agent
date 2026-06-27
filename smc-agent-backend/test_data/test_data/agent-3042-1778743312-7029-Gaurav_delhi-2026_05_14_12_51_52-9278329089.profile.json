@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "9727389538723172",
+  "source_transcript": "agent-3042-1778743312-7029-Gaurav_delhi-2026_05_14_12_51_52-9278329089.json",
+  "source_name": "agent-3042-1778743312-7029-Gaurav_delhi-2026_05_14_12_51_52-9278329089.mp3",
+  "created_at_utc": "2026-05-16T00:23:36Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 147.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: Sir 30 hai meri.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: Sir 30 hai meri.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Hello, good afternoon ma'am... Customer: Sir 30 hai meri. (Agent addresses as ma'am, customer uses female gendered verb 'karti hun')",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, good afternoon ma'am, main aapse Manmohan baat kar raha hun HDFC Life ki taraf se. (Conversation in Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Sir job karti hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: Sir 5 se 6 lakh samajh lijiye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer is 30 and employed.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Thik hai sir, phir aap mere ko 2 o'clock call karna.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Nahi sir, koi loan nahi chahiye mujhe.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: Okay, toh haan ma'am, ye saving investment plan ke regarding call thi.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is evaluating the plan herself.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "commitment_given",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-14 14:00:00",
+        "evidence": "Customer: Thik hai sir, phir aap mere ko 2 o'clock call karna.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond general saving."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer requested information via WhatsApp and agreed to a follow-up call at 2 PM, indicating interest in reviewing the product."
+    },
+    "summary": "The agent called the customer to pitch the HDFC Life Sanchay Par Advantage plan. The customer initially mistook the call for a loan solicitation but engaged once clarified. The agent provided potentially misleading information regarding fixed returns and tax benefits. The customer requested the plan details via WhatsApp and agreed to a follow-up call at 2 PM.",
+    "key_quotes": [
+      "Sir 5 se 6 lakh samajh lijiye.",
+      "Sir, main ek kaam kar sakte hain, aap is WhatsApp number par plan share kar sakte hain mere saath, main dekh leti hun.",
+      "Thik hai sir, phir aap mere ko 2 o'clock call karna."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

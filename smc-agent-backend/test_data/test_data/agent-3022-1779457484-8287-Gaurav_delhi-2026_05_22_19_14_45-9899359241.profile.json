@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9984364746328066",
+  "source_transcript": "agent-3022-1779457484-8287-Gaurav_delhi-2026_05_22_19_14_45-9899359241.json",
+  "created_at_utc": "2026-06-01T03:02:05Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779457484-8287-Gaurav_delhi-2026_05_22_19_14_45-9899359241.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Chalo, main kal bank mein jaake baat kar lunga. Theek hai, mam? Kal aap mujhe call kar lena shaam ke time.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage plan; customer asked questions and requested a callback for the following evening.",
+    "callback_time_iso": "2026-05-23T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "HDFC Life Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki tax free income aani start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

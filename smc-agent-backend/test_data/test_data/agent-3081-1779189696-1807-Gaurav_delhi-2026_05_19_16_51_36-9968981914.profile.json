@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "2042600622715626",
+  "source_transcript": "agent-3081-1779189696-1807-Gaurav_delhi-2026_05_19_16_51_36-9968981914.json",
+  "source_name": "agent-3081-1779189696-1807-Gaurav_delhi-2026_05_19_16_51_36-9968981914.mp3",
+  "created_at_utc": "2026-05-22T11:30:49Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 267.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "Customer: Age mera 39 chal raha hai abhi.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hi karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Annual hmm 3 lakh se kam hai. 3 lakh maan lijiye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi nahi ma'am thanks thanks. Mujhe chahiye tha 4-500 rupaye mahine ka.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Itna nahi afford kar payenge sorry.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "high premium affordability"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: Mujhe chahiye tha 4-500 rupaye mahine ka.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: No karne se toh baad mein claim mein dikkat aati hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi nahi ma'am thanks thanks.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "1 crore term insurance coverage",
+        "2 crore accidental death claim",
+        "1 crore disability claim"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 133000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The quoted premium of 1.33 Lakhs annually is completely unaffordable for a customer earning less than 3 Lakhs annually and seeking a 400-500 INR monthly plan.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he cannot afford the premium and requested a much lower amount, indicating a significant mismatch in product suitability."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined insurance plan from Tata AIA, and the customer responded with a neutral 'Ji boliye'.",
+      "customer_response": "The customer was passive initially but became firm in rejecting the offer once the high premium was disclosed.",
+      "key_event": "The agent advised the customer to lie about his smoking status to avoid a 50% premium increase, which the customer correctly identified as a potential claim risk.",
+      "ending": "The customer declined the offer, stating he could not afford it and was looking for a much lower monthly premium."
+    },
+    "key_quotes": [
+      "Itna nahi afford kar payenge sorry.",
+      "No karne se toh baad mein claim mein dikkat aati hai.",
+      "Mujhe chahiye tha 4-500 rupaye mahine ka."
+    ],
+    "red_flags": [
+      "Agent advised customer to misrepresent smoking status to lower premium."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9822983214788302",
+  "source_transcript": "agent-3020-1779616747-4732-Gaurav_delhi-2026_05_24_15_29_07-9971611158.json",
+  "created_at_utc": "2026-06-01T02:12:50Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779616747-4732-Gaurav_delhi-2026_05_24_15_29_07-9971611158.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent: Hello. Agent: Sir, awaaz aa rahi hai meri aapko?",
+    "summary": "The agent pitched an HDFC Life saving plan, but the call ended due to a network issue after the customer stopped responding.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "annual premium par 36 percent ka aapko return diya jata hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

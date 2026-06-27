@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "1505846380513993",
+  "source_transcript": "agent-3055-1778566958-819-Gaurav_TATA-2026_05_12_11_52_39-8108354114.json",
+  "source_name": "agent-3055-1778566958-819-Gaurav_TATA-2026_05_12_11_52_39-8108354114.mp3",
+  "created_at_utc": "2026-05-15T07:00:40Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 230.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Customer: 43.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 43.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Maharashtra",
+        "evidence": "Customer: Mumbai se. (Maharashtra)",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Mumbai",
+        "evidence": "Customer: Mumbai se.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Mumbai is a Tier 1 city.",
+        "confidence": "high"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "The conversation is in a mix of Hindi and English.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: 23000 mahine ka hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer is 43 and working, likely supporting a household.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: Bhaiya, paisa hai hi nahi, 23000 mein kidhar bachega, bachega paisa.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Bhaiya, paisa hai hi nahi, 23000 mein kidhar bachega, bachega paisa.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: Bhaiya, paisa hai hi nahi, 23000 mein kidhar bachega, bachega paisa.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has no disposable income for the proposed savings plan.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated they have no surplus income to save, as their monthly salary is only 23,000 INR. The agent's attempt to push a 30,000-40,000 monthly premium plan despite this disclosure was inappropriate."
+    },
+    "summary": "The agent contacted the customer to pitch the HDFC Life Sanchay Par Advantage plan. The customer disclosed a monthly income of 23,000 INR and repeatedly expressed that they have no surplus funds for savings. Despite this, the agent attempted to push a high-premium plan, leading to customer frustration and the call ending without interest.",
+    "key_quotes": [
+      "Bhaiya, paisa hai hi nahi, 23000 mein kidhar bachega, bachega paisa.",
+      "23000 mahine ka hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9821324367289373",
+  "source_transcript": "agent-3046-1779526292-3706-Gaurav_delhi-2026_05_23_14_21_33-8349586112.json",
+  "created_at_utc": "2026-06-01T02:41:54Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3046-1779526292-3706-Gaurav_delhi-2026_05_23_14_21_33-8349586112.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Abhi main office mein thoda sa kaam mein busy hun, thoda recall kijiye 5 baje ke baad.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer provided age and occupation but deferred the call to 5 PM due to work.",
+    "callback_time_iso": "2026-05-23T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "48",
+        "evidence": "48.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Self employed.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki money back income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

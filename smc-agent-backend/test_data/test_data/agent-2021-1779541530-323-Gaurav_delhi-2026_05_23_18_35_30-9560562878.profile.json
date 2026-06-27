@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8441041286731317",
+  "source_transcript": "agent-2021-1779541530-323-Gaurav_delhi-2026_05_23_18_35_30-9560562878.json",
+  "created_at_utc": "2026-06-01T02:20:24Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 185.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779541530-323-Gaurav_delhi-2026_05_23_18_35_30-9560562878.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai theek hai, hum toh ja rahe hain 10 din baad Lucknow ja rahe hain, wahin pe shift honge, yahi sab ke liye ho kar.",
+    "summary": "Agent pitched the Smart Value Income Plan; customer completed discovery and agreed to a callback for tomorrow evening.",
+    "callback_time_iso": "2026-05-24T18:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "Age toh hamari kam se kam 26 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai hamara.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Smart Value Income Plan",
+    "compliance": {
+      "return_claim_quote": "first year se hi 80,000 tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "8574885863354406",
+  "source_transcript": "agent-2049-1779624903-2388-Gaurav_delhi-2026_05_24_17_45_04-9899301902.json",
+  "created_at_utc": "2026-06-01T02:07:06Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779624903-2388-Gaurav_delhi-2026_05_24_17_45_04-9899301902.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Mere insurance toh bahut pade hue hain, kya karunga? Life insurance mujhe chahiye hi nahi. Toh abhi aap rehne do, abhi toh possible is time nahi hai.",
+    "summary": "Agent pitched an HDFC Life saving plan; customer completed age and occupation discovery, but declined due to existing insurance and current inability to invest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "53",
+        "evidence": "Age 53 ya 54 hoga mera.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "main apna hi kaam hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Abhi koi fix nahi hai yaar",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 33,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

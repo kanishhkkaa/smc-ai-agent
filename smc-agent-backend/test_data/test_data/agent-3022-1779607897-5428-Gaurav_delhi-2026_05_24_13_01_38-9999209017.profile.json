@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7486169611372545",
+  "source_transcript": "agent-3022-1779607897-5428-Gaurav_delhi-2026_05_24_13_01_38-9999209017.json",
+  "created_at_utc": "2026-06-01T02:13:17Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779607897-5428-Gaurav_delhi-2026_05_24_13_01_38-9999209017.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Are chodo sir, aap na energy waste karoge, mujhe nahi chahiye. Nahi convince kar paoge.",
+    "summary": "The agent attempted to pitch an HDFC Life plan, but the customer repeatedly refused, stating they were not interested and did not want to be convinced.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Nikhil",
+        "evidence": "Mr. Nikhil dekhiye aapko bhi pata hoga",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "4231570285100218",
+  "source_transcript": "2026_05_28/agent-3104-1779962723-8578-Gaurav_delhi-2026_05_28_15_35_24-9958455130.json",
+  "source_name": "agent-3104-1779962723-8578-Gaurav_delhi-2026_05_28_15_35_24-9958455130.mp3",
+  "created_at_utc": "2026-06-01T05:41:33Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 138.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "52",
+        "evidence": "Age hamari 52.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Haan haan, wo kiraye ka kaam hai hamara kiraye-viraye ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Rental business",
+        "evidence": "kiraye ka kaam",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Hamara hamara kiraya jaata hai 2 lakh rupaye mahine ka.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi nahi nahi lena, lena nahi toh dekhna kuch nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi mujhe nahi lena, mujhe nahi lena hai plan koi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "fixed_deposit"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi hum toh FD karte hain sirf bas.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Jab lena hi nahi hai mujhe plan koi.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year",
+        "double tax benefit",
+        "8% compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no interest in insurance products and prefers FD.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was firm and repetitive in his refusal to engage with any insurance products."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called from HDFC Life to share information, and the customer invited the agent to speak.",
+      "customer_response": "The customer was passive initially but became firm and dismissive once the pitch was delivered.",
+      "key_event": "The customer explicitly refused the product multiple times after the agent's pitch.",
+      "ending": "The agent asked about other requirements, the customer declined, and the call ended."
+    },
+    "key_quotes": [
+      "Nahi mujhe nahi lena, mujhe nahi lena hai plan koi.",
+      "Nahi nahi nahi lena, lena nahi toh dekhna kuch nahi hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

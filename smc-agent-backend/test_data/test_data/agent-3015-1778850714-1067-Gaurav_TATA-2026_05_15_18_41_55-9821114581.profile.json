@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6861026161165859",
+  "source_transcript": "agent-3015-1778850714-1067-Gaurav_TATA-2026_05_15_18_41_55-9821114581.json",
+  "created_at_utc": "2026-06-01T01:20:30Z",
+  "transcript_stats": {
+    "segments": 8,
+    "duration_seconds": 33.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1778850714-1067-Gaurav_TATA-2026_05_15_18_41_55-9821114581.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir agar dekhiye voice nahi aa rahi, sir nahi sunna toh please disconnect kar dijiye call aap.",
+    "summary": "Agent attempted to pitch a Tata AIA combined plan, but the call was characterized by a network issue where the customer's voice was not audible to the agent.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata New Tulips",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "8992222442788912",
+  "source_transcript": "agent-2098-1779692487-5048-Gaurav_delhi-2026_05_25_12_31_27-8800778420.json",
+  "source_name": "agent-2098-1779692487-5048-Gaurav_delhi-2026_05_25_12_31_27-8800778420.mp3",
+  "created_at_utc": "2026-05-27T01:18:54Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 185.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 4 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: 'Okay, badhiya, boliye.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, abhi toh utna.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Customer: 'Nahi, abhi toh utna.' (in response to 60k/year)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: 'regular income source rahega' Customer: 'Main jo income ki baat kar raha hun, wo har saal aayenge?'",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "40 percent income from first year",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "guaranteed maturity amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted premium of 60,000 INR is significantly high relative to the customer's annual income of 4 lakhs.",
+      "missed_opportunities": [
+        "Did not explore lower premium options after customer pushed back on price."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer showed interest in the income structure but was hesitant about the premium amount and current financial commitments."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a pitch about a 40% income product, and the customer responded with a neutral 'Okay, badhiya, boliye.'",
+      "customer_response": "The customer was passive but engaged enough to ask clarifying questions about the income payout structure.",
+      "key_event": "The agent pushed for a 60,000 INR annual premium, which the customer indicated was not currently comfortable.",
+      "ending": "The agent asked about health insurance, and the customer declined, ending the conversation."
+    },
+    "key_quotes": [
+      "Main jo income ki baat kar raha hun, wo har saal aayenge?",
+      "Nahi, abhi toh utna."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

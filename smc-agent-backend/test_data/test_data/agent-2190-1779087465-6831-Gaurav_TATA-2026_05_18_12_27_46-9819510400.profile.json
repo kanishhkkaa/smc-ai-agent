@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "8873993106515751",
+  "source_transcript": "agent-2190-1779087465-6831-Gaurav_TATA-2026_05_18_12_27_46-9819510400.json",
+  "source_name": "agent-2190-1779087465-6831-Gaurav_TATA-2026_05_18_12_27_46-9819510400.mp3",
+  "created_at_utc": "2026-05-21T02:08:03Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 107.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sachin",
+      "evidence": "Main aapko maafi chahunga ki sorry sir maine aapko is time miss call pe disturb kiya hai sir is call ko karke. ... Meri baat Sachin ji se ho rahi hai na? Customer: Haan.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "meri wife LIC mein kaam karti hai",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Sorry sorry sorry mujhe koi investment mein hai abhi filhal interest. ... Toh aapka bhi time waste hoga mera bhi time waste hoga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Sorry sorry sorry mujhe koi investment mein hai abhi filhal interest.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "meri wife LIC mein kaam karti hai mere paas already saari jaankari hoti hai saare policies ki",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "meri wife LIC mein kaam karti hai mere paas already saari jaankari hoti hai saare policies ki",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "meri wife LIC mein kaam karti hai ... toh main aap se kuch kharidunga nahi",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata new plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no interest and has family connections in the insurance industry (wife works for LIC).",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated his wife works for LIC and he has no interest in purchasing from the agent, citing a waste of time for both parties."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from Tata AIA and the customer confirmed his identity.",
+      "customer_response": "The customer was firm and dismissive, repeatedly stating he had no interest and was busy.",
+      "key_event": "The customer revealed his wife works for LIC and he has no intention of purchasing, effectively shutting down the pitch.",
+      "ending": "The agent accepted the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "Sorry sorry sorry mujhe koi investment mein hai abhi filhal interest.",
+      "meri wife LIC mein kaam karti hai mere paas already saari jaankari hoti hai saare policies ki",
+      "Toh aapka bhi time waste hoga mera bhi time waste hoga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

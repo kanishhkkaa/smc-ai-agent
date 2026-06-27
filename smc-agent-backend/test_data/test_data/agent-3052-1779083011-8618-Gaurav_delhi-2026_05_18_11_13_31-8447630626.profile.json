@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "4685443551142053",
+  "source_transcript": "agent-3052-1779083011-8618-Gaurav_delhi-2026_05_18_11_13_31-8447630626.json",
+  "source_name": "agent-3052-1779083011-8618-Gaurav_delhi-2026_05_18_11_13_31-8447630626.mp3",
+  "created_at_utc": "2026-05-21T02:14:16Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 223.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "37",
+        "evidence": "Customer: 37.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: 'job karti hain aap', 'ma'am'.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Ghaziabad",
+        "evidence": "Customer: Ghaziabad.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: 'Job.', value: 'salaried'.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: '3 lakh', 'annually'.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: 'Actually aap kaafi questions puch rahe hain. Abhi main occupied hun itna time nahi hai ki main proper na baat kar paun.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Mere ko at least khud se padhna padega ki kya plan hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Abhi main occupied hun itna time nahi hai ki main proper na baat kar paun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: 'saal ki jo apni investment jama hogi is plan mein 60000 rupaye jama hogi ma'am.', value: '5K_10K'",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 'Mujhe plan ka naam bata dijiye main Google kar lungi. Aajkal Google pe har cheez available hoti hai.', value: 'experienced'",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "Agent: 'zahir si baat hai ma'am decision toh aapka hi rehta hoga ghar mein ya sir ka rehta hai', Customer did not confirm.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income within a week",
+        "double tax benefit",
+        "life insurance cover up to 100 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent pushed a high-premium savings plan that does not align well with the customer's stated annual income of 3 lakhs.",
+      "missed_opportunities": [
+        "Did not explore the customer's existing health insurance coverage for potential cross-sell."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer was clearly annoyed by the number of questions and explicitly stated she is not free to talk, preferring to research on her own."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a high-pressure pitch about a 'guaranteed' plan, to which the customer responded with polite but cautious engagement.",
+      "customer_response": "The customer was initially passive but became increasingly annoyed and dismissive due to the agent's persistent questioning and aggressive sales pitch.",
+      "key_event": "The customer pushed back against the agent's persistent questioning and requested to receive details via WhatsApp instead of continuing the call.",
+      "ending": "The customer abruptly ended the call, stating she was busy and would research the plan herself."
+    },
+    "key_quotes": [
+      "Actually aap kaafi questions puch rahe hain. Abhi main occupied hun itna time nahi hai ki main proper na baat kar paun.",
+      "Mere ko at least khud se padhna padega ki kya plan hai.",
+      "Mujhe plan ka naam bata dijiye main Google kar lungi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4536197544874172",
+  "source_transcript": "agent-2156-1778837960-6931-Gaurav_delhi-2026_05_15_15_09_21-8287695122.json",
+  "created_at_utc": "2026-06-01T01:16:16Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1778837960-6931-Gaurav_delhi-2026_05_15_15_09_21-8287695122.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, pehle toh working woman thi, teen din pehle hi isse resign maang liya gaya.",
+    "summary": "Agent pitched HDFC Life plan with income features, completed part of discovery (age 34, unemployed/former working woman), and the call ended without a refusal or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "34",
+        "evidence": "34.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Abhi toh kuch bhi nahi karte. Nahi, pehle toh working woman thi, teen din pehle hi isse resign maang liya gaya.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

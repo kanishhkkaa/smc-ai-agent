@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "1866469420207620",
+  "source_transcript": "2026_05_16/agent-2001-1778926727-9614-Gaurav_TATA-2026_05_16_15_48_47-9892936070.json",
+  "source_name": "agent-2001-1778926727-9614-Gaurav_TATA-2026_05_16_15_48_47-9892936070.mp3",
+  "created_at_utc": "2026-06-01T04:39:18Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 142.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Imran Ali",
+      "evidence": "Imran Ali",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Mumbai",
+        "evidence": "Mumbai mein hai",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "haan haan theek hai theek hai aadhe ghante baad lagbhag.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "nahi wo aap kitna bhi samjhayenge main nahi samajh paunga office bhejiye mereko hindi mein likh ke samjhana padega.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "bhejiye unko... main mil leta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T16:18:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "mutual_fund_sip",
+        "other"
+      ],
+      "reasoning": "Customer is interested in a face-to-face meeting with an executive and agreed to a follow-up call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new combined term insurance and mutual fund plan from Tata AIA.",
+      "customer_response": "The customer was engaged but impatient due to a low battery, insisting on a face-to-face meeting rather than a phone explanation.",
+      "key_event": "The customer insisted on an in-person meeting in Mumbai and refused to listen to plan details over the phone.",
+      "ending": "The agent agreed to call back in half an hour after the customer mentioned his phone was about to switch off."
+    },
+    "key_quotes": [
+      "nahi wo aap kitna bhi samjhayenge main nahi samajh paunga office bhejiye mereko hindi mein likh ke samjhana padega.",
+      "haan to bhejiye unko."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

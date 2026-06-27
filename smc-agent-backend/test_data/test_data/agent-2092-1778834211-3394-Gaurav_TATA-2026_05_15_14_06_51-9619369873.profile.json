@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1205910432047792",
+  "source_transcript": "agent-2092-1778834211-3394-Gaurav_TATA-2026_05_15_14_06_51-9619369873.json",
+  "created_at_utc": "2026-06-01T01:12:57Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 83.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1778834211-3394-Gaurav_TATA-2026_05_15_14_06_51-9619369873.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi madam, mereko plan ke baare mein baat nahi karna hai.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer expressed interest in talking but explicitly refused the insurance plan discussion.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 33,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

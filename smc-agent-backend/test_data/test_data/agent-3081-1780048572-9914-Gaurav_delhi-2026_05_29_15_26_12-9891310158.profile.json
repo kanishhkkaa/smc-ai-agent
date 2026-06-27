@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "7724794910564206",
+  "source_transcript": "2026_05_29/agent-3081-1780048572-9914-Gaurav_delhi-2026_05_29_15_26_12-9891310158.json",
+  "source_name": "agent-3081-1780048572-9914-Gaurav_delhi-2026_05_29_15_26_12-9891310158.mp3",
+  "created_at_utc": "2026-06-01T05:47:59Z",
+  "transcript_stats": {
+    "segments": 84,
+    "duration_seconds": 255.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Sir aap job karte hain ya business? Customer: Business.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Kanjhawala",
+        "evidence": "Kanjhawala",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi mein padta hai ye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "50,000 monthly",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Madam koi mili toh nahi.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi madam, abhi toh kisi koi irada hai nahi dekho.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi madam.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi madam, abhi toh kisi koi irada hai nahi dekho.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Nahi madam, abhi toh kisi koi irada hai nahi dekho.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has no interest in insurance and is not the intended lead (Satish Kumar).",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated no interest in insurance and engaged in off-topic banter about marriage."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA combined plan, and the customer responded with confusion.",
+      "customer_response": "The customer was passive and dismissive, eventually engaging in irrelevant personal conversation with the agent.",
+      "key_event": "The customer clarified that the agent had reached the wrong person (not Satish Kumar) and expressed no interest in insurance.",
+      "ending": "The agent accepted the customer's refusal and ended the call politely."
+    },
+    "key_quotes": [
+      "Toh galat number hai madam.",
+      "Jeevan saath hi nahi hai, bima kya karenge.",
+      "Nahi madam, abhi toh kisi koi irada hai nahi dekho."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

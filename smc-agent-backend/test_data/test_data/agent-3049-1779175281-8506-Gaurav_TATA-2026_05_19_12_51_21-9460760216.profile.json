@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "6850134128772818",
+  "source_transcript": "agent-3049-1779175281-8506-Gaurav_TATA-2026_05_19_12_51_21-9460760216.json",
+  "source_name": "agent-3049-1779175281-8506-Gaurav_TATA-2026_05_19_12_51_21-9460760216.mp3",
+  "created_at_utc": "2026-05-22T11:27:00Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main abhi dekhunga lekin mera chal raha hai main isko compare karunga time lagega mujhe.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Main abhi dekhunga lekin mera chal raha hai main isko compare karunga time lagega mujhe.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "premium with interest refundable"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "No discovery questions asked to understand customer needs or existing coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "endowment",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is open to comparing the plan but needs time to research it independently."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and immediately started pitching a combined term and investment plan.",
+      "customer_response": "The customer was passive but polite, listening to the pitch and asking for the product name.",
+      "key_event": "The agent pitched the 'Param Rakshak Life Pro Plus' plan, and the customer asked for the name to research it himself.",
+      "ending": "The customer ended the call by stating he would compare the plan and hung up."
+    },
+    "key_quotes": [
+      "Plan ka kya naam hai ma'am? Main ek baar plan ka naam bata do main dekh lunga.",
+      "Main abhi dekhunga lekin mera chal raha hai main isko compare karunga time lagega mujhe."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

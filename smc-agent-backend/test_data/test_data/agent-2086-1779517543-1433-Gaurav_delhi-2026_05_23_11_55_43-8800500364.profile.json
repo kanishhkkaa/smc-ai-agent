@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9927569516628243",
+  "source_transcript": "agent-2086-1779517543-1433-Gaurav_delhi-2026_05_23_11_55_43-8800500364.json",
+  "created_at_utc": "2026-06-01T02:28:01Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2086-1779517543-1433-Gaurav_delhi-2026_05_23_11_55_43-8800500364.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan, ek ghanta ke baad kijiyega.",
+    "summary": "Agent pitched an HDFC Life plan and performed partial discovery; customer requested a callback in one hour.",
+    "callback_time_iso": "2026-05-23T12:55",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "34",
+        "evidence": "34.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Housewife.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "same year se 36 percent ki tax free income aati hai whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

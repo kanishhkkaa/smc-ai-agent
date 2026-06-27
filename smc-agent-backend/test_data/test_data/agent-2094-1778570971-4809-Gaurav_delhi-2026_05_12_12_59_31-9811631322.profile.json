@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "7614278087640381",
+  "source_transcript": "agent-2094-1778570971-4809-Gaurav_delhi-2026_05_12_12_59_31-9811631322.json",
+  "source_name": "agent-2094-1778570971-4809-Gaurav_delhi-2026_05_12_12_59_31-9811631322.mp3",
+  "created_at_utc": "2026-05-15T06:42:18Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 210.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: Meri 26.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: Meri 26.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Aap se main Sachin baat kar raha hun HDFC Life se sir. Customer: Hello, haanji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Real estate.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Real estate",
+        "evidence": "Customer: Real estate.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "Customer: Nahi, main disclose nahi kar sakta.",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Working hun bhai.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: To mere ko aap phir 3 baje ke baad call kar sakte ho. Agent: 3 baje ke baad aap comfortable rehte hain? Customer: Free time rehta hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "Agent: Ek chhota sa concern ye rahega, aap apne part pe jo self decision jo rehte hain sir jo ghar ke, wo aap lete hain sir? (Customer did not explicitly answer, but continued the call)",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "Today after 3 PM",
+        "evidence": "Customer: To mere ko aap phir 3 baje ke baad call kar sakte ho.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore specific financial goals or family protection needs beyond the pitch."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was cooperative and explicitly requested a callback at a specific time (after 3 PM), indicating interest in continuing the conversation."
+    },
+    "summary": "The agent contacted the customer to pitch the HDFC Life Sanchay Par Advantage plan. The customer provided his age (26) and occupation (Real Estate) but declined to disclose his income. The call ended with the customer requesting a callback after 3 PM.",
+    "key_quotes": [
+      "To mere ko aap phir 3 baje ke baad call kar sakte ho.",
+      "Nahi, main disclose nahi kar sakta."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "status": "success",
+  "profile_id": "7098850255020135",
+  "source_transcript": "agent-2092-1778585104-7932-Gaurav_TATA-2026_05_12_16_55_04-9990528022.json",
+  "source_name": "agent-2092-1778585104-7932-Gaurav_TATA-2026_05_12_16_55_04-9990528022.mp3",
+  "created_at_utc": "2026-05-15T06:41:53Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 133.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "namaskar sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "koi baat nahi madam aap mere ko kal phone karna main abhi is time safar mein hun main abhi nahi kar sakta baat.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "ek to maar ne bas nahi ho insurance karwane mein mera.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "kuch nahi milta madam kuch nahi milta khali ye scheme hai door ki dikhane ki.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "tomorrow",
+        "evidence": "koi baat nahi madam aap mere ko kal phone karna",
+        "confidence": "medium"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "combined term insurance and mutual fund plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not perform any discovery questions to understand customer's actual financial needs or goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer agreed to a callback for tomorrow, indicating a willingness to listen despite initial skepticism."
+    },
+    "summary": "The agent pitched a combined term insurance and mutual fund plan to the customer. The customer was initially skeptical and expressed distrust in insurance schemes, but eventually agreed to a callback for the next day as he was traveling. The agent failed to conduct any discovery and made a claim about guaranteed returns after five years.",
+    "key_quotes": [
+      "ek to maar ne bas nahi ho insurance karwane mein mera.",
+      "kuch nahi milta madam kuch nahi milta khali ye scheme hai door ki dikhane ki.",
+      "koi baat nahi madam aap mere ko kal phone karna main abhi is time safar mein hun main abhi nahi kar sakta baat."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

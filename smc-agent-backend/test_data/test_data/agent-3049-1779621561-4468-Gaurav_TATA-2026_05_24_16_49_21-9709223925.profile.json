@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4854771152803053",
+  "source_transcript": "agent-3049-1779621561-4468-Gaurav_TATA-2026_05_24_16_49_21-9709223925.json",
+  "created_at_utc": "2026-06-01T02:15:22Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3049-1779621561-4468-Gaurav_TATA-2026_05_24_16_49_21-9709223925.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir. Matlab monthly 25 se? Very good evening, ma'am. Tata AIA se baat kar rahi hoon aap se.",
+    "summary": "The agent completed discovery (age 25, business, 3L annual income), but the call ended abruptly due to a technical or diarization error.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Hum apna kaam karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Income mera hai bhai 25, 25-30.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

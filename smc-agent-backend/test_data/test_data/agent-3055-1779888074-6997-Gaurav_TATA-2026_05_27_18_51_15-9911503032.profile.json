@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "1686217124170842",
+  "source_transcript": "2026_05_27/agent-3055-1779888074-6997-Gaurav_TATA-2026_05_27_18_51_15-9911503032.json",
+  "source_name": "agent-3055-1779888074-6997-Gaurav_TATA-2026_05_27_18_51_15-9911503032.mp3",
+  "created_at_utc": "2026-06-01T05:25:11Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Gurgaon",
+        "evidence": "Gurgaon, Haryana",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "Gurgaon, Haryana",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai ji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business hai ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "40-50 (monthly)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Abhi kal karna, phone kal, kal, kal karna phone.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi, abhi kuch nahi chahiye ji mere ko.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "guaranteed income/saving",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business hai ji.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-28T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about family protection needs despite mentioning it in the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer initially declined but agreed to a callback after hearing the product details."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed income plan and the customer responded with 'Haanji'.",
+      "customer_response": "Initially passive and then dismissive, but eventually agreed to a callback.",
+      "key_event": "Customer initially declined interest but then asked a clarifying question about the premium duration before requesting a callback.",
+      "ending": "Customer asked the agent to call back tomorrow."
+    },
+    "key_quotes": [
+      "Nahi, abhi kuch nahi chahiye ji mere ko.",
+      "Abhi kal karna, phone kal, kal, kal karna phone."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

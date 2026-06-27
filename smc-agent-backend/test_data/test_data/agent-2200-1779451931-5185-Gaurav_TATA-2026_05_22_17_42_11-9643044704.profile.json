@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5775077788965513",
+  "source_transcript": "agent-2200-1779451931-5185-Gaurav_TATA-2026_05_22_17_42_11-9643044704.json",
+  "created_at_utc": "2026-06-01T02:59:06Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779451931-5185-Gaurav_TATA-2026_05_22_17_42_11-9643044704.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Berozgar hun main, unemployed. Sorry sir, toh fir toh aapka ye ho hi nahi payega na.",
+    "summary": "The agent pitched a Tata AIA plan but self-disqualified the prospect after learning they were unemployed, ending the call without a commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25, 25.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Berozgar hun main, unemployed.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

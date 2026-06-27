@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "1705610705351140",
+  "source_transcript": "agent-2018-1778576722-8405-Gaurav_delhi-2026_05_12_14_35_22-9316043335.json",
+  "source_name": "agent-2018-1778576722-8405-Gaurav_delhi-2026_05_12_14_35_22-9316043335.mp3",
+  "created_at_utc": "2026-05-15T06:32:19Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: meri 35.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: meri 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: main job kar raha hun, Delhi se bol raha hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: main job kar raha hun, Delhi se bol raha hun.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Customer: main job kar raha hun, Delhi se bol raha hun.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: very good afternoon sir, main aapse Himanshu baat kar raha hun HDFC Life se. Customer: haan boliye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: main job kar raha hun, Delhi se bol raha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: mahina ki 12000. ... mahina ki 12,000 month ka 12 iska matlab wahi aapka 1 lakh 44 hazaar.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: main job kar raha hun, Delhi se bol raha hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Agent: accha Gujarat se baat kar rahe hain. thank you sir time diya aapne keemti apna. okay sir thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "The agent's pitch was fraudulent and the customer's income profile did not meet the agent's internal sales criteria.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The agent engaged in severe misrepresentation and compliance violations (guaranteed 36% returns). The customer was not interested and the agent ended the call abruptly after realizing the customer's income profile did not match their aggressive sales target."
+    },
+    "summary": "The agent contacted the customer to pitch an HDFC Life product, making fraudulent claims of 36% guaranteed returns. The agent attempted to qualify the customer's income but ended the call abruptly after determining the customer did not meet their sales target requirements. The call was characterized by high-pressure tactics and significant compliance violations.",
+    "key_quotes": [
+      "HDFC Life ka apna ek aisa guaranteed plan hai sir, jisme company aapko within a week 36 percent ki income de rahi hai",
+      "sir same plan mein sir aapko 8 percent ka compound rate of interest mil raha hai"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

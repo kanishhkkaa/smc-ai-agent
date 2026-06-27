@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "9383990894479956",
+  "source_transcript": "agent-2131-1779175851-3649-Gaurav_delhi-2026_05_19_13_00_52-8128410188.json",
+  "source_name": "agent-2131-1779175851-3649-Gaurav_delhi-2026_05_19_13_00_52-8128410188.mp3",
+  "created_at_utc": "2026-05-22T11:15:55Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Jaydeep Singh",
+      "evidence": "Sir aapka good name sir yahan pe na Jaydeep Singh dikha raha hai, right sir? Customer: Yes yes.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was brief and compliant with the agent's requests.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T20:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed return within 7 to 10 days"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "granted saving investment income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitch is based on a fraudulent/misleading claim of 35% returns in 7-10 days.",
+      "missed_opportunities": [
+        "No discovery questions were asked to understand the customer's financial needs or goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer agreed to a callback time, indicating some openness despite the agent's aggressive and misleading pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves as calling from HDFC Life and immediately launched into a product pitch.",
+      "customer_response": "Passive and brief, mostly confirming details and agreeing to a callback.",
+      "key_event": "Agent made a highly suspicious claim of a 35% guaranteed return within 7-10 days.",
+      "ending": "Agent confirmed a callback for 8 PM the following day after sending documents via WhatsApp."
+    },
+    "key_quotes": [
+      "HDFC Life ne apna ek aisa granted saving investment income plan launch kiya hai, jisme aap kisi bhi amount se saving karte ho uska 35% company aapko within 7 to 10 days mein return kar deti hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

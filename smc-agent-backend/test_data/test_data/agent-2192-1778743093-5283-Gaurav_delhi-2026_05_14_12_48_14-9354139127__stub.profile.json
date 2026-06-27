@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "4363647243946312",
+  "source_transcript": "2026_05_14/agent-2192-1778743093-5283-Gaurav_delhi-2026_05_14_12_48_14-9354139127__stub.json",
+  "source_name": "agent-2192-1778743093-5283-Gaurav_delhi-2026_05_14_12_48_14-9354139127.mp3",
+  "created_at_utc": "2026-06-01T04:31:54Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 234.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "51 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Allahabad",
+        "evidence": "Allahabad",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "hum to daily basis wale hain",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "daily wage worker",
+        "evidence": "daily basis wale hain",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "nahi fir hume nahi karana",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Pulse company ka aap jante ho kitni badi thi",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "distrust of financial institutions",
+        "fear of fraud"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "saving plan wagera",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "hum to daily basis wale hain",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40% tax free income from first year for whole life",
+        "8% guaranteed return on savings"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a daily wage worker and the product is a high-premium long-term savings plan; also, the customer has zero trust in the agent/company.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer expressed strong distrust regarding the company's legitimacy and explicitly refused to proceed after the agent failed to provide local branch details."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed income plan, and the customer responded with interest to hear the details.",
+      "customer_response": "The customer was skeptical and probing, repeatedly questioning the legitimacy of the company and the agent's claims.",
+      "key_event": "The customer compared the company to the 'Pulse' scam, signaling deep distrust and leading to a hard decline.",
+      "ending": "The customer explicitly refused to proceed after the agent failed to provide local branch information."
+    },
+    "key_quotes": [
+      "Pulse company ka aap jante ho kitni badi thi",
+      "nahi fir hume nahi karana"
+    ],
+    "red_flags": [
+      "customer_compared_company_to_a_known_scam_entity",
+      "agent_failed_to_provide_verifiable_company_details"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_3",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

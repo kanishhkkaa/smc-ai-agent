@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "5865485754321479",
+  "source_transcript": "agent-3049-1779253326-7803-Gaurav_TATA-2026_05_20_10_32_07-8127624984.json",
+  "source_name": "agent-3049-1779253326-7803-Gaurav_TATA-2026_05_20_10_32_07-8127624984.mp3",
+  "created_at_utc": "2026-05-24T05:13:37Z",
+  "transcript_stats": {
+    "segments": 49,
+    "duration_seconds": 220.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Karenge toh fir dekh batayenge theek hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 8,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi toh [unclear] abhi toh nahi karna hai na.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Trump plus investment plan hai sir Tata ka.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "premium with interest refundable after 5 years",
+        "full body health checkup for 15 years",
+        "4 consultations per month",
+        "medicine discounts"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent failed to clearly explain the product, leading to confusion between life insurance and health insurance.",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage.",
+        "Did not clarify the customer's actual financial goals beyond the product pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer showed interest in the refund/investment aspect but was busy and non-committal at the end."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined investment/term plan from Tata AIA, and the customer responded with a neutral 'Ji'.",
+      "customer_response": "The customer was initially curious about the product features, specifically the medical benefits and refund terms, but became passive and dismissive towards the end.",
+      "key_event": "The agent struggled to clarify the difference between a full mediclaim and the wellness benefits included in the life plan, causing confusion.",
+      "ending": "The customer stated they were busy and would inform the agent later, ending the call without a scheduled follow-up."
+    },
+    "key_quotes": [
+      "Refund kab hoga?",
+      "SIP ki tarah hai?",
+      "Karenge toh fir dekh batayenge theek hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

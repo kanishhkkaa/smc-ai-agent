@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8859929250322124",
+  "source_transcript": "agent-2046-1779452808-2667-Gaurav_TATA-2026_05_22_17_56_48-9711147553.json",
+  "created_at_utc": "2026-06-01T02:48:22Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 629.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779452808-2667-Gaurav_TATA-2026_05_22_17_56_48-9711147553.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Kal morning mein 10 baje.",
+    "summary": "Agent pitched a Tata AIA plan, discovered the prospect is a student, and scheduled a callback for the next morning at 10 AM to speak with parents.",
+    "callback_time_iso": "2026-05-23T10:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "17",
+        "evidence": "17.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Student hain aap? Haan.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi investment kar rahe hain na is plan mein, wo sara refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

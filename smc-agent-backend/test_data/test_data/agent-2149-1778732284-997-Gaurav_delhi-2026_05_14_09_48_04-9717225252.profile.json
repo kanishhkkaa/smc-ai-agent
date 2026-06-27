@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "profile_id": "3476775011460424",
+  "source_transcript": "agent-2149-1778732284-997-Gaurav_delhi-2026_05_14_09_48_04-9717225252.json",
+  "source_name": "agent-2149-1778732284-997-Gaurav_delhi-2026_05_14_09_48_04-9717225252.mp3",
+  "created_at_utc": "2026-05-16T00:11:35Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 176.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mahadev",
+      "evidence": "Agent: full name kya likhta apna Mahadev? Customer: yeah.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "Customer: current age 34.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: current age 34.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer referred to as 'sir' throughout.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Noida is in Uttar Pradesh.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Agent: SMC Global Noida sector 15. (Inferred from agent location/context)",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Noida is a Tier-1 city.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Transcript is in Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "25L_plus",
+        "evidence": "Customer: monthly hai 2.44. (2.44L monthly = ~29L annual)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer is in office, working, age 34.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was polite but disengaged due to work.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Priya main actually mera na meeting start hone wala hai because I am in office so.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "ye number spam dikha raha hai ye number jo aapka aa raha hai calling.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 4,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage.",
+        "Did not probe for specific financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite but busy and expressed skepticism about the number being marked as spam. He did not commit to a callback time, suggesting a follow-up via document sharing is the best path."
+    },
+    "summary": "The agent called Mahadev to pitch the HDFC Life Sanchay Par Advantage plan. The customer was busy at work and expressed concern that the calling number was flagged as spam. The call ended with the agent agreeing to share documents via WhatsApp as the customer could not commit to a callback time.",
+    "key_quotes": [
+      "ye number spam dikha raha hai ye number jo aapka aa raha hai calling.",
+      "Priya main actually mera na meeting start hone wala hai because I am in office so."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

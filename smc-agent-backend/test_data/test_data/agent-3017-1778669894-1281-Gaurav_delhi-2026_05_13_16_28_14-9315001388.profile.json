@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "8872228447519237",
+  "source_transcript": "2026_05_13/agent-3017-1778669894-1281-Gaurav_delhi-2026_05_13_16_28_14-9315001388.json",
+  "source_name": "agent-3017-1778669894-1281-Gaurav_delhi-2026_05_13_16_28_14-9315001388.mp3",
+  "created_at_utc": "2026-06-01T04:01:46Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 113.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kumar",
+      "evidence": "I am talking to Mr. Kumar? ... Ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "'',value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Kirti Nagar",
+        "evidence": "Kirti Nagar",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "'',value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Furniture ka kaam karte hai ji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Furniture carving",
+        "evidence": "Carving karte hai ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "10-15 hazaar monthly",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "ab toh bacche pale ki ye kare",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "'',value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi nahi ji, ab toh bacche pale ki ye kare.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": [
+        "insufficient income for investment"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Fir toh investment karna toh possible nahi hoga na aapke liye.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "'',value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "'',value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Nahi nahi ji, ab toh bacche pale ki ye kare.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life cover from day one"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer income is too low for the proposed investment product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated financial constraints due to family responsibilities and the agent agreed that investment is not possible."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and the customer responded neutrally.",
+      "customer_response": "Passive and cooperative, providing details until the agent realized the income level was too low for the product.",
+      "key_event": "The agent realized the customer's monthly income of 10-15k was insufficient for the product and terminated the pitch.",
+      "ending": "The agent acknowledged the customer's financial situation and ended the call politely."
+    },
+    "key_quotes": [
+      "Nahi nahi ji, ab toh bacche pale ki ye kare."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

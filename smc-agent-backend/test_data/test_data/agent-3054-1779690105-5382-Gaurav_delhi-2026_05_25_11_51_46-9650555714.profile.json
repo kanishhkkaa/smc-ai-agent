@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "5571276097925379",
+  "source_transcript": "agent-3054-1779690105-5382-Gaurav_delhi-2026_05_25_11_51_46-9650555714.json",
+  "source_name": "agent-3054-1779690105-5382-Gaurav_delhi-2026_05_25_11_51_46-9650555714.mp3",
+  "created_at_utc": "2026-05-27T01:29:41Z",
+  "transcript_stats": {
+    "segments": 51,
+    "duration_seconds": 244.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "21",
+        "evidence": "Meri 21 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Abhi toh padhta hun, abhi toh main kuch nahi hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "student",
+        "evidence": "Abhi toh padhta hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Abhi toh padhta hun, abhi toh main kuch nahi hun",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Abhi toh padhta hun, abhi toh main kuch nahi hun, parents hi bolenge.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Bata dunga, jaise bhi hoga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Main iske regarding na apne bank manager se baat karunga. Actually mere close bhi limited hain, jo HDFC mein hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Abhi toh padhta hun, abhi toh main kuch nahi hun",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Toh yeh main samajh nahi pa raha, main invest kis cheez mein raha hun?",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "parents hi bolenge.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for lifetime",
+        "8% compounded rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a student with no income and no decision-making authority; product is unsuitable.",
+      "missed_opportunities": [
+        "Did not assess financial goals or risk appetite."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other",
+        "child_plan",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is a student who explicitly stated he needs to consult his family/bank manager and has no independent income."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed HDFC Life plan, and the customer immediately questioned how it relates to his existing HDFC account.",
+      "customer_response": "The customer was passive and confused, repeatedly asking for clarification on the investment nature and the 36% return claim.",
+      "key_event": "The agent claimed a 36% guaranteed annual return on a 60,000 INR investment, which the customer struggled to understand.",
+      "ending": "The customer politely ended the call by stating he would consult his family/bank manager before proceeding."
+    },
+    "key_quotes": [
+      "Toh yeh main samajh nahi pa raha, main invest kis cheez mein raha hun?",
+      "Abhi toh padhta hun, abhi toh main kuch nahi hun, parents hi bolenge."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

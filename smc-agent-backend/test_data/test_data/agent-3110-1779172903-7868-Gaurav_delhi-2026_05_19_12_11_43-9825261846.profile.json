@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "6860545557927583",
+  "source_transcript": "agent-3110-1779172903-7868-Gaurav_delhi-2026_05_19_12_11_43-9825261846.json",
+  "source_name": "agent-3110-1779172903-7868-Gaurav_delhi-2026_05_19_12_11_43-9825261846.mp3",
+  "created_at_utc": "2026-05-22T11:31:09Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 103.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "33",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera general store, dukan hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "General store owner",
+        "evidence": "Mera general store, dukan hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "9 lakh bataya aapne saal ka",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan, 33.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent fixed income from first year for whole life",
+        "8 percent return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Income Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent is pushing a high-premium product (1L/year) relative to the customer's stated annual income of 9L, potentially ignoring budget constraints.",
+      "missed_opportunities": [
+        "Did not ask about family protection needs or long-term financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is responsive to questions but the agent's pitch is aggressive and potentially misleading."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces themselves as calling from HDFC Life regarding a new guaranteed product.",
+      "customer_response": "Passive and cooperative, answering discovery questions without resistance.",
+      "key_event": "The agent makes aggressive claims about guaranteed returns and fixed income to hook the customer.",
+      "ending": "The agent is in the middle of narrowing down the premium amount when the transcript ends."
+    },
+    "key_quotes": [
+      "40 percent ki fixed income de rahi hai woh bhi whole life ke liye.",
+      "LIC hai mera chalu hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

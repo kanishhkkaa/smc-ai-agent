@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "3425294128095804",
+  "source_transcript": "agent-3012-1779266622-1033-Gaurav_TATA-2026_05_20_14_13_43-9711177471.json",
+  "source_name": "agent-3012-1779266622-1033-Gaurav_TATA-2026_05_20_14_13_43-9711177471.mp3",
+  "created_at_utc": "2026-05-24T05:11:03Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Married.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "2",
+        "evidence": "Ek 10 ka aur ek 2.5 ka.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Actually sir is baare mein toh mera husband hi discuss karte hain in cheezon pe.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Actually sir is baare mein toh mera husband hi discuss karte hain in cheezon pe.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "jaise ki bachcho ki jo study hoti hai in future",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Actually sir is baare mein toh mera husband hi discuss karte hain in cheezon pe.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "needs_to_consult_family",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "30% cash bonus on amount starting from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "child plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer deferred to husband but did not express hostility or disinterest in the product category itself."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan offer from Central Bank of India, and the customer responded with a neutral 'Haan boliye'.",
+      "customer_response": "Passive and deferential, ultimately redirecting the agent to her husband.",
+      "key_event": "Customer stated that her husband handles financial discussions, effectively ending the pitch.",
+      "ending": "The agent accepted the customer's redirection to her husband and ended the call politely."
+    },
+    "key_quotes": [
+      "Actually sir is baare mein toh mera husband hi discuss karte hain in cheezon pe."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

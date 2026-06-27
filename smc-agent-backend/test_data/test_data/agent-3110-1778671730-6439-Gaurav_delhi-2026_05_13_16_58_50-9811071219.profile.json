@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "7366066881264996",
+  "source_transcript": "2026_05_13/agent-3110-1778671730-6439-Gaurav_delhi-2026_05_13_16_58_50-9811071219.json",
+  "source_name": "agent-3110-1778671730-6439-Gaurav_delhi-2026_05_13_16_58_50-9811071219.mp3",
+  "created_at_utc": "2026-06-01T04:08:35Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Toh phir mere ko aap kal afternoon mein kariye, phir baat karte hain.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Aap mere ko iska brochure bhejiye, main ek baar go through ho lunga.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "\"I am a professional, so don't worry. Main in-between the lines bhi padhna jaanta hoon.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"I am a professional, so don't worry. Main in-between the lines bhi padhna jaanta hoon.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-14T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask discovery questions about current financial goals or existing portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "other"
+      ],
+      "reasoning": "Customer is professional and requested a callback after reviewing the brochure, indicating genuine interest in evaluating the product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a new product; customer responded politely and invited the pitch.",
+      "customer_response": "Engaged but firm, requesting documentation to review independently before further discussion.",
+      "key_event": "Customer requested a brochure to review, then agreed to a callback when the agent insisted on explaining the plan verbally.",
+      "ending": "The agent agreed to call back the next afternoon to provide details and share documents."
+    },
+    "key_quotes": [
+      "Aap mere ko iska brochure bhejiye, main ek baar go through ho lunga.",
+      "Main in-between the lines bhi padhna jaanta hoon.",
+      "Toh phir mere ko aap kal afternoon mein kariye, phir baat karte hain."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

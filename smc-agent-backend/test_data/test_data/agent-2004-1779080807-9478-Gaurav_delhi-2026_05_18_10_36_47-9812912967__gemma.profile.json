@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "agent_id": "2004",
+  "call_id": "agent-2004-1779080807-9478-Gaurav_delhi-2026_05_18_10_36_47-9812912967",
+  "source_file": "agent-2004-1779080807-9478-Gaurav_delhi-2026_05_18_10_36_47-9812912967.json",
+  "source_relative": "agent-2004-1779080807-9478-Gaurav_delhi-2026_05_18_10_36_47-9812912967.json",
+  "created_at_utc": "2026-05-21T00:43:40Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 138.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2004",
+    "agent_self_introduced_name": "Anurag",
+    "call_id": "agent-2004-1779080807-9478-Gaurav_delhi-2026_05_18_10_36_47-9812912967",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "HDFC Life Guaranteed Income Plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "medium"
+    },
+    "discovery": {
+      "discovery_question_count": 3,
+      "discovery_depth": "moderate",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "verbatim_examples": [
+        "company aapko 40 percent ki guaranteed income de rahi hai"
+      ]
+    },
+    "communication": {
+      "tone_professionalism": "medium",
+      "empathy": "low",
+      "talk_listen_ratio": "balanced",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "customer_hung_up_abruptly",
+      "is_ivr_only": false,
+      "ended_abruptly": true,
+      "customer_declined_explicitly": false,
+      "graceful_close": false,
+      "last_speaker": "agent",
+      "end_reason_evidence": "HDFC Life ka best plan hai."
+    },
+    "outcome": {
+      "stage_reached": "discovery_done",
+      "drop_off_point": "ask",
+      "outcome": "inconclusive"
+    },
+    "strengths": [
+      "Agent successfully collected age, occupation, and income details."
+    ],
+    "improvement_areas": [
+      "Compliance: Promising 40% guaranteed income is a severe mis-selling risk.",
+      "Call Management: The transition between the first agent and the second agent (Rohan) was disjointed.",
+      "Closing: The call ended without any professional wrap-up or next steps."
+    ],
+    "coaching_recommendations": [
+      "Immediate training on IRDAI compliance regarding guaranteed returns and risk disclosures.",
+      "Training on how to handle customers who deviate from the topic (e.g., the customer talking about Dussehra).",
+      "Guidance on professional call handovers."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "company aapko 40 percent ki guaranteed income de rahi hai"
+    ],
+    "call_grade": "D",
+    "summary": "The agent (Anurag) pitched an HDFC Life product with a highly unrealistic claim of 40% guaranteed income. After performing basic discovery, the customer began talking about unrelated personal matters. The call was then interrupted by another agent (Rohan) who attempted to take over, but the transcript ends abruptly without any resolution or closing.",
+    "extraction_confidence": "high"
+  }
+}

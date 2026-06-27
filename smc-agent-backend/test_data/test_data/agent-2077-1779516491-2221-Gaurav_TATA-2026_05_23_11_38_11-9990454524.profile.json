@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9363649636941276",
+  "source_transcript": "agent-2077-1779516491-2221-Gaurav_TATA-2026_05_23_11_38_11-9990454524.json",
+  "created_at_utc": "2026-06-01T02:26:11Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779516491-2221-Gaurav_TATA-2026_05_23_11_38_11-9990454524.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Phir toh nahi ho payega na. Aap padh lo aap pehle, koi baat nahi.",
+    "summary": "Agent pitched a Tata AIA plan and performed discovery; the agent self-disqualified the prospect due to his student status (PhD).",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "31",
+        "evidence": "31.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Main PhD kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund return diye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

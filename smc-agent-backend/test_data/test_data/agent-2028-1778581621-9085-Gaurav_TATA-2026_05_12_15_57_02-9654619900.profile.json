@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "4198857900351095",
+  "source_transcript": "agent-2028-1778581621-9085-Gaurav_TATA-2026_05_12_15_57_02-9654619900.json",
+  "source_name": "agent-2028-1778581621-9085-Gaurav_TATA-2026_05_12_15_57_02-9654619900.mp3",
+  "created_at_utc": "2026-05-15T06:32:49Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "sir",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Assam",
+        "evidence": "Assam se.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "ji very good evening sir, Aanchal baat kar rahi hun main Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "main mazdoori kar raha hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "mazdoori",
+        "evidence": "main mazdoori kar raha hun",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "din ke 250 rupaye",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "ab 250 rupaye mein kya kar lunga?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "ab 250 rupaye mein kya kar lunga?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "din ke 250 rupaye",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund combine plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is a daily wage earner with no capacity for investment products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is a daily wage earner with very low income and explicitly stated he cannot afford any investment. The agent's persistence despite this is inappropriate."
+    },
+    "summary": "The agent attempted to pitch a term and mutual fund plan to a customer who is a daily wage earner in Assam. The customer clearly stated his low income and inability to invest, but the agent continued to press for information. The call ended with the customer expressing frustration.",
+    "key_quotes": [
+      "main mazdoori kar raha hun main abhi.",
+      "din ke 250 rupaye.",
+      "ab 250 rupaye mein kya kar lunga?"
+    ],
+    "red_flags": [
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

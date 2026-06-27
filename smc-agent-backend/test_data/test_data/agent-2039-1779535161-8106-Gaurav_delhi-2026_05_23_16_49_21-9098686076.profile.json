@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6205084273276388",
+  "source_transcript": "agent-2039-1779535161-8106-Gaurav_delhi-2026_05_23_16_49_21-9098686076.json",
+  "created_at_utc": "2026-06-01T02:21:27Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 91.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1779535161-8106-Gaurav_delhi-2026_05_23_16_49_21-9098686076.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay mam, phir income ki wajah se aap eligible nahi hain is plan ke liye. Theek hai mam.",
+    "summary": "The agent performed discovery, determined the customer was ineligible due to income, and ended the call without a commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "32 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karti hun. Anganwadi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Meri annual income yahi 11,000 hai. Haan, month ki 11,000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

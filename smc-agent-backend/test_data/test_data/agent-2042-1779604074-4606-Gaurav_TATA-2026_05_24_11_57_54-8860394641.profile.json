@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3145998349465218",
+  "source_transcript": "agent-2042-1779604074-4606-Gaurav_TATA-2026_05_24_11_57_54-8860394641.json",
+  "created_at_utc": "2026-06-01T02:06:23Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2042-1779604074-4606-Gaurav_TATA-2026_05_24_11_57_54-8860394641.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Ye saari facilities mere ko already mil rahi hain aur kam cost pe hi milti hain.",
+    "summary": "The customer, a bank employee, declined the pitch stating they already have similar insurance facilities at a lower cost.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main aapko beech mein rokna chahunga. Actually kya hai main khud bank mein hi hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund se acche returns milte hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

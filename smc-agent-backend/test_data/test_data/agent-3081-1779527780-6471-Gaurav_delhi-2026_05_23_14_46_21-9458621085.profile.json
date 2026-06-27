@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7606052609715031",
+  "source_transcript": "agent-3081-1779527780-6471-Gaurav_delhi-2026_05_23_14_46_21-9458621085.json",
+  "created_at_utc": "2026-06-01T02:44:19Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 196.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3081-1779527780-6471-Gaurav_delhi-2026_05_23_14_46_21-9458621085.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Mujhe abhi nahi chahiye abhi.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer asked about premiums but ultimately declined the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "38",
+        "evidence": "38.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "unhi ki performance ke according returns and profit aapko aane start ho jaate hain, like mutual fund aur SIP",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": true,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "1584559812350950",
+  "source_transcript": "agent-2098-1778560587-5683-Gaurav_delhi-2026_05_12_10_06_27-9811277022.json",
+  "source_name": "agent-2098-1778560587-5683-Gaurav_delhi-2026_05_12_10_06_27-9811277022.mp3",
+  "created_at_utc": "2026-05-15T06:42:35Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 1.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: umar meri 50.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: umar meri 50.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: hello... Customer: hello... Agent: yes good morning sir, aap se Abhishek baat kar raha hun HDFC Life se. Customer: haan ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: job kar raha hun. ... karta hun coating ka, koi koi chemical banta hai ismein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "coating chemical industry",
+        "evidence": "Customer: karta hun coating ka, koi koi chemical banta hai ismein.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: zyada nahi kama pata, bas zyada nahi. koi dhadi pe karte rehte hai hum, kabhi dhadi lagti hai kabhi nahi.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: umar meri 50.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: abhi toh nahi hoga sir. ... kuch nahi. Agent: chalo koi baat nahi sir, force nahi rahega, koi chinta nahi, thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "abhi toh nahi hoga sir.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: abhi toh nahi hoga sir.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: LIC karwayi thi woh khatam ho gayi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: abhi toh nahi hoga sir.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer has no financial capacity for investment products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "6_12_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer explicitly stated they have no current capacity for investment or savings, and their income is irregular."
+    },
+    "summary": "The agent contacted a 50-year-old customer in Delhi to pitch the HDFC Life Sanchay Par Advantage plan. The customer, who works in the coating chemical industry, disclosed that he has no current capacity for savings or investments due to irregular income. The agent professionally accepted the customer's situation and ended the call without pressure.",
+    "key_quotes": [
+      "umar meri 50.",
+      "zyada nahi kama pata, bas zyada nahi.",
+      "abhi toh nahi hoga sir."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

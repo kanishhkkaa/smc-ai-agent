@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3222463300984009",
+  "source_transcript": "agent-3020-1779542479-7216-Gaurav_delhi-2026_05_23_18_51_20-8826170032.json",
+  "created_at_utc": "2026-06-01T02:38:52Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779542479-7216-Gaurav_delhi-2026_05_23_18_51_20-8826170032.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir ji naukri nahi hai, berozgar hain.",
+    "summary": "The agent attempted to pitch a saving plan, but the prospect disclosed being unemployed, leading to a brief conversation about job prospects and location.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Faridabad",
+        "evidence": "Faridabad se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Sir ji naukri nahi hai, berozgar hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 34,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

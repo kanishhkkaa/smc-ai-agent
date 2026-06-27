@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "3369977102519598",
+  "source_transcript": "agent-3015-1778825798-1194-Gaurav_TATA-2026_05_15_11_46_38-9899252442.json",
+  "source_name": "agent-3015-1778825798-1194-Gaurav_TATA-2026_05_15_11_46_38-9899252442.mp3",
+  "created_at_utc": "2026-05-18T06:06:04Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 171.48,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Jyoti",
+      "evidence": "Agent: Okay, Jyoti ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Ki kal jab connect karenge na toh at least mere husband honge toh main woh zyada better samajh paayenge.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ki kal jab connect karenge na toh at least mere husband honge toh main woh zyada better samajh paayenge.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Lekin I have already plan.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: child ke education plus marriage ke liye bhi ye plan aapko funding ke liye support karta hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: Ki kal jab connect karenge na toh at least mere husband honge toh main woh zyada better samajh paayenge.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-16T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 lakh monthly pension",
+        "10 lakh critical illness cover",
+        "1 crore life cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Pro Plus Plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about the existing life insurance coverage amount to compare with the 1 crore pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "child_plan"
+      ],
+      "reasoning": "Customer is open to discussing the plan with her husband tomorrow, indicating genuine interest in evaluating the proposal."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and immediately pitched the Tata Param Raksha Pro Plus Plan.",
+      "customer_response": "The customer was polite but firm about already having a plan, eventually agreeing to a callback to discuss with her husband.",
+      "key_event": "The customer requested to involve her husband in the decision-making process, leading to a scheduled callback.",
+      "ending": "The call concluded with a scheduled callback for the next day at 2 PM."
+    },
+    "key_quotes": [
+      "Lekin I have already plan.",
+      "Ki kal jab connect karenge na toh at least mere husband honge toh main woh zyada better samajh paayenge."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

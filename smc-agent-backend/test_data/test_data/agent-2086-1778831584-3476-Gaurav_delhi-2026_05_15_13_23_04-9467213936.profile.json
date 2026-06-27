@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "5680577148884487",
+  "source_transcript": "agent-2086-1778831584-3476-Gaurav_delhi-2026_05_15_13_23_04-9467213936.json",
+  "source_name": "agent-2086-1778831584-3476-Gaurav_delhi-2026_05_15_13_23_04-9467213936.mp3",
+  "created_at_utc": "2026-05-18T06:01:34Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 131.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Maninder",
+      "evidence": "Agent: Good name kya likhte hain apna pura naam? Customer: Maninder.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: Meri 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: How are you sir?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Palwal",
+        "evidence": "Customer: Palwal, Haryana se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "Customer: Palwal, Haryana se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job kar raha hun madam. ... Teaching mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Private teacher",
+        "evidence": "Customer: Private. ... Teaching mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Annually mera hai, mam, 5 lakh ka hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haanji, kara dijiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "mere ko abhi ek car loan ki zarurat hai",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "needs car loan"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer's focus is on loan acquisition rather than investment products.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Customer: mere ko abhi ek car loan ki zarurat hai.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Lena hai 8 lakh ka.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "loan wagera bhi provide kiya jata hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer specifically requested a car loan, not insurance.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage",
+        "Did not try to cross-sell insurance after the loan discussion"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is actively seeking a car loan and agreed to a callback for that purpose."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life, and the customer responded politely.",
+      "customer_response": "Customer was polite but firm in redirecting the conversation from insurance to his need for a car loan.",
+      "key_event": "Customer rejected the insurance pitch by stating he needed a car loan, prompting the agent to pivot to loan services.",
+      "ending": "Agent confirmed she would arrange a call from the loan department and thanked the customer."
+    },
+    "key_quotes": [
+      "mere ko abhi ek car loan ki zarurat hai",
+      "Lena hai 8 lakh ka."
+    ],
+    "red_flags": [
+      "Agent made potentially misleading claims about 35% income and 8% guaranteed returns."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

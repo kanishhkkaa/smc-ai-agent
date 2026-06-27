@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "2945809309758961",
+  "source_transcript": "2026_05_13/agent-2018-1778679286-6049-Gaurav_delhi-2026_05_13_19_04_46-9711562666.json",
+  "source_name": "agent-2018-1778679286-6049-Gaurav_delhi-2026_05_13_19_04_46-9711562666.mp3",
+  "created_at_utc": "2026-06-01T03:32:34Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 151.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Meri ho rahi hai 48 ke aas paas.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent refers to customer as 'sir'.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Main toh yaar coaching woching karta hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "coaching",
+        "evidence": "coaching woching",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Haan married toh hun bhai.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Chalo yaar dekhta hun pehle.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "60,000 toh bahut zyada hai yaar.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "premium amount too high"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Agent suggests 5,000/month, customer does not confirm capacity.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is the one evaluating the plan and discussing the premium.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income within a week for lifetime",
+        "8% compound interest",
+        "double tax benefit",
+        "family of two members covered"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitch relies on unrealistic return claims (36% in 7 days) which do not align with the customer's profile or standard insurance products.",
+      "missed_opportunities": [
+        "Did not explore customer's actual financial goals or risk appetite."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was initially curious about the high returns but became non-committal when the premium amount was discussed."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a high-return pitch for an HDFC Life plan, to which the customer responded with interest.",
+      "customer_response": "The customer was initially engaged by the high return claims but became passive and non-committal after hearing the premium cost.",
+      "key_event": "The agent claimed a 36% return within 7 days, which the customer questioned multiple times.",
+      "ending": "The customer ended the call by saying he would think about it and talk later."
+    },
+    "key_quotes": [
+      "36 percent ki income de rahi hai?",
+      "60,000 toh bahut zyada hai yaar.",
+      "Chalo yaar dekhta hun pehle."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

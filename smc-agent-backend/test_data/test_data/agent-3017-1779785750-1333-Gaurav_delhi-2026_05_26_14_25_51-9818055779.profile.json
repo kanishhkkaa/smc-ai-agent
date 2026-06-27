@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "4523142141712044",
+  "source_transcript": "2026_05_26/agent-3017-1779785750-1333-Gaurav_delhi-2026_05_26_14_25_51-9818055779.json",
+  "source_name": "agent-3017-1779785750-1333-Gaurav_delhi-2026_05_26_14_25_51-9818055779.mp3",
+  "created_at_utc": "2026-06-01T05:10:39Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 172.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Shyam Sundar",
+      "evidence": "Agent: \"I am talking to Mr. Shyam Sundar?\" Customer: \"Haan ji bolo madam.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "Customer: \"60, 60.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Mr. Shyam Sundar\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Punjabi Bagh",
+        "evidence": "Customer: \"Punjabi Bagh.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Business hai, business.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: \"Business hai, business.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: \"15-20 lakh rupaye.\"",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Kal phone kar lena madam.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Madam maine toh le rakha hai yaar.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent proposed 2 lakh annual investment, customer agreed to 5 year pay.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance",
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked about the scheme details after initial dismissal.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent pitched an income plan, customer showed interest.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Business hai, business.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "30,000 rupees income after 2 lakh investment",
+        "lifetime income"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name despite mentioning HDFC/Tata AIA."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity"
+      ],
+      "reasoning": "Customer was receptive to the pitch and agreed to a specific callback time for further discussion."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from Tata AIA, and the customer responded with a casual 'Haan ji bolo'.",
+      "customer_response": "Customer was initially dismissive but became engaged once the agent pivoted to an income-based plan.",
+      "key_event": "The agent successfully pivoted from a term/ULIP pitch to a guaranteed income pitch, which captured the customer's interest.",
+      "ending": "The call concluded with a scheduled callback for the next day at 12 PM."
+    },
+    "key_quotes": [
+      "Madam maine toh le rakha hai yaar.",
+      "Kya scheme kya hai?",
+      "Kal phone kar lena madam."
+    ],
+    "red_flags": [
+      "Agent promised specific income (30k) on a 2L investment without clear product disclosure.",
+      "Agent conflated Tata AIA and HDFC Life in the pitch."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_3",
+      "life_stage": "retired",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

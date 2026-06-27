@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3554853046040133",
+  "source_transcript": "agent-2039-1779522535-5255-Gaurav_delhi-2026_05_23_13_18_55-8586898051.json",
+  "created_at_utc": "2026-06-01T02:21:07Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1779522535-5255-Gaurav_delhi-2026_05_23_13_18_55-8586898051.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe kal kijiye. Isi time kijiye.",
+    "summary": "Agent pitched the Param Raksha Life Pro Plus plan; customer requested a callback for the next day at the same time.",
+    "callback_time_iso": "2026-05-24T13:18",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Raksha Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

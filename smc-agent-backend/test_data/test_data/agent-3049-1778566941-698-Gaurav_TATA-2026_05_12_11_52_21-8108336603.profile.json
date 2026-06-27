@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "profile_id": "9371721903283984",
+  "source_transcript": "agent-3049-1778566941-698-Gaurav_TATA-2026_05_12_11_52_21-8108336603.json",
+  "source_name": "agent-3049-1778566941-698-Gaurav_TATA-2026_05_12_11_52_21-8108336603.mp3",
+  "created_at_utc": "2026-05-15T06:59:14Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 107.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Muskaan",
+      "evidence": "aap se Muskaan baat kar rahi hun sir, Tata AIA se sir.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Agent: mam meri 30 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Agent: mam meri 30 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: mam meri 30 hai. (Agent is male, customer is female)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: haan ji sir. Customer: hello. (Hinglish conversation)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: job hai mera.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Agent: uh mera minimum wahi hota hai 30000. (30k monthly = 3.6L annual)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: and abhi aap by professional job karte ho business sir? Agent: job hai mera.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Agent: haan to aap udhar se, aap udhar se kar lijiyega, mere ko kam se kam ek ghante baad kar lijiyega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60.0,
+      "agent_talk_percent": 40.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "abhi nahi actually, ki mam main abhi thoda meeting baitha hun, main thodi der mein back call karunga aapko.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Agent: no mam no. (Regarding market knowledge)",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-12 12:52:00",
+        "evidence": "mere ko kam se kam ek ghante baad kar lijiyega.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus investment plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not probe for specific financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and explicitly requested a callback in one hour, indicating interest or at least willingness to listen."
+    },
+    "summary": "The agent contacted the customer to pitch a Tata AIA term plus investment plan. The customer, a 30-year-old salaried individual with no prior investment knowledge or policies, requested a callback in one hour due to being in a meeting. The agent successfully scheduled the callback.",
+    "key_quotes": [
+      "abhi nahi actually, ki mam main abhi thoda meeting baitha hun, main thodi der mein back call karunga aapko.",
+      "mere ko kam se kam ek ghante baad kar lijiyega."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

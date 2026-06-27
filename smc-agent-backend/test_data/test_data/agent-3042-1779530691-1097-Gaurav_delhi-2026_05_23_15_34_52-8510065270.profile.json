@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6401709270733900",
+  "source_transcript": "agent-3042-1779530691-1097-Gaurav_delhi-2026_05_23_15_34_52-8510065270.json",
+  "created_at_utc": "2026-06-01T02:40:40Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779530691-1097-Gaurav_delhi-2026_05_23_15_34_52-8510065270.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Okay, toh sir iske pehle aapka koi LIC ya FD wagera kuch chal raha hai sir? Agent 2: Very good afternoon sir, aapke saath mein Abhishek Sharma baat kar raha hun HDFC Life ki taraf se.",
+    "summary": "The agent completed discovery (age 35, job, 3L income) and began asking about existing policies when a senior agent joined the call, ending the conversation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki fixed income deti hai whole life ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

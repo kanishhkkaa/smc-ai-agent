@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6211282106661920",
+  "source_transcript": "agent-2151-1778846666-4677-Gaurav_delhi-2026_05_15_17_34_27-9555720281.json",
+  "created_at_utc": "2026-06-01T01:16:05Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2151-1778846666-4677-Gaurav_delhi-2026_05_15_17_34_27-9555720281.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Hmm, abhi nahi kar rahe hain, aage toh karenge. Theek hai, thank you.",
+    "summary": "Agent pitched HDFC Life regular income plan; customer asked about the process and disclosed (age 37, unemployed), but the call ended without a commitment or refusal of interest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income support de rahi hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

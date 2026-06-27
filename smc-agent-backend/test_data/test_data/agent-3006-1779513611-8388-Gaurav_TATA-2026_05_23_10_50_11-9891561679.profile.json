@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7632103978555317",
+  "source_transcript": "agent-3006-1779513611-8388-Gaurav_TATA-2026_05_23_10_50_11-9891561679.json",
+  "created_at_utc": "2026-06-01T02:35:38Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779513611-8388-Gaurav_TATA-2026_05_23_10_50_11-9891561679.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay, kyunki term insurance ke liye na sir aapki annual income 5 lakhs honi chahiye. Then aap 60 lakh ka coverage company aapko provide karegi.",
+    "summary": "The agent completed discovery, determined the prospect was ineligible due to low income, and ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "30, 30.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Annual 3, 3 plus hoga.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company with interest aapko refund kar rahi hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "2199473527867174",
+  "source_transcript": "agent-3110-1779538832-7848-Gaurav_delhi-2026_05_23_17_50_33-9812762358.json",
+  "created_at_utc": "2026-06-01T02:45:46Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 134.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3110-1779538832-7848-Gaurav_delhi-2026_05_23_17_50_33-9812762358.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Paise hi nahi hai. 1 lakh ki kis bharta hun HDFC Bank mein hi, ab bata.",
+    "summary": "Customer refused the pitch, citing existing financial commitments and lack of funds, despite the agent's attempt to continue the conversation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "Pehle saal se income aana start ho jayegi",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

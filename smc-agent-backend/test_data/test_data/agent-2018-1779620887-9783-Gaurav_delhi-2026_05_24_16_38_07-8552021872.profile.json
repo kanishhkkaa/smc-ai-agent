@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2149370712426474",
+  "source_transcript": "agent-2018-1779620887-9783-Gaurav_delhi-2026_05_24_16_38_07-8552021872.json",
+  "created_at_utc": "2026-06-01T02:05:17Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 75.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2018-1779620887-9783-Gaurav_delhi-2026_05_24_16_38_07-8552021872.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan maine sun liya mam, agar kuch aisi requirement hi nahi hai. Kuch hogi to main connect ho lunga.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer declined, stating no current requirement and that he would check online if needed.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki money back income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 30,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

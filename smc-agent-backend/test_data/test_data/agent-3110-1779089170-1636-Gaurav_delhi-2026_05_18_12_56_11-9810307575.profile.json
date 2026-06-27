@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "5588005608007603",
+  "source_transcript": "agent-3110-1779089170-1636-Gaurav_delhi-2026_05_18_12_56_11-9810307575.json",
+  "source_name": "agent-3110-1779089170-1636-Gaurav_delhi-2026_05_18_12_56_11-9810307575.mp3",
+  "created_at_utc": "2026-05-21T02:15:37Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 145.2,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ujjwal",
+      "evidence": "Ujjwal naam hai mam mera, U-W-J-W-L.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "bachelor hun na main",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "job dhund raha hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Student/Job seeker",
+        "evidence": "maine BBA kar rakhi hai. Aur master bhi kar raha hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "bachelor hun na main",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "bachelor hun na main",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "job dhund raha hun aap dilwa do kahin.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Mam main investment karta nahi, bachelor hun na main.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unemployed"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Mam main investment karta nahi",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "bachelor hun na main",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "term insurance benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed and explicitly stated no interest in investment products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is unemployed and looking for a job, not interested in financial products."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and the customer responded politely.",
+      "customer_response": "The customer was passive regarding the product pitch but became engaged when the agent offered job-related advice.",
+      "key_event": "The customer pivoted the conversation from the insurance pitch to asking for a job, which the agent facilitated.",
+      "ending": "The agent agreed to send a WhatsApp message to the customer regarding a job interview."
+    },
+    "key_quotes": [
+      "Mam main investment karta nahi, bachelor hun na main.",
+      "job dhund raha hun aap dilwa do kahin."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

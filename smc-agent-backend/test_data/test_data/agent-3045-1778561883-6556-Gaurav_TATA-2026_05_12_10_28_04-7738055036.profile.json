@@ -1,0 +1,203 @@
+{
+  "status": "success",
+  "profile_id": "1601621131952222",
+  "source_transcript": "agent-3045-1778561883-6556-Gaurav_TATA-2026_05_12_10_28_04-7738055036.json",
+  "source_name": "agent-3045-1778561883-6556-Gaurav_TATA-2026_05_12_10_28_04-7738055036.mp3",
+  "created_at_utc": "2026-05-15T06:57:54Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 2.12,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Ma'am, main aapse Kareena baat kar rahi hun, Tata AIA ke behalf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main karti hun job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "Agent: ...ya abhi aapke husband hain ma'am? Customer: Nahi, main hi hun.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: Main karti hun job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan, par madam mujhe na abhi time nahi hai, kyunki main office mein kaam kar rahi hun, toh aap mujhe detail bhale WhatsApp kar dijiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Madam, mujhe na abhi time nahi hai, kyunki main office mein kaam kar rahi hun",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: ...financial decision maker self aap hi hain ma'am, ya abhi aapke husband hain ma'am? Customer: Nahi, main hi hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-12 18:00:00",
+        "evidence": "Customer: Ek baar 6 o'clock karke dekhiye.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Term Plus Mutual Fund",
+      "fit_score_0_10": 4,
+      "mismatch": true,
+      "mismatch_reason": "Agent described a term plan as a 'Term Plus Mutual Fund' and claimed premium is refundable and tax-free, which is misleading.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals beyond ITR filing."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer agreed to a callback at 6 PM and is the financial decision maker. The agent needs to clarify the product nature as the current pitch misrepresents it as a combined term/mutual fund plan."
+    },
+    "summary": "The agent called a 42-year-old female salaried professional to pitch a 'Term Plus Mutual Fund' plan. The customer was busy at work and requested a callback, which was scheduled for 6 PM the same day. The agent mischaracterized the insurance product as a mutual fund and claimed guaranteed refundable premiums.",
+    "key_quotes": [
+      "42.",
+      "Main karti hun job.",
+      "Nahi, main hi hun.",
+      "Ek baar 6 o'clock karke dekhiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

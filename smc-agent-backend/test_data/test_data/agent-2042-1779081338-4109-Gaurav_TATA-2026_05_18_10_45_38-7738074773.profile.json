@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "9810272935490468",
+  "source_transcript": "agent-2042-1779081338-4109-Gaurav_TATA-2026_05_18_10_45_38-7738074773.json",
+  "source_name": "agent-2042-1779081338-4109-Gaurav_TATA-2026_05_18_10_45_38-7738074773.mp3",
+  "created_at_utc": "2026-05-20T08:59:33Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: Mera 35 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Sir, main aapse Asad baat kar raha hun Tata AIA se. (Agent addresses customer as 'Sir')",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Monthly rahega mera 25-26 hazar. (26k * 12 = 3.12LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan bolo.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore term insurance cover from day one",
+        "mutual fund returns",
+        "medical health plus pension facility",
+        "no tax deduction (LTCG/STCG)"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term plus mutual fund combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product pitched is a complex hybrid (term + MF + health + pension) which may not suit a low-income profile (approx 3LPA).",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is listening and answering basic questions, though not showing high enthusiasm yet."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces himself from Tata AIA and immediately pitches a combined term/mutual fund plan.",
+      "customer_response": "The customer is passive and somewhat confused, asking what he needs to do before hearing the pitch.",
+      "key_event": "The agent attempts to pivot from a product pitch to discovery questions about age and income.",
+      "ending": "The call cuts off while the agent is confirming the customer's monthly income."
+    },
+    "key_quotes": [
+      "Mera 35 hai.",
+      "Monthly rahega mera 25-26 hazar."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

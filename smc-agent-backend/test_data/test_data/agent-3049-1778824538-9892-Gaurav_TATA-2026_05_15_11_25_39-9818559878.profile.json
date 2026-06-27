@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8374628996137893",
+  "source_transcript": "agent-3049-1778824538-9892-Gaurav_TATA-2026_05_15_11_25_39-9818559878.json",
+  "created_at_utc": "2026-06-01T01:24:41Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3049-1778824538-9892-Gaurav_TATA-2026_05_15_11_25_39-9818559878.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi nahi, sahi hai, koi baat nahi, thank you.",
+    "summary": "Agent pitched a Tata AIA combined plan, but the customer's age (90) made him ineligible, leading to the customer politely declining the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "90",
+        "evidence": "Meri running age 90 years.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jo bhi aap premium pay kar rahe ho, woh aapka with interest aapka refundable rahega.",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

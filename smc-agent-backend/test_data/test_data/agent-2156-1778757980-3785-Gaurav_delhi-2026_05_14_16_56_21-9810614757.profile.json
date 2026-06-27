@@ -1,0 +1,201 @@
+{
+  "status": "success",
+  "profile_id": "9443475502703062",
+  "source_transcript": "agent-2156-1778757980-3785-Gaurav_delhi-2026_05_14_16_56_21-9810614757.json",
+  "source_name": "agent-2156-1778757980-3785-Gaurav_delhi-2026_05_14_16_56_21-9810614757.mp3",
+  "created_at_utc": "2026-05-16T00:12:55Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "Customer: Mera age 46.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: Mera age 46.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, good afternoon sir. Mansi this side from the HDFC Life Insurance, information ke regarding call kari hai aapko.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "driver",
+        "evidence": "Customer: Main gaadi chalata hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "driver",
+        "evidence": "Customer: Main gaadi chalata hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: 25,000 monthly sir.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: Main job karta hun ji. Main gaadi chalata hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Lekin abhi mam main baad mein baat kar sakta hun, theek hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Lekin abhi mam main baad mein baat kar sakta hun, theek hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: 25,000 monthly sir. Agent: Okay sir, toh main aapko na 60,000 se ek plan explain kar deti hun, toh aap comfortable rahenge?",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 3,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Insurance plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "The agent proposed a 60,000 annual premium plan to a customer earning 25,000 monthly, which is financially unrealistic.",
+      "missed_opportunities": [
+        "Did not assess actual financial needs or goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite but clearly busy and not interested in the current pitch; he ended the call abruptly."
+    },
+    "summary": "The agent called to pitch an HDFC Life insurance plan. The customer, a driver earning 25,000 monthly, was asked to consider a 60,000 annual premium plan. The customer requested to talk later, and the call ended.",
+    "key_quotes": [
+      "Mera age 46.",
+      "Main gaadi chalata hun.",
+      "Lekin abhi mam main baad mein baat kar sakta hun, theek hai?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

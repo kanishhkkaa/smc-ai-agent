@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "4075361913582092",
+  "source_transcript": "agent-3062-1778584593-3741-Gaurav_TATA-2026_05_12_16_46_33-9873903679.json",
+  "source_name": "agent-3062-1778584593-3741-Gaurav_TATA-2026_05_12_16_46_33-9873903679.mp3",
+  "created_at_utc": "2026-05-15T07:01:50Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Hemraj",
+      "evidence": "Customer: Hemraj.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Customer: Meri age hai 43 years.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: Meri age hai 43 years.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hello sir, very good afternoon. Main Shaina baat kar rahi hun, Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "self_employed",
+        "evidence": "Customer: Main self employed hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: And income I guess 5 to 6, 7 lakhs.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 43 years. Self employed.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi baat karne se pehle, abhi toh main busy hun. Aap mujhe WhatsApp kar sakti hain ye details. ... Main WhatsApp check karke aapko khud bata dunga.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund combination plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or investment goals.",
+        "Did not probe for specific financial needs beyond the pitch."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and provided his details, but requested to review information via WhatsApp first. He is open to being contacted after he reviews the details."
+    },
+    "summary": "The agent called Hemraj to pitch a Tata AIA plan combining term insurance and mutual funds. The customer was busy and requested the details be sent via WhatsApp, stating he would review them and get back to the agent. The agent successfully gathered basic demographic information including age and income.",
+    "key_quotes": [
+      "Abhi baat karne se pehle, abhi toh main busy hun. Aap mujhe WhatsApp kar sakti hain ye details.",
+      "Main WhatsApp check karke aapko khud bata dunga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

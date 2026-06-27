@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9105213469075065",
+  "source_transcript": "agent-3020-1779613567-8129-Gaurav_delhi-2026_05_24_14_36_07-8447007094.json",
+  "created_at_utc": "2026-06-01T02:12:47Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779613567-8129-Gaurav_delhi-2026_05_24_14_36_07-8447007094.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aapki age jaan sakta hun sir? Aapki age kya hogi? Customer: 65.",
+    "summary": "Agent pitched an HDFC Life plan and performed age discovery; the call ended after the customer disclosed being 65 years old.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "65",
+        "evidence": "65",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "annual premium par 36 percent ki aapko money back return aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

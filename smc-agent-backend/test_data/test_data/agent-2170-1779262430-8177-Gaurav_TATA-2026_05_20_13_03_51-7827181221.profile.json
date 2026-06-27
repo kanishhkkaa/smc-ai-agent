@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "7255355073407244",
+  "source_transcript": "agent-2170-1779262430-8177-Gaurav_TATA-2026_05_20_13_03_51-7827181221.json",
+  "source_name": "agent-2170-1779262430-8177-Gaurav_TATA-2026_05_20_13_03_51-7827181221.mp3",
+  "created_at_utc": "2026-05-24T05:09:29Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 109.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "24",
+        "evidence": "24",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Tata Power employee",
+        "evidence": "Main job Tata Power mein karta hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Batao toh aap pehle reference mein hai ki",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Ye aap kya kehte hain ye Tata AIA jo hai, ye matlab ki alag se hai kya matlab external policy hai koi?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "two in one combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent failed to establish trust or explain the product relevance to the customer's profile.",
+      "missed_opportunities": [
+        "failed to address customer's employment context",
+        "failed to build rapport"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was confused about the source of the call and the agent failed to clarify, leading to a breakdown in communication."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a 'two-in-one' plan from Tata AIA, and the customer immediately asked for the agent's name.",
+      "customer_response": "The customer was skeptical and repeatedly questioned the source and legitimacy of the call.",
+      "key_event": "The customer repeatedly asked if the call was related to his employment at Tata Power, which the agent failed to address clearly.",
+      "ending": "The call ended abruptly and incoherently with the agent repeating the company name."
+    },
+    "key_quotes": [
+      "Ye aap kya kehte hain ye Tata AIA jo hai, ye matlab ki alag se hai kya matlab external policy hai koi?",
+      "Main job Tata Power mein karta hoon."
+    ],
+    "red_flags": [
+      "agent_incoherence",
+      "failed_to_address_customer_concerns"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

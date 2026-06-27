@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1124075739668132",
+  "source_transcript": "2026_05_13/agent-3012-1778654036-8383-Gaurav_TATA-2026_05_13_12_03_56-9312218485.json",
+  "source_name": "agent-3012-1778654036-8383-Gaurav_TATA-2026_05_13_12_03_56-9312218485.mp3",
+  "created_at_utc": "2026-06-01T04:00:33Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 154.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek hai, ek baar main padh leta hun, uske baad main aapko call kar dunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi chahiye bhai sahab.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Banking sector to market se flop hote ja raha hai, crash hote ja raha hai ulta. Aap phir itna return?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer questioned the market-linked nature of the returns and asked if the plan is on Google.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-13T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent return on savings",
+        "30 percent cash bonus on premium starting from first year for 12 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Lifetime Partner Plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer expressed skepticism about the product's viability and market-linked nature.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer agreed to review the plan and scheduled a callback for 2 hours later."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called on behalf of Central Bank of India to inform about a 50-year anniversary saving plan.",
+      "customer_response": "Customer was initially skeptical and dismissive, questioning the feasibility of the returns, but eventually agreed to review the plan.",
+      "key_event": "Customer challenged the agent on the feasibility of the returns given market conditions, then agreed to review the plan online.",
+      "ending": "Agent confirmed the callback for 3 PM and thanked the customer."
+    },
+    "key_quotes": [
+      "Banking sector to market se flop hote ja raha hai, crash hote ja raha hai ulta.",
+      "Theek hai, ek baar main padh leta hun, uske baad main aapko call kar dunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "status": "success",
+  "profile_id": "2665601421737084",
+  "source_transcript": "agent-3049-1778744067-3274-Gaurav_TATA-2026_05_14_13_04_28-9555530792.json",
+  "source_name": "agent-3049-1778744067-3274-Gaurav_TATA-2026_05_14_13_04_28-9555530792.mp3",
+  "created_at_utc": "2026-05-16T00:25:41Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 441.22,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "Customer: 46 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: 46 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello, haanji very good afternoon sir, aap se muskaan baat kar rahi hun sir, Tata AI se sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent: job karte hain, Customer: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: 5 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 46 hai.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: koi nahi ma'am, main aapka number save kar leta hun, koi requirement aayegi toh.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "1,89,000 toh bahut zyada hai, kya yeh mujhe return mil jayega?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Abhi toh madam main kar nahi paunga, abhi maine haal hi mein kiya hai, isliye main kar nahi paunga, thoda ruk ke karunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: 46 hai. Agent: waise aap market ki knowledge rakhte ho sir, SIP, mutual fund, stock, ya khud ka koi aapki portfolio chal rahi ho sir? Ji.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent: Tata ne na apna ek combine plan design kara hai sir, term plus investment plan... pension ki aur medical ki bhi facility di ja rahi hai.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Abhi toh madam main kar nahi paunga, abhi maine haal hi mein kiya hai, isliye main kar nahi paunga, thoda ruk ke karunga.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "C",
+      "stage_reached": "objection_handled",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "6 months later",
+        "evidence": "Customer: Abhi toh 6 mahina kam se kam mujhe rukna padega.",
+        "confidence": "medium"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Term plus Investment Plan",
+      "fit_score_0_10": 4,
+      "mismatch": true,
+      "mismatch_reason": "Customer has recently purchased a policy and has no immediate budget or need for a new investment.",
+      "missed_opportunities": [
+        "Did not explore the customer's existing policy details to understand why he feels he cannot afford more."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "gt_15min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "6_12_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer explicitly stated he needs at least 6 months before considering new investments due to recent commitments. He was polite but firm about his current inability to invest."
+    },
+    "summary": "The agent pitched a Tata AIA term-plus-investment plan to a 46-year-old salaried customer. The customer expressed that the premium was too high and that he had recently purchased another policy, requiring at least 6 months before considering new investments. The agent attempted to handle objections by explaining liquidity and tax benefits, but the customer remained firm on his timeline. The call ended cordially with the customer agreeing to save the agent's number.",
+    "key_quotes": [
+      "1,89,000 toh bahut zyada hai, kya yeh mujhe return mil jayega?",
+      "Abhi toh 6 mahina kam se kam mujhe rukna padega.",
+      "koi nahi ma'am, main aapka number save kar leta hun, koi requirement aayegi toh."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

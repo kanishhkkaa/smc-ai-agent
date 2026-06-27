@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "3015646271018781",
+  "source_transcript": "2026_05_14/agent-2094-1778750560-1554-Gaurav_delhi-2026_05_14_14_52_40-9891054107__stub.json",
+  "source_name": "agent-2094-1778750560-1554-Gaurav_delhi-2026_05_14_14_52_40-9891054107.mp3",
+  "created_at_utc": "2026-06-01T04:21:42Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 304.58,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Meri 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Self-employed.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Self-employed",
+        "evidence": "Self-employed.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Lekin detail aap mere usme bhej dijiye.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Lekin detail aap mere usme bhej dijiye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Self-employed.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% income from first year",
+        "double tax benefit",
+        "add 2 family members lifetime"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer is interested in the product but prefers to review details offline rather than listening to a long verbal pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a plan with 36% income, customer responded neutrally.",
+      "customer_response": "Passive and slightly resistant, repeatedly asking for details to be sent instead of engaging with the verbal pitch.",
+      "key_event": "The customer requested details be sent via WhatsApp/email, but the agent insisted on continuing the verbal explanation.",
+      "ending": "The agent continued the verbal pitch despite the customer's request to send details, and the call cut off mid-sentence."
+    },
+    "key_quotes": [
+      "Lekin detail aap mere usme bhej dijiye."
+    ],
+    "red_flags": [
+      "Agent ignored customer's request to send details and continued pitching."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

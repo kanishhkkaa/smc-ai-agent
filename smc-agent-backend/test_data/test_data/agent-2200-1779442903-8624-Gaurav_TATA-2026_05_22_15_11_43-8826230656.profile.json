@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9180152829052460",
+  "source_transcript": "agent-2200-1779442903-8624-Gaurav_TATA-2026_05_22_15_11_43-8826230656.json",
+  "created_at_utc": "2026-06-01T02:58:48Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 154.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779442903-8624-Gaurav_TATA-2026_05_22_15_11_43-8826230656.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai ji, abhi thoda meeting ho rahi hai, uske baad call karte hain.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer was engaged but deferred further discussion due to a meeting.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "40-45 hazaar mahine",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

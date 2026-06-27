@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "3231143040926201",
+  "source_transcript": "agent-3026-1778766928-3298-Gaurav_delhi-2026_05_14_19_25_29-7827203650.json",
+  "source_name": "agent-3026-1778766928-3298-Gaurav_delhi-2026_05_14_19_25_29-7827203650.mp3",
+  "created_at_utc": "2026-05-16T00:22:32Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 206.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: hello good evening sir main Sachin baat kar raha hun HDFC Life ke behalf se sir ... Customer: hmm boliye",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: mera khud ka business hai",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "25L_plus",
+        "evidence": "Customer: 25 30 ... Agent: accha matlab 25 se 30 lakh pe right ... Customer: haanji haanji",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: 35, business owner, 25-30L income.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: bhai aap kal 10 baje ke baad call karna bhaiya",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: HDFC Life ka sir ek sanchay par advantage product hai sir guaranteed ... Customer: hmm hmm sun raha hun",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: mera khud ka business hai",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 6,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "tomorrow after 10 AM",
+        "evidence": "Customer: bhai aap kal 10 baje ke baad call karna bhaiya",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 7,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was receptive and provided details until he had to end the call due to time constraints, explicitly asking for a callback tomorrow."
+    },
+    "summary": "The agent pitched the HDFC Life Sanchay Par Advantage plan to a 35-year-old business owner with an annual income of 25-30 lakhs. The customer was listening and engaged but requested a callback for the following day at 10 AM due to time constraints. No objections were raised.",
+    "key_quotes": [
+      "bhai aap kal 10 baje ke baad call karna bhaiya"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

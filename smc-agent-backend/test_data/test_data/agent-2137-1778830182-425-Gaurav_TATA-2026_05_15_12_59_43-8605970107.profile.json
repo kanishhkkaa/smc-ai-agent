@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2424884670262280",
+  "source_transcript": "agent-2137-1778830182-425-Gaurav_TATA-2026_05_15_12_59_43-8605970107.json",
+  "created_at_utc": "2026-06-01T01:15:12Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2137-1778830182-425-Gaurav_TATA-2026_05_15_12_59_43-8605970107.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh main kaise maan lu ye fraud call nahi hai?",
+    "summary": "Agent pitched a Tata AIA combined plan; customer expressed suspicion and accused the call being a fraud call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke benefit day one se aane start ho jaati hai",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 34,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

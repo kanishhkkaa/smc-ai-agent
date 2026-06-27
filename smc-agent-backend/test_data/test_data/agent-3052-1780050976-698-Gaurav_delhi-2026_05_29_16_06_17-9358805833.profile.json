@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "8181154103179845",
+  "source_transcript": "2026_05_29/agent-3052-1780050976-698-Gaurav_delhi-2026_05_29_16_06_17-9358805833.json",
+  "source_name": "agent-3052-1780050976-698-Gaurav_delhi-2026_05_29_16_06_17-9358805833.mp3",
+  "created_at_utc": "2026-06-01T05:47:39Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 162.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "Meri is samay 55 hai, abhi November mein 56 complete ho jayegi.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji. Fine, fine. Bataiye ma'am.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Woh toh main already kar chuka hun, ek mera chal raha hai na koi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "abhi chuki na paisa hai na karana hai, theek hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "dissatisfaction with current health insurance provider"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Woh main sun lunga, abhi abhi chuki na paisa hai na karana hai, theek hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% tax free income from first year for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has a life insurance plan and is not interested in another one, only interested in health insurance.",
+      "missed_opportunities": [
+        "did not attempt to cross-sell health insurance during the initial pitch"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to health insurance products but explicitly declined life insurance products at this time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life and the customer responded politely.",
+      "customer_response": "Customer was polite but firm in declining the life insurance pitch while expressing interest in health insurance.",
+      "key_event": "Customer requested a port of his health insurance to HDFC Ergo, shifting the focus from the life insurance pitch.",
+      "ending": "Agent agreed to arrange a callback from the health department and ended the call professionally."
+    },
+    "key_quotes": [
+      "Woh toh main already kar chuka hun, ek mera chal raha hai na koi.",
+      "Haan, Star Health ka, maine do saal se kiya, sahi nahi laga mujhe, theek hai.",
+      "Agar usko aap port karna chaho toh kar do."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

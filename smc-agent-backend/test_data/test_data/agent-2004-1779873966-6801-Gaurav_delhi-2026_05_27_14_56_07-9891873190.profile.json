@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "7877929327558750",
+  "source_transcript": "2026_05_27/agent-2004-1779873966-6801-Gaurav_delhi-2026_05_27_14_56_07-9891873190.json",
+  "source_name": "agent-2004-1779873966-6801-Gaurav_delhi-2026_05_27_14_56_07-9891873190.mp3",
+  "created_at_utc": "2026-06-01T05:14:41Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 148.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "45, 45, 45, 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Ice business",
+        "evidence": "Ice ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aapki baat bhi maine suna, achi baat hai. But hamare life mein do pehle hi chal rahe hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "But hamare life mein do pehle hi chal rahe hain.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Ab itna phir aap jaante hain na ki aaj ke time mein itna zyada heavy load bhi lena bekaar hota hai",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "seasonal income uncertainty",
+        "financial load concerns"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Ya toh phir in cheezon ka idea toh aap woh hamara ladka dega jo rakhta hai saara hand over kaam kar.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "term insurance benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer has seasonal income and already owns two policies, making additional financial commitments undesirable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is polite but firm about not wanting additional financial load and already owns two policies."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a product with guaranteed income, asking for the customer's time.",
+      "customer_response": "Customer was polite but passive, eventually pushing back due to existing financial commitments and seasonal income.",
+      "key_event": "Customer declined the offer citing existing policies and the burden of additional financial load.",
+      "ending": "The agent accepted the customer's refusal gracefully and ended the call."
+    },
+    "key_quotes": [
+      "But hamare life mein do pehle hi chal rahe hain.",
+      "Ab itna phir aap jaante hain na ki aaj ke time mein itna zyada heavy load bhi lena bekaar hota hai"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

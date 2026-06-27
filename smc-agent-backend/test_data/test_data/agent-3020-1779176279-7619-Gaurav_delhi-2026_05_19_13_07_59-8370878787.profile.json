@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "3043651140022748",
+  "source_transcript": "agent-3020-1779176279-7619-Gaurav_delhi-2026_05_19_13_07_59-8370878787.json",
+  "source_name": "agent-3020-1779176279-7619-Gaurav_delhi-2026_05_19_13_07_59-8370878787.mp3",
+  "created_at_utc": "2026-05-22T11:24:08Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Rajasthan",
+        "evidence": "Main Rajasthan se bol raha hoon.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Are fraud ke doosri jagah chala na theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Are fraud ke doosri jagah chala na theek hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% money back return on annual premium every year for lifetime",
+        "43,680 rupees return on 1,20,000 premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitch was highly suspicious and unprofessional, leading to immediate rejection.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer explicitly called the agent a fraud and hung up/ended the conversation negatively."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life regarding a saving plan with a 36% money-back return, to which the customer responded with skepticism.",
+      "customer_response": "The customer was skeptical and hostile, immediately questioning the agent's legitimacy and calling the offer a fraud.",
+      "key_event": "The customer accused the agent of being a fraud, leading to a heated exchange where the agent became unprofessional.",
+      "ending": "The call ended abruptly after the agent became defensive and argumentative regarding the customer's accusation of fraud."
+    },
+    "key_quotes": [
+      "Are fraud ke doosri jagah chala na theek hai.",
+      "Zyada paisa ho gaya kya aapke paas?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic",
+      "unprofessional_agent_behavior"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

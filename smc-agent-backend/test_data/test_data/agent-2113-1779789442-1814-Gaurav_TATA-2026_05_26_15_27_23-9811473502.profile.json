@@ -1,0 +1,162 @@
+{
+  "status": "success",
+  "profile_id": "1589829652020875",
+  "source_transcript": "2026_05_26/agent-2113-1779789442-1814-Gaurav_TATA-2026_05_26_15_27_23-9811473502.json",
+  "source_name": "agent-2113-1779789442-1814-Gaurav_TATA-2026_05_26_15_27_23-9811473502.mp3",
+  "created_at_utc": "2026-06-01T05:07:56Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 196.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mintu Kumar",
+      "evidence": "Mintu Kumar ji se meri baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Meri to 45 ho rahi hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Nahi, abhi to waise hi baitha hun vella, koi job nahi karta.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "unemployed",
+        "evidence": "Nahi, abhi to waise hi baitha hun vella, koi job nahi karta.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Nahi, abhi to waise hi baitha hun vella, koi job nahi karta.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi, abhi to waise hi baitha hun vella, koi job nahi karta.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Nahi sir, maine kuch nahi kari.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi sir, maine kuch nahi kari.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed with no savings, making him unable to afford the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he is unemployed and has no savings, making him a poor fit for a premium-based insurance product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself and the Tata Param Rakshak Pro plan, to which the customer responded with a neutral 'Bataiye kya hai?'.",
+      "customer_response": "The customer was passive and disengaged throughout the pitch, eventually revealing his lack of employment and savings.",
+      "key_event": "The customer disclosed he is unemployed and has no savings, leading the agent to terminate the call.",
+      "ending": "The agent thanked the customer and ended the call after realizing the customer was not a viable prospect."
+    },
+    "key_quotes": [
+      "Nahi, abhi to waise hi baitha hun vella, koi job nahi karta.",
+      "Nahi sir, maine kuch nahi kari."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

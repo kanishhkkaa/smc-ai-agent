@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1879269454602378",
+  "source_transcript": "agent-3049-1779618146-6581-Gaurav_TATA-2026_05_24_15_52_26-9467819406.json",
+  "created_at_utc": "2026-06-01T02:15:21Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3049-1779618146-6581-Gaurav_TATA-2026_05_24_15_52_26-9467819406.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, aap primary mein, aap primary mein hi WhatsApp pe daal dijiye ek baar isko.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer requested details on WhatsApp and agreed to a callback after reviewing the information.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke returns aapko diye ja rahe hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

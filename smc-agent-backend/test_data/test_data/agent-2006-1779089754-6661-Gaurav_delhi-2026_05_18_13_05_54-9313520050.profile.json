@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "4788317226341875",
+  "source_transcript": "agent-2006-1779089754-6661-Gaurav_delhi-2026_05_18_13_05_54-9313520050.json",
+  "source_name": "agent-2006-1779089754-6661-Gaurav_delhi-2026_05_18_13_05_54-9313520050.mp3",
+  "created_at_utc": "2026-05-20T11:05:58Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 66.85,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Anil Kumar",
+      "evidence": "Agent: Mr. Anil Kumar ji se baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Mr. Anil Kumar ji se baat ho rahi hai?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji bolo.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: ...suppose 10,000 rupaye mahine ka bachate ho, theek hai?",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent: ...aapke liye aur aapki family ke liye.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "guaranteed and regular income from first year",
+        "insurance cover from first day",
+        "income tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Saving Plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "The customer is listening and hasn't rejected the pitch, but hasn't shown strong interest yet."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Tata AIA Life and asked to speak with Anil Kumar.",
+      "customer_response": "The customer is passive, listening to the pitch without interrupting or asking questions.",
+      "key_event": "The agent initiated a pitch for a guaranteed savings plan and asked for the customer's age.",
+      "ending": "The call ended abruptly after the agent asked for the customer's age."
+    },
+    "key_quotes": [
+      "Ji bolo."
+    ],
+    "red_flags": [
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

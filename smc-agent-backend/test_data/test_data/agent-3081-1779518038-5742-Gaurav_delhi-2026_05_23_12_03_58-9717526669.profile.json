@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9106316552899864",
+  "source_transcript": "agent-3081-1779518038-5742-Gaurav_delhi-2026_05_23_12_03_58-9717526669.json",
+  "created_at_utc": "2026-06-01T02:44:28Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 204.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3081-1779518038-5742-Gaurav_delhi-2026_05_23_12_03_58-9717526669.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai, phir main WhatsApp pe ek baar brochure wagera share kar deti hun, aap check kar lijiye, kar lijiye. Jaisa bhi ho aap mujhe confirm kar dijiyega WhatsApp pe, theek hai? Customer: Theek hai.",
+    "summary": "Agent pitched Tata Param Raksha Life Pro Plus, completed discovery, and the customer agreed to receive a brochure on WhatsApp for further review.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "42",
+        "evidence": "42.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 aur 20 ke beech mein.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "10 to 20 percent fix amount aap har month plan se le sakte ho",
+      "return_claim_pct": 20,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

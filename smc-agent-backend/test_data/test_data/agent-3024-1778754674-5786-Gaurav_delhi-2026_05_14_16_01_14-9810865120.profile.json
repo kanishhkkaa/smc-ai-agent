@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "3614385750196139",
+  "source_transcript": "agent-3024-1778754674-5786-Gaurav_delhi-2026_05_14_16_01_14-9810865120.json",
+  "source_name": "agent-3024-1778754674-5786-Gaurav_delhi-2026_05_14_16_01_14-9810865120.mp3",
+  "created_at_utc": "2026-05-16T00:21:11Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 1.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "Customer: 58.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "Customer: 58.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi (File name context)",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi (File name context)",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Agent: Gaurav_delhi (File name context)",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hello, good afternoon, main Khushboo baat kar rahi hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "garments business",
+        "evidence": "Customer: Kapde ka.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: 7-8 lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: 58.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan ji, haan ji, bolo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: HDFC ka ek guaranteed plan hai... (Context of pitch)",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business hai. (Implies sole decision maker for business/finances)",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 6,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about retirement goals given age 58."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "unknown",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is an existing HDFC Life policyholder who engaged well with the agent and provided all requested information."
+    },
+    "summary": "The agent pitched the HDFC Sanchay Par Advantage plan to a 58-year-old business owner from Delhi. The customer is an existing HDFC Life policyholder and provided details about his business and annual income. The call ended after the discovery phase without a specific next action scheduled.",
+    "key_quotes": [
+      "Business hai.",
+      "7-8 lakh rupaye.",
+      "Kapde ka.",
+      "HDFC, HDFC mein hi chal raha hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

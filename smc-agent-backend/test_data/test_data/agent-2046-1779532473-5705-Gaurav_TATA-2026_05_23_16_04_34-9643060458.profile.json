@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2497617755153379",
+  "source_transcript": "agent-2046-1779532473-5705-Gaurav_TATA-2026_05_23_16_04_34-9643060458.json",
+  "created_at_utc": "2026-06-01T02:23:07Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779532473-5705-Gaurav_TATA-2026_05_23_16_04_34-9643060458.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Sir, 10-12 hazaar rupaye kamane wale aadmi hain, aap apne aap se andaza laga lo kitna.",
+    "summary": "Agent pitched Tata Param Raksha Pro; customer completed discovery but declined, citing low income and inability to afford the plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "26 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "10-12 hazaar rupaye kamane wale aadmi hain",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

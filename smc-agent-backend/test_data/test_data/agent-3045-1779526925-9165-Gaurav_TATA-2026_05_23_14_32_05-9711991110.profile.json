@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "4387669405581201",
+  "source_transcript": "agent-3045-1779526925-9165-Gaurav_TATA-2026_05_23_14_32_05-9711991110.json",
+  "created_at_utc": "2026-06-01T02:41:09Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 109.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779526925-9165-Gaurav_TATA-2026_05_23_14_32_05-9711991110.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Rehne do madam itna kahan main karta hun. Rehne do. Dobara call mat karna mujhe.",
+    "summary": "Agent pitched the Tata Param Raksha Life Pro Plus plan; customer declined after learning the premium amount, citing affordability issues and requesting no further calls.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Raksha Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "premium jo aap pay karte ho term cover ke liye apna wo aapka interest ke sath sath plan mein refundable rehta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

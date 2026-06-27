@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1834338964902181",
+  "source_transcript": "agent-2046-1779453351-7279-Gaurav_TATA-2026_05_22_18_05_51-9899014693.json",
+  "created_at_utc": "2026-06-01T02:48:37Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779453351-7279-Gaurav_TATA-2026_05_22_18_05_51-9899014693.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Phir toh aap working bhi nahi honge abhi, right? ... Haan, no issue. Thank you so much.",
+    "summary": "The agent pitched a Tata AIA plan, performed discovery, and self-disqualified the prospect for being a student, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "Ma'am 22 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Haan, abhi padhai-wadhai toh chal rahi hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi aap investment kar rahe hain plan mein, saara refundable hai sir",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

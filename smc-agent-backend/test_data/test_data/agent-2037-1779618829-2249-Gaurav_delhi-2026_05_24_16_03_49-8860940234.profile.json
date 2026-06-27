@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6355723389938644",
+  "source_transcript": "agent-2037-1779618829-2249-Gaurav_delhi-2026_05_24_16_03_49-8860940234.json",
+  "created_at_utc": "2026-06-01T02:05:59Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779618829-2249-Gaurav_delhi-2026_05_24_16_03_49-8860940234.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aa jaate hain 300-400 rupaye per day.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the call ended abruptly after the customer disclosed a low daily income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35 saal",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "Aa jaate hain 300-400 rupaye per day.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "300-400 rupaye per day",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho uska 35 percent company aapko sir return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

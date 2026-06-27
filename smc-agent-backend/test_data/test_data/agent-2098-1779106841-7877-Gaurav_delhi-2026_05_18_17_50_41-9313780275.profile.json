@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "4868924550779217",
+  "source_transcript": "agent-2098-1779106841-7877-Gaurav_delhi-2026_05_18_17_50_41-9313780275.json",
+  "source_name": "agent-2098-1779106841-7877-Gaurav_delhi-2026_05_18_17_50_41-9313780275.mp3",
+  "created_at_utc": "2026-05-20T11:06:32Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 245.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "File name: agent-2098-1779106841-7877-Gaurav_delhi-2026_05_18_17_50_41-9313780275.mp3",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Gujarat",
+        "evidence": "Customer: 'Haan gujarat mein aisa bolte hain.'",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Gujarat",
+        "evidence": "Customer: 'Haan gujarat mein aisa bolte hain.'",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: 'Ab kya se bharosa karun ki aap HDFC se bol rahe ho ya insurance sector se bol rahe ho?'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Mera number ab to aapke paas kahan se aaya?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "Kya hai ki mera ek kariban samajh lo na 20-22 din pehle bhi ek fraud hua tha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "fear of fraud",
+        "previous bad experience with insurance policy"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year",
+        "8 percent rate of interest",
+        "double tax benefit",
+        "term insurance benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile and has zero trust due to previous fraud; product pitch was inappropriate given the context.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is highly suspicious due to a previous fraud experience, and the agent's unprofessional handling (mocking the customer's concern, bringing up political figures) destroyed any trust."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a high-pressure pitch about guaranteed returns, which the customer immediately interrupted to verify the agent's identity.",
+      "customer_response": "The customer was defensive and suspicious throughout the call, repeatedly questioning the agent's legitimacy due to a past fraud experience.",
+      "key_event": "The customer revealed he was a victim of a previous insurance fraud, which the agent failed to handle empathetically, instead blaming the customer for the fraud.",
+      "ending": "The agent dismissively told the customer to call Yogi Adityanath to verify her identity, effectively ending the conversation."
+    },
+    "key_quotes": [
+      "Mera number ab to aapke paas kahan se aaya?",
+      "Kya hai ki mera ek kariban samajh lo na 20-22 din pehle bhi ek fraud hua tha.",
+      "Ab kya se bharosa karun ki aap HDFC se bol rahe ho ya insurance sector se bol rahe ho?"
+    ],
+    "red_flags": [
+      "agent_mocked_customer_concerns",
+      "agent_used_political_figures_to_validate_identity",
+      "agent_blamed_customer_for_previous_fraud"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_3",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

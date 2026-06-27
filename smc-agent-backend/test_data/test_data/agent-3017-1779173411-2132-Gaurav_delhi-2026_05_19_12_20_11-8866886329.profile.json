@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "6405759722766121",
+  "source_transcript": "agent-3017-1779173411-2132-Gaurav_delhi-2026_05_19_12_20_11-8866886329.json",
+  "source_name": "agent-3017-1779173411-2132-Gaurav_delhi-2026_05_19_12_20_11-8866886329.mp3",
+  "created_at_utc": "2026-05-22T11:23:04Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 168.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Customer: 33.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 15 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan haan bataiye aage.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi nahi, aaj mat rakhiye. Main travelling.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...aap apne bachchon ke education, unki future marriage life ke liye bhi secure karte hain.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: ...financially decision aapke ghar mein kaun lete hain sir? Customer: Main hi deta hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life insurance cover",
+        "5 year partial withdrawal option"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage early on."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "child_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to receiving information via PDF but was hesitant about being transferred/interrupted while traveling."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA and the Param Rakshak Pro plan, highlighting a 1 crore cover and future returns.",
+      "customer_response": "Customer was passive but cooperative, answering discovery questions while expressing reluctance to be transferred or interrupted.",
+      "key_event": "Customer requested to receive information via PDF instead of being transferred, but the agent insisted on connecting him to a senior.",
+      "ending": "The call was transferred to a second agent who began re-verifying details and asking about existing term insurance."
+    },
+    "key_quotes": [
+      "Main hi deta hoon.",
+      "Nahi nahi, aaj mat rakhiye. Main travelling.",
+      "Aap mere toh pehle details bhej dijiye aapke paas agar kuch PDF."
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

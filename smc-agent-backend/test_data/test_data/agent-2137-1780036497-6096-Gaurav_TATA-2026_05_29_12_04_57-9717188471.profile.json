@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "6898964349305892",
+  "source_transcript": "2026_05_29/agent-2137-1780036497-6096-Gaurav_TATA-2026_05_29_12_04_57-9717188471.json",
+  "source_name": "agent-2137-1780036497-6096-Gaurav_TATA-2026_05_29_12_04_57-9717188471.mp3",
+  "created_at_utc": "2026-06-01T05:45:34Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 206.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "47 years.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main thoda sa dekh bhi leta hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer mentioned they already do SIPs.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer asked about benefits and refund, implying wealth creation/protection.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "close_attempted",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": "2026-05-29T13:04:57"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "60 lakh coverage for natural death",
+        "1 crore 20 lakh coverage for accidental death",
+        "60 lakh for accidental total permanent disability with WOP rider",
+        "premium waiver on disability",
+        "refund of money with interest after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 218240,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific ULIP product name despite mentioning 24-25 funds."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer requested a brochure and asked for a callback in one hour, indicating genuine interest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced Tata AIA and the customer asked for details about the scheme.",
+      "customer_response": "The customer was engaged, asked clarifying questions about benefits and premiums, and requested more information.",
+      "key_event": "The customer requested a brochure and a callback after one hour due to being on the road.",
+      "ending": "The customer asked for a brochure on WhatsApp and requested a callback in one hour."
+    },
+    "key_quotes": [
+      "Kya scheme hai?",
+      "Kitne ka premium hai?",
+      "Aur koi aapke paas one pager ho is policy ka to mujhe bhej do WhatsApp pe."
+    ],
+    "red_flags": [
+      "Agent claimed money is refunded with interest after 5 years on a ULIP-like product.",
+      "Agent misrepresented the product as having guaranteed returns/refunds."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

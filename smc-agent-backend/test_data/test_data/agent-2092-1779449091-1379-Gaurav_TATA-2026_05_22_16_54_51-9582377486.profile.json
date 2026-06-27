@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8033843100144127",
+  "source_transcript": "agent-2092-1779449091-1379-Gaurav_TATA-2026_05_22_16_54_51-9582377486.json",
+  "created_at_utc": "2026-06-01T02:53:05Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1779449091-1379-Gaurav_TATA-2026_05_22_16_54_51-9582377486.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi ji.",
+    "summary": "Agent pitched a Tata AIA plan and attempted discovery; customer provided age and occupation but was evasive about income, ultimately showing no interest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Khud ka business hai, kheti hamara.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

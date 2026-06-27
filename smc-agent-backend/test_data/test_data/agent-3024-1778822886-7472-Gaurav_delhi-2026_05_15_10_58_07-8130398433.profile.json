@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8651549202197544",
+  "source_transcript": "agent-3024-1778822886-7472-Gaurav_delhi-2026_05_15_10_58_07-8130398433.json",
+  "created_at_utc": "2026-06-01T01:22:53Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3024-1778822886-7472-Gaurav_delhi-2026_05_15_10_58_07-8130398433.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Income hai 20 se 25 hazaar month.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed full discovery (age 36, salaried, 20-25k monthly income), and the call ended without a refusal or callback.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "Mera age 36.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi, private job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Income hai 20 se 25 hazaar month.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki guaranteed income provide karti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

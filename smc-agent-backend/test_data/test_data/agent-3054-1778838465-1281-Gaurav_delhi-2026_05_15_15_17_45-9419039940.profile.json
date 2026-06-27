@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "8849830394257716",
+  "source_transcript": "agent-3054-1778838465-1281-Gaurav_delhi-2026_05_15_15_17_45-9419039940.json",
+  "source_name": "agent-3054-1778838465-1281-Gaurav_delhi-2026_05_15_15_17_45-9419039940.mp3",
+  "created_at_utc": "2026-05-18T06:08:04Z",
+  "transcript_stats": {
+    "segments": 77,
+    "duration_seconds": 282.16,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "44",
+        "evidence": "Customer: 44.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Aap se Preeti Gupta baat kar rahi HDFC Life se.\" Customer: \"Haan boliye ma'am.\" Agent: \"Kya hogi sir?\" (Agent addresses customer as sir repeatedly).",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Zameen vagehra hai bahut saara. Zameen bahut hai, usme gehun hota hai\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Farmer",
+        "evidence": "Customer: \"Zameen bahut hai, usme gehun hota hai\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: \"Income ho jata hai 14 lakh, 15 lakh saal mein.\"",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Haan haan haan.\" \"Pehle batayenge tab to.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Pehle batayenge tab to.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "price",
+          "quote": "Phir aapko fund issue nahi aayega phir?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "fund issue"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: \"Income ho jata hai 14 lakh, 15 lakh saal mein.\"",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asks basic questions about returns and maturity.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: \"Ye total last mein kitna paisa milega humko phir?\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Pehle batayenge tab to.\" (Implies he is the one deciding).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% income from first year",
+        "21 lakh 60 thousand maturity on 14 lakh 40 thousand investment"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not verify existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is interested in the financial returns but remains skeptical about the source and the product details."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces HDFC Life and a new guaranteed plan; customer responds with interest.",
+      "customer_response": "Customer is engaged, asking specific questions about returns and investment requirements.",
+      "key_event": "Agent explains the 36% income promise and the maturity value of 21.6 lakhs.",
+      "ending": "Customer asks where the agent obtained his number and ends the call."
+    },
+    "key_quotes": [
+      "Ye total last mein kitna paisa milega humko phir?",
+      "12 saal tak 14 lakh jama karte hain to kitna paisa milega?",
+      "Aapko number ma'am kahan se ma'am number mila?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

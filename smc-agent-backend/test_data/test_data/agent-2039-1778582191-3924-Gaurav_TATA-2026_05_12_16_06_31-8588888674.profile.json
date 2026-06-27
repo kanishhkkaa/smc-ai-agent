@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "8571312963394056",
+  "source_transcript": "agent-2039-1778582191-3924-Gaurav_TATA-2026_05_12_16_06_31-8588888674.json",
+  "source_name": "agent-2039-1778582191-3924-Gaurav_TATA-2026_05_12_16_06_31-8588888674.mp3",
+  "created_at_utc": "2026-05-15T06:34:28Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 124.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Customer: mam 50 saal",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "Customer: mam 50 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: hello good afternoon mam main Kajal baat kar rahi hun Tata AI ki taraf se choti si information ke regarding aapko call kiya gaya do minute aap se baat ho sakti hai Customer: hello Agent: haanji mam main insurance ke regarding aapse baat karna chahti hun ho sakti hai Customer: ji mam",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: hello good afternoon mam main Kajal baat kar rahi hun Tata AI ki taraf se choti si information ke regarding aapko call kiya gaya do minute aap se baat ho sakti hai",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "Customer: mam 50 saal",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: ji mam ... isme medical bhi rahega mam ... bataiye mam ... theek hai mam agar hogi to phir main ispe call karwa dungi ghar walo",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Customer: theek hai mam agar hogi to phir main ispe call karwa dungi ghar walo",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combine plan (term + mutual fund + medical + pension)",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage",
+        "Did not ask about current health status given the interest in medical features"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and showed interest in the medical features of the plan, but deferred the decision to family members."
+    },
+    "summary": "The agent called to pitch a Tata AIA combined insurance and investment plan. The customer, a 50-year-old female, expressed interest in the medical features of the plan but stated she would discuss it with her family before proceeding. The call ended with the customer agreeing to have a follow-up discussion after consulting her family.",
+    "key_quotes": [
+      "isme medical bhi rahega mam",
+      "theek hai mam agar hogi to phir main ispe call karwa dungi ghar walo"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "8447220269928668",
+  "source_transcript": "agent-2046-1779107753-5577-Gaurav_TATA-2026_05_18_18_05_53-9999918149.json",
+  "source_name": "agent-2046-1779107753-5577-Gaurav_TATA-2026_05_18_18_05_53-9999918149.mp3",
+  "created_at_utc": "2026-05-21T01:55:43Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 248.05,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Praveen Bhardwaj",
+      "evidence": "Mera naam mera naam hai mam Praveen Bhardwaj.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera business hai mam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "small business owner",
+        "evidence": "Main chhota sa business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "7-8 lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Karwa dijiye mam kabhi bhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi madam main thoda investment kar nahi paunga na abhi mere paas fund nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds for investment"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Haan health ke baare mein to pata kar lenge madam.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Mam wo depend karta hai ki single ka kya padega, family ka kya padega.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T18:15:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Health Insurance",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify if the 10L health cover was for individual or family."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer expressed interest in health insurance and agreed to a follow-up call within 10 minutes."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan with life, health, and pension benefits, to which the customer responded with a budget objection.",
+      "customer_response": "The customer was initially hesitant due to lack of funds but became engaged when the agent pivoted to health insurance.",
+      "key_event": "The customer raised a budget objection, leading the agent to pivot from a comprehensive plan to health insurance.",
+      "ending": "The agent confirmed the customer's name and promised a follow-up call within 10 minutes."
+    },
+    "key_quotes": [
+      "Nahi madam main thoda investment kar nahi paunga na abhi mere paas fund nahi hai.",
+      "Haan health ke baare mein to pata kar lenge madam.",
+      "Madam company ka to koi issue nahi hai bhai jiska keh rahe hain wo claim sahi ho bas."
+    ],
+    "red_flags": [
+      "Agent made guaranteed return claims regarding pension and life cover."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

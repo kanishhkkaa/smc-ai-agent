@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "6007276134469096",
+  "source_transcript": "2026_05_29/agent-3049-1780032175-7375-Gaurav_TATA-2026_05_29_10_52_56-9811088038.json",
+  "source_name": "agent-3049-1780032175-7375-Gaurav_TATA-2026_05_29_10_52_56-9811088038.mp3",
+  "created_at_utc": "2026-06-01T05:47:23Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 225.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Age toh meri hai 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Saal ke 6-7 lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer is actively questioning the agent's claims.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Agar term plan lena hai toh main aise hi le lunga, usme kya dikkat hai, 8-9 hazaar mein term plan mil jata hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Haan, haan rakhte hain. (regarding market knowledge)",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent mentioned pension and protection.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is evaluating the product himself.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one 1 crore term plan cover",
+        "mutual fund returns",
+        "pension facility",
+        "medical facility",
+        "premium refundable as per market"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is looking for a simple term plan and is skeptical of the high-premium 'combined' investment product pitched.",
+      "missed_opportunities": [
+        "Did not clarify the specific product name when asked."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is skeptical of the agent's claims regarding premium costs compared to standard term plans but remains engaged in the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined plan from Tata and asked for the customer's age.",
+      "customer_response": "Customer is skeptical and challenging the agent's claims about premium costs and product features.",
+      "key_event": "Customer challenged the agent's claim that a 1 crore term plan would be expensive, citing his knowledge of cheaper market alternatives.",
+      "ending": "The call was placed on hold by the agent and did not resume before the recording ended."
+    },
+    "key_quotes": [
+      "Agar term plan lena hai toh main aise hi le lunga, usme kya dikkat hai, 8-9 hazaar mein term plan mil jata hai.",
+      "Plan ka naam nahi pata, mujhe kuch nahi pata."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

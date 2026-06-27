@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "2364964905986843",
+  "source_transcript": "agent-3110-1779181785-1818-Gaurav_delhi-2026_05_19_14_39_45-9521501057.json",
+  "source_name": "agent-3110-1779181785-1818-Gaurav_delhi-2026_05_19_14_39_45-9521501057.mp3",
+  "created_at_utc": "2026-05-22T11:31:17Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 199.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Tum kutte jaisi harkat kar rahe ho jo kisi aadmi ko 3 baje call kar rahe ho.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 65,
+      "customer_question_count": 7,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Jab us cheez ki mujhe zaroorat hai nahi, abhi tum 3 baje mujhe disturb kiye ho",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40 percent fixed income from first year for whole life",
+        "8 percent return",
+        "Waiver of Premium rider covers whole family"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed product",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile and has no interest in the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was extremely hostile, used profanity, and explicitly demanded no further contact."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed product, and the customer immediately questioned the timing of the call.",
+      "customer_response": "The customer was highly aggressive and hostile, repeatedly questioning the agent's timing and professionalism.",
+      "key_event": "The customer became verbally abusive after the agent attempted to justify the unsolicited call as a 'systematic' process.",
+      "ending": "The customer told the agent to stop calling and used profanity before the call ended."
+    },
+    "key_quotes": [
+      "Tum kutte jaisi harkat kar rahe ho jo kisi aadmi ko 3 baje call kar rahe ho.",
+      "Mere paas call mat karna dobara."
+    ],
+    "red_flags": [
+      "abusive_customer",
+      "agent_unprofessionalism",
+      "guaranteed_returns_misrepresentation"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 35,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

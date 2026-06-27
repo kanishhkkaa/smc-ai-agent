@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1003348163660938",
+  "source_transcript": "agent-2059-1779621194-1868-Gaurav_delhi-2026_05_24_16_43_14-9555905726.json",
+  "created_at_utc": "2026-06-01T02:07:45Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779621194-1868-Gaurav_delhi-2026_05_24_16_43_14-9555905726.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Chaliye koi baat nahi sir. Thank you so much sir, have a nice day.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, but ended the call after the customer disclosed his occupation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "24",
+        "evidence": "Hamari age 24 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Are yahi kaam karte hain, jara masala wala.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

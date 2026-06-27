@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1900366665807435",
+  "source_transcript": "agent-2184-1779527769-6371-Gaurav_TATA-2026_05_23_14_46_10-9873728520.json",
+  "created_at_utc": "2026-06-01T02:34:19Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779527769-6371-Gaurav_TATA-2026_05_23_14_46_10-9873728520.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir abhi toh aapki plan zyada, sir age zyada ho gaya hai, plan jayega nahi sir.",
+    "summary": "The agent initiated a pitch but self-disqualified the prospect due to age, ending the call without a customer refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "66",
+        "evidence": "66 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aap jo premium pay karenge wo aapka refundable hota hai plus tax free hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

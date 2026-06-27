@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "4125782642724749",
+  "source_transcript": "2026_05_14/agent-3011-1778763867-4523-Gaurav_delhi-2026_05_14_18_34_28-8130939173__stub.json",
+  "source_name": "agent-3011-1778763867-4523-Gaurav_delhi-2026_05_14_18_34_28-8130939173.mp3",
+  "created_at_utc": "2026-06-01T04:33:02Z",
+  "transcript_stats": {
+    "segments": 63,
+    "duration_seconds": 173.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "23",
+        "evidence": "23",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "ma'am",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai mera bhi",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Hospital business",
+        "evidence": "Hospital",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "12 plus hi samjho",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "hone wala",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan boliye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Sir nahi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "guaranteed saving plan",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "as a mera partner hai uske decision thode zyada hote hain waise",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-14T18:49:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent income from first year for whole life",
+        "double tax benefit",
+        "8 percent tax free return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about existing life insurance coverage for the partner"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer was cooperative, provided personal details, and explicitly agreed to a callback in 15 minutes to discuss with her partner."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed savings plan from HDFC Life, and the customer responded with interest.",
+      "customer_response": "Engaged and cooperative throughout the call.",
+      "key_event": "Customer agreed to a callback in 15 minutes to discuss the plan with her partner.",
+      "ending": "The agent agreed to call back in 15 minutes to speak with both the customer and her partner."
+    },
+    "key_quotes": [
+      "12 plus hi samjho main toh ye jo bata ke chal rahi hun.",
+      "Almost waise woh 15 minute mein aa jayenge, 15 minute ke baad kara sakte ho aap."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "tier_1",
+      "life_stage": "early_career",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5747120195269004",
+  "source_transcript": "2026_05_21/agent-3100-1779340397-3892-Gaurav_delhi-2026_05_21_10_43_17-9454271442.json",
+  "source_name": "agent-3100-1779340397-3892-Gaurav_delhi-2026_05_21_10_43_17-9454271442.mp3",
+  "created_at_utc": "2026-06-01T05:03:21Z",
+  "transcript_stats": {
+    "segments": 64,
+    "duration_seconds": 290.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "Age nahi 39.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Lucknow",
+        "evidence": "Accha Lucknow se hai sir.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job mein hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Uh approx 20. 20 lakh? Right.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Ji badhiya, badhiya Dipankar ji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Ye jo aap 8 percent bol rahe ho, ye fix hai ki 8 percent milega hi milega?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Toh sir agar aap ek saal mein 2 lakh ki saving karke liye bachat karte hue chale toh aap comfortable hain na? Haan bataiye, theek hai dekhte hain.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked about the guarantee of the 8% return.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Plan is pitched as a savings/income plan.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job mein hain. Uh approx 20. Right.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 5,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% tax free income from first year for whole life",
+        "8% compounding growth guaranteed",
+        "37% return on premium as cash bonus annually"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was attentive, asked clarifying questions about the guarantee, and confirmed understanding of the pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life plan offering tax-free income from the first year, and the customer agreed to listen.",
+      "customer_response": "Engaged and receptive throughout the pitch, asking clarifying questions about the guarantee.",
+      "key_event": "The senior agent joined and provided a detailed breakdown of the 'Sanchay Par Advantage' plan, including guaranteed return claims.",
+      "ending": "The senior agent confirmed the customer's understanding and left the conversation open for continuation."
+    },
+    "key_quotes": [
+      "Ye jo aap 8 percent bol rahe ho, ye fix hai ki 8 percent milega hi milega?",
+      "Nahi nahi, abhi toh lagbhag saari cheezein clear hui hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_2",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

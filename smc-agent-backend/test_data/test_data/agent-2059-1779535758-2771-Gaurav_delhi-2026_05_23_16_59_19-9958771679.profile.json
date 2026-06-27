@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8621671469864801",
+  "source_transcript": "agent-2059-1779535758-2771-Gaurav_delhi-2026_05_23_16_59_19-9958771679.json",
+  "created_at_utc": "2026-06-01T02:25:03Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 95.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779535758-2771-Gaurav_delhi-2026_05_23_16_59_19-9958771679.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi sir, kahan se kar sakte hain.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the customer declined due to inability to afford the required savings amount.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "55 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hi karte hain abhi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3.5 lakh banti hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

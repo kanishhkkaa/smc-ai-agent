@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "7844472452258966",
+  "source_transcript": "2026_05_13/agent-3054-1778679435-6838-Gaurav_delhi-2026_05_13_19_07_15-9953587356.json",
+  "source_name": "agent-3054-1778679435-6838-Gaurav_delhi-2026_05_13_19_07_15-9953587356.mp3",
+  "created_at_utc": "2026-06-01T04:06:42Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 234.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "58",
+        "evidence": "58 hai sir.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Job karta hun, government job hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Abhi waise toh main Delhi rehta hun, abhi Bombay aaya hun",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi rehta hun",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun, government job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "government employee",
+        "evidence": "government job hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "saal ka aa jata hai, lagbhag 14 lakh rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aap mere ko detail mein share kar dijiye iska number.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi, kyunki main 70 ka ho jaunga, us time mujhe paise ki zaroorat nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "long-term payment commitment at age 58"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "2 lakh per year mentioned as example.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "investment plan ke regarding",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job karta hun, government job hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income within a week for lifetime"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The 12-year payment term is unsuitable for a 58-year-old customer.",
+      "missed_opportunities": [
+        "Did not ask about existing retirement corpus or pension plans."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity"
+      ],
+      "reasoning": "Customer is open to receiving information but is skeptical about the long-term commitment given his age."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life campaign offering a guaranteed income plan, to which the customer responded with interest.",
+      "customer_response": "Customer was initially passive and requested details, then pushed back on the 12-year payment term due to his age.",
+      "key_event": "Customer objected to the 12-year payment term, stating he would be 70 and not need the money then.",
+      "ending": "Customer requested the agent to send details via WhatsApp after the senior agent suggested a shorter 5-year term."
+    },
+    "key_quotes": [
+      "Aap mere ko detail mein share kar dijiye iska number.",
+      "Nahi, kyunki main 70 ka ho jaunga, us time mujhe paise ki zaroorat nahi hai."
+    ],
+    "red_flags": [
+      "Agent promised 36% guaranteed income within a week, which is highly suspicious and likely a misrepresentation."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_1",
+      "life_stage": "pre_retirement",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

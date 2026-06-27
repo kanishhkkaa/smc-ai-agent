@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1512521599610694",
+  "source_transcript": "agent-2184-1779439159-6972-Gaurav_TATA-2026_05_22_14_09_19-9015981288.json",
+  "created_at_utc": "2026-06-01T03:21:10Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 106.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779439159-6972-Gaurav_TATA-2026_05_22_14_09_19-9015981288.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Abhi aap kuch mat batao.",
+    "summary": "Agent pitched a Tata AIA combined plan and performed discovery, but the customer declined to hear further details at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium pay karenge na wo aapka refundable hota hai plus tax free hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

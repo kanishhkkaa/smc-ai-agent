@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "9695859857680610",
+  "source_transcript": "agent-3012-1779434599-709-Gaurav_TATA-2026_05_22_12_53_19-9312675470.json",
+  "created_at_utc": "2026-06-01T02:59:46Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 167.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779434599-709-Gaurav_TATA-2026_05_22_12_53_19-9312675470.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Mera already chal raha hai, matlab ki jaise life insurance 15 lakh se starting hai, 12-15 saal se chal raha hai aur woh 100 percent covered hai.",
+    "summary": "Agent pitched a Central Bank of India child plan; customer is already insured and declined due to existing coverage, ending the call without a commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50, 50.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Lifetime Partner",
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return diya jayega sir",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 38,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

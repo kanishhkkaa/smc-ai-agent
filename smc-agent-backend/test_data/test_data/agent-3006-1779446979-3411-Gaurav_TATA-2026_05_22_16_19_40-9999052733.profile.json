@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "9219314964016035",
+  "source_transcript": "agent-3006-1779446979-3411-Gaurav_TATA-2026_05_22_16_19_40-9999052733.json",
+  "created_at_utc": "2026-06-01T02:59:29Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 161.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779446979-3411-Gaurav_TATA-2026_05_22_16_19_40-9999052733.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Madam, abhi to paisa waisa hai nahi, ma'am. ... Nahi, chalo chodo.",
+    "summary": "Agent and senior agent pitched a Tata AIA plan; customer completed discovery but declined due to lack of funds.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "55 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "1 lakh rupaye mahine ka.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

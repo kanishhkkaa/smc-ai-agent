@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "2692685594562004",
+  "source_transcript": "2026_05_27/agent-3024-1779864057-2011-Gaurav_delhi-2026_05_27_12_10_57-9899779379.json",
+  "source_name": "agent-3024-1779864057-2011-Gaurav_delhi-2026_05_27_12_10_57-9899779379.mp3",
+  "created_at_utc": "2026-06-01T05:22:34Z",
+  "transcript_stats": {
+    "segments": 49,
+    "duration_seconds": 291.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "44",
+        "evidence": "44",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "self employed",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "self employed",
+        "evidence": "self employed",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "madam mail to karo pehle aap",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "madam main abhi busy hun madam aur busy hun baad mein ek baar baat",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "mail pe bhejo jo bhejna hai aap itna samay mat lagao phone pe",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient time for long calls"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bachche ki higher education ke liye amount ki need hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "self employed",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about existing life insurance coverage"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is interested in reviewing the details via email but is currently impatient and unwilling to commit to a follow-up call until he has reviewed the information."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a money-back plan, to which the customer initially responded that he was busy.",
+      "customer_response": "Customer was initially busy but became engaged, eventually becoming impatient with the length of the call and insisting on receiving information via email.",
+      "key_event": "Customer insisted on receiving the brochure via email instead of continuing the verbal explanation.",
+      "ending": "The agent agreed to send the email, and the customer refused to schedule a follow-up call until he reviewed the details."
+    },
+    "key_quotes": [
+      "mail pe bhejo jo bhejna hai aap itna samay mat lagao phone pe",
+      "madam mail to karo pehle aap"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

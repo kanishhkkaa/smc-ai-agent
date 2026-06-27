@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "4570136461656034",
+  "source_transcript": "agent-2190-1779098372-6971-Gaurav_TATA-2026_05_18_15_29_32-9821136594.json",
+  "source_name": "agent-2190-1779098372-6971-Gaurav_TATA-2026_05_18_15_29_32-9821136594.mp3",
+  "created_at_utc": "2026-05-21T02:09:00Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 223.34,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Kam se kam 20. ... 2 lakh rupaye per year hai na?",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "aap mere paas, sir aap faltu mein time waste kar rahe hai",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Abhi no sir, abhi interest nahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "aap mere paas, sir aap faltu mein time waste kar rahe hai, mere ko abhi interest mein padhna hi nahi hai sir",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bacchon ke education aur aapke marriage life ke liye hoga sir",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "5 saal ke baad aap partially withdrawal bhi kar sakte hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly stated no interest and felt time was being wasted.",
+      "missed_opportunities": [
+        "failed to build rapport before pitching"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was clearly annoyed and stated multiple times they were not interested, yet the agent persisted."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan, to which the customer responded with a neutral 'Hello'.",
+      "customer_response": "The customer was resistant and annoyed, repeatedly stating they were not interested and that the agent was wasting time.",
+      "key_event": "The customer explicitly stated 'Abhi no sir, abhi interest nahi hai' but the agent ignored this to continue the pitch.",
+      "ending": "The agent continued to push the conversation by asking about the customer's income after the customer had already expressed disinterest."
+    },
+    "key_quotes": [
+      "Abhi no sir, abhi interest nahi hai.",
+      "aap mere paas, sir aap faltu mein time waste kar rahe hai"
+    ],
+    "red_flags": [
+      "ignored_customer_budget",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

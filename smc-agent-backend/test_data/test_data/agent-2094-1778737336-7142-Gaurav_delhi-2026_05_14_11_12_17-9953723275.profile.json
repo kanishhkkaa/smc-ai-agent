@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "5592100896377964",
+  "source_transcript": "agent-2094-1778737336-7142-Gaurav_delhi-2026_05_14_11_12_17-9953723275.json",
+  "source_name": "agent-2094-1778737336-7142-Gaurav_delhi-2026_05_14_11_12_17-9953723275.mp3",
+  "created_at_utc": "2026-05-16T00:05:39Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 105.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Shiv Kumar",
+      "evidence": "Agent: meri yeh baat Shiv Kumar ji se ho rahi hai? Customer: haanji haanji bataiye.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: haanji bhai sahab. Customer: haanji haanji bataiye.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: haanji bhai sahab. Customer: haanji haanji bataiye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: pehle toh actually kya hai ki main toh karo sabzi ki dukan lagata hun ji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "sabzi ki dukan",
+        "evidence": "Customer: pehle toh actually kya hai ki main toh karo sabzi ki dukan lagata hun ji.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: filhaal abhi sabzi ki dukan kar rahe hain sir, aur abhi filhaal koi gunjaish nahi ho payegi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "filhaal abhi sabzi ki dukan kar rahe hain sir, aur abhi filhaal koi gunjaish nahi ho payegi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: filhaal abhi sabzi ki dukan kar rahe hain sir, aur abhi filhaal koi gunjaish nahi ho payegi.",
+        "confidence": "high"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is currently in financial distress and has no capacity for investment products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "6_12_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is currently facing financial hardship after a business loss and explicitly stated they have no capacity for investment."
+    },
+    "summary": "The agent called Shiv Kumar to pitch an HDFC Life product. The customer explained he is currently running a vegetable stall due to a previous business loss and has no financial capacity for investment. The agent ended the call after the customer expressed inability to invest.",
+    "key_quotes": [
+      "pehle toh actually kya hai ki main toh karo sabzi ki dukan lagata hun ji.",
+      "business kara tha usmein loss ho gaya toh filhaal yahi chal raha hai.",
+      "filhaal abhi sabzi ki dukan kar rahe hain sir, aur abhi filhaal koi gunjaish nahi ho payegi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

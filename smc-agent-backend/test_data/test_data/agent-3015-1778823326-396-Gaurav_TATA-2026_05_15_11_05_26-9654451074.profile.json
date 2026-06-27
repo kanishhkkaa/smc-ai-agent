@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2197901021400287",
+  "source_transcript": "agent-3015-1778823326-396-Gaurav_TATA-2026_05_15_11_05_26-9654451074.json",
+  "created_at_utc": "2026-06-01T01:20:21Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1778823326-396-Gaurav_TATA-2026_05_15_11_05_26-9654451074.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi ma'am, woh bhi nahi chahiye. Aap policy do, paisa jama kar dena aap apne paas se.",
+    "summary": "Agent pitched a Tata Param Raksha Pro Plus plan; customer expressed interest in free insurance, demand for the agent to pay the premium, and ultimately refused the most recent offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro Plus",
+    "compliance": {
+      "return_claim_quote": "survival time pe bhi aapke returns provide kiye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

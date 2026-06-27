@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "7203832549642012",
+  "source_transcript": "agent-2037-1778577864-7694-Gaurav_delhi-2026_05_12_14_54_24-9811363043.json",
+  "source_name": "agent-2037-1778577864-7694-Gaurav_delhi-2026_05_12_14_54_24-9811363043.mp3",
+  "created_at_utc": "2026-05-15T06:33:32Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 65.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Arjun's wife",
+      "evidence": "Agent: Ma'am sir ka naam Ajay hai kya, Ajay Kumar? Customer: Nahi, Arjun.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Customer: Main ghar par, main toh housewife hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: A very good evening, Gaurav baat kar raha hun HDFC Life ke behalf se, how are you? Customer: Abhi toh main busy hun, aap kal call karna.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Customer: Main ghar par, main toh housewife hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: Haanji, toh main husband ke saath baat karwa dungi aapki.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: Main ghar par, main toh housewife hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Abhi toh main busy hun, aap kal call karna. Customer: Haan haan 11 baje.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: Haanji, toh main husband ke saath baat karwa dungi aapki.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 1,
+      "bant_total": 2,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "tomorrow 11:00 AM",
+        "evidence": "Customer: Aap maine bola toh sahi 11 baje. Agent: Accha 11 baje morning mein? Customer: Haanji.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving investment income plan",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "life_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer agreed to a callback at 11 AM tomorrow and offered to connect the agent with her husband, who is the decision-maker."
+    },
+    "summary": "The agent called a customer to pitch a guaranteed savings plan. The customer was busy but agreed to a callback at 11 AM the next day, stating she would connect the agent with her husband, Arjun, who is the decision-maker. The agent used misleading language regarding guaranteed returns.",
+    "key_quotes": [
+      "Abhi toh main busy hun, aap kal call karna.",
+      "Main ghar par, main toh housewife hun.",
+      "Haanji, toh main husband ke saath baat karwa dungi aapki."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

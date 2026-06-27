@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8033758277314304",
+  "source_transcript": "agent-3024-1779534849-5616-Gaurav_delhi-2026_05_23_16_44_09-7838287731.json",
+  "created_at_utc": "2026-06-01T02:39:50Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 45.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3024-1779534849-5616-Gaurav_delhi-2026_05_23_16_44_09-7838287731.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, main Noida walon pe zyada bharosa nahi karta, main Delhi mein theek hun, thank you.",
+    "summary": "Agent pitched an HDFC Life money-back plan; customer expressed distrust of the Noida branch and declined the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki na guaranteed income aani start ho jaati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

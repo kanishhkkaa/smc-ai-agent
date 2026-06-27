@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9185970044287889",
+  "source_transcript": "agent-2103-1779605691-7303-Gaurav_delhi-2026_05_24_12_24_51-9582430002.json",
+  "created_at_utc": "2026-06-01T02:09:53Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 89.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2103-1779605691-7303-Gaurav_delhi-2026_05_24_12_24_51-9582430002.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Itna paisa nahi hai.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer provided age and occupation but declined due to lack of funds.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "62",
+        "evidence": "62.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Naukri karta hun ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki income aana start ho jaati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

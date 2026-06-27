@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4219541378515531",
+  "source_transcript": "agent-2059-1779432552-2854-Gaurav_delhi-2026_05_22_12_19_12-9971085913.json",
+  "created_at_utc": "2026-06-01T02:49:23Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 132.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779432552-2854-Gaurav_delhi-2026_05_22_12_19_12-9971085913.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Are isme bacche padhana hai bacche ka fees dena hai. Bahut kuch hai.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the customer declined due to financial commitments regarding children's education and fees.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "52",
+        "evidence": "52.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "42000",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

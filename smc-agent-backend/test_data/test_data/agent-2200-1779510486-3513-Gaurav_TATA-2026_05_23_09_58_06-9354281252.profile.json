@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9735718433834151",
+  "source_transcript": "agent-2200-1779510486-3513-Gaurav_TATA-2026_05_23_09_58_06-9354281252.json",
+  "created_at_utc": "2026-06-01T02:34:49Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 51.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779510486-3513-Gaurav_TATA-2026_05_23_09_58_06-9354281252.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Usme loan hum nahi lenge loan abhi toh.",
+    "summary": "The agent attempted to pitch a Tata AIA combined plan, but the customer misunderstood the offer as a loan and expressed disinterest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

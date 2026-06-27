@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "5940921901302391",
+  "source_transcript": "agent-2014-1778754344-3187-Gaurav_delhi-2026_05_14_15_55_45-8920496668.json",
+  "source_name": "agent-2014-1778754344-3187-Gaurav_delhi-2026_05_14_15_55_45-8920496668.mp3",
+  "created_at_utc": "2026-05-15T23:52:28Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 92.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Speaker 1: ji meri age hogi 30.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Speaker 1: ji meri age hogi 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Speaker 1: haan ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Speaker 1: madam job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Speaker 1: aa madam, maan lijiye aap 20 plus.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Speaker 1: madam job karte hain.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Speaker 1: toh mujhe kisi ke suggestion ki jarurat kya padegi?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "5-6 toh madam bahut jyada ho gaya na.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "haan haan madam agar monthly mein 5 ke bata raha hun toh main khud na saving kar lun iske alawa. toh mujhe kisi ke suggestion ki jarurat kya padegi?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Speaker 1: 5-6 toh madam bahut jyada ho gaya na.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "agent_pushed_monthly_emi_to_meet_targets"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "combo plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer has low savings capacity and was offended by the agent's pushy sales tactics.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer was clearly annoyed by the agent's pushy behavior regarding savings amounts and ended the call abruptly."
+    },
+    "summary": "The agent called to pitch a combo plan from HDFC Life. The customer, a 30-year-old salaried individual, was initially cooperative but became hostile when the agent insisted on a monthly savings amount of 5-6 thousand, which the customer deemed too high. The call ended with the customer questioning the need for the agent's services.",
+    "key_quotes": [
+      "5-6 toh madam bahut jyada ho gaya na.",
+      "toh mujhe kisi ke suggestion ki jarurat kya padegi?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "agent_pushed_monthly_emi_to_meet_targets",
+      "hostile_customer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

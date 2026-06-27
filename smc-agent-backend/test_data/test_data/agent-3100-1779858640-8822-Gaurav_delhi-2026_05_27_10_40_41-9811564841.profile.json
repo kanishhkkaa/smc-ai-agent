@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "1868516506137922",
+  "source_transcript": "2026_05_27/agent-3100-1779858640-8822-Gaurav_delhi-2026_05_27_10_40_41-9811564841.json",
+  "source_name": "agent-3100-1779858640-8822-Gaurav_delhi-2026_05_27_10_40_41-9811564841.mp3",
+  "created_at_utc": "2026-06-01T05:25:52Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 96.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Housewife hain? Haanji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Housewife hain? Haanji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Housewife",
+        "evidence": "Housewife",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Toh ma'am agar aapke husband hain unse ek baar baat kara deti",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi nahi kuch nahi chahiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi sir, kuch nahi aise lena plan.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Ji, haan decision wahi lete hain aur woh abhi busy line mein hain.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi kuch nahi chahiye.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "husband is an investment manager",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Ji, haan decision wahi lete hain",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for whole life",
+        "8% annual growth"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not interested and husband is an investment professional.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated she does not want any plan and deferred to her husband who is an investment manager."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life plan with guaranteed income, and the customer responded with a polite acknowledgment.",
+      "customer_response": "Customer was passive and initially resistant, eventually declining the offer.",
+      "key_event": "Customer revealed her husband is an investment manager, effectively ending the agent's pitch.",
+      "ending": "Agent accepted the refusal and ended the call."
+    },
+    "key_quotes": [
+      "Nahi nahi sir, kuch nahi aise lena plan.",
+      "Ji, haan decision wahi lete hain aur woh abhi busy line mein hain.",
+      "Nahi nahi kuch nahi chahiye."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

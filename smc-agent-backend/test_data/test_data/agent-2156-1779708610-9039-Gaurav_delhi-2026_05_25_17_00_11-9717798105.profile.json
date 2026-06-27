@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "1975657813399346",
+  "source_transcript": "agent-2156-1779708610-9039-Gaurav_delhi-2026_05_25_17_00_11-9717798105.json",
+  "source_name": "agent-2156-1779708610-9039-Gaurav_delhi-2026_05_25_17_00_11-9717798105.mp3",
+  "created_at_utc": "2026-05-27T01:24:19Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Customer: 43.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Sales in food industry",
+        "evidence": "Customer: Sales. ... Food sales.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 7-8 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: 'toh abhi kuch hai nahi karne ke liye toh isliye nahi kar raha.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "HDFC Life mein Sanchay Par Advantage mera chal raha hai aur ek doosra chal raha hai, toh abhi kuch hai nahi karne ke liye toh isliye nahi kar raha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 'HDFC Life mein Sanchay Par Advantage mera chal raha hai'",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 'Mere aur bhi plan chal rahe hain.'",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "first year se 40 percent ki income milni shuru ho jaati hai",
+        "lifetime income ka option"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already owns multiple HDFC Life products and has no current need or interest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer already has multiple HDFC Life plans and explicitly stated he is not interested in more."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately launched into a pitch about a new campaign.",
+      "customer_response": "Customer was passive and polite but firm in his refusal due to existing commitments.",
+      "key_event": "Customer stated he already has 'Sanchay Par Advantage' and other plans, effectively closing the pitch.",
+      "ending": "Agent thanked the customer and ended the call after the customer declined further interest."
+    },
+    "key_quotes": [
+      "HDFC Life mein Sanchay Par Advantage mera chal raha hai aur ek doosra chal raha hai, toh abhi kuch hai nahi karne ke liye toh isliye nahi kar raha."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

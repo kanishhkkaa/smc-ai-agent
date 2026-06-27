@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "9104009233284628",
+  "source_transcript": "agent-2103-1779686616-6463-Gaurav_delhi-2026_05_25_10_53_36-9711509938.json",
+  "source_name": "agent-2103-1779686616-6463-Gaurav_delhi-2026_05_25_10_53_36-9711509938.mp3",
+  "created_at_utc": "2026-05-27T01:19:07Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 196.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "21",
+        "evidence": "Mam meri age hai 21.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer refers to himself as 'bhaiya' and 'sir'.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera transport ka business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "transport business",
+        "evidence": "Mera transport ka business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer stated 4-5 lakh annual income.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was initially frustrated but engaged with the second agent.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "both",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Pehle to aap thoda slow boliye, itna fast bol rahi hai aap, mere kuch palle nahi pad pa raha hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "agent speaking too fast",
+        "lack of clarity on product features"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked 'Ye kya hota hai mam?' regarding annual income and expressed confusion about the product.",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "To aap ise apni par apne father ke se baat kara denge aap apna? Customer: Father ji hai nahi hai, father ji bahar gaye hai.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 36 percent ki income aana start ho jati hai",
+        "double tax ka benefit",
+        "8 percent ka compounding interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 21 and has a low annual income; the product complexity and premium requirements may not align well.",
+      "missed_opportunities": [
+        "Did not clarify the specific need for insurance beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is interested in understanding the product but was frustrated by the agent's speed and lack of clarity."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was initially confused and frustrated by the agent's rapid speech, but remained willing to listen to the relationship manager.",
+      "key_event": "The customer requested the agent to slow down, leading to a handover to a relationship manager.",
+      "ending": "The call ended abruptly after the customer mentioned his father was out of town."
+    },
+    "key_quotes": [
+      "Pehle to aap thoda slow boliye, itna fast bol rahi hai aap, mere kuch palle nahi pad pa raha hai.",
+      "Mera transport ka business hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

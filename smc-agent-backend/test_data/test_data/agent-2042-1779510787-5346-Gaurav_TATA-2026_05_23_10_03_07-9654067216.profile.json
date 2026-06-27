@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2036691846491353",
+  "source_transcript": "agent-2042-1779510787-5346-Gaurav_TATA-2026_05_23_10_03_07-9654067216.json",
+  "created_at_utc": "2026-06-01T02:21:27Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2042-1779510787-5346-Gaurav_TATA-2026_05_23_10_03_07-9654067216.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Job toh kuch bhi nahi karti hun.",
+    "summary": "Agent pitched a Tata AIA plan and initiated discovery, but the call ended after the customer disclosed she is a homemaker.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Job toh kuch bhi nahi karti hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund se acche returns milte hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": true,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "8282337381743792",
+  "source_transcript": "2026_05_26/agent-3055-1779788689-5336-Gaurav_TATA-2026_05_26_15_14_49-9810439962.json",
+  "source_name": "agent-3055-1779788689-5336-Gaurav_TATA-2026_05_26_15_14_49-9810439962.mp3",
+  "created_at_utc": "2026-06-01T05:12:19Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Modak Gupta",
+      "evidence": "Aapka naam hai Modak Gupta right?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "I am a cancer patient, cover milega?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": [
+        "medical eligibility for insurance due to cancer diagnosis"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Monthly ka 5000",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main toh HDFC ka purana customer hun na",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer has a pre-existing condition (cancer) which likely makes them ineligible for standard life insurance products.",
+      "missed_opportunities": [
+        "Did not ask about other financial goals beyond the product pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is interested in the product but has a specific medical condition (cancer) that needs clarification regarding eligibility."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed income plan, and the customer acknowledged.",
+      "customer_response": "Customer was engaged and inquisitive, asking about investment minimums and life cover, but became slightly defensive regarding data privacy.",
+      "key_event": "Customer disclosed they are a cancer patient, prompting the agent to pause the pitch to verify eligibility.",
+      "ending": "The agent put the customer on hold to check eligibility for a cancer patient, and the call ended with the customer asking if they should wait or expect a callback."
+    },
+    "key_quotes": [
+      "I am a cancer patient, cover milega?",
+      "Age aapke paas honi chahiye, aapke paas number hai toh age bhi honi chahiye."
+    ],
+    "red_flags": [
+      "medical_underwriting_risk"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

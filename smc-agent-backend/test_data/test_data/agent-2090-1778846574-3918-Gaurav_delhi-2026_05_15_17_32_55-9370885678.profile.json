@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8853662751263676",
+  "source_transcript": "agent-2090-1778846574-3918-Gaurav_delhi-2026_05_15_17_32_55-9370885678.json",
+  "created_at_utc": "2026-06-01T01:10:53Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1778846574-3918-Gaurav_delhi-2026_05_15_17_32_55-9370885678.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aisa nahi hai madam, main samay hota hai.",
+    "summary": "Agent pitched HDFC Life plan with guaranteed returns, but the customer (a farmer) repeatedly actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/actually/```json",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "I am a farmer.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki income ka support diya ja raha hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "5890088012766052",
+  "source_transcript": "2026_05_28/agent-2106-1779948098-8312-Gaurav_delhi-2026_05_28_11_31_38-7838995251.json",
+  "source_name": "agent-2106-1779948098-8312-Gaurav_delhi-2026_05_28_11_31_38-7838995251.mp3",
+  "created_at_utc": "2026-06-01T05:34:40Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Meri toh 48.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent addressed as 'sir'.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera gas ka kaam hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Gas business",
+        "evidence": "Gas business, gas, gas banne ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "kharcha paani nikal leta hun",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "kharcha paani nikal leta hun, haan. nikal leta hun, haan.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "kharcha paani nikal leta hun",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main toh bhai, umar zyada ho rahi hai toh isliye ghar pe hi rehta hun",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se 40 percent ki income",
+        "8 percent ka rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is semi-retired with limited income, unsuitable for investment-linked insurance products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is elderly, retired/semi-retired, and explicitly stated he only earns enough for household expenses, making him a poor fit for investment products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a new plan, customer responded with a curt 'Haan, bolo'.",
+      "customer_response": "Customer was passive and confused about the nature of the call, eventually clarifying his limited financial status.",
+      "key_event": "Customer clarified he is semi-retired and only earns enough for basic household expenses.",
+      "ending": "Agent acknowledged the customer's limited income and ended the call abruptly."
+    },
+    "key_quotes": [
+      "Insurance mangwane ke liye?",
+      "kharcha paani nikal leta hun"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

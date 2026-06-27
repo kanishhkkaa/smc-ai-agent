@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1604555934579396",
+  "source_transcript": "agent-2184-1779516427-1689-Gaurav_TATA-2026_05_23_11_37_08-9968345199.json",
+  "created_at_utc": "2026-06-01T02:34:13Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779516427-1689-Gaurav_TATA-2026_05_23_11_37_08-9968345199.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Are hum level aadmi hain. Kuch nahi hai, hum level aadmi hain.",
+    "summary": "Agent pitched a Tata AIA combined plan and attempted discovery; customer provided age and occupation but was vague about income, ending the call without commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "44",
+        "evidence": "Hamari abhi 44 saal hai kya.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium pay karenge wo aapka refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

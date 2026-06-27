@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "8378226130554180",
+  "source_transcript": "agent-3104-1778829519-4162-Gaurav_delhi-2026_05_15_12_48_39-9873096892.json",
+  "source_name": "agent-3104-1778829519-4162-Gaurav_delhi-2026_05_15_12_48_39-9873096892.mp3",
+  "created_at_utc": "2026-05-18T06:09:12Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 144.12,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Abhi mera 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "main Arun baat kar raha hun... Sir, HDFC ka ek guaranteed income plan hai... (Agent addresses customer as 'sir')",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Chappal ka business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Footwear manufacturing business owner",
+        "evidence": "Chappal ka business hai. Manufacturing hai chappalon ki? Ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Lagbhag 50 ke aas paas ho jata hai. (Assuming 50k/month = 6LPA)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Nahi, sir, thoda busy hain na, vyapari hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi, sir, thoda busy hain na, vyapari hain.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "1 lakh 20 hazaar saal ka. (Customer did not object to this amount)",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Khud ka business hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income within a year",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Income Plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is a busy business owner who expressed interest but could not commit to a specific callback time due to his unpredictable schedule."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a pitch for a guaranteed income plan, and the customer responded with a polite 'Ji, ji'.",
+      "customer_response": "The customer was passive but polite, listening to the pitch but hesitant to commit to a specific callback time due to his busy business schedule.",
+      "key_event": "The agent pitched a 1.2L annual investment plan, which the customer acknowledged but then deflected when asked for a callback time.",
+      "ending": "The call ended with the customer stating he cannot provide a specific time for a callback because his schedule is unpredictable."
+    },
+    "key_quotes": [
+      "Chappal ka business hai.",
+      "Nahi, sir, thoda busy hain na, vyapari hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "early_career",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

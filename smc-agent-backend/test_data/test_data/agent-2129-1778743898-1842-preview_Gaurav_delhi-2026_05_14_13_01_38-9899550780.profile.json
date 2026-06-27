@@ -1,0 +1,203 @@
+{
+  "status": "success",
+  "profile_id": "6607795677431077",
+  "source_transcript": "agent-2129-1778743898-1842-preview_Gaurav_delhi-2026_05_14_13_01_38-9899550780.json",
+  "source_name": "agent-2129-1778743898-1842-preview_Gaurav_delhi-2026_05_14_13_01_38-9899550780.mp3",
+  "created_at_utc": "2026-05-16T00:08:30Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 131.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "hello, sir main Deepankar baat kar raha hun HDFC Life insurance se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "main discuss karunga family mein",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "theek hai, aap apni bilkul jagah theek ho main mana nahi kar raha, but just share the things to on whatsapp to me na",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "aap ek kaam karo, ye details mujhe whatsapp pe daal do bhaiya.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "spouse_decision",
+          "quote": "main discuss karunga family mein tab fir main aap se baat karunga meeting ke liye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "main discuss karunga family mein",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 4,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life insurance plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not perform any discovery questions to understand customer's actual financial goals or current portfolio."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was firm about receiving information via WhatsApp first to discuss with family, but remained polite and open to future contact if interested."
+    },
+    "summary": "The agent attempted to pitch an HDFC Life insurance plan, claiming guaranteed lifetime returns of 38% of the premium. The customer declined a meeting, requesting the information be sent via WhatsApp instead to discuss with their family. The agent struggled to move past the customer's request for digital information, and the call ended with the agent agreeing to send the details.",
+    "key_quotes": [
+      "aap ek kaam karo, ye details mujhe whatsapp pe daal do bhaiya.",
+      "main discuss karunga family mein tab fir main aap se baat karunga meeting ke liye.",
+      "theek hai, aap apni bilkul jagah theek ho main mana nahi kar raha, but just share the things to on whatsapp to me na"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

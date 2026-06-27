@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "7692780282616115",
+  "source_transcript": "agent-3054-1779171172-3042-Gaurav_delhi-2026_05_19_11_42_53-8693834344.json",
+  "source_name": "agent-3054-1779171172-3042-Gaurav_delhi-2026_05_19_11_42_53-8693834344.mp3",
+  "created_at_utc": "2026-05-22T11:29:09Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 177.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "'Running 42.'",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "'mera toh khud ka business hai.'",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "'mera toh khud ka business hai.'",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "'Chhe lakh something ho jaate hain na right?' 'Haan.'",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "'Nahi nahi mere ko matlab nahi chahiye.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi mere ko matlab nahi chahiye.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Bas LIC chalu hai meri.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "mere paas matlab ye bhi nahi matlab fund bhi nahi available zyada bachta",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "lack of available funds",
+        "time constraints"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "'ek year ending mein mere paas dedh do lakh rupaye bach jaate hain.'",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "'mera toh khud ka business hai.'",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income for lifetime",
+        "double tax benefit",
+        "8 percent compounded rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated they have no funds and are not interested in new products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated multiple times they are not interested and do not have funds available."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed income campaign from HDFC Life, to which the customer responded with a neutral 'Haan boliye na'.",
+      "customer_response": "The customer was consistently dismissive and repeatedly stated they were not interested in new plans.",
+      "key_event": "The customer explicitly rejected the offer, stating they already have LIC and no extra funds, but the agent ignored this and continued the pitch.",
+      "ending": "The agent continued to press the customer about their savings even after the customer declined multiple times, ending with an intrusive question."
+    },
+    "key_quotes": [
+      "Nahi nahi mere ko matlab nahi chahiye.",
+      "Bas LIC chalu hai meri.",
+      "mere paas matlab ye bhi nahi matlab fund bhi nahi available zyada bachta"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

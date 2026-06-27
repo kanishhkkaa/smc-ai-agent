@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "3663454528505206",
+  "source_transcript": "agent-2129-1779079268-6959-Gaurav_delhi-2026_05_18_10_11_08-9996869004.json",
+  "source_name": "agent-2129-1779079268-6959-Gaurav_delhi-2026_05_18_10_11_08-9996869004.mp3",
+  "created_at_utc": "2026-05-20T11:06:30Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 166.8,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "46.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Haanji business karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Computer repairing shop owner",
+        "evidence": "Computers repairing.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Monthly toh ye maan lo sara kuch karke 25-30 hazar ka toh bacch hi jata hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Monthly toh ye maan lo sara kuch karke 25-30 hazar ka toh bacch hi jata hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "Agar aapko future mein laga mujhe fund ki zaroorat hai toh withdraw bhi le sakte hain is plan se.",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Haanji business karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T11:11:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35 percent guarantee income whole life",
+        "income is tax free",
+        "1 lakh investment for 12 years grows to 19 lakh",
+        "35 percent return on 1 lakh is 35,000 annually"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Income Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent's math regarding 5k/month vs 1 lakh/year is incoherent and misleading.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer is listening and engaged with the numbers, though confused by the math, suggesting potential for a follow-up."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a pitch for a guaranteed income plan, and the customer responded neutrally.",
+      "customer_response": "The customer was passive and listening, occasionally asking for clarification on the agent's confusing math.",
+      "key_event": "The agent made a confusing claim about 5,000 monthly savings equaling 1 lakh annually, which the customer questioned.",
+      "ending": "The agent promised a follow-up call from a senior within an hour to explain further."
+    },
+    "key_quotes": [
+      "Mahine ka 5000 saal ka 1 lakh kaise ban gaya?",
+      "Monthly toh ye maan lo sara kuch karke 25-30 hazar ka toh bacch hi jata hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

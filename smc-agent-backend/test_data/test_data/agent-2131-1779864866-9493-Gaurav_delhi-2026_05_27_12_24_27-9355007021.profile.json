@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "9577710097914490",
+  "source_transcript": "2026_05_27/agent-2131-1779864866-9493-Gaurav_delhi-2026_05_27_12_24_27-9355007021.json",
+  "source_name": "agent-2131-1779864866-9493-Gaurav_delhi-2026_05_27_12_24_27-9355007021.mp3",
+  "created_at_utc": "2026-06-01T05:19:41Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 92.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "34 hai ji.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Private company employee",
+        "evidence": "Main ek private company mein kaam karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "18,500 rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Filhal toh nahi ho paata ji, hum toh 1,000-1,500 rupaye waale hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Filhal toh nahi ho paata ji, hum toh 1,000-1,500 rupaye waale hain.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient funds for premium"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "hum toh 1,000-1,500 rupaye waale hain.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "hum toh 1,000-1,500 rupaye waale hain.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35 percent company aapko return kar deti hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 55000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer cannot afford the minimum premium of 50,000-60,000 INR.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer explicitly stated they cannot afford the minimum premium required for the plan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed savings plan, and the customer responded neutrally.",
+      "customer_response": "The customer was passive and polite, eventually declining due to budget constraints.",
+      "key_event": "The agent revealed a minimum annual premium requirement of 50,000-60,000 INR, which the customer could not meet.",
+      "ending": "The agent accepted the customer's refusal and ended the call cordially."
+    },
+    "key_quotes": [
+      "Filhal toh nahi ho paata ji, hum toh 1,000-1,500 rupaye waale hain."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

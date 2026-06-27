@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6786748561017007",
+  "source_transcript": "agent-3006-1779517450-565-Gaurav_TATA-2026_05_23_11_54_11-9950336236.json",
+  "created_at_utc": "2026-06-01T02:35:35Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 52.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779517450-565-Gaurav_TATA-2026_05_23_11_54_11-9950336236.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Madam main abhi thoda sa busy hun. Aap mere ko baad mein call karo na. Kal, kal din mein call karo.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer requested a callback for the next day due to being busy.",
+    "callback_time_iso": "2026-05-24T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke return bhi provide kar rahi",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

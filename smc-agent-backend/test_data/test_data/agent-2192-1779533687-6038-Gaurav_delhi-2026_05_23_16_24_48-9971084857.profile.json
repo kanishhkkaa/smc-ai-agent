@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8839911535892606",
+  "source_transcript": "agent-2192-1779533687-6038-Gaurav_delhi-2026_05_23_16_24_48-9971084857.json",
+  "created_at_utc": "2026-06-01T02:34:53Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 65.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1779533687-6038-Gaurav_delhi-2026_05_23_16_24_48-9971084857.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay sir, thank you.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the agent self-disqualified the prospect due to his occupation as a farmer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "31",
+        "evidence": "Accha, 31.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "ghar mein kheti-baadi kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai first year se",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

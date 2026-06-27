@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "2787091646844881",
+  "source_transcript": "agent-3045-1778745720-6722-Gaurav_TATA-2026_05_14_13_32_00-9873722709.json",
+  "source_name": "agent-3045-1778745720-6722-Gaurav_TATA-2026_05_14_13_32_00-9873722709.mp3",
+  "created_at_utc": "2026-05-16T00:23:59Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 88.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "32 saal",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "32 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "sir main aapse Karina baat kar rahi hun sir Tata AIA ke behalf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "main dono, apna kaam bhi hai.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "main dono, apna kaam bhi hai.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "25 se 30 hazaar monthly",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "32 saal",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "okay, fir toh sir plan toh eligible nahi hai fir. okay sir thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "no",
+        "evidence": "ITR file karte hain? Customer: nahi.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer does not file ITR, making them ineligible for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer does not meet the eligibility criteria for the product (no ITR filing) and has a low income level."
+    },
+    "summary": "The agent called to pitch a term plus mutual fund plan. The customer disclosed their age (32), occupation (business), and monthly income (25-30k). Upon learning the customer does not file ITR, the agent terminated the call as the customer was ineligible.",
+    "key_quotes": [
+      "32 saal",
+      "main dono, apna kaam bhi hai.",
+      "25 se 30 hazaar monthly"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

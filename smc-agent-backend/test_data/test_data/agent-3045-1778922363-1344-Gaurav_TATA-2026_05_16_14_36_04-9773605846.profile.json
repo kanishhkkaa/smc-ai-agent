@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "7219699928143936",
+  "source_transcript": "2026_05_16/agent-3045-1778922363-1344-Gaurav_TATA-2026_05_16_14_36_04-9773605846.json",
+  "source_name": "agent-3045-1778922363-1344-Gaurav_TATA-2026_05_16_14_36_04-9773605846.mp3",
+  "created_at_utc": "2026-06-01T04:49:45Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 121.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "63",
+        "evidence": "Meri age hai 63.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Mrs ka 60 hai mera.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Chalo theek hai madam main baad mein call karta hun meeting mein hun thoda main.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Sir fir aapke naam se to nahi ho payega sir kyunki aapka age to zyada ho gaya hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main bacche wagera kaun se baad mein puchunga. Apne khud ka hai to.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one se hi 1 crore plus 60 lakh cover provide karti hai",
+        "premium pay karenge wo aapka refundable hota hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer age (63) exceeds the product eligibility limit (60).",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is ineligible due to age and showed no interest in purchasing for family members."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and pitched a term plus investment plan, to which the customer responded with interest.",
+      "customer_response": "The customer was initially curious about the premium but became dismissive once the agent stated he was ineligible due to his age.",
+      "key_event": "The agent informed the customer that he was ineligible for the plan due to being over the age limit of 60.",
+      "ending": "The customer ended the call by stating he was in a meeting and would call back later, effectively closing the conversation."
+    },
+    "key_quotes": [
+      "Meri age hai 63.",
+      "Nahi kisi ke naam par kis liye karna mere naam se jo kuch karna hai.",
+      "Chalo theek hai madam main baad mein call karta hun meeting mein hun thoda main."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

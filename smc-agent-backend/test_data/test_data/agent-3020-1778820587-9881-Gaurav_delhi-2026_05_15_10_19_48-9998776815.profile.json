@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3394066169252058",
+  "source_transcript": "agent-3020-1778820587-9881-Gaurav_delhi-2026_05_15_10_19_48-9998776815.json",
+  "created_at_utc": "2026-06-01T01:20:45Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1778820587-9881-Gaurav_delhi-2026_05_15_10_19_48-9998776815.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Age 28.",
+    "summary": "Agent pitched a HDFC Life saving plan with high income returns, and the customer is starting to disclose information, age 28, before the call ends.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "28",
+        "evidence": "Age 28.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "annual premium par 36 percent ki income return milti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

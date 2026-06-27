@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "1999679823232480",
+  "source_transcript": "agent-2028-1778759723-8374-Gaurav_TATA-2026_05_14_17_25_24-9999974444.json",
+  "source_name": "agent-2028-1778759723-8374-Gaurav_TATA-2026_05_14_17_25_24-9999974444.mp3",
+  "created_at_utc": "2026-05-15T23:54:10Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "22",
+        "evidence": "Customer: Abhi 22 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "Customer: Abhi 22 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, very good evening, Aanchal baat kar rahi hun main Tata AIA se sir. Customer: Ek minute, aapki baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Ji haan, main abhi job kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: 50,000 per month.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Abhi 22 hai. Customer: Ji haan, main abhi job kar raha hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji ji. Customer: Haan, pehle se maine kar rakha hai, maine investment kar rakha hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "gold",
+        "mutual_funds"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: Jaise main gold wagera mein investment karta hun. Customer: Haan, pehle se maine kar rakha hai, maine investment kar rakha hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals or risk appetite.",
+        "Did not probe into the existing SIP details."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "mutual_fund_sip",
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is young, employed, and already investing, making them a good candidate for future financial products."
+    },
+    "summary": "The agent called to pitch a Tata AIA term plus mutual fund plan. The customer, a 22-year-old salaried individual earning 50k/month, disclosed they already invest in gold and mutual funds. The call was interrupted by the agent and ended abruptly during the pitch.",
+    "key_quotes": [
+      "Abhi 22 hai.",
+      "50,000 per month.",
+      "Jaise main gold wagera mein investment karta hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

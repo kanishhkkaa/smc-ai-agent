@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "4832308546734486",
+  "source_transcript": "2026_05_27/agent-2130-1779871730-7311-Gaurav_TATA-2026_05_27_14_18_51-9694131114.json",
+  "source_name": "agent-2130-1779871730-7311-Gaurav_TATA-2026_05_27_14_18_51-9694131114.mp3",
+  "created_at_utc": "2026-06-01T05:19:13Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 211.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "Age meri hai 46",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "45 per month",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Bahut mehenga hai, bahut mehenga hai, itna main nahi kar paunga sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Bahut mehenga hai, bahut mehenga hai, itna main nahi kar paunga sir.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Abhi maine actually mein ICICI ka 1 crore ka karaya hai maine",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "premium too expensive"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer understands the difference between pure term and investment-linked plans.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent pitched investment/pension, customer focused on protection.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Abhi maine actually mein ICICI ka 1 crore ka karaya hai maine",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "2 crore accidental cover (personal vehicle)",
+        "3 crore accidental cover (other vehicle)",
+        "partial withdrawal after 5 years",
+        "pension benefit at age 60"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 15353,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has a term plan and found the premium for this combined product too high.",
+      "missed_opportunities": [
+        "Did not explore health insurance specifically as a standalone product after the customer rejected the combined plan."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer explicitly stated the product is too expensive and already has a term plan, showing low interest in this specific high-premium offer."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA combined term and investment plan, and the customer asked for the monthly charge.",
+      "customer_response": "The customer was initially engaged but became dismissive after hearing the high premium quote compared to his existing policy.",
+      "key_event": "The customer compared the agent's quote to his existing ICICI term plan, highlighting the significant price difference.",
+      "ending": "The call ended politely with both parties exchanging thanks after the customer rejected the offer due to cost."
+    },
+    "key_quotes": [
+      "Bahut mehenga hai, bahut mehenga hai, itna main nahi kar paunga sir.",
+      "Abhi maine actually mein ICICI ka 1 crore ka karaya hai maine"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

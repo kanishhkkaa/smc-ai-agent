@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "9719128880457494",
+  "source_transcript": "agent-3045-1779169253-5844-Gaurav_TATA-2026_05_19_11_10_53-9953560272.json",
+  "source_name": "agent-3045-1779169253-5844-Gaurav_TATA-2026_05_19_11_10_53-9953560272.mp3",
+  "created_at_utc": "2026-05-22T11:26:04Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 185.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: 26.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job kar raha hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job",
+        "evidence": "Customer: Job kar raha hoon.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Okay ma'am. / Thanks ma'am.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Haan pata hai. (Regarding mutual fund returns).",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Job kar raha hoon. (Implies individual decision making for his own finances).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life insurance cover",
+        "market returns tax free",
+        "refundable plan",
+        "pension plus medical facilities included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA new plan (combined term/mutual fund)",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about financial goals or savings capacity."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was polite and agreed to a specific callback time, showing interest in hearing more about the plan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan combining term insurance and mutual funds, and the customer responded with 'Okay'.",
+      "customer_response": "The customer was passive but cooperative, providing information when asked and agreeing to a callback.",
+      "key_event": "The customer requested to reschedule the call to 7 PM due to work commitments.",
+      "ending": "The agent confirmed a callback time of 7 PM and the call ended politely."
+    },
+    "key_quotes": [
+      "RD woh bhi khatam ho gaya abhi kuch nahi ma'am.",
+      "Insurance ma'am company provided hai bas aur kuch nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

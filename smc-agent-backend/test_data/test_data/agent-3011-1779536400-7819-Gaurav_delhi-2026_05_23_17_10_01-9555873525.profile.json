@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6228257066985356",
+  "source_transcript": "agent-3011-1779536400-7819-Gaurav_delhi-2026_05_23_17_10_01-9555873525.json",
+  "created_at_utc": "2026-06-01T02:36:28Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 57.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3011-1779536400-7819-Gaurav_delhi-2026_05_23_17_10_01-9555873525.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Hello ma'am, sun rahe hain aap? Hello.",
+    "summary": "The agent delivered a pitch for an HDFC Life plan, but the customer remained silent and the call ended without any meaningful engagement.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki money back income deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 1,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

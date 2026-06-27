@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "1010646520459913",
+  "source_transcript": "agent-3054-1779192373-5099-Gaurav_delhi-2026_05_19_17_36_14-8299500552.json",
+  "source_name": "agent-3054-1779192373-5099-Gaurav_delhi-2026_05_19_17_36_14-8299500552.mp3",
+  "created_at_utc": "2026-05-22T11:28:24Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 177.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Surendra Yadav",
+      "evidence": "Agent 2: ...aapka poora naam Surendra Yadav hi hai na sir? Customer: Ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Agent 2: ...age kya hogi aapki? Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent 2: ...aapka poora naam Surendra Yadav hi hai na sir? Customer: Ji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Agent 2: ...currently job karte hain business hai? Customer: Job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 35. (Context: 35k/month = 4.2 LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Loan ki toh requirement hai PL ka kya rate chal raha hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi abhi jo hai mere already kharche badhe huye hain thoda kharche control ho jayein phir main karunga.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "high expenses"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Customer: Loan ki toh requirement hai PL ka kya rate chal raha hai?",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: ...phir main karunga. (Implies sole decision making)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": null,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not attempt to cross-sell insurance after loan interest was established."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "other",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer expressed interest in a personal loan and agreed to a callback for the loan department."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed insurance plan, which the customer immediately declined due to current financial constraints.",
+      "customer_response": "Customer was initially dismissive of insurance but became engaged when the topic shifted to personal loans.",
+      "key_event": "Customer shifted from declining insurance due to expenses to requesting a personal loan, leading to a transfer to a senior agent.",
+      "ending": "Agent 2 confirmed he would arrange a callback from the loan department for the next day, which the customer accepted."
+    },
+    "key_quotes": [
+      "Abhi abhi jo hai mere already kharche badhe huye hain thoda kharche control ho jayein phir main karunga.",
+      "Loan ki toh requirement hai PL ka kya rate chal raha hai?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

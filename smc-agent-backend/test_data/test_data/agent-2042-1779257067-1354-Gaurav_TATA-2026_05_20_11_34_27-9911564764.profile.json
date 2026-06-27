@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1297153355818987",
+  "source_transcript": "agent-2042-1779257067-1354-Gaurav_TATA-2026_05_20_11_34_27-9911564764.json",
+  "source_name": "agent-2042-1779257067-1354-Gaurav_TATA-2026_05_20_11_34_27-9911564764.mp3",
+  "created_at_utc": "2026-05-25T19:20:59Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 101.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "'Toh abhi zehar kha lo.' (Agent) / 'Abhi se zehar kha liya.' (Customer)', 'Main marne wala hoon.' (Customer)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Age se kya lena dena hai iska?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product",
+        "other"
+      ],
+      "agent_promises": [
+        "1 crore term insurance cover from day one",
+        "mutual fund returns",
+        "medical health plus pension facility in same plan"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Hostile interaction and unprofessional conduct.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was hostile and the agent responded with unprofessional, abusive language."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from Tata AIA and the customer questioned the company identity.",
+      "customer_response": "The customer was dismissive and eventually hostile, leading to a breakdown in communication.",
+      "key_event": "The customer stated 'Main marne wala hoon' and the agent responded with 'Toh abhi zehar kha lo'.",
+      "ending": "The call ended with the agent and customer exchanging abusive remarks about suicide."
+    },
+    "key_quotes": [
+      "Main marne wala hoon.",
+      "Age se kya lena dena hai iska?",
+      "Toh abhi zehar kha lo."
+    ],
+    "red_flags": [
+      "agent_used_abusive_language",
+      "agent_encouraged_self_harm"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

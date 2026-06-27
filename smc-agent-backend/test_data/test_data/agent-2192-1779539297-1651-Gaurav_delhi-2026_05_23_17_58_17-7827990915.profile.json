@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3833238995564693",
+  "source_transcript": "agent-2192-1779539297-1651-Gaurav_delhi-2026_05_23_17_58_17-7827990915.json",
+  "created_at_utc": "2026-06-01T02:35:07Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 198.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1779539297-1651-Gaurav_delhi-2026_05_23_17_58_17-7827990915.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi mam, thank you.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer completed discovery but ultimately declined further discussion and brochure request.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "36.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "70 hazaar monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai first year se",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

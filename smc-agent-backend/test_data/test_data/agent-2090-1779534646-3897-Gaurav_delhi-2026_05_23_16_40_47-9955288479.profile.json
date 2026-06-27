@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3342325682538975",
+  "source_transcript": "agent-2090-1779534646-3897-Gaurav_delhi-2026_05_23_16_40_47-9955288479.json",
+  "created_at_utc": "2026-06-01T02:29:05Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 141.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779534646-3897-Gaurav_delhi-2026_05_23_16_40_47-9955288479.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, nahi lena.",
+    "summary": "Agent pitched an HDFC Life plan with income benefits; customer asked about premium details, then refused to proceed.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki cash income aani start ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

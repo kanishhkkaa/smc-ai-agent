@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "4642112738722048",
+  "source_transcript": "2026_05_21/agent-3015-1779352976-5022-Gaurav_TATA-2026_05_21_14_12_56-7020123721.json",
+  "source_name": "agent-3015-1779352976-5022-Gaurav_TATA-2026_05_21_14_12_56-7020123721.mp3",
+  "created_at_utc": "2026-06-01T05:00:39Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 140.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Naveen Jadhav",
+      "evidence": "kya meri baat Mr. Naveen Jadhav ji se ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "36",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "ab main government job mein hoon",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "government employee",
+        "evidence": "government employee",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "56k. Monthly? Haan. Matlab kuch 7 lakh rupaye saal ka? Haan.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aapki teaching achhi hai, isliye ek track track dene aap.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "not_disclosed",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "mere paas do-teen saare plan leke rakha hoon",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bachche ki kabhi marriage ke liye ya uski education ke liye",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business manager tha, mere paas do-teen saare plan leke rakha hoon",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "60 lakh rupaye se lekar 1 crore rupaye ka ek protection cover",
+        "1 lakh rupaye ki pension start kar sakte hain"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "Customer already has a 2 crore term insurance policy.",
+      "missed_opportunities": [
+        "cross-sell retirement planning given his government job status"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan",
+        "child_plan"
+      ],
+      "reasoning": "Customer is polite and engaged, already owns insurance, and acknowledged the agent's pitch positively."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and the customer initially mistook the call for a job offer.",
+      "customer_response": "The customer was initially guarded but became cooperative and engaged once the agent clarified the purpose of the call.",
+      "key_event": "The customer disclosed his age, income, and existing insurance coverage, leading to a constructive discussion.",
+      "ending": "The customer complimented the agent's teaching style and the call concluded on a positive note."
+    },
+    "key_quotes": [
+      "Aapki teaching achhi hai, isliye ek track track dene aap.",
+      "maine pure chhod chuka hoon, ab main government job mein hoon"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

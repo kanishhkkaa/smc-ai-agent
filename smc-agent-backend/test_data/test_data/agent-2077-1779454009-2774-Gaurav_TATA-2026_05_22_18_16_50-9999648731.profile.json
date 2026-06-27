@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9535139131450969",
+  "source_transcript": "agent-2077-1779454009-2774-Gaurav_TATA-2026_05_22_18_16_50-9999648731.json",
+  "created_at_utc": "2026-06-01T02:51:19Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779454009-2774-Gaurav_TATA-2026_05_22_18_16_50-9999648731.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "invest karne ke liye aap possible hi nahi ho, samajh sakti hun main.",
+    "summary": "The agent pitched a Tata AIA plan, but the prospect self-disqualified due to low income, and the agent ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "Main bhi 18-19 saal ka hi hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "main toh 15,000 naukri wala aadmi hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "main toh 15,000 naukri wala aadmi hun.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

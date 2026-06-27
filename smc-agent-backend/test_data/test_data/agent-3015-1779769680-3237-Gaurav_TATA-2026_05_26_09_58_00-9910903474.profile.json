@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "4152588012791226",
+  "source_transcript": "2026_05_26/agent-3015-1779769680-3237-Gaurav_TATA-2026_05_26_09_58_00-9910903474.json",
+  "source_name": "agent-3015-1779769680-3237-Gaurav_TATA-2026_05_26_09_58_00-9910903474.mp3",
+  "created_at_utc": "2026-06-01T05:10:33Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 213.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "50 mein hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Service mein hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Service",
+        "evidence": "Service mein hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "20 ke aas paas hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi, 4.5 lakh main nahi de paunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, 4.5 lakh main nahi de paunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "high premium affordability"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "1 crore term insurance",
+        "10 lakh medical cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term Plus ULIP",
+      "premium_quoted_inr": 450000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a pre-existing medical condition (pacemaker) and cannot afford the high premium quoted.",
+      "missed_opportunities": [
+        "Did not explore lower premium options or alternative products suitable for health condition."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly stated inability to afford the quoted premium and showed no further interest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA Term Plus ULIP plan and asked for the customer's age.",
+      "customer_response": "Customer was passive and cooperative until the premium was quoted, at which point he firmly declined.",
+      "key_event": "Customer disclosed a pacemaker implant, which the agent then used to pivot to a high-premium quote.",
+      "ending": "Agent acknowledged the customer's refusal and ended the call politely."
+    },
+    "key_quotes": [
+      "Pacemaker implant hai.",
+      "Nahi, 4.5 lakh main nahi de paunga."
+    ],
+    "red_flags": [
+      "medical_history_disclosed_pacemaker"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

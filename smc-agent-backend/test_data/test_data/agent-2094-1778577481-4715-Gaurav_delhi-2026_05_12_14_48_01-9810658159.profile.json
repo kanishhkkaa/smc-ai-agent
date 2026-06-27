@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6572720567539016",
+  "source_transcript": "agent-2094-1778577481-4715-Gaurav_delhi-2026_05_12_14_48_01-9810658159.json",
+  "created_at_utc": "2026-06-01T02:04:42Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1778577481-4715-Gaurav_delhi-2026_05_12_14_48_01-9810658159.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Plan ka toh mujhe idea nahi hai, toh main kya samajhunga? Ye batao na, agar mujhe interest hoga toh main samjhunga.",
+    "summary": "Agent pitched an HDFC Life product; customer questioned the relevance of the call and the agent's persistence, ending the call without commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Ajay Jain",
+        "evidence": "Yes, main talk to Mr. Ajay Jain?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi hafte mein 35 percent ka sir bonus aana shuru ho jata hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

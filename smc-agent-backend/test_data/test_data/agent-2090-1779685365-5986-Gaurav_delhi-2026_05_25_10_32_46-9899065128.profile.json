@@ -1,0 +1,196 @@
+{
+  "status": "success",
+  "profile_id": "4228671633472693",
+  "source_transcript": "agent-2090-1779685365-5986-Gaurav_delhi-2026_05_25_10_32_46-9899065128.json",
+  "source_name": "agent-2090-1779685365-5986-Gaurav_delhi-2026_05_25_10_32_46-9899065128.mp3",
+  "created_at_utc": "2026-05-27T01:18:31Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 268.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Meri 48 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Ankita baat kar rahi hun HDFC Life se. (Agent) / Business hai mera. (Customer) - Context implies male speaker.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Faridabad",
+        "evidence": "Faridabad se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai mera. / Main ye transport ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "transport business",
+        "evidence": "Main ye transport ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "bacche bhi toh zyada hai, bacche bade-bade ho rahe hain",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi mere paas budget nahi hai, ma'am. Maine pehle bol diya tha, aap se budget nahi hai mere paas is time.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Mere paas is time budget nahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Abhi mere paas budget nahi hai, ma'am. Maine pehle bol diya tha, aap se budget nahi hai mere paas is time.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient budget",
+        "high family expenses",
+        "children education costs"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Abhi mere paas budget nahi hai, ma'am.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bacche bhi toh zyada hai, bacche bade-bade ho rahe hain, tuition hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Bhai leta hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "35% cash income from first year",
+        "8% compounding growth on premium",
+        "whole life income until age 100"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no budget and is not the primary financial decision-maker.",
+      "missed_opportunities": [
+        "Did not pivot to lower-cost protection products after budget objection."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer repeatedly stated lack of budget and family financial responsibilities, showing low interest in a new financial commitment."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life regarding a new plan with 35% income support.",
+      "customer_response": "Passive and resistant, repeatedly citing budget constraints and family expenses.",
+      "key_event": "The customer explicitly stated twice that they do not have the budget for the plan, which the agent ignored.",
+      "ending": "The agent continued to push the pitch despite the customer's repeated objections regarding budget."
+    },
+    "key_quotes": [
+      "Mere paas is time budget nahi hai.",
+      "Abhi mere paas budget nahi hai, ma'am. Maine pehle bol diya tha, aap se budget nahi hai mere paas is time.",
+      "bacche bhi toh zyada hai, bacche bade-bade ho rahe hain, tuition hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

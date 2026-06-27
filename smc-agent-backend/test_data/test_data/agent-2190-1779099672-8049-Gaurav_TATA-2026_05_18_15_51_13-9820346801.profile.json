@@ -1,0 +1,168 @@
+{
+  "status": "success",
+  "profile_id": "1971871749010291",
+  "source_transcript": "agent-2190-1779099672-8049-Gaurav_TATA-2026_05_18_15_51_13-9820346801.json",
+  "source_name": "agent-2190-1779099672-8049-Gaurav_TATA-2026_05_18_15_51_13-9820346801.mp3",
+  "created_at_utc": "2026-05-21T02:08:35Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 107.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "15",
+        "evidence": "Customer: 15 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: 'Chalega sir koi baat nahi kar sakte hai.' (in response to agent telling him to disconnect).",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "1 crore cover life insurance"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a minor (15 years old) and not eligible for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was hostile and the agent ended the call by telling the customer to disconnect, leading to a breakdown in communication."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as Siddhant Kumar from Tata AIA and asked if it was a good time to talk, to which the customer replied 'Hello haan bolo'.",
+      "customer_response": "The customer was dismissive and confrontational, mocking the agent's questions about age.",
+      "key_event": "The customer claimed to be 15 years old, leading to a heated argument with the agent about the customer's age and the agent's professionalism.",
+      "ending": "The agent and customer argued about who should hang up the phone first, ending the call abruptly."
+    },
+    "key_quotes": [
+      "15 saal.",
+      "Aap 25 ke main 15 ka isse matlab farak kya hai?",
+      "Sir aap call disconnect kar sakte hai sir."
+    ],
+    "red_flags": [
+      "agent_unprofessionalism",
+      "customer_hostility"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

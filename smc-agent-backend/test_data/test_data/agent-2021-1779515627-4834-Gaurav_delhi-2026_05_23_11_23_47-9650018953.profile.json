@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "8698063026099498",
+  "source_transcript": "agent-2021-1779515627-4834-Gaurav_delhi-2026_05_23_11_23_47-9650018953.json",
+  "created_at_utc": "2026-06-01T02:19:39Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779515627-4834-Gaurav_delhi-2026_05_23_11_23_47-9650018953.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Are bhai abhi naukri nahi hai to kahan se kar doon? Layoff hua hai itne logon ka aapko maloom hai na ye baat.",
+    "summary": "The customer declined the insurance pitch, citing unemployment and recent layoffs as the reason for their inability to afford the plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Are bhai abhi naukri nahi hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se hi 80,000 rupaye tak ka",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 42,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9639964350943120",
+  "source_transcript": "agent-3045-1779516802-4819-Gaurav_TATA-2026_05_23_11_43_22-7428723028.json",
+  "created_at_utc": "2026-06-01T02:40:46Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779516802-4819-Gaurav_TATA-2026_05_23_11_43_22-7428723028.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai, baad mein sochenge.",
+    "summary": "Agent pitched a Tata AIA saving plan; customer acknowledged the information but deferred, stating they would think about it later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Shiv Kumar",
+        "evidence": "Mr. Shiv Kumar baat kar rahe hain?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium jo rehta hai woh interest ke saath plan mein hamare refundable rehta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

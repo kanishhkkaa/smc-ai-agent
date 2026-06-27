@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3177599583503121",
+  "source_transcript": "agent-3062-1779530578-149-Gaurav_TATA-2026_05_23_15_32_58-8755398938.json",
+  "created_at_utc": "2026-06-01T02:44:06Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 104.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779530578-149-Gaurav_TATA-2026_05_23_15_32_58-8755398938.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi mam abhi nahi.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery, but the customer declined due to the high premium amount.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "29.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job mam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3.5 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

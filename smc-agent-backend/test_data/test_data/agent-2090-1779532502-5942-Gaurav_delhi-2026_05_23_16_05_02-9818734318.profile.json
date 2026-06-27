@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3873195445958619",
+  "source_transcript": "agent-2090-1779532502-5942-Gaurav_delhi-2026_05_23_16_05_02-9818734318.json",
+  "created_at_utc": "2026-06-01T02:29:21Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 103.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779532502-5942-Gaurav_delhi-2026_05_23_16_05_02-9818734318.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main waise baat karunga unse, kuch bolte hain is baare mein, main aapko bataunga.",
+    "summary": "Agent pitched an HDFC Life plan; customer, a student, stated he would discuss it with his father and inform the agent later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "21.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "21 ki age mein toh student honge, study karte honge? Ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent cash income",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

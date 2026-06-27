@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3389940580141028",
+  "source_transcript": "agent-3046-1779542694-8435-Gaurav_delhi-2026_05_23_18_54_54-9458536200.json",
+  "created_at_utc": "2026-06-01T02:42:16Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3046-1779542694-8435-Gaurav_delhi-2026_05_23_18_54_54-9458536200.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Hum job karte hain.",
+    "summary": "Agent pitched the HDFC Sanchay Par Advantage plan and performed partial discovery, but the call ended before income was disclosed or a commitment was made.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "31",
+        "evidence": "31.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Hum job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapko 36 percent ki guaranteed income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5215097873617315",
+  "source_transcript": "agent-2018-1779453119-5301-Gaurav_delhi-2026_05_22_18_02_00-9818725804.json",
+  "created_at_utc": "2026-06-01T02:47:08Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2018-1779453119-5301-Gaurav_delhi-2026_05_22_18_02_00-9818725804.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am abhi abhi nahi. Ma'am kal kal bataiyega, abhi mujhe kuch kaam zaroori hai. Kuch kal bata dijiye.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer disclosed age 59 and retired status, then requested a callback for the next day due to urgent work.",
+    "callback_time_iso": "2026-05-23T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "59",
+        "evidence": "59.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Retired hun ma'am.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36000 ki money back income",
+      "return_claim_pct": 8,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "1472210718372326",
+  "source_transcript": "2026_05_21/agent-3110-1779354773-857-Gaurav_delhi-2026_05_21_14_42_54-9977448293.json",
+  "source_name": "agent-3110-1779354773-857-Gaurav_delhi-2026_05_21_14_42_54-9977448293.mp3",
+  "created_at_utc": "2026-06-01T05:03:38Z",
+  "transcript_stats": {
+    "segments": 52,
+    "duration_seconds": 236.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "Age to madam meri 51 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "unemployed",
+        "evidence": "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Theek hai, aap apna time waste na karein.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "to abhi to filhal to nahi hai mood.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unemployed",
+        "no current income"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer understood the premium vs return calculation.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% guaranteed income from first year",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance benefit",
+        "WOP rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed and has no income to pay the required annual premium of 60,000.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they are not currently earning and ended the call by saying they have no mood and requested the agent not to waste time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and pitched a guaranteed income plan, to which the customer agreed to listen.",
+      "customer_response": "Customer was initially passive but became skeptical and eventually dismissive once the financial commitment was clarified.",
+      "key_event": "Customer questioned why the agent was asking for personal details and challenged the agent on how they obtained the number.",
+      "ending": "Customer politely but firmly declined, stating they had no mood and asked the agent not to waste time."
+    },
+    "key_quotes": [
+      "Main abhi kuch bhi nahi kar raha, free baitha hun.",
+      "to abhi to filhal to nahi hai mood.",
+      "Theek hai, aap apna time waste na karein."
+    ],
+    "red_flags": [
+      "agent_pitched_to_unemployed_individual"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

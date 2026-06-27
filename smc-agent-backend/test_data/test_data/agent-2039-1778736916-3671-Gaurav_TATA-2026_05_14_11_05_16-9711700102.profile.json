@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "1343700351352682",
+  "source_transcript": "agent-2039-1778736916-3671-Gaurav_TATA-2026_05_14_11_05_16-9711700102.json",
+  "source_name": "agent-2039-1778736916-3671-Gaurav_TATA-2026_05_14_11_05_16-9711700102.mp3",
+  "created_at_utc": "2026-05-15T23:55:03Z",
+  "transcript_stats": {
+    "segments": 73,
+    "duration_seconds": 191.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kajal",
+      "evidence": "Agent: thank you so much Kajal ji, take care.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: agar koi aapke aas paas ho na, koi female candidate jo job dekh rahi ho. ... Customer: sir hai mere paas, tabhi main aapse puch rahi hun. (Context implies customer is female)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Customer: sir main Noida se hi call kar rahi hun.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Noida is a Tier-1 city.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: haanji good morning ji, haanji haanji. (Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: accha okay sir, no issue, thank you so much.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "term insurance, accha nahi ma'am, term insurance toh kara rakhi hai maine.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "term insurance",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer already has term insurance and the call shifted to job recruitment.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The agent pivoted from a sales call to a job recruitment discussion. The customer is not interested in insurance as they already have it, and the agent is now focused on a referral arrangement for a job vacancy."
+    },
+    "summary": "The agent called to pitch a term insurance plan. The customer declined, stating they already have term insurance. The conversation then shifted to a job recruitment opportunity for a receptionist role, which the customer expressed interest in for a contact of theirs. The agent and customer agreed to stay in touch regarding the referral.",
+    "key_quotes": [
+      "term insurance, accha nahi ma'am, term insurance toh kara rakhi hai maine.",
+      "sir main Noida se hi call kar rahi hun.",
+      "main aapko is number pe is number pe call karke aapko bata dungi, okay sir?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

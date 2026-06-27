@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8709150364514139",
+  "source_transcript": "agent-2200-1779514905-8687-Gaurav_TATA-2026_05_23_11_11_46-7838333939.json",
+  "created_at_utc": "2026-06-01T02:35:03Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779514905-8687-Gaurav_TATA-2026_05_23_11_11_46-7838333939.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Toh sorry sir, phir plan toh aapko jayega hi nahi.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery, but self-disqualified the prospect due to low income, ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "Mera age hai mam 21 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain hum.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Income toh kam se kam 20-25 hazaar rupaye ho jaata hai mam.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

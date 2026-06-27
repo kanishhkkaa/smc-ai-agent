@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "9256049244297089",
+  "source_transcript": "agent-2086-1779100913-8522-Gaurav_delhi-2026_05_18_16_11_53-9312235893.json",
+  "source_name": "agent-2086-1779100913-8522-Gaurav_delhi-2026_05_18_16_11_53-9312235893.mp3",
+  "created_at_utc": "2026-05-20T11:06:10Z",
+  "transcript_stats": {
+    "segments": 9,
+    "duration_seconds": 206.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "abhi main busy hun, baad mein baat karna.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "abhi main busy hun, baad mein baat karna.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35 percent ki income milna start ho jata hai first year se",
+        "whole life tak milti rahegi",
+        "double tax ka benefit",
+        "8 percent ki guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "No discovery was done; the agent immediately launched into a high-pressure pitch without understanding the customer's needs.",
+      "missed_opportunities": [
+        "discovery_questions"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was busy and explicitly asked to talk later, showing low immediate interest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a standard HDFC Life introduction, which the customer acknowledged briefly.",
+      "customer_response": "The customer was dismissive and stated they were busy, asking to talk later.",
+      "key_event": "The customer rejected the pitch by stating they were busy and couldn't handle the call.",
+      "ending": "The agent insisted it was just an information call after the customer tried to end the conversation."
+    },
+    "key_quotes": [
+      "abhi main busy hun, baad mein baat karna."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

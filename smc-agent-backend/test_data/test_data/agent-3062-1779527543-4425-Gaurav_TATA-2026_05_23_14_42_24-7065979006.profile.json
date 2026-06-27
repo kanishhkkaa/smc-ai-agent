@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2379998843872054",
+  "source_transcript": "agent-3062-1779527543-4425-Gaurav_TATA-2026_05_23_14_42_24-7065979006.json",
+  "created_at_utc": "2026-06-01T02:44:03Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 97.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779527543-4425-Gaurav_TATA-2026_05_23_14_42_24-7065979006.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan, aap mujhe WhatsApp par forward kar sakte hain. Main abhi thoda bahar hun na, isliye main abhi zyada der baat nahi kar paunga.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer requested details on WhatsApp due to being busy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Faisal",
+        "evidence": "Faisal.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "28",
+        "evidence": "28.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "4.2.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "9106398217115634",
+  "source_transcript": "agent-3026-1778590344-9651-Gaurav_delhi-2026_05_12_18_22_25-9599915290.json",
+  "source_name": "agent-3026-1778590344-9651-Gaurav_delhi-2026_05_12_18_22_25-9599915290.mp3",
+  "created_at_utc": "2026-05-15T06:57:05Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 304.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sachin Singh Patwal",
+      "evidence": "Customer: Sachin Singh Patwal",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: bhaiya malum nahi ye chamar hote hai badtameez hote hai jaat hote hai; Customer: jaat hai jaat; Agent: kya jaat tum bhi ho; Customer: jaat toh main bhi hun",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: hello good evening sir main Sachin baat kar raha hun HDFC Life ke behalf se sir. Customer: ji boliye",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Agent: bhaiya malum nahi ye chamar hote hai badtameez hote hai jaat hote hai",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "chaliye ji main free ho ke call karta hun abhi",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 40.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "other"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer showed no interest and the agent was unprofessional.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The agent engaged in highly unprofessional and offensive conversation, including making derogatory remarks about the customer's surname/caste. The customer was clearly not interested in the product and the interaction was hostile."
+    },
+    "summary": "The agent called to pitch an HDFC Life product. The customer was uninterested and asked to be called back later. The conversation devolved into an unprofessional and offensive exchange where the agent made derogatory comments about the customer's caste. The call ended without any interest or lead progression.",
+    "key_quotes": [
+      "chaliye ji main free ho ke call karta hun abhi",
+      "bhaiya malum nahi ye chamar hote hai badtameez hote hai jaat hote hai"
+    ],
+    "red_flags": [
+      "agent_misconduct",
+      "compliance_concern"
+    ],
+    "extraction_confidence": "high"
+  }
+}

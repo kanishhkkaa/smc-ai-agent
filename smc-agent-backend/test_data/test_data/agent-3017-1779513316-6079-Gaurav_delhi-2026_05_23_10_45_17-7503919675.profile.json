@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3479834441064341",
+  "source_transcript": "agent-3017-1779513316-6079-Gaurav_delhi-2026_05_23_10_45_17-7503919675.json",
+  "created_at_utc": "2026-06-01T02:37:37Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 67.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779513316-6079-Gaurav_delhi-2026_05_23_10_45_17-7503919675.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Iska kya scope hai?",
+    "summary": "The agent pitched an HDFC Life guaranteed plan; the customer inquired about the scope of the plan before the call ended.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Siddhant Kumar",
+        "evidence": "Mera naam Siddhant Kumar hai ma'am",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 31,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "8045505050513704",
+  "source_transcript": "agent-3100-1779182548-8828-Gaurav_delhi-2026_05_19_14_52_28-9974337615.json",
+  "source_name": "agent-3100-1779182548-8828-Gaurav_delhi-2026_05_19_14_52_28-9974337615.mp3",
+  "created_at_utc": "2026-05-22T11:30:48Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "72",
+        "evidence": "I am 72 years of age.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "retired officer hoon main.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired officer",
+        "evidence": "retired officer hoon main.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Nahi ma'am main single hoon.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "0",
+        "evidence": "Nahi ma'am main single hoon.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Ji ma'am.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Nahi ma'am main single hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year",
+        "double tax benefit",
+        "8% guaranteed return on savings"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 72 years old, making him unsuitable for the pitched long-term insurance product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is 72 years old and retired, making him a poor fit for long-term insurance products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life to share information about a new guaranteed plan.",
+      "customer_response": "Passive and polite, providing information when asked.",
+      "key_event": "The agent attempted to pitch a guaranteed income plan, but the customer's age (72) made him ineligible for the product.",
+      "ending": "The customer politely ended the conversation after confirming his retirement status."
+    },
+    "key_quotes": [
+      "I am 72 years of age.",
+      "retired officer hoon main."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

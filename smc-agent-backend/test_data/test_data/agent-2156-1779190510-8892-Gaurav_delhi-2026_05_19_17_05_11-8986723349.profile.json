@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "7584700941758435",
+  "source_transcript": "agent-2156-1779190510-8892-Gaurav_delhi-2026_05_19_17_05_11-8986723349.json",
+  "source_name": "agent-2156-1779190510-8892-Gaurav_delhi-2026_05_19_17_05_11-8986723349.mp3",
+  "created_at_utc": "2026-05-22T11:17:54Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 89.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "21",
+        "evidence": "Customer: 21.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: You in a call center.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "call center employee",
+        "evidence": "Customer: You in a call center.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Monthly 15 aati hai mam. (15k/month = 1.8 LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Achcha bolo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is 21 and working, implying potential sole decision-making for his own finances.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "first year se hi na 40% ki income milni shuru ho jaati hai",
+        "lifetime income ka option"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Insurance plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitched is likely unsuitable for a 21-year-old earning 15k/month, and the agent's claims are misleading.",
+      "missed_opportunities": [
+        "Did not assess long-term financial goals or risk appetite."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is young and employed, showing initial interest by listening, though the agent's pitch is aggressive and misleading."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an online campaign from HDFC Life, and the customer invited them to speak.",
+      "customer_response": "Passive and compliant, listening to the agent's pitch without resistance.",
+      "key_event": "The agent made a highly suspicious claim of 40% guaranteed income from the first year.",
+      "ending": "The call ended abruptly after the agent gathered basic income information."
+    },
+    "key_quotes": [
+      "first year se hi na 40% ki income milni shuru ho jaati hai",
+      "Monthly 15 aati hai mam."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3185041842994895",
+  "source_transcript": "agent-3104-1779603902-3304-Gaurav_delhi-2026_05_24_11_55_03-9555666552.json",
+  "created_at_utc": "2026-06-01T02:18:03Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 135.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779603902-3304-Gaurav_delhi-2026_05_24_11_55_03-9555666552.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Shaam 6 baje ke baad main free rehta hun.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed discovery (age 33, salaried, 11L income), and scheduled a callback for 5:00 PM.",
+    "callback_time_iso": "2026-05-24T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "33",
+        "evidence": "Abhi mam 33 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Haanji, abhi job kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Annually 11 lakh ke aas paas hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

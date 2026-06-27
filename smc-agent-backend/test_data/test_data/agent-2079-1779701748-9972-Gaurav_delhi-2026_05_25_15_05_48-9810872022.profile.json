@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "7946042395489969",
+  "source_transcript": "agent-2079-1779701748-9972-Gaurav_delhi-2026_05_25_15_05_48-9810872022.json",
+  "source_name": "agent-2079-1779701748-9972-Gaurav_delhi-2026_05_25_15_05_48-9810872022.mp3",
+  "created_at_utc": "2026-05-27T01:15:54Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 241.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: 28, 28, 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Tour and travel.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Tour and travel business owner",
+        "evidence": "Customer: Tour and travel.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: Near about 15,000 pound.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Because at the moment I am driving, bro, so that's not a good time for talk.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Because at the moment I am driving, bro, so that's not a good time for talk.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Tour and travel. (Implies business owner/sole decision maker)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-25T18:30:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for lifetime",
+        "double tax benefit",
+        "WOP rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed saving product",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is based in the UK; Indian insurance products are generally not suitable or compliant for non-residents.",
+      "missed_opportunities": [
+        "Did not verify if the product is available for UK residents."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is busy but open to receiving information via WhatsApp/email and suggested a specific callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed savings plan from HDFC Life, and the customer responded politely.",
+      "customer_response": "Customer was initially confused by the agent's misunderstanding of currency, then became passive and eventually requested to be contacted later due to driving.",
+      "key_event": "The agent repeatedly misunderstood the customer's income currency (pounds vs rupees) and location (UK), leading to a disconnect.",
+      "ending": "Customer requested the agent to send details via WhatsApp/email and provided a specific callback time."
+    },
+    "key_quotes": [
+      "15,000 pound.",
+      "Because at the moment I am driving, bro, so that's not a good time for talk.",
+      "Ya phir mujhe WhatsApp pe aap PDF bhej do, main time nikal ke check karta hoon."
+    ],
+    "red_flags": [
+      "Agent ignored the customer's location (UK) and continued to pitch an Indian insurance product.",
+      "Agent failed to understand currency (pounds) and location (UK) multiple times."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4399927423016864",
+  "source_transcript": "agent-3012-1779614579-6539-Gaurav_TATA-2026_05_24_14_53_00-9992716888.json",
+  "created_at_utc": "2026-06-01T02:12:27Z",
+  "transcript_stats": {
+    "segments": 67,
+    "duration_seconds": 231.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779614579-6539-Gaurav_TATA-2026_05_24_14_53_00-9992716888.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sirji theek hai sir, main baat karta hun, apni family mein baat karke uske baad main karta hun baat aapse. ... 3 baje kar lena.",
+    "summary": "Agent pitched the Lifetime Partner Plan; customer requested a callback for tomorrow at 3 PM to discuss with family.",
+    "callback_time_iso": "2026-05-25T15:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Sandeep",
+        "evidence": "Aapka naam? — Sandeep.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "43",
+        "evidence": "Meri 43.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Lifetime Partner Plan",
+    "compliance": {
+      "return_claim_quote": "pehle saal se milna shuru hoga. Aapka 30 percent yani 1 lakh ka 30,000 rupaye",
+      "return_claim_pct": 30,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

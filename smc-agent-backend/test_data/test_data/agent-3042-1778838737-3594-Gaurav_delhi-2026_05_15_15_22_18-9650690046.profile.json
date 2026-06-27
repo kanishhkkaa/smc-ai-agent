@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "3212504128998136",
+  "source_transcript": "agent-3042-1778838737-3594-Gaurav_delhi-2026_05_15_15_22_18-9650690046.json",
+  "source_name": "agent-3042-1778838737-3594-Gaurav_delhi-2026_05_15_15_22_18-9650690046.mp3",
+  "created_at_utc": "2026-05-18T06:07:23Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 168.92,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "File name: agent-3042-1778838737-3594-Gaurav_delhi-2026_05_15_15_22_18-9650690046.mp3",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Customer: Meri toh 48 saal, 48.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Agent: Sir, main Noida Sector 16 ke branch se baat kar raha hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Haan, business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 1 lakh. Agent: Monthly? Customer: Monthly. (1L/month = 12L/year)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Main bank mein jaake pata kar lunga na.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Main bank mein jaake pata kar lunga na.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Meri salary mein kharcha ho jaata hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "salary/income is fully consumed by expenses"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main bank mein jaake pata kar lunga na.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "40% fixed income from first year for whole life",
+        "8% return",
+        "double tax benefit",
+        "term insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is listening but skeptical, preferring to visit the bank branch directly rather than commit over the phone."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed HDFC Life plan with high return promises, and the customer responded with a neutral 'Achcha, boliye.'",
+      "customer_response": "Customer was initially passive and skeptical, preferring to visit the bank branch in person rather than engage with the phone pitch.",
+      "key_event": "The customer repeatedly deflected the agent's questions about income and interest, stating he would rather visit the bank branch.",
+      "ending": "The call was cut off while the agent was mid-calculation, leaving the pitch incomplete."
+    },
+    "key_quotes": [
+      "Main bank mein jaake pata kar lunga na.",
+      "Meri salary mein kharcha ho jaata hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

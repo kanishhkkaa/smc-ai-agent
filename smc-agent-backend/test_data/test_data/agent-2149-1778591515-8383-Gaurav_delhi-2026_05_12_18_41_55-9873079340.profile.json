@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "7171376281209764",
+  "source_transcript": "agent-2149-1778591515-8383-Gaurav_delhi-2026_05_12_18_41_55-9873079340.json",
+  "source_name": "agent-2149-1778591515-8383-Gaurav_delhi-2026_05_12_18_41_55-9873079340.mp3",
+  "created_at_utc": "2026-05-15T06:47:26Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 78.4,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Amit",
+      "evidence": "Customer: Apna pura Amit likhte hain pura naam apna.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Batana chaah rahi thi sir HDFC ka apna ek aisa guaranteed product hai jisme aapko within a week 36 percent ki income aati hai aapke whole life ke liye sir.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Speaker 1: hello, manga lo yaar. Hello haan ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Ma'am ma'am ye main free ho ke sunu zara, abhi toh main matlab job pe hi hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan, haan kar lo morning mein kar lo, morning mein kar lo ma'am.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "tomorrow 10-11 AM",
+        "evidence": "Agent: Main ek baar aapko na 10 se 11 ke beech mein call kar leti hun kal.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC guaranteed product",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "The agent is misrepresenting a life insurance product as a high-yield guaranteed investment product (36% return).",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was receptive to a callback and agreed to a specific time, showing interest in the product pitch despite the agent's aggressive and misleading claims."
+    },
+    "summary": "The agent called the customer to pitch an HDFC life insurance product, falsely claiming it provides a 36% guaranteed annual income for life. The customer was busy at work but agreed to a follow-up call the next morning between 10 and 11 AM. The agent failed to conduct any discovery or verify the customer's financial needs.",
+    "key_quotes": [
+      "36 percent ki income aati hai first year se for whole life.",
+      "Morning mein toh kisi bhi time kar lo, koi issue nahi hai ji."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

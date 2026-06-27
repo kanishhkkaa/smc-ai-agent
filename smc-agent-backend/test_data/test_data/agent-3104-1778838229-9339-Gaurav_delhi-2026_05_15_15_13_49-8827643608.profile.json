@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3135953365647344",
+  "source_transcript": "agent-3104-1778838229-9339-Gaurav_delhi-2026_05_15_15_13_49-8827643608.json",
+  "created_at_utc": "2026-06-01T01:28:42Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1778838229-9339-Gaurav_delhi-2026_05_15_15_13_49-8827643608.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Chaliye abhi main kahin ja raha hun, main baad mein baat karta hun aap logon se, hai na, fursat se.",
+    "summary": "Agent pitched an HDFC Life guaranteed income plan; customer provided his age (60) and occupation (retired), then deferred, saying he is going somewhere and will talk later.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "60",
+        "evidence": "Meri apni age 60 ho rahi hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi job nahi hai lekin haan retirement pe hi hain wo to.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a year 36 percent ki guaranteed income aapko dena start karti hai company sir aapki whole life ke liye.",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

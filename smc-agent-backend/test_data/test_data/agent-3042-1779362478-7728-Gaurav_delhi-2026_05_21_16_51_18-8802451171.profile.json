@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "5618092783744629",
+  "source_transcript": "2026_05_21/agent-3042-1779362478-7728-Gaurav_delhi-2026_05_21_16_51_18-8802451171.json",
+  "source_name": "agent-3042-1779362478-7728-Gaurav_delhi-2026_05_21_16_51_18-8802451171.mp3",
+  "created_at_utc": "2026-06-01T05:01:34Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "46",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Ab main na job bhi nahi karta, business na maine sab chhod chhad ke baith gaya.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "construction business (former)",
+        "evidence": "construction ka ho gaya isliye maine sab kuch pack up kar diya",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "1 lakh per monthly",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Mushkil hai, kyunki saaf baat toh ye hai HDFC se mera kaafi lamba naata raha, khoob kamaya hai, khoob in se liya bhi, khoob in se diya bhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi, iski abhi koi zarurat nahi hai, bahut kar li job.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Ab guaranteed ab nahi hai na, ab toh naukri chhod di, ab toh magar ek rupaya bhi hath mein nahi",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unemployed",
+        "no current income source"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Mushkil hai",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "HDFC se mera kaafi lamba naata raha, khoob kamaya hai, khoob in se liya bhi, khoob in se diya bhi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent fixed income from first year for whole life",
+        "8 percent return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed with no current income source.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he has no income source and is currently unemployed, making him a poor prospect for a new insurance product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and pitched a guaranteed income plan, to which the customer agreed to listen.",
+      "customer_response": "Customer was initially cooperative but became increasingly dismissive as he explained his recent unemployment and lack of current income.",
+      "key_event": "The customer revealed he had quit his job and had no current income source, effectively ending the sales viability.",
+      "ending": "The agent acknowledged the customer's situation and ended the call politely."
+    },
+    "key_quotes": [
+      "Ab main na job bhi nahi karta, business na maine sab chhod chhad ke baith gaya.",
+      "Ab guaranteed ab nahi hai na, ab toh naukri chhod di, ab toh magar ek rupaya bhi hath mein nahi"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "status": "success",
+  "profile_id": "9204916073277759",
+  "source_transcript": "agent-2094-1778756873-4322-Gaurav_delhi-2026_05_14_16_37_54-9811837857.json",
+  "source_name": "agent-2094-1778756873-4322-Gaurav_delhi-2026_05_14_16_37_54-9811837857.mp3",
+  "created_at_utc": "2026-05-16T00:06:08Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 2.4,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Triloknath",
+      "evidence": "Customer: Triloknath baat kar raha hun",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: haanji actually main aapse Sachin baat kar raha hun sir aapke HDFC Life insurance se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: aap bata nahi pa rahe ho",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 4,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "main insurance ka insurance ka kya karunga",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "aap bata nahi pa rahe ho",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: matlab agar agar maine jo hai 1 lakh rupaye diye hai",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: hamari company ka sir ek plan hai agar aap is plan mein agar aap savings start karte hain",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "The agent is misrepresenting a savings insurance product as a high-yield short-term investment, causing confusion and distrust.",
+      "missed_opportunities": [
+        "Did not clarify the actual nature of the insurance product.",
+        "Failed to address the customer's skepticism about the need for insurance."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is skeptical of the agent's explanation but is still engaging in the conversation. The agent's explanation of the product is confusing and potentially misleading, which is causing friction."
+    },
+    "summary": "The agent called the customer to pitch an HDFC Life 'Sanchay Par Advantage' plan, claiming a 35% return in the first year. The customer expressed skepticism about the need for insurance and confusion regarding the payout timeline, which the agent failed to clarify effectively. The call ended with the customer frustrated by the agent's inability to explain the product clearly.",
+    "key_quotes": [
+      "main insurance ka insurance ka kya karunga",
+      "aap bata nahi pa rahe ho",
+      "to ye 35000 mujhe kab milenge ye batao"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

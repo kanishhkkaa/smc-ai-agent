@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "profile_id": "1768390661608841",
+  "source_transcript": "agent-3020-1778593592-8329-Gaurav_delhi-2026_05_12_19_16_33-9810012510.json",
+  "source_name": "agent-3020-1778593592-8329-Gaurav_delhi-2026_05_12_19_16_33-9810012510.mp3",
+  "created_at_utc": "2026-05-15T06:54:56Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 206.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "main to CP se baat kar raha hun, Connaught Place se.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "main to CP se baat kar raha hun, Connaught Place se.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "main to CP se baat kar raha hun, Connaught Place se.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "main to CP se baat kar raha hun, Connaught Place se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "bataiye bataiye kya plan hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 8,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "lekin HDFC se to mera koi sampark hai nahi lekin.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "insurance to mera khareedne ka koi plan hai nahi yaar.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "36 percent kaise dete ho aap? ... 12 saal ke baad kya milega fir?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 3,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "immediate",
+        "evidence": "1 minute main apne phone se na call karta hun aapko.",
+        "confidence": "medium"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Saving Plan",
+      "fit_score_0_10": 3,
+      "mismatch": true,
+      "mismatch_reason": "The agent is misrepresenting a standard insurance product as a high-return money-back scheme to generate interest.",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing insurance coverage.",
+        "Did not qualify the customer's budget."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was interested enough to ask detailed questions about the plan's mechanics, despite initial skepticism. The agent initiated a callback to resolve technical issues, indicating a high likelihood of re-engagement."
+    },
+    "summary": "The agent contacted the customer to pitch an HDFC Life saving plan, claiming a 36% money-back return within a week of premium payment. The customer initially expressed no interest but engaged after the agent explained the plan's features. The call ended abruptly due to technical issues, with the agent promising to call back immediately.",
+    "key_quotes": [
+      "insurance to mera khareedne ka koi plan hai nahi yaar.",
+      "36 percent kaise dete ho aap?",
+      "12 saal ke baad kya milega fir?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

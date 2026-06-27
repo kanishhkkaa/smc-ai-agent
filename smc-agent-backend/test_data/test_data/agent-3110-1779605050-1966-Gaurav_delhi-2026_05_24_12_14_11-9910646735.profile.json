@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1219783060263465",
+  "source_transcript": "agent-3110-1779605050-1966-Gaurav_delhi-2026_05_24_12_14_11-9910646735.json",
+  "created_at_utc": "2026-06-01T02:18:49Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3110-1779605050-1966-Gaurav_delhi-2026_05_24_12_14_11-9910646735.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main bhaiya kheti-baadi karun, garib aadmi hun, batao.",
+    "summary": "Agent pitched an HDFC Life saving plan and performed partial discovery, but the call ended shortly after the customer identified as a farmer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "Meri 32 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "Main bhaiya kheti-baadi karun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 40 percent ki fixed income de rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

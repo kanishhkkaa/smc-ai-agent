@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "profile_id": "2590581534500918",
+  "source_transcript": "agent-2092-1778584519-3192-Gaurav_TATA-2026_05_12_16_45_19-8130543193.json",
+  "source_name": "agent-2092-1778584519-3192-Gaurav_TATA-2026_05_12_16_45_19-8130543193.mp3",
+  "created_at_utc": "2026-05-15T06:41:53Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 229.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Agent: 42.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Agent: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Customer: namaste sir. Agent: haan ji.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Agent: 42.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Agent: Aap mere paas, mere paas kal, kal call kar lena aap 10 baje ke baad.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "40 saal, 40 saal kaun jiyega madam?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Isme toh time loge madam, time abhi hai nahi, share kar lena aap call mere se.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent: Accha ek cheez, ek cheez aur mujhe health insurance karwana hai madam.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 0,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "pitch_delivered",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "tomorrow after 10 AM",
+        "evidence": "Agent: Aap mere paas, mere paas kal, kal call kar lena aap 10 baje ke baad.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Param Raksha Life Pro Plus",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "health_insurance_cross_sell"
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "high",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer requested a callback for tomorrow at 10 AM and expressed interest in health insurance, which the agent can address."
+    },
+    "summary": "The agent pitched a combined term and mutual fund plan to the customer. The customer expressed interest in health insurance instead and requested a callback for the following day at 10 AM to discuss further. The agent agreed to the callback.",
+    "key_quotes": [
+      "Accha ek cheez, ek cheez aur mujhe health insurance karwana hai madam.",
+      "40 saal, 40 saal kaun jiyega madam?",
+      "Aap mere paas, mere paas kal, kal call kar lena aap 10 baje ke baad."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7399508685402603",
+  "source_transcript": "agent-3045-1779511449-67-Gaurav_TATA-2026_05_23_10_14_09-9811710514.json",
+  "created_at_utc": "2026-06-01T02:40:43Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 94.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779511449-67-Gaurav_TATA-2026_05_23_10_14_09-9811710514.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "To ye complete plan hai sir, main aapko aapki age ke according betterly explain kar paungi sir. So yahan running age aapki jaan sakti hun kya hogi abhi? Customer: 55 saal.",
+    "summary": "Agent pitched a Tata AIA savings plan and initiated discovery by asking for age; the call ended abruptly after the customer disclosed his age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "55 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium rahega wo interest ke sath sath refundable rehta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

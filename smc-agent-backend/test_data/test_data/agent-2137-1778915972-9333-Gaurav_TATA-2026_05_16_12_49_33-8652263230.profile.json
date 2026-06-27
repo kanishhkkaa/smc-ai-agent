@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1153008691974040",
+  "source_transcript": "2026_05_16/agent-2137-1778915972-9333-Gaurav_TATA-2026_05_16_12_49_33-8652263230.json",
+  "source_name": "agent-2137-1778915972-9333-Gaurav_TATA-2026_05_16_12_49_33-8652263230.mp3",
+  "created_at_utc": "2026-06-01T04:46:27Z",
+  "transcript_stats": {
+    "segments": 68,
+    "duration_seconds": 233.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Avinash Gandhi",
+      "evidence": "Waise aap Mr. Avinash baat kar rahe hain, right? Avinash Gandhi? ... Haanji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "Running 50 plus.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Waise aap Mr. Avinash baat kar rahe hain, right? Avinash Gandhi? ... Haanji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Main Noida sector 2 se baat kar rahi hun aapse Delhi NCR se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Delhi NCR",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "government job hai aapka? ... Haanji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "government job",
+        "evidence": "government job",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Are to pehle details to check kar liya karo madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Are to pehle details to check kar liya karo madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "stocks",
+        "ppf"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Haan bilkul, regular, EPF, SIP, stock market, future option saare karta hun.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Investment ke khayal se batao, baaki cheezein chhod do.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Haan bilkul, regular, EPF, SIP, stock market, future option saare karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 50+ and the product is not suitable for his age.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was clearly annoyed by the agent's lack of preparation and irrelevant pitch, leading to a hostile tone and eventual abandonment of the call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan with investment benefits, to which the customer responded with a request for clarification.",
+      "customer_response": "The customer was initially curious but became increasingly frustrated and dismissive due to the agent's lack of product knowledge and poor lead qualification.",
+      "key_event": "The customer expressed irritation after the agent realized the product was not suitable for his age, stating, 'Are to pehle details to check kar liya karo madam.'",
+      "ending": "The agent attempted to redirect the conversation to family members and then put the customer on hold, leading to a dead-end."
+    },
+    "key_quotes": [
+      "Are to pehle details to check kar liya karo madam.",
+      "Investment ke khayal se batao, baaki cheezein chhod do."
+    ],
+    "red_flags": [
+      "agent_put_on_hold",
+      "hostile_customer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "pre_retirement",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

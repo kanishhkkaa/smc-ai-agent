@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3980659088934886",
+  "source_transcript": "agent-3022-1779443122-428-Gaurav_delhi-2026_05_22_15_15_22-9871049040.json",
+  "created_at_utc": "2026-06-01T03:02:09Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779443122-428-Gaurav_delhi-2026_05_22_15_15_22-9871049040.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "abhi abhi koi plan nahi lene ke mood mein hain, ye maine saaf mana kar diya.",
+    "summary": "The agent pitched an HDFC Life plan, but the customer explicitly refused, stating they are not in the mood to take any plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Abhinav",
+        "evidence": "hello, Abhinav ji.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ka tax free income aana start ho jata hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "7404823301417197",
+  "source_transcript": "2026_05_29/agent-3006-1780031448-708-Gaurav_TATA-2026_05_29_10_40_48-9990902918.json",
+  "source_name": "agent-3006-1780031448-708-Gaurav_TATA-2026_05_29_10_40_48-9990902918.mp3",
+  "created_at_utc": "2026-06-01T05:48:24Z",
+  "transcript_stats": {
+    "segments": 70,
+    "duration_seconds": 290.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "38",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hi karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "salaried job",
+        "evidence": "Job hi karta hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "40 ke lagbhag (40,000/month = 4.8L/year)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Chalo, koi baat nahi, jab madam jab hoga, toh dekh lenge.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Kyunki next month meri salary increment hoga, toh main uske baad sochta hun plan ke liye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient income for current plan eligibility"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "40 ke lagbhag (income)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi, maine kuch nahi kara, kuch nahi kar rakha maine abhi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bacche ke education purpose ke liye lete hain, shaadi ke liye lete hain.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main uske baad sochta hun plan ke liye.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income annually",
+        "8% compounding interest on full value"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer's income is below the eligibility threshold mentioned by the agent.",
+      "missed_opportunities": [
+        "Did not clarify the nature of the '35% income' promise vs the 8% interest."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is interested but waiting for a salary increment next year before committing."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, and the customer responded by providing his age.",
+      "customer_response": "Customer was engaged and curious about the returns, but ultimately deferred due to current income constraints.",
+      "key_event": "The agent promised a 35% annual refund on a 1 lakh investment, which the customer questioned.",
+      "ending": "The call ended politely with the customer stating he would consider it after his salary increment next year."
+    },
+    "key_quotes": [
+      "Agar main ek saal ka ikattha karta hun toh kitna matlab?",
+      "Kyunki next month meri salary increment hoga, toh main uske baad sochta hun plan ke liye."
+    ],
+    "red_flags": [
+      "Agent promised 35% annual refund/income on an insurance policy.",
+      "Agent promised 8% compounding interest on a non-guaranteed product."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

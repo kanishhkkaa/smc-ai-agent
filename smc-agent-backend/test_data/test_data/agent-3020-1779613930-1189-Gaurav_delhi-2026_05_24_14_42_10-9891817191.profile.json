@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9914959059032659",
+  "source_transcript": "agent-3020-1779613930-1189-Gaurav_delhi-2026_05_24_14_42_10-9891817191.json",
+  "created_at_utc": "2026-06-01T02:13:07Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779613930-1189-Gaurav_delhi-2026_05_24_14_42_10-9891817191.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Bhai ye bakwaas hai ye sab cheezein. ... Maine, maine aapki sip li hui hai, HDFC Life ki sip li hui hai. Woh bhi abhi loss mein chal rahi hai.",
+    "summary": "The customer expressed strong dissatisfaction with HDFC Life products, citing existing loss-making SIP investments, and dismissed the agent's pitch as nonsense.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent main aapko money back de raha hoon",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

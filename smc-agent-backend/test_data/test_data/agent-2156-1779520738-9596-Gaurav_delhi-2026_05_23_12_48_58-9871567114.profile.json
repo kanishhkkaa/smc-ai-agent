@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2266014715031996",
+  "source_transcript": "agent-2156-1779520738-9596-Gaurav_delhi-2026_05_23_12_48_58-9871567114.json",
+  "created_at_utc": "2026-06-01T02:32:15Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779520738-9596-Gaurav_delhi-2026_05_23_12_48_58-9871567114.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "12th.",
+    "summary": "Agent pitched an HDFC Life plan and performed discovery, identifying the prospect as an 18-year-old student in 12th grade; call ended without commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "18",
+        "evidence": "18.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "abhi toh padhai kar rahe honge aap? Haan.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

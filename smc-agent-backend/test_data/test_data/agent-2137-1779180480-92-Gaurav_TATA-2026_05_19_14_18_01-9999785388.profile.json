@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "2456453933412610",
+  "source_transcript": "agent-2137-1779180480-92-Gaurav_TATA-2026_05_19_14_18_01-9999785388.json",
+  "source_name": "agent-2137-1779180480-92-Gaurav_TATA-2026_05_19_14_18_01-9999785388.mp3",
+  "created_at_utc": "2026-05-22T11:16:26Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 145.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Tata AIA jo jo hai woh sabse worst company hai according to me.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 80,
+      "customer_question_count": 2,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Tata AIA jo jo hai woh sabse worst company hai according to me.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "previous insurance application rejection by Tata AIA",
+        "lack of communication/justification from company regarding rejection"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Maine abhi just last mein ek mera plan tha HDFC ka fir bhi maine change karke maine 2 crore ka term insurance plan kiya tha Tata AIA mein.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Toh kuch soch ke hi decide kiya hoga. Maine bhi dekha hoga. Maine bhi apne friend se consult kiya tha.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "term insurance with mutual fund benefits",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a strong negative bias against the insurer due to a past rejection.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer expressed strong negative sentiment and distrust towards the company due to a previous rejected application."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA, and the customer immediately expressed disinterest.",
+      "customer_response": "The customer was hostile and immediately pushed back, expressing strong dissatisfaction with the company.",
+      "key_event": "The customer revealed that his previous application for a 2 crore term plan was rejected by Tata AIA, leading to his negative perception.",
+      "ending": "The customer continued to challenge the agent to justify the company's previous rejection of his application."
+    },
+    "key_quotes": [
+      "Tata AIA jo jo hai woh sabse worst company hai according to me.",
+      "Agar woh aaj itna zyada rigid aur agar matlab non-ethical point pe agar woh reject kar rahe hain, that means woh aage jaake toh kitna problem create karenge."
+    ],
+    "red_flags": [
+      "customer_hostility_towards_brand"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 20,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

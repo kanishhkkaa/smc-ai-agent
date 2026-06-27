@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8577891021107506",
+  "source_transcript": "agent-2059-1778841948-2232-Gaurav_delhi-2026_05_15_16_15_48-8007805860.json",
+  "created_at_utc": "2026-06-01T01:09:37Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1778841948-2232-Gaurav_delhi-2026_05_15_16_15_48-8007805860.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Hamari zyada nahi hai sir, kam hai payment, hamara 12000 hai.",
+    "summary": "Agent pitched HDFC Life guaranteed plan; customer (50) disclosed (salaried) and provided (12k/month) income, but call ended without a commitment or refusal refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "Meri 50 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Haan, main security mein hun, company mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "hamara 12000 hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

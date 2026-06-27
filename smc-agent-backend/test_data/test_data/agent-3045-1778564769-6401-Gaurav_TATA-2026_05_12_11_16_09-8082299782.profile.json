@@ -1,0 +1,197 @@
+{
+  "status": "success",
+  "profile_id": "1239593599452411",
+  "source_transcript": "agent-3045-1778564769-6401-Gaurav_TATA-2026_05_12_11_16_09-8082299782.json",
+  "source_name": "agent-3045-1778564769-6401-Gaurav_TATA-2026_05_12_11_16_09-8082299782.mp3",
+  "created_at_utc": "2026-05-15T06:58:11Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 45.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "41",
+        "evidence": "Customer: mera to 41",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Customer: mera to 41",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: salaam walekum; Agent: haanji sir to ek baar sir plan kaise work karta hai",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "25L_plus",
+        "evidence": "Customer: mera running age mein dedh lakh rupaye month leta hun",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "peak_earning",
+        "evidence": "Customer: mera running age mein dedh lakh rupaye month leta hun; Customer: 41",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: haan to boliye; Customer: sara kuch sara kuch sab kuch",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "25K_plus",
+        "evidence": "Customer: mera running age mein dedh lakh rupaye month leta hun",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "stocks",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: sara kuch sara kuch sab kuch; Customer: haan sab kuch knowledge rakhte hain market ka har kisi cheez ka",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: sir maine aapko ek term plan ke regarding call kiya hai sir term plus investment plan",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: sara kuch sara kuch sab kuch",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "bant_total": 9,
+      "lead_grade": "A",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Term Plus Investment Plan",
+      "fit_score_0_10": 8,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals beyond the pitch.",
+        "Did not confirm if he has existing life insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "high",
+      "reselling_likelihood": "high",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "retirement_plan"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is financially active, knowledgeable about markets, and engaged in the conversation. He is a high-value prospect who is open to discussing investment products."
+    },
+    "summary": "The agent called to pitch a Tata AIA term-plus-investment plan. The customer, a 41-year-old earning 1.5 lakh monthly, confirmed he is knowledgeable about market investments like stocks and SIPs. The call ended during the discovery phase without a specific next action scheduled.",
+    "key_quotes": [
+      "mera running age mein dedh lakh rupaye month leta hun",
+      "sara kuch sara kuch sab kuch",
+      "haan sab kuch knowledge rakhte hain market ka har kisi cheez ka"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

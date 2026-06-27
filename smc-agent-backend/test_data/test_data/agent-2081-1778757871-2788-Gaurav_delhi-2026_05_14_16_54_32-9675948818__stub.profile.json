@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "9174348142965550",
+  "source_transcript": "2026_05_14/agent-2081-1778757871-2788-Gaurav_delhi-2026_05_14_16_54_32-9675948818__stub.json",
+  "source_name": "agent-2081-1778757871-2788-Gaurav_delhi-2026_05_14_16_54_32-9675948818.mp3",
+  "created_at_utc": "2026-06-01T04:16:31Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 308.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "34",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "business",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30-40 hazaar rupaye",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "samjha do, batane mein kya ja raha hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "main pehle plan samjhao na, woh toh us par nirbhar karta hai, phir mujhe kya karna hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main pehle plan samjhao na, woh toh us par nirbhar karta hai, phir mujhe kya karna hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% income from first year",
+        "8% tax return free"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted premium of 1.2L annually is significantly high relative to the customer's stated monthly income of 30-40k.",
+      "missed_opportunities": [
+        "did not ask about existing insurance coverage",
+        "did not ask about financial goals"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was listening and asking for details before the call dropped."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan, and the customer responded with a prompt to continue.",
+      "customer_response": "The customer was passive but engaged, asking for the plan details before committing to a premium amount.",
+      "key_event": "The customer requested a full explanation of the plan before discussing the premium affordability.",
+      "ending": "The call disconnected abruptly while the agent was explaining the plan benefits."
+    },
+    "key_quotes": [
+      "main pehle plan samjhao na, woh toh us par nirbhar karta hai, phir mujhe kya karna hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

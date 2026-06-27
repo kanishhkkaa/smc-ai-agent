@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "9441703213529503",
+  "source_transcript": "2026_05_27/agent-3024-1779879385-3993-Gaurav_delhi-2026_05_27_16_26_25-9861880088.json",
+  "source_name": "agent-3024-1779879385-3993-Gaurav_delhi-2026_05_27_16_26_25-9861880088.mp3",
+  "created_at_utc": "2026-06-01T05:22:39Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 261.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Suraj Kumar",
+      "evidence": "Agent: Good name kya likhte hain apna pura, Mr. Suraj Kumar, right? Customer: Haan ji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Abhi business start kar raha hun, job kar raha tha pehle.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Abhi business start kar raha hun, job kar raha tha pehle.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: Ye 20 lakh maan ke chalo.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan, theek hai. (regarding callback)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Ye already mere do-do chal rahe hain.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Main already bahut chal raha hai, aur abhi karna nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "overwhelmed by complex financial calculations"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Matlab haan, bol rahe main calculate nahi kar pa raha hun, matlab kitna kya karna hai, kya nahi.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...in future bacche hain, unki higher education ke purpose se lagta hai amount ki need hai... Customer: (agreed to hear pitch)",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Ye 20 lakh maan ke chalo. (providing income details)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T18:30:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about existing life insurance coverage details"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer agreed to a callback time despite initial reluctance, indicating some openness to hear more."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life money-back plan with a 35% guaranteed income hook, to which the customer responded by mentioning he already has similar plans.",
+      "customer_response": "Customer was initially dismissive, citing existing plans, but eventually engaged with the pitch before requesting a callback.",
+      "key_event": "Customer requested a callback because the complex financial explanation was overwhelming him at the moment.",
+      "ending": "Agent confirmed the callback time for 6:30 PM and verified the customer's name."
+    },
+    "key_quotes": [
+      "Ye already mere do-do chal rahe hain.",
+      "Matlab haan, bol rahe main calculate nahi kar pa raha hun, matlab kitna kya karna hai, kya nahi."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

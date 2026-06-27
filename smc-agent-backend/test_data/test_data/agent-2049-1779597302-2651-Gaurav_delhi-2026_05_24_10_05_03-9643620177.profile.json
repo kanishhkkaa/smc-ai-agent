@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8238906910827521",
+  "source_transcript": "agent-2049-1779597302-2651-Gaurav_delhi-2026_05_24_10_05_03-9643620177.json",
+  "created_at_utc": "2026-06-01T02:06:44Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779597302-2651-Gaurav_delhi-2026_05_24_10_05_03-9643620177.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "15000 per month? Ji.",
+    "summary": "Agent completed discovery (age 49, job, 15k monthly income) for an HDFC Life plan, but the call ended without a commitment or further action.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "49",
+        "evidence": "49",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "15000 per month",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

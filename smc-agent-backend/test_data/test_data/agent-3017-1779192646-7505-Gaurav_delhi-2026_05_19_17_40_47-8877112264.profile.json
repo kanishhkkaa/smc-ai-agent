@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "3516334600636392",
+  "source_transcript": "agent-3017-1779192646-7505-Gaurav_delhi-2026_05_19_17_40_47-8877112264.json",
+  "source_name": "agent-3017-1779192646-7505-Gaurav_delhi-2026_05_19_17_40_47-8877112264.mp3",
+  "created_at_utc": "2026-05-22T11:23:55Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 158.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "34",
+        "evidence": "Customer: 34.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Family business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Family business",
+        "evidence": "Customer: Family business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Meri shaadi nahi hui hai",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: Achcha kar lo uske baad call karna.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Meri shaadi nahi hui hai toh bachche 20 saal ke kaise ho jayenge?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "3 mahine mahine mein 3 lakh aate hain toh 3 crore saal ke kaise ho jayenge bhai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: apne bachcho ke education, unke marriage ke purpose ke liye",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 crore ka cover life insurance"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent was completely incoherent and unable to explain the product logically.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent was incoherent, failed basic math, and the customer ended the call in frustration."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan and the customer responded with a curt 'Bataiye'.",
+      "customer_response": "The customer was skeptical and annoyed by the agent's illogical hypotheticals and poor math.",
+      "key_event": "The agent failed to calculate 3 lakh per month correctly, leading the customer to dismiss the call.",
+      "ending": "The customer told the agent to do their math and call back later, effectively ending the conversation."
+    },
+    "key_quotes": [
+      "Meri shaadi nahi hui hai toh bachche 20 saal ke kaise ho jayenge?",
+      "3 mahine mahine mein 3 lakh aate hain toh 3 crore saal ke kaise ho jayenge bhai?",
+      "Achcha kar lo uske baad call karna."
+    ],
+    "red_flags": [
+      "agent_incompetence",
+      "misleading_math"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6119810492719603",
+  "source_transcript": "agent-3011-1779540271-9719-Gaurav_delhi-2026_05_23_18_14_31-8744044915.json",
+  "created_at_utc": "2026-06-01T02:36:37Z",
+  "transcript_stats": {
+    "segments": 63,
+    "duration_seconds": 286.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3011-1779540271-9719-Gaurav_delhi-2026_05_23_18_14_31-8744044915.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe next week call kariyega.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer completed discovery (age 33, working, 20L income) and requested a callback for next Saturday.",
+    "callback_time_iso": "2026-05-30T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Taniya",
+        "evidence": "Your good name? Taniya.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "33",
+        "evidence": "33.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Working.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "20 lakh per annum.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki money back income deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

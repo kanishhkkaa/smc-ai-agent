@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8461912814087275",
+  "source_transcript": "agent-2098-1779450112-9973-Gaurav_delhi-2026_05_22_17_11_53-9899827332.json",
+  "created_at_utc": "2026-06-01T02:53:55Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 120.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779450112-9973-Gaurav_delhi-2026_05_22_17_11_53-9899827332.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Monthly 25k.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed full discovery (age 25, salaried, 3L annual income), and the call ended without a final commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Monthly 25k.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki guaranteed income aa rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

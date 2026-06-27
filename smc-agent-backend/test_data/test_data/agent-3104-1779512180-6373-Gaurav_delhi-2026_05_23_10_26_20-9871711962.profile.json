@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2680620534498425",
+  "source_transcript": "agent-3104-1779512180-6373-Gaurav_delhi-2026_05_23_10_26_20-9871711962.json",
+  "created_at_utc": "2026-06-01T02:44:53Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779512180-6373-Gaurav_delhi-2026_05_23_10_26_20-9871711962.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Haan, thoda sa agar baad mein call karenge to accha hai, 4 o'clock. Abhi main busy hun.",
+    "summary": "Agent pitched an HDFC Life plan; customer initially refused citing an existing Kotak policy, but agreed to a callback at 4 PM.",
+    "callback_time_iso": "2026-05-23T16:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

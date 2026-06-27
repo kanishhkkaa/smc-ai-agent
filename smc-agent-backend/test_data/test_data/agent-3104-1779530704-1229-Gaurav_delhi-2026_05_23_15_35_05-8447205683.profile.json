@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4266323473236355",
+  "source_transcript": "agent-3104-1779530704-1229-Gaurav_delhi-2026_05_23_15_35_05-8447205683.json",
+  "created_at_utc": "2026-06-01T02:45:28Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 65.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779530704-1229-Gaurav_delhi-2026_05_23_15_35_05-8447205683.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi ma'am, puchna padega na, phir bataunga aapko.",
+    "summary": "Agent pitched an HDFC Life guaranteed product; customer, an 18-year-old student, declined to provide family contact details and said he would consult them first.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "18",
+        "evidence": "Meri umar 18 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Student hain abhi? Ji ma'am.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "5338559317832992",
+  "source_transcript": "agent-3017-1779168010-4766-Gaurav_delhi-2026_05_19_10_50_10-9313277264.json",
+  "source_name": "agent-3017-1779168010-4766-Gaurav_delhi-2026_05_19_10_50_10-9313277264.mp3",
+  "created_at_utc": "2026-05-22T11:22:55Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 91.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi main thoda busy hoon hospital mein hoon thodi der baad call karna.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi main thoda busy hoon hospital mein hoon thodi der baad call karna.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Aap apne bachcho ke education unki future marriage life ke liye bhi purpose se hota hai sir.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 lakh ka pension ke basis bhi provide process hota hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "failed to acknowledge the customer's situation in the hospital and pivot to a more empathetic approach"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "child_plan",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is currently in a hospital and was dismissive of the agent's persistence."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced themselves as calling from Tata AIA regarding a new plan, and the customer invited them to speak.",
+      "customer_response": "Passive and dismissive, clearly preoccupied with being at a hospital.",
+      "key_event": "Customer stated they were in a hospital and busy, but the agent persisted in trying to explain the plan.",
+      "ending": "Agent continued to push for a meeting despite the customer's clear lack of availability."
+    },
+    "key_quotes": [
+      "Abhi main thoda busy hoon hospital mein hoon thodi der baad call karna.",
+      "Kuch keh nahi sakte abhi."
+    ],
+    "red_flags": [
+      "pressure_tactic",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

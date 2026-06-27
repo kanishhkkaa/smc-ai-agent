@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8207993271727636",
+  "source_transcript": "agent-3046-1779510016-1968-Gaurav_delhi-2026_05_23_09_50_16-9818204666.json",
+  "created_at_utc": "2026-06-01T02:41:27Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 65.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3046-1779510016-1968-Gaurav_delhi-2026_05_23_09_50_16-9818204666.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am aap baad mein baat kijiye.",
+    "summary": "Agent pitched the HDFC Life Sanchay Par Advantage plan, but the customer requested a callback later without providing any personal details.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ki money back income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 4,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

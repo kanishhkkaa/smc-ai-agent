@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9234541051091895",
+  "source_transcript": "agent-2001-1779448012-2225-Gaurav_TATA-2026_05_22_16_36_53-7506008895.json",
+  "created_at_utc": "2026-06-01T02:46:10Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 132.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2001-1779448012-2225-Gaurav_TATA-2026_05_22_16_36_53-7506008895.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Madam, 10 saal se upar ka nahi jaunga main, 55 income 60 se upar ka option hai toh batao na.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery; customer inquired about premium costs and payment terms but made no final commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "55 years ke liye kitna premium dena hoga?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10.",
+        "confidence": "medium"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium aap pay karoge na apne term coverage ke liye sir, woh amount sir aapka yahan par ye refundable rahega sir as per the market sir",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4178351491454892",
+  "source_transcript": "agent-2137-1779434082-6274-Gaurav_TATA-2026_05_22_12_44_42-8130299288.json",
+  "created_at_utc": "2026-06-01T02:55:04Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2137-1779434082-6274-Gaurav_TATA-2026_05_22_12_44_42-8130299288.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Madam aap mujhe WhatsApp kar dijiye isi number pe, main ek baar check kar lunga.",
+    "summary": "The customer requested a brochure via WhatsApp to review the plan details and key points before proceeding further.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Gurpreet",
+        "evidence": "Mr. Gurpreet ji se baat ho rahi hai? — Haanji boliye madam, main bol raha hun.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 20,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

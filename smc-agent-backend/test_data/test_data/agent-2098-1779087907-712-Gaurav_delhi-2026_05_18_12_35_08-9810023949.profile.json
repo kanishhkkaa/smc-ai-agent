@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "5952171721059098",
+  "source_transcript": "agent-2098-1779087907-712-Gaurav_delhi-2026_05_18_12_35_08-9810023949.json",
+  "source_name": "agent-2098-1779087907-712-Gaurav_delhi-2026_05_18_12_35_08-9810023949.mp3",
+  "created_at_utc": "2026-05-21T02:05:10Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 138.65,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karte hain, personal karte hain",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business karte hain, personal karte hain",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Meri toh ho gayi, main toh 7 saal ka ho gaya.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Maine bola na sir ki mujhe koi policy nahi leni, tabhi maine bola.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 4,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Koi policy nahi chahiye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "pehle saal se income aati hai 40 percent ki"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not interested in any insurance product and is actively avoiding the sales conversation.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is explicitly hostile to the sales pitch and repeatedly redirects the conversation to personal topics to avoid discussing insurance."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life, and the customer immediately stated he did not want a policy.",
+      "customer_response": "Customer is actively pushing back against the sales pitch by repeatedly redirecting the agent to personal conversation.",
+      "key_event": "The customer repeatedly refused to discuss insurance and instead interrogated the agent about his personal life.",
+      "ending": "The agent attempted to persist with the pitch despite the customer's repeated refusal, and the call ended with the customer maintaining his stance."
+    },
+    "key_quotes": [
+      "Koi policy nahi chahiye.",
+      "Nahi nahi, aap haal chaal ki baat karo, apni policy ki baat nahi karo."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

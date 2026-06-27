@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4528811488229056",
+  "source_transcript": "agent-3054-1778835069-986-Gaurav_delhi-2026_05_15_14_21_09-8459533595.json",
+  "created_at_utc": "2026-06-01T01:25:19Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 53.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1778835069-986-Gaurav_delhi-2026_05_15_14_21_09-8459533595.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai ma'am, baad mein call karta hun aapko is number pe. ... 5 baje tak. ... Theek hai.",
+    "summary": "Agent pitched a HDFC Life guaranteed plan; customer expressed interest in hearing the full plan later and agreed to a scheduled callback at 5:00 PM.",
+    "callback_time_iso": "2026-05-15T17:00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "31st year mein 036 percent ki guaranteed income de rahi hai aapke lifetime ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

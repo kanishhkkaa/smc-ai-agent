@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "3712618025302801",
+  "source_transcript": "2026_05_14/agent-2039-1778736916-3671-Gaurav_TATA-2026_05_14_11_05_16-9711700102__stub.json",
+  "source_name": "agent-2039-1778736916-3671-Gaurav_TATA-2026_05_14_11_05_16-9711700102.mp3",
+  "created_at_utc": "2026-06-01T04:11:07Z",
+  "transcript_stats": {
+    "segments": 73,
+    "duration_seconds": 191.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kajal",
+      "evidence": "Agent: thank you so much Kajal ji, take care.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: koi female candidate jo job dekh rahi ho. (Context implies customer is female)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Customer: sir main Noida se hi call kar rahi hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: sir hai mere paas, tabhi main aapse puch rahi hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "term insurance toh kara rakhi hai maine.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": [
+        "8000 rupaye referral money per month"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has term insurance and the agent abandoned the insurance pitch entirely.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "child_plan",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer was interested in the job referral opportunity discussed at the end of the call."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called regarding a 'combine plan' and the customer initially mistook the call for a job vacancy inquiry.",
+      "customer_response": "Customer was initially confused about the call purpose but became highly engaged when the agent shifted to discussing a job vacancy.",
+      "key_event": "The agent pivoted from a failed insurance pitch to recruiting for a receptionist/secretary role.",
+      "ending": "The call ended with the customer agreeing to refer a candidate for the job and the agent confirming the referral bonus."
+    },
+    "key_quotes": [
+      "term insurance toh kara rakhi hai maine.",
+      "sir hai mere paas, tabhi main aapse puch rahi hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

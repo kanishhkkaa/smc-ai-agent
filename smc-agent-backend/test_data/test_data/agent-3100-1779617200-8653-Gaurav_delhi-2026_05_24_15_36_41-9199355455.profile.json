@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1726472213582410",
+  "source_transcript": "agent-3100-1779617200-8653-Gaurav_delhi-2026_05_24_15_36_41-9199355455.json",
+  "created_at_utc": "2026-06-01T02:17:49Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779617200-8653-Gaurav_delhi-2026_05_24_15_36_41-9199355455.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi bhaiya, humko nahi karna hai, rakh rahe hain, bye bye.",
+    "summary": "Agent pitched an HDFC Life plan with guaranteed income; the customer declined, stating they are not interested in any insurance at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guarantee income aati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 29,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

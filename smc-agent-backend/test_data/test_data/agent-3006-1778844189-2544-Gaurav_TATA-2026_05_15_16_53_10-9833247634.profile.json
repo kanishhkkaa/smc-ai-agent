@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "profile_id": "1440049109867053",
+  "source_transcript": "agent-3006-1778844189-2544-Gaurav_TATA-2026_05_15_16_53_10-9833247634.json",
+  "source_name": "agent-3006-1778844189-2544-Gaurav_TATA-2026_05_15_16_53_10-9833247634.mp3",
+  "created_at_utc": "2026-05-18T06:05:30Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 139.3,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Very good evening sir, Poonam baat kar rahi hun Tata AIA se.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Job bhi, business bhi.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Job and Business",
+        "evidence": "Customer: Job bhi, business bhi.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 40-50. Agent: 40-50 hazaar rupaye mahine ka? Customer: Ji. Agent: Accha, aur business se kitna ITR file karte hai aap business mein? Customer: Business mein jaise lakh dedh lakh ka itna kaam nahi hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Batao, batao.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Aap batao na plan aapna, kya kya hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Theek hai, madam, aapko call karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Term Plus Mutual Fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer was polite and asked for details, but was busy and deferred the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA combo plan and the customer responded with interest.",
+      "customer_response": "Customer was engaged but impatient, asking for the plan details quickly.",
+      "key_event": "Agent explained the death benefits and accidental cover, after which the customer ended the call.",
+      "ending": "Customer politely deferred the conversation by saying he would call back."
+    },
+    "key_quotes": [
+      "Aap batao na plan aapna, kya kya hai.",
+      "Theek hai, madam, aapko call karta hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

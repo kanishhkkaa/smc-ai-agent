@@ -1,0 +1,169 @@
+{
+  "status": "success",
+  "profile_id": "3965619727083004",
+  "source_transcript": "2026_05_21/agent-2136-1779344954-4479-Gaurav_TATA-2026_05_21_11_59_14-9930650049.json",
+  "source_name": "agent-2136-1779344954-4479-Gaurav_TATA-2026_05_21_11_59_14-9930650049.mp3",
+  "created_at_utc": "2026-06-01T04:57:26Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Nand Kishore Mishra",
+      "evidence": "Am I talking to Mr. Dr. Nand Kishore Mishra? Customer: Ji bol raha hun.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "70",
+        "evidence": "mera 70 years age hai",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Mr. Dr. Nand Kishore Mishra",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "main retired hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired",
+        "evidence": "main retired hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "main retired hun, mera 70 years age hai, main ab kya karunga ye sab plan dekh kar?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "main retired hun, mera 70 years age hai, main ab kya karunga ye sab plan dekh kar?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": [
+        "1 crore life cover from day one"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Pro Life Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 70 years old and retired; the product is a term/ULIP combination which is unsuitable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is retired and explicitly stated he has no interest in the product due to his age."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and the customer asked what the call was about.",
+      "customer_response": "Customer was passive and dismissive, citing his retirement and age as reasons for lack of interest.",
+      "key_event": "Customer rejected the pitch by stating he is retired and 70 years old.",
+      "ending": "Agent thanked the customer and ended the call after the customer mentioned he was busy at work."
+    },
+    "key_quotes": [
+      "main retired hun, mera 70 years age hai, main ab kya karunga ye sab plan dekh kar?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

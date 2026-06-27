@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7516107575042552",
+  "source_transcript": "agent-2136-1778827859-9327-Gaurav_TATA-2026_05_15_12_20_59-9013612668.json",
+  "created_at_utc": "2026-06-01T01:15:01Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1778827859-9327-Gaurav_TATA-2026_05_15_12_20_59-9013612668.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap Saturday call kar lena. ... 11 baje ke aas paas na.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer provided his age (40) and occupation (business), requested a brochure, and scheduled a callback for Saturday at 11:00 AM.",
+    "callback_time_iso": "2026-05-16T11:00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Meri current age toh 40 hai, lekin thoda sa busy hoon.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business? Haan.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

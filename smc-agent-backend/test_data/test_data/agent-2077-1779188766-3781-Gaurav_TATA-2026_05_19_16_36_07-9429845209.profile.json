@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "profile_id": "6721814915763372",
+  "source_transcript": "agent-2077-1779188766-3781-Gaurav_TATA-2026_05_19_16_36_07-9429845209.json",
+  "source_name": "agent-2077-1779188766-3781-Gaurav_TATA-2026_05_19_16_36_07-9429845209.mp3",
+  "created_at_utc": "2026-05-22T11:10:54Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 77.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: Age, age meri 45 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Abhi main kuwara hoon.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Nahi main business karta hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Bas meri 20,000 hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Abhi main kuwara hoon.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Agent: Arre sir aap rakh do call. Aapki na income hai na koi hai aur age itni zyada hai. Plan nahi ho payega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 6,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi main business karta hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Term Plus Mutual Fund",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent explicitly rejected the customer based on income and age.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent was rude, dismissive, and explicitly told the customer the plan was not for him due to his income and age, leading to a hostile interaction."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called from Tata AIA regarding a new plan, and the customer immediately asked for the purpose of the call.",
+      "customer_response": "The customer was defensive and sarcastic, responding to the agent's unprofessionalism with mockery.",
+      "key_event": "The agent insulted the customer's income level and age, stating the plan was not for him.",
+      "ending": "The agent abruptly ended the call after insulting the customer's income and age."
+    },
+    "key_quotes": [
+      "Arre sir aap rakh do call. Aapki na income hai na koi hai aur age itni zyada hai. Plan nahi ho payega.",
+      "45 ki age mein aap 20,000 kama rahe ho sir. Hadd ho gayi."
+    ],
+    "red_flags": [
+      "agent_rude_to_customer",
+      "agent_insulted_customer_financial_status"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

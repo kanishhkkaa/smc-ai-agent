@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "4852210654409243",
+  "source_transcript": "agent-2090-1779171984-9986-Gaurav_delhi-2026_05_19_11_56_25-7471127070.json",
+  "source_name": "agent-2090-1779171984-9986-Gaurav_delhi-2026_05_19_11_56_25-7471127070.mp3",
+  "created_at_utc": "2026-05-22T11:12:52Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 257.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Nikunj Kevadiya",
+      "evidence": "Nikunj Kevadiya",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Bhuj",
+        "evidence": "Kuchh Bhuj",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Gujarat",
+        "evidence": "Kuchh Bhuj",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business hai.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "₹1 lakh monthly",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "4 baje baad aapko call kariye aap.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Aapka proposal mujhe mail ya WhatsApp karwa dijiye na.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Sir aapka jo bhi proposal hai na main itna abhi phone pe lamba baat nahi kar sakta hu.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "saal ka ₹2 lakh bachana comfortable rahega? ... Haan rahega.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T16:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year",
+        "8% compounding growth",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond income."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer requested information via email/WhatsApp and provided a specific callback time, indicating interest but limited current availability."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately pitched a plan with 35% income support.",
+      "customer_response": "Customer was passive but polite, repeatedly asking for information to be sent via email/WhatsApp to avoid a long phone call.",
+      "key_event": "Customer insisted on receiving the proposal via email/WhatsApp instead of continuing the long phone pitch.",
+      "ending": "Customer provided his name and requested a callback after 4 PM."
+    },
+    "key_quotes": [
+      "Aapka proposal mujhe mail ya WhatsApp karwa dijiye na.",
+      "Sir aapka jo bhi proposal hai na main itna abhi phone pe lamba baat nahi kar sakta hu.",
+      "4 baje baad aapko call kariye aap."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

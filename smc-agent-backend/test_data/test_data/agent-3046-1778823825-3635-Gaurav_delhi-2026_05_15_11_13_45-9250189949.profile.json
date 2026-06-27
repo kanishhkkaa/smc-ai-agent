@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5773949105971841",
+  "source_transcript": "agent-3046-1778823825-3635-Gaurav_delhi-2026_05_15_11_13_45-9250189949.json",
+  "created_at_utc": "2026-06-01T01:24:35Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3046-1778823825-3635-Gaurav_delhi-2026_05_15_11_13_45-9250189949.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Customer only acknowledged (hmm, haan) and call ended without stance.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer provided only minimal ASR-like acknowledgment-level acknowledgment and call ended without a clear outcome.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36000 ki money back income aapko provide ki ja rahi hai",
+      "return_claim_pct": 8,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 2,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "8507925406368078",
+  "source_transcript": "agent-2077-1779271448-2319-Gaurav_TATA-2026_05_20_15_34_09-9811774375.json",
+  "source_name": "agent-2077-1779271448-2319-Gaurav_TATA-2026_05_20_15_34_09-9811774375.mp3",
+  "created_at_utc": "2026-05-25T19:21:37Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 133.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Meri 33 hai age meri.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Good afternoon, sir.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Chhota mota sa business hai, madam ji apna.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Small business owner",
+        "evidence": "Chhota mota sa business hai, madam ji apna.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "ho jaata hai kuch mahine ka hisaab saap ka mera baith jaata hai 1.25 lakh ke aas paas.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan ji, bataye, karna kya hai?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "ho jaata hai kuch mahine ka hisaab saap ka mera baith jaata hai 1.25 lakh ke aas paas.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Maine kuch nahi kara.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Chhota mota sa business hai, madam ji apna.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 CR term coverage",
+        "tax free returns"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Combined term plus mutual fund plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about family or protection needs despite pitching term insurance."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "other"
+      ],
+      "reasoning": "Customer was willing to share financial details but was interrupted by a visitor, suggesting potential for future contact."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and mutual fund plan from Tata AIA, to which the customer responded with interest.",
+      "customer_response": "The customer was initially cooperative and provided personal details but became distracted by a visitor and ended the conversation.",
+      "key_event": "The customer disclosed a monthly income of 1.25 lakh and admitted to being a smoker before being interrupted by a visitor.",
+      "ending": "The customer stated they had a visitor and could not continue the call, leading to an abrupt end."
+    },
+    "key_quotes": [
+      "Meri 33 hai age meri.",
+      "ho jaata hai kuch mahine ka hisaab saap ka mera baith jaata hai 1.25 lakh ke aas paas.",
+      "Abhi mere paas koi aaya hua hai, madam. Baat nahi kar sakta abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

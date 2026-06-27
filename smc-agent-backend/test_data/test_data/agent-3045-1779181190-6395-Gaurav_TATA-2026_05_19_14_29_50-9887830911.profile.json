@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "6843827850381624",
+  "source_transcript": "agent-3045-1779181190-6395-Gaurav_TATA-2026_05_19_14_29_50-9887830911.json",
+  "source_name": "agent-3045-1779181190-6395-Gaurav_TATA-2026_05_19_14_29_50-9887830911.mp3",
+  "created_at_utc": "2026-05-22T11:26:16Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 117.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Meri 47 49 aayegi 79. 79 date of birth hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hi hai mera.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Medical business",
+        "evidence": "Haan medical ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Abhi batana ma'am main gaadi chala raha hoon na.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Nahi nahi. (regarding SIP/mutual fund/stock knowledge)",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "premium with interest refundable"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer has no investment knowledge and agent is pushing a market-linked product as 'refundable with interest'.",
+      "missed_opportunities": [
+        "Did not establish clear financial goals before pitching product."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was driving and asked to call later, indicating potential interest but current unavailability."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA and a combined plan; customer responded with 'Haan bolo'.",
+      "customer_response": "Passive and distracted, primarily answering questions while driving.",
+      "key_event": "Customer clarified he was driving, leading to the termination of the call.",
+      "ending": "Agent agreed to call back later as the customer was driving."
+    },
+    "key_quotes": [
+      "Abhi batana ma'am main gaadi chala raha hoon na."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

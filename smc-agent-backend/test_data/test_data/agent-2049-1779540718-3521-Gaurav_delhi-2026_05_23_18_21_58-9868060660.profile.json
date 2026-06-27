@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6072922010963851",
+  "source_transcript": "agent-2049-1779540718-3521-Gaurav_delhi-2026_05_23_18_21_58-9868060660.json",
+  "created_at_utc": "2026-06-01T02:23:53Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 263.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779540718-3521-Gaurav_delhi-2026_05_23_18_21_58-9868060660.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "I lost your voice. Sorry. Main ye keh rahi hun sir, second year ka premium, hello. Main aapko dusre number se call karti hun sir. Ek second line.",
+    "summary": "The call was interrupted by network issues while the senior agent was explaining the Sanchay Par Advantage plan, leading to a disconnect.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "58 something.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "guaranteed 8 percent ke return ke saath fund aapka grow karega",
+      "return_claim_pct": 8,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

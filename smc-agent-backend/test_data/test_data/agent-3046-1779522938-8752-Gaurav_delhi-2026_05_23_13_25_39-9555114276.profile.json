@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5435278838411609",
+  "source_transcript": "agent-3046-1779522938-8752-Gaurav_delhi-2026_05_23_13_25_39-9555114276.json",
+  "created_at_utc": "2026-06-01T02:41:52Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3046-1779522938-8752-Gaurav_delhi-2026_05_23_13_25_39-9555114276.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, abhi nahi.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer provided age but declined interest in policies, leading to a short, non-committal conversation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "27",
+        "evidence": "27 ma'am.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 36000 ki money back income",
+      "return_claim_pct": 8,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

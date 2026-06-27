@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "6996358739581634",
+  "source_transcript": "agent-2065-1779687777-6335-Gaurav_delhi-2026_05_25_11_12_58-9650990746.json",
+  "source_name": "agent-2065-1779687777-6335-Gaurav_delhi-2026_05_25_11_12_58-9650990746.mp3",
+  "created_at_utc": "2026-05-27T01:15:18Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 234.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Bombay",
+        "evidence": "Customer: \"Main to Bombay mein hun bhai.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Maharashtra",
+        "evidence": "Customer: \"Main to Bombay mein hun bhai.\"",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: \"Are to itni income to normal hai aaj ki date mein mere bhai 3.5 lakh to.\"",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Nahi nahi wahan to mera pehle se hi HDFC Life.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 5,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi nahi wahan to mera pehle se hi HDFC Life.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: \"Isme minimum investment 60,000 ka hota hai saal ka, monthly 5,000 rupaye.\"",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% cashback income from first year for whole life",
+        "8% guaranteed return on savings"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed and traditional plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has an existing HDFC Life policy and was not interested in a new one.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer already has an HDFC Life policy and seemed skeptical/dismissive of the agent's pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called from HDFC Life to pitch a guaranteed traditional plan with cashback and tax benefits.",
+      "customer_response": "The customer was passive but skeptical, questioning the agent's claims about tax benefits and income requirements.",
+      "key_event": "The customer challenged the agent's claim about tax benefits and income requirements, leading to confusion.",
+      "ending": "The customer ended the call abruptly after mentioning they already have an HDFC Life policy."
+    },
+    "key_quotes": [
+      "Nahi nahi wahan to mera pehle se hi HDFC Life.",
+      "Are to itni income to normal hai aaj ki date mein mere bhai 3.5 lakh to."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_3",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5383908912337453",
+  "source_transcript": "agent-2037-1779606256-1801-Gaurav_delhi-2026_05_24_12_34_17-8287872979.json",
+  "created_at_utc": "2026-06-01T02:06:01Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 89.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779606256-1801-Gaurav_delhi-2026_05_24_12_34_17-8287872979.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sir nahi sir, aapki age bahut kam hai sir na, isliye main puch raha hun sir.",
+    "summary": "Agent performed discovery, found the customer to be 19 years old, and self-disqualified the prospect due to their young age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "19",
+        "evidence": "Meri age hai 19 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai. AC ka, air conditioner ka. Repairing ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30-40 hazaar hai monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jisme aap kisi bhi amount se saving karte ho uska 35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

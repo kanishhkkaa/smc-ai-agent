@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "8844552611652813",
+  "source_transcript": "agent-2089-1779173364-1744-Gaurav_delhi-2026_05_19_12_19_24-9925153935.json",
+  "source_name": "agent-2089-1779173364-1744-Gaurav_delhi-2026_05_19_12_19_24-9925153935.mp3",
+  "created_at_utc": "2026-05-22T11:12:30Z",
+  "transcript_stats": {
+    "segments": 58,
+    "duration_seconds": 217.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sunil Yadav",
+      "evidence": "Sunil Yadav",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "53",
+        "evidence": "53",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Sunil Yadav",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Gujarat",
+        "evidence": "Main Gujarat se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hu. Manufacturing.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Manufacturing",
+        "evidence": "Manufacturing",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "80,000 mahine ka? Hmm.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Main to verbal cheez ko itna time bhi nahi dunga, mujhe time rahega toh main usko bhej dunga, samajh lunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Aap WhatsApp, ye cheez nahi hai, mera WhatsApp hai, usme detail bhej do, main usko pehle read kar lunga, uske baad dekhunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Toh ek baar main aapko saal ka 1 lakh ke according agar jo plan suggest karu... Toh kya ye saal ka 1 lakh saving karna comfortable rahega... Haan ji.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Isse pehle toh aapne investment kari hogi, like LIC wagera chal raha hoga sir? Hmm.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "HDFC Life ka plan hai Sanchay Par Advantage. Proper traditional plan hai, guaranteed plan hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main usko pehle read kar lunga, uske baad dekhunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": "2026-05-19T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% cash bonus on first annual premium for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage amount or specific financial goals beyond general investment."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to reviewing information via WhatsApp but explicitly rejected verbal-only sales pressure."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life plan with a 35% cash bonus promise, to which the customer responded with neutral acknowledgment.",
+      "customer_response": "The customer was passive initially but became firm and assertive when the agent insisted on a verbal pitch instead of sending information.",
+      "key_event": "The customer firmly rejected the verbal pitch, demanding written details to study first.",
+      "ending": "The agent agreed to send details via WhatsApp and scheduled a follow-up call for 7:00 PM."
+    },
+    "key_quotes": [
+      "Aap WhatsApp, ye cheez nahi hai, mera WhatsApp hai, usme detail bhej do, main usko pehle read kar lunga, uske baad dekhunga.",
+      "Main to verbal cheez ko itna time bhi nahi dunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_3",
+      "life_stage": "pre_retirement",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

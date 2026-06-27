@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "7712355542254299",
+  "source_transcript": "agent-3100-1779187343-1443-Gaurav_delhi-2026_05_19_16_12_24-9998707827.json",
+  "source_name": "agent-3100-1779187343-1443-Gaurav_delhi-2026_05_19_16_12_24-9998707827.mp3",
+  "created_at_utc": "2026-05-22T11:30:58Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Valsad",
+        "evidence": "Customer: Nahi nahi Valsad Gujarat se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Gujarat",
+        "evidence": "Customer: Nahi nahi Valsad Gujarat se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Electric business",
+        "evidence": "Customer: Electric electric.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Agent: Ek lakh bees hazaar monthly? Customer: Haan. Haan.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Nahi abhi filhaal main thoda kaam mein hoon abhi nahi.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi abhi filhaal main thoda kaam mein hoon abhi nahi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business. (Implies sole decision maker for business/personal finance)",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T11:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "whole life tak tax free income deti hai 35 percent",
+        "8 percent ke saath growth hoti rahegi"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life whole life plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer agreed to a callback time, indicating some openness despite being busy."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a plan with guaranteed returns.",
+      "customer_response": "Customer was passive and busy, eventually pushing back to end the call.",
+      "key_event": "Customer interrupted the pitch to state they were busy and set a callback time.",
+      "ending": "The call ended with the customer agreeing to a callback tomorrow after 11 AM."
+    },
+    "key_quotes": [
+      "Nahi abhi filhaal main thoda kaam mein hoon abhi nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "5911097745957518",
+  "source_transcript": "agent-3052-1779166376-701-Gaurav_delhi-2026_05_19_10_22_56-9810913946.json",
+  "source_name": "agent-3052-1779166376-701-Gaurav_delhi-2026_05_19_10_22_56-9810913946.mp3",
+  "created_at_utc": "2026-05-22T11:27:36Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 294.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "24",
+        "evidence": "\"24 24 2 4.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"Main private company mein job karta hoon.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "private company employee",
+        "evidence": "\"Main private company mein job karta hoon.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Theek hai okay main samajh gaya thank you.\"",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 6,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Hai kya cheez yeh mujhe yeh toh batao kya keh rahe ho aap loan ki keh rahe ho kiski keh rahe ho kya?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "\"Nahi just aise hi just aise hi bank mein saving karta hoon.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"I am the only who is handling the...\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed tax free income from first year for whole life",
+        "35% guaranteed income from first year for whole life",
+        "8 to 9 percent compounding interest growth"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent failed to explain the product clearly and the customer has no prior experience with insurance products.",
+      "missed_opportunities": [
+        "Did not explain the difference between insurance and bank savings.",
+        "Did not assess the customer's actual financial needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was confused throughout the call and did not show active interest, eventually ending the call politely."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive and confused, repeatedly asking for clarification on how the product works.",
+      "key_event": "The agent made multiple conflicting and aggressive claims about guaranteed returns, which the customer struggled to understand.",
+      "ending": "The agent suggested the customer check Google, and the customer ended the call with a polite acknowledgment."
+    },
+    "key_quotes": [
+      "Hai kya cheez yeh mujhe yeh toh batao kya keh rahe ho aap loan ki keh rahe ho kiski keh rahe ho kya?",
+      "Nahi just aise hi just aise hi bank mein saving karta hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

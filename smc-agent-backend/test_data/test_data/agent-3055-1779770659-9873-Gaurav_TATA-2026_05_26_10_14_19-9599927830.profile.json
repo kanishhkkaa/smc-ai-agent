@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "3496946434336755",
+  "source_transcript": "2026_05_26/agent-3055-1779770659-9873-Gaurav_TATA-2026_05_26_10_14_19-9599927830.json",
+  "source_name": "agent-3055-1779770659-9873-Gaurav_TATA-2026_05_26_10_14_19-9599927830.mp3",
+  "created_at_utc": "2026-06-01T05:12:19Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 190.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "meri 48 hai",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Lucknow",
+        "evidence": "Main Lucknow se hoon madam.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Lucknow",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "choti-moti job pakad li hai bas",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job",
+        "evidence": "choti-moti job",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30-35 hazaar tak ho jaata hai",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "meri wife ka hi chal raha hai",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan, bataiye madam, kya hai ye?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "ye toh zyada hi ho jaayega madam",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "business failure",
+        "limited income"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "30-35 hazaar tak ho jaata hai",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "mujhe iske baare mein koi kuch pata nahi",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "saving plan",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "meri wife ka hi chal raha hai",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "double tax benefit",
+        "life insurance cover for self and 3 family members"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 50000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not clarify the 36% income claim vs actual IRR"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is curious about the plan details and engaged in the discovery process despite initial budget concerns."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed savings plan from HDFC Life, and the customer responded positively to the initial pitch.",
+      "customer_response": "The customer was engaged and curious, asking clarifying questions about the plan's nature and cost.",
+      "key_event": "The customer expressed concern about the initial 60k annual premium, leading the agent to offer a lower 50k option.",
+      "ending": "The agent confirmed the customer's location and the call concluded with the agent preparing to explain the plan details."
+    },
+    "key_quotes": [
+      "Matlab kya ye insurance plan hai kya ye?",
+      "ye toh zyada hi ho jaayega madam",
+      "Haan, bataiye madam, kya hai ye?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_2",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

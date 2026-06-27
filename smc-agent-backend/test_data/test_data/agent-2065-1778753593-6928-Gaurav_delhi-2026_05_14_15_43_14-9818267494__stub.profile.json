@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "5960118327301524",
+  "source_transcript": "2026_05_14/agent-2065-1778753593-6928-Gaurav_delhi-2026_05_14_15_43_14-9818267494__stub.json",
+  "source_name": "agent-2065-1778753593-6928-Gaurav_delhi-2026_05_14_15_43_14-9818267494.mp3",
+  "created_at_utc": "2026-06-01T04:15:49Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 133.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "15",
+        "evidence": "Main 15 saal ka hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Main 15 saal ka hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Pehle karwa lena chahiye apna na.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Branch, branch kis branch ka hai, company ka naam kya hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% income from first year for whole life",
+        "8% guaranteed return",
+        "double tax benefit",
+        "day one life insurance coverage for self and two family members"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage Plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The lead is a minor and the decision-maker is hostile/skeptical.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer's brother was dismissive and skeptical of the agent's credibility, ending the call with a sarcastic remark."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed savings plan from HDFC Life, and the customer initially responded with passive interest.",
+      "customer_response": "The customer (brother) was skeptical and challenged the agent's legitimacy and the nature of the product.",
+      "key_event": "The agent was transferred from a minor to the customer's brother, who immediately questioned the company's identity and the agent's credibility.",
+      "ending": "The call ended abruptly after the customer's brother sarcastically suggested the agent should buy the product himself."
+    },
+    "key_quotes": [
+      "Pehle karwa lena chahiye apna na."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

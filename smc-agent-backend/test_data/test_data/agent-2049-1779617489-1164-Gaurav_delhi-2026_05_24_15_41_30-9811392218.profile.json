@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2208078689061257",
+  "source_transcript": "agent-2049-1779617489-1164-Gaurav_delhi-2026_05_24_15_41_30-9811392218.json",
+  "created_at_utc": "2026-06-01T02:06:58Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2049-1779617489-1164-Gaurav_delhi-2026_05_24_15_41_30-9811392218.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Main retire hun, ghar mein rehta hun. Please, tum kisi aur se mil lo.",
+    "summary": "The agent pitched an HDFC Life plan, but the customer, a retired bank employee, declined the offer and requested not to be contacted.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Beta main to bank employee hun aur retire hue 15 saal ho gaye.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se ek regular income ka support kar rahi hai aapki whole life tak",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

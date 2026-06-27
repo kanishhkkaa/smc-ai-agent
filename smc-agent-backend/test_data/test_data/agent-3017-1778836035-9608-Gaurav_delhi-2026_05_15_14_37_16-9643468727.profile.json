@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4918214986267176",
+  "source_transcript": "agent-3017-1778836035-9608-Gaurav_delhi-2026_05_15_14_37_16-9643468727.json",
+  "created_at_utc": "2026-06-01T01:20:41Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 76.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1778836035-9608-Gaurav_delhi-2026_05_15_14_37_16-9643468727.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "medium",
+    "evidence": "Umr hai meri 26. ... Usmein abhi to karte hain, aise to gaadi chalate hain. Haan gaadi to hum gaadi chala lete, four wheeler se leke badi gaadi tak.",
+    "summary": "Agent pitched a Tata AIA combined plan, completed partial discovery (age 26, driver/skilled trade), and the call ended without a clear outcome or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "Umr hai meri 26.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "gaadi chala lete hain, four wheeler se leke badi gaadi tak.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "according to market na aapko ek higher return bhi diya ja raha hai.",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

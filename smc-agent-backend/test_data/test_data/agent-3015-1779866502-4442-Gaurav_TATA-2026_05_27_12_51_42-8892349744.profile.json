@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "7770939049280431",
+  "source_transcript": "2026_05_27/agent-3015-1779866502-4442-Gaurav_TATA-2026_05_27_12_51_42-8892349744.json",
+  "source_name": "agent-3015-1779866502-4442-Gaurav_TATA-2026_05_27_12_51_42-8892349744.mp3",
+  "created_at_utc": "2026-06-01T05:21:55Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 142.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Aniket",
+      "evidence": "Agent: \"Aapka pura naam kya sir rahega?\" Customer: \"Aniket.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: \"Age 30 hai\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Ya hi sir\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"dekhta hu agar wife ka lena hai\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Okay, theek hai. Mera to hai, dekhta hu agar wife ka lena hai to aap mujhe ek detail bhej dijiye\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mera to already hai ek term insurance, nahi chahiye.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: \"Term plus ULIP plan\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"dekhta hu agar wife ka lena hai\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-28T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR term insurance",
+        "75% of premium invested in mutual funds",
+        "mortality charges returned doubled after 10 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current term insurance coverage amount or tenure."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "other"
+      ],
+      "reasoning": "Customer requested details for his wife and agreed to a follow-up call tomorrow."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA term insurance; customer initially declined but passed the phone to her husband.",
+      "customer_response": "Initially dismissive, then engaged when the agent explained the return of mortality charges.",
+      "key_event": "Customer agreed to review details for his wife's policy and scheduled a callback.",
+      "ending": "Agent confirmed sending details via WhatsApp and scheduled a follow-up call for tomorrow."
+    },
+    "key_quotes": [
+      "Mera to already hai ek term insurance, nahi chahiye.",
+      "dekhta hu agar wife ka lena hai to aap mujhe ek detail bhej dijiye email mein aur fir kal connect karte hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

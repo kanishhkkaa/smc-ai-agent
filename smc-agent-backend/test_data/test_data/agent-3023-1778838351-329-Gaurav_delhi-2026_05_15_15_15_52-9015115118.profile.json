@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "8214179906673153",
+  "source_transcript": "agent-3023-1778838351-329-Gaurav_delhi-2026_05_15_15_15_52-9015115118.json",
+  "source_name": "agent-3023-1778838351-329-Gaurav_delhi-2026_05_15_15_15_52-9015115118.mp3",
+  "created_at_utc": "2026-05-18T06:07:03Z",
+  "transcript_stats": {
+    "segments": 68,
+    "duration_seconds": 202.64,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Wasim Ahmed",
+      "evidence": "Wasim Ahmed",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "43",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Wasim Ahmed",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Main advocate hu.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Advocate",
+        "evidence": "Main advocate hu.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Main bilkul khali hu.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "woh mere naam pe hai aur usme meri family bhi cover hoti hai, bacche bacche bhi, wife wife bhi sab.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Main bilkul khali hu.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi madam, koi saving plan ka zaroorat nahi hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Jab ek already hai toh double double kaise le sakta hai insaan?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "financial constraints"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Main bilkul khali hu.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance",
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Woh mere naam pe hai aur usme meri family bhi cover hoti hai, bacche bacche bhi, wife wife bhi sab.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Saving Plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has existing coverage and stated financial inability to invest.",
+      "missed_opportunities": [
+        "Did not pivot to loan cross-sell effectively despite customer interest."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is not interested in insurance products and explicitly stated he is 'completely empty' financially, though he expressed a potential future need for a personal loan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and pitched a saving plan, which the customer immediately declined.",
+      "customer_response": "The customer was initially dismissive, citing financial constraints, but engaged briefly when discussing his profession and existing insurance coverage.",
+      "key_event": "The customer revealed he is an advocate and already has government-provided insurance, effectively shutting down the insurance pitch.",
+      "ending": "The call ended politely after the customer noted the background noise and the agent confirmed she could not assist with loan queries."
+    },
+    "key_quotes": [
+      "Main bilkul khali hu.",
+      "Jab ek already hai toh double double kaise le sakta hai insaan?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

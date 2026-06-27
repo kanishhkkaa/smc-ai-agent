@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "6413893608048200",
+  "source_transcript": "agent-2046-1779258472-3754-Gaurav_TATA-2026_05_20_11_57_52-9811555663.json",
+  "source_name": "agent-2046-1779258472-3754-Gaurav_TATA-2026_05_20_11_57_52-9811555663.mp3",
+  "created_at_utc": "2026-05-25T19:21:02Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 246.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Shubham",
+      "evidence": "Agent: Shubham. Okay, no issue.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "31",
+        "evidence": "Customer: 94 ka birth hai, 26 hai toh 31 hui meri.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: mere bete pe aa jaye",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main digital marketing manager hoon, bataiye.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "digital marketing manager",
+        "evidence": "Customer: Main digital marketing manager hoon, bataiye.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: mere bete pe aa jaye",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Customer: Main toh continue karna chahta hoon mere through matlab mere bete pe aa jaye",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai, we'll connect in evening. Koi problem nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Maine woh check kar liya uska koi benefit hai nahi. Woh check kar chuka hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "needs a plan that continues to his son after him"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Maine woh check kar liya uska koi benefit hai nahi. Woh check kar chuka hoon.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer: Main toh continue karna chahta hoon mere through matlab mere bete pe aa jaye",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main toh continue karna chahta hoon mere through matlab mere bete pe aa jaye",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T17:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life cover from day one",
+        "after five years later acche returns provide kiye jaate hain without any tax",
+        "medical plus pension and double tax benefit",
+        "jitna bhi is plan mein investment karte hain, woh sara refundable bhi hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Param Rakshak",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent failed to provide a product that meets the customer's specific requirement for multi-generational coverage.",
+      "missed_opportunities": [
+        "Did not ask about current insurance portfolio beyond the rejected HDFC plan."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "other",
+        "term_insurance",
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is actively looking for a specific type of multi-generational plan and agreed to a callback."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA Param Rakshak plan with claims of 1 crore cover and tax-free returns.",
+      "customer_response": "Engaged and clear about his specific requirement for a multi-generational plan.",
+      "key_event": "Customer rejected the agent's suggestion of HDFC Sanchay Par Advantage, stating he had already checked it and found no benefit.",
+      "ending": "Customer agreed to a callback at 5 PM today."
+    },
+    "key_quotes": [
+      "Main toh continue karna chahta hoon mere through matlab mere bete pe aa jaye",
+      "Maine woh check kar liya uska koi benefit hai nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

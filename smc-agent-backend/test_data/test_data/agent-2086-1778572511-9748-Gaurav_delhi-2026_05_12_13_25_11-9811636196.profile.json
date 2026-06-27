@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "9285948299270964",
+  "source_transcript": "agent-2086-1778572511-9748-Gaurav_delhi-2026_05_12_13_25_11-9811636196.json",
+  "source_name": "agent-2086-1778572511-9748-Gaurav_delhi-2026_05_12_13_25_11-9811636196.mp3",
+  "created_at_utc": "2026-05-15T06:38:54Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 147.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Neha",
+      "evidence": "Customer: Hello, Neha this side.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Customer: Good afternoon Neha baat kar rahi hun HDFC Life ke behalf pe, kaise hain aap?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Agent: Dekho suno suno, main main retirement aa chuka hun, main aisa kuch nahi kar raha.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "retired",
+        "evidence": "Agent: Dekho suno suno, main main retirement aa chuka hun, main aisa kuch nahi kar raha.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Agent: Arey madam, kabhi toh aapka na mujhe samajh nahi aati, main road pe gaadi chala raha hun, aap phone kar rahi hain.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60.0,
+      "agent_talk_percent": 40.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Dekho suno suno, main main retirement aa chuka hun, main aisa kuch nahi kar raha.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 100.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is retired and not interested in savings/investment plans.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is retired and explicitly stated they are not interested in any such plans. The interaction ended abruptly after the customer's objection."
+    },
+    "summary": "The agent called the customer to pitch an HDFC Life savings plan. The customer was driving, expressed frustration at the timing of the call, and subsequently rejected the offer, stating they are retired and not interested. The agent made claims about guaranteed returns and tax-free income.",
+    "key_quotes": [
+      "Arey madam, kabhi toh aapka na mujhe samajh nahi aati, main road pe gaadi chala raha hun, aap phone kar rahi hain.",
+      "Dekho suno suno, main main retirement aa chuka hun, main aisa kuch nahi kar raha."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

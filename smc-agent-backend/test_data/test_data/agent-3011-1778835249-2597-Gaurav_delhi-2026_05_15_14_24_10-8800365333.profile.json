@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "4617903476442627",
+  "source_transcript": "agent-3011-1778835249-2597-Gaurav_delhi-2026_05_15_14_24_10-8800365333.json",
+  "source_name": "agent-3011-1778835249-2597-Gaurav_delhi-2026_05_15_14_24_10-8800365333.mp3",
+  "created_at_utc": "2026-05-18T06:05:41Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 198.74,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "62",
+        "evidence": "62.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Sir good afternoon",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Madam retired ho gaya hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Retired",
+        "evidence": "Madam retired ho gaya hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Theek hai sir, toh phir phir phir nahi ho payega sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Main toh yehi toh pooch raha hun, madam mera paisa mere ko hi wapis doge toh money back matlab ye aapki zimmedari thodi bata raha hun.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "30000 retired.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer questioned the basic concept of money back.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Madam ab kya, ab woh depend karta hai madam aap kitna fund mangoge.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% money back income",
+        "8% compound interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer's budget of 30,000 is below the product's minimum premium of 60,000.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is retired and his budget is significantly below the product's minimum requirement, leading to an immediate termination of the sales process."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and the customer responded with 'Haanji ma'am'.",
+      "customer_response": "The customer was skeptical and pushed back on the concept of 'money back' being a benefit.",
+      "key_event": "The agent rejected the customer's interest because his budget of 30,000 was below the product's 60,000 minimum.",
+      "ending": "The agent ended the call abruptly after the customer could not meet the minimum premium requirement."
+    },
+    "key_quotes": [
+      "Mera paisa mere ko hi wapis doge toh money back matlab ye aapki zimmedari thodi bata raha hun.",
+      "30000 retired."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_1",
+      "life_stage": "retired",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "7895436610763711",
+  "source_transcript": "2026_05_16/agent-2046-1778934543-7843-Gaurav_TATA-2026_05_16_17_59_03-9082429296.json",
+  "source_name": "agent-2046-1778934543-7843-Gaurav_TATA-2026_05_16_17_59_03-9082429296.mp3",
+  "created_at_utc": "2026-06-01T04:41:50Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 241.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "26",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai mera actually",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Business hai mera actually",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "ITR mera hai something 7 lakh ka",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye na.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Gaadi chalu hai kya ye?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Engineering okay.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "pension mein aapko aapki retirement ki age par lump sum 1 lakh rupaye provide kiya jata hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Haan. Business hai mera actually.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 lakh medical insurance per year",
+        "1 lakh per month pension at retirement"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent is pitching a complex ULIP/Term hybrid as a pension/medical plan, which does not align with the customer's stated business profile and needs.",
+      "missed_opportunities": [
+        "Did not explore the customer's existing business insurance or tax planning needs beyond ITR."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was distracted by work during the call but remained polite and engaged with the agent's questions."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and ULIP plan, which the customer initially questioned.",
+      "customer_response": "The customer was initially passive and distracted by work, but became more engaged when asked about his financial profile.",
+      "key_event": "The customer was distracted by his business operations (managing containers) during the pitch, causing a significant disruption in the flow.",
+      "ending": "The call ended abruptly after the agent attempted to explain the premium structure while the customer was busy with work."
+    },
+    "key_quotes": [
+      "Bataiye na.",
+      "ITR mera hai something 7 lakh ka"
+    ],
+    "red_flags": [
+      "Agent promised 1 lakh per month pension as a 'lump sum' which is contradictory and misleading.",
+      "Agent claimed the plan includes 10 lakh medical insurance, which is likely a misrepresentation of a life insurance rider."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8183191722870172",
+  "source_transcript": "agent-2077-1779514238-3396-Gaurav_TATA-2026_05_23_11_00_38-7982453454.json",
+  "created_at_utc": "2026-06-01T02:25:54Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 167.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779514238-3396-Gaurav_TATA-2026_05_23_11_00_38-7982453454.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Bas phir 25,000 toh waise toh ho nahi payega, thank you sir. Accha koi baat nahi, chalo koi baat nahi.",
+    "summary": "Agent pitched a Tata AIA plan and attempted discovery; prospect was disqualified due to low income and the call ended without commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "18",
+        "evidence": "18 saal 6 mahina",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job karte hai",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25,000",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "day one se 1 crore ke term coverage ke saath mutual fund return diye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

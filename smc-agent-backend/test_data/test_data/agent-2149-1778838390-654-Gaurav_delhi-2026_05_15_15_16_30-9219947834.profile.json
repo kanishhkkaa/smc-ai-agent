@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "3755260536696502",
+  "source_transcript": "agent-2149-1778838390-654-Gaurav_delhi-2026_05_15_15_16_30-9219947834.json",
+  "source_name": "agent-2149-1778838390-654-Gaurav_delhi-2026_05_15_15_16_30-9219947834.mp3",
+  "created_at_utc": "2026-05-18T06:04:40Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 146.32,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Dharmpal",
+      "evidence": "Pura naam kya likhta hai aapka Dharmpal?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Meri age hai abhi 47.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Aapse Priya baat kar rahi thi sir HDFC Life se. (Agent addresses customer as 'sir')",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Nahi private naukri karta hun, job karta hun hotel mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Cashier in a hotel",
+        "evidence": "Cashier hun, cashier hun, cashier.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Annual income hoti hai meri 3 lakh ke kareeb.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is answering questions directly, implying he is the decision maker.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% compounding rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about family protection needs or retirement goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was receptive, provided personal details, and agreed to a follow-up call."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and immediately pitched a guaranteed income product.",
+      "customer_response": "The customer was passive and cooperative, answering all discovery questions without resistance.",
+      "key_event": "The agent pitched a 'guaranteed' 36% income product and the customer agreed to hear more.",
+      "ending": "The agent promised to calculate the premium based on the customer's age and call back."
+    },
+    "key_quotes": [
+      "Meri age hai abhi 47.",
+      "Annual income hoti hai meri 3 lakh ke kareeb.",
+      "LIC policy toh hai mere paas."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

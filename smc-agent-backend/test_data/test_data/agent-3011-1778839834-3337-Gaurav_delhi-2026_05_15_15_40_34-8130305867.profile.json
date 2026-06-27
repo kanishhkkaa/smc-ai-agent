@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "3795522316894887",
+  "source_transcript": "agent-3011-1778839834-3337-Gaurav_delhi-2026_05_15_15_40_34-8130305867.json",
+  "source_name": "agent-3011-1778839834-3337-Gaurav_delhi-2026_05_15_15_40_34-8130305867.mp3",
+  "created_at_utc": "2026-05-18T06:05:56Z",
+  "transcript_stats": {
+    "segments": 51,
+    "duration_seconds": 242.52,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "medium"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "39",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "50 lakh ka annual hai mera",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "main bhar nahi pa raha hun madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "50 lakh ki EMI hai, main bhar nahi pa raha hun madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "financial distress due to loan repayment",
+        "unable to pay EMI"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer is struggling with debt and loan management.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main bhar nahi pa raha hun madam.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent ki money back income",
+        "8 percent ka compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is in severe financial distress and cannot afford new financial products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is in significant financial distress and explicitly stated inability to pay EMIs."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent opened with a pitch for a money-back policy, and the customer responded with a question about whether he should take it.",
+      "customer_response": "Customer was initially passive but became distressed and transparent about his financial struggles.",
+      "key_event": "Customer revealed he has a 1 CR loan and is unable to pay his 50 lakh EMI.",
+      "ending": "The customer ended the conversation by explaining his financial failure, and the agent acknowledged and closed the call."
+    },
+    "key_quotes": [
+      "50 lakh ki EMI hai, main bhar nahi pa raha hun madam.",
+      "Yeh 1 CR ki loan leke na usme main fas gaya hun main."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

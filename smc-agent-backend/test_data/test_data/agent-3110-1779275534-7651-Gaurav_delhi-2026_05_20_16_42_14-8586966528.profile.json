@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "3659254044386803",
+  "source_transcript": "agent-3110-1779275534-7651-Gaurav_delhi-2026_05_20_16_42_14-8586966528.json",
+  "source_name": "agent-3110-1779275534-7651-Gaurav_delhi-2026_05_20_16_42_14-8586966528.mp3",
+  "created_at_utc": "2026-05-24T05:16:14Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 102.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Chaliye ma'am, theek hai. Dhanyawad.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "hamare paas fund available nahi hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Saal ka 20,000 se zyada nahi kar payenge hum.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "fund insufficient"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Saal ka 20,000 se zyada nahi kar payenge hum.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "40% guaranteed income",
+        "8% rate of interest",
+        "double tax benefit",
+        "term insurance benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer budget is below the minimum premium required for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they cannot afford the minimum premium and the agent dismissed their budget constraint."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called from HDFC Life and engaged in small talk about the weather before pivoting to a pitch.",
+      "customer_response": "Customer was polite but firm about their budget limitations.",
+      "key_event": "Customer stated they could only afford 20,000 annually, which the agent rejected as not existing.",
+      "ending": "The agent dismissed the customer's budget and the call ended abruptly."
+    },
+    "key_quotes": [
+      "hamare paas fund available nahi hai",
+      "Saal ka 20,000 se zyada nahi kar payenge hum."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "9519702345265423",
+  "source_transcript": "agent-2098-1779188059-7695-Gaurav_delhi-2026_05_19_16_24_20-9971432607.json",
+  "source_name": "agent-2098-1779188059-7695-Gaurav_delhi-2026_05_19_16_24_20-9971432607.mp3",
+  "created_at_utc": "2026-05-22T11:14:52Z",
+  "transcript_stats": {
+    "segments": 29,
+    "duration_seconds": 157.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Ji apna business.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: \"Ji apna business.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"bachcho ke bhi ho rahe hain, mere bhi ho rahe hain, wife ke bhi hain.\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Meri requirement hai hi nahi toh main jhoot nahi bolna chahta.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Madam maine karwa rakha hai main aapko batau. Already haan already chal rahe hain mere.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Meri requirement hai hi nahi toh main jhoot nahi bolna chahta. Aap samay apna vyatit kare kya fayda.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"bachcho ke bhi ho rahe hain, mere bhi ho rahe hain, wife ke bhi hain.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "first year se 40% ki guaranteed income",
+        "8% ka rate of interest",
+        "double tax benefit",
+        "term insurance"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has sufficient insurance coverage for himself and his family.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he has no requirement and does not want to waste the agent's time."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new HDFC Life plan with guaranteed income, and the customer responded politely.",
+      "customer_response": "The customer was polite but firm in declining the offer, stating he already has sufficient insurance coverage for himself and his family.",
+      "key_event": "The customer firmly rejected the pitch by stating he has no requirement and does not want to waste time.",
+      "ending": "The agent attempted to pivot to loan products, but the customer declined, and the call ended cordially."
+    },
+    "key_quotes": [
+      "Madam maine karwa rakha hai main aapko batau.",
+      "Meri requirement hai hi nahi toh main jhoot nahi bolna chahta."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

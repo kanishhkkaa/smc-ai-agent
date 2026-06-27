@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "profile_id": "4304178976419501",
+  "source_transcript": "agent-2094-1778571474-6375-Gaurav_delhi-2026_05_12_13_07_55-9811632659.json",
+  "source_name": "agent-2094-1778571474-6375-Gaurav_delhi-2026_05_12_13_07_55-9811632659.mp3",
+  "created_at_utc": "2026-05-15T06:42:19Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 184.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "51",
+        "evidence": "Customer: 51.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "46-55",
+        "evidence": "Customer: 51.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Agent: Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Transcript is in Hinglish.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: main job karta hun. Tally mein kaam karta hun account ki.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "assistant accountant",
+        "evidence": "Customer: main assistant accountant hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "lt_5L",
+        "evidence": "Customer: 20 hazaar milte hain",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: bacche padha rahe hain na, unko padhai mein kharch hai.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "Customer: bacche padha rahe hain na, unko padhai mein kharch hai.",
+        "confidence": "medium"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: bacche padha rahe hain na, unko padhai mein kharch hai.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek. Bilkul.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Meri itni, itni mehngai mein kya karenge?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Usse kya, bacche padha rahe hain na, unko padhai mein kharch hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: 20 hazaar milte hain",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Tally mein kaam karta hun account ki. ... main B.Sc kiya hun.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer: bacche padha rahe hain na, unko padhai mein kharch hai.",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: bacche padha rahe hain na, unko padhai mein kharch hai.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer has very limited income and high expenses related to children's education; a savings/investment plan is not suitable.",
+      "missed_opportunities": [
+        "Did not pivot to low-cost term insurance for family protection."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is currently focused on child education expenses and has limited disposable income, but showed mild interest in understanding the product mechanism. Future contact should focus on low-premium protection products rather than savings plans."
+    },
+    "summary": "The agent pitched a HDFC Life Sanchay Par Advantage plan to a 51-year-old assistant accountant. The customer expressed concerns about affordability due to education expenses for his children. The agent failed to address the budget constraints effectively and did not pivot to a more suitable product.",
+    "key_quotes": [
+      "Meri itni, itni mehngai mein kya karenge?",
+      "Usse kya, bacche padha rahe hain na, unko padhai mein kharch hai.",
+      "Toh ismein karna kya hota hai?"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

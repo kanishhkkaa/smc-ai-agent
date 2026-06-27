@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "1941690957958200",
+  "source_transcript": "agent-3049-1779195123-9607-Gaurav_TATA-2026_05_19_18_22_04-9899691937.json",
+  "source_name": "agent-3049-1779195123-9607-Gaurav_TATA-2026_05_19_18_22_04-9899691937.mp3",
+  "created_at_utc": "2026-05-22T11:27:25Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Royston Machado",
+      "evidence": "Royston Machado",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "main unmarried hoon",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "3",
+        "evidence": "main, mummy, brother, sister toh hum chaaron ke liye",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Toh uska callback arrange karwa sakte ho mere liye?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Ma'am abhi na investment ka koi plan nahi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "15 lakhs per person.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Toh uska callback arrange karwa sakte ho mere liye?",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent pitched investment product, customer wanted health insurance.",
+      "missed_opportunities": [
+        "Did not attempt to cross-sell or explain the health product beyond basic coverage details."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "reasoning": "Customer explicitly requested a callback for a specific product (health insurance) and provided details for the lead."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and started a pitch, which the customer immediately interrupted to pivot to a health insurance query.",
+      "customer_response": "Customer was polite but immediately redirected the agent from the investment pitch to a specific health insurance inquiry.",
+      "key_event": "Customer rejected the investment pitch and requested a callback for Tata AIG health insurance for his family.",
+      "ending": "Agent confirmed the callback request for 7 PM or tomorrow morning and thanked the customer."
+    },
+    "key_quotes": [
+      "Ma'am abhi na investment ka koi plan nahi hai.",
+      "Toh uska callback arrange karwa sakte ho mere liye?"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

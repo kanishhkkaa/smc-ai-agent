@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "6336404725182925",
+  "source_transcript": "agent-2156-1779176059-5565-Gaurav_delhi-2026_05_19_13_04_19-9015427775.json",
+  "source_name": "agent-2156-1779176059-5565-Gaurav_delhi-2026_05_19_13_04_19-9015427775.mp3",
+  "created_at_utc": "2026-05-22T11:18:03Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: Madam meri toh umar hai 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Madam meri toh umar hai 42. Job karte hain business? Customer: Job karte hain. (Implied male based on 'karta hu')",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "field job",
+        "evidence": "Customer: Field, field mein karta hu ji madam.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Main 14,000 milte hain ji mahine. (14k*12 = 1.68LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haan ji madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "40% income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life online campaign plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent proposed a 60,000 annual premium to a customer earning 14,000 per month, which is financially unfeasible.",
+      "missed_opportunities": [
+        "proper discovery of financial goals",
+        "budget-appropriate product selection"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "The agent is pushing an unrealistic premium relative to the customer's stated income, making a sale unlikely."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life regarding an online campaign, and the customer responded politely.",
+      "customer_response": "The customer is passive and cooperative, answering the agent's discovery questions.",
+      "key_event": "The agent proposed a 60,000 INR annual premium plan to a customer earning 14,000 INR per month.",
+      "ending": "The call was interrupted while the agent was proposing a premium that significantly exceeds the customer's monthly income."
+    },
+    "key_quotes": [
+      "Madam meri toh umar hai 42.",
+      "Main 14,000 milte hain ji mahine."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

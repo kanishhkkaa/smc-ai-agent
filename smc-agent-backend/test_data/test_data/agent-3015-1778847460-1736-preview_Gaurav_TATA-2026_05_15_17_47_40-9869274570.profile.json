@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4161208350279347",
+  "source_transcript": "agent-3015-1778847460-1736-preview_Gaurav_TATA-2026_05_15_17_47_40-9869274570.json",
+  "created_at_utc": "2026-06-01T01:20:27Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 93.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1778847460-1736-preview_Gaurav_TATA-2026_05_15_17_47_40-9869274570.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "No, now Vaishali ma'am will retire in one or two years. So now we don't want to invest in insurance.",
+    "summary": "Agent pitched a Tata AIA Param Rakshak Pro Plus plan; customer declined the offer, stating that Vaishali ma'am is retiring soon and they do not want to invest in insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Pro Plus",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

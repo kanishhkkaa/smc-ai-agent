@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2985876527841466",
+  "source_transcript": "agent-2170-1778829336-2485-Gaurav_TATA-2026_05_15_12_45_36-9422386044.json",
+  "created_at_utc": "2026-06-01T02:03:39Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1778829336-2485-Gaurav_TATA-2026_05_15_12_45_36-9422386044.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent: Accha 45 ki age mein sir aap kya karte hain, job karte hain?",
+    "summary": "The agent pitched a Tata AIA combined plan and initiated discovery, but the call ended abruptly before completion.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "Mam 45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke return benefit bhi mil rahe hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

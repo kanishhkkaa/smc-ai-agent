@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4608108111234130",
+  "source_transcript": "agent-3022-1778823585-2081-Gaurav_delhi-2026_05_15_11_09_46-8869870556.json",
+  "created_at_utc": "2026-06-01T01:21:25Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1778823585-2081-Gaurav_delhi-2026_05_15_11_09_46-8869870556.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Madam, abhi 20. Haan, abhi student.",
+    "summary": "Agent pitched HDFC Life guaranteed plan; customer asked about the process and disclosed (age 20, student) BANT info, but the call ended without a refusal, refusal to answer, or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "20",
+        "evidence": "Madam, abhi 20.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Haan, abhi student.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within a week 36 percent ki income aani start ho jaati hai aapki whole life ke liye sir",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

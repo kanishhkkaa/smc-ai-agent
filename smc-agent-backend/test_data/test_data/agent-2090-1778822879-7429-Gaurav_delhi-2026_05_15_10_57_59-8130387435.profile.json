@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4017192167358371",
+  "source_transcript": "agent-2090-1778822879-7429-Gaurav_delhi-2026_05_15_10_57_59-8130387435.json",
+  "created_at_utc": "2026-06-01T02:03:34Z",
+  "transcript_stats": {
+    "segments": 9,
+    "duration_seconds": 54.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1778822879-7429-Gaurav_delhi-2026_05_15_10_57_59-8130387435.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Regarding what?",
+    "summary": "The agent pitched the HDFC Sanchay Par Advantage plan, but the call ended shortly after the customer asked for clarification, without further engagement.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki income ka support",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 1,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

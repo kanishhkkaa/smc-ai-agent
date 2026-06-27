@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8267771336283551",
+  "source_transcript": "agent-3022-1779614471-5632-Gaurav_delhi-2026_05_24_14_51_12-9811782001.json",
+  "created_at_utc": "2026-06-01T02:13:50Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 78.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779614471-5632-Gaurav_delhi-2026_05_24_14_51_12-9811782001.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Okay sir, no issue. Thank you so much.",
+    "summary": "The agent pitched an HDFC Life plan and completed discovery, but the call ended without a commitment or further interest from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "28",
+        "evidence": "Age 28 hai",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "monthly income 20",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 36 percent ka tax free income aana start ho jaata hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

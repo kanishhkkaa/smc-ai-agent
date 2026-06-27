@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3764809845379866",
+  "source_transcript": "agent-2046-1779532166-3147-Gaurav_TATA-2026_05_23_15_59_27-9711261799.json",
+  "created_at_utc": "2026-06-01T02:22:47Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 122.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779532166-3147-Gaurav_TATA-2026_05_23_15_59_27-9711261799.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh dena kya rahega?",
+    "summary": "Agent pitched the Tata Param Raksha plan and completed discovery (age 40, salaried, 2.4L annual income), but the call ended before a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Meri age hai bhai is time jo hai 40 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20,000 rupaye mahina salary hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Raksha",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

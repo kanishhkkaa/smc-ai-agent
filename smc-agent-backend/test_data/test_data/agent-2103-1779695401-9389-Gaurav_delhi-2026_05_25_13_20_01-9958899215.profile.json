@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "7070897788373824",
+  "source_transcript": "agent-2103-1779695401-9389-Gaurav_delhi-2026_05_25_13_20_01-9958899215.json",
+  "source_name": "agent-2103-1779695401-9389-Gaurav_delhi-2026_05_25_13_20_01-9958899215.mp3",
+  "created_at_utc": "2026-05-27T01:19:29Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 229.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Customer: 43.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Agent: 'Sir 43 ki age mein by profession aap job karte hain ya self ka business hoga?' Customer: 'Nahi ma'am, woh toh nahi bataunga main' (Customer did not deny business).",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: 'Toh fayda nahi na bhai.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Toh aap pehle mujhe details ek baar bhej dijiye WhatsApp pe.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Toh fayda nahi na bhai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer identified the discrepancy between the 36% claim and the actual payout amount.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 'Nahi ma'am, woh toh nahi bataunga main' (Refusal to disclose income/details to agent).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "8% compounding interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product benefits were misrepresented and the math provided by the agent was inconsistent with the claims.",
+      "missed_opportunities": [
+        "Proper discovery of financial goals",
+        "Clear explanation of product structure"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer expressed skepticism about the math and value proposition, calling it 'no benefit'."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent Muskan introduced an HDFC Life guaranteed plan with a 36% income claim, to which the customer responded with interest.",
+      "customer_response": "Customer was initially passive but became skeptical and questioning when the agent's math did not align with the promised 36% return.",
+      "key_event": "The customer pointed out that the payout calculation did not match the 36% claim, leading to a breakdown in the agent's explanation.",
+      "ending": "The call ended abruptly after the customer challenged the value proposition and the agent insisted the customer listen further."
+    },
+    "key_quotes": [
+      "Toh aap pehle mujhe details ek baar bhej dijiye WhatsApp pe.",
+      "Toh fayda nahi na bhai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

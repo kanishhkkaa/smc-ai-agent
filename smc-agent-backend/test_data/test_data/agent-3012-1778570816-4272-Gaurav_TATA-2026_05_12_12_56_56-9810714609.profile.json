@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "6081080616822754",
+  "source_transcript": "agent-3012-1778570816-4272-Gaurav_TATA-2026_05_12_12_56_56-9810714609.json",
+  "source_name": "agent-3012-1778570816-4272-Gaurav_TATA-2026_05_12_12_56_56-9810714609.mp3",
+  "created_at_utc": "2026-05-15T07:05:52Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 101.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Meri 32 hai sir.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Meri 32 hai sir.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello. Customer: Ji. Agent: Ya good afternoon, sir main Central Bank of India ke behalf se Manish Sharma baat kar raha hun.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main accountant hun private sector mein.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "accountant",
+        "evidence": "Main accountant hun private sector mein.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "total 45 ka package hai mera per month ka",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Meri 32 hai sir. Main accountant hun private sector mein.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Sir aap mereko evening mein call kar lijiye kyunki main office mein hun na abhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "10K_25K",
+        "evidence": "total 45 ka package hai mera per month ka",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "2026-05-12 17:30:00",
+        "evidence": "5:30, 6 baje kar lijiye mereko.",
+        "confidence": "high"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Lifetime Partner Plan",
+      "fit_score_0_10": 5,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals.",
+        "Did not clarify the nature of the product (insurance vs investment)."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite, provided requested information, and explicitly asked for a callback at a specific time, indicating interest."
+    },
+    "summary": "The agent called to pitch a 'Lifetime Partner Plan' from Central Bank of India, claiming guaranteed returns. The customer, a 32-year-old accountant, expressed interest but requested a callback in the evening as he was at work. The agent successfully gathered basic demographic and income information before scheduling the callback.",
+    "key_quotes": [
+      "Kya investment hogi isme?",
+      "Sir aap mereko evening mein call kar lijiye kyunki main office mein hun na abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

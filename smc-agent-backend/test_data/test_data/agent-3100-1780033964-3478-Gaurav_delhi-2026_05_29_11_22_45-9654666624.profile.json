@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "2545592057913050",
+  "source_transcript": "2026_05_29/agent-3100-1780033964-3478-Gaurav_delhi-2026_05_29_11_22_45-9654666624.json",
+  "source_name": "agent-3100-1780033964-3478-Gaurav_delhi-2026_05_29_11_22_45-9654666624.mp3",
+  "created_at_utc": "2026-06-01T05:48:00Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 167.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "75",
+        "evidence": "Hamari 75 years ki umar hai sir.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer referred to himself as 'aadmi'.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer was polite but clearly not interested in purchasing.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 4,
+      "interruption_pattern": "both",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "12 saal bahut hote hain, kisne dekhe hain 12 saal.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "Toh phir usme sara kat jata hai, phir woh 8 percent bhi nahi milta, hamare ko pata hai na SBI Life.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "long-term commitment (12 years) is not suitable for his age",
+        "distrust of insurance returns based on past experience"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer mentioned past experience with SBI Life.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Ye bache apna ab swatantra hain, kya kara na kya nahi.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% guaranteed income from first year for whole life",
+        "8% growth on investment"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 50000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 75 years old; a 12-year investment plan is highly inappropriate for his life stage.",
+      "missed_opportunities": [
+        "failed to pivot to senior-appropriate products like immediate annuities"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "annuity",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is elderly and skeptical of long-term commitments, eventually ending the call politely but firmly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a guaranteed income plan, to which the customer responded by questioning the agent's lack of discovery regarding his age.",
+      "customer_response": "Customer was initially annoyed by the agent's lack of age-appropriate discovery but became passively curious about the plan details.",
+      "key_event": "Customer challenged the agent on the viability of a 12-year plan given his age of 75.",
+      "ending": "Customer ended the call with a polite 'Thank you' after gathering information, effectively declining to proceed."
+    },
+    "key_quotes": [
+      "Hamari 75 years ki umar hai sir.",
+      "12 saal bahut hote hain, kisne dekhe hain 12 saal.",
+      "Toh phir usme sara kat jata hai, phir woh 8 percent bhi nahi milta."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

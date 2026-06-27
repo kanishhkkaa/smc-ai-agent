@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8088791523233982",
+  "source_transcript": "agent-2091-1779614545-6249-Gaurav_delhi-2026_05_24_14_52_26-9891808508.json",
+  "created_at_utc": "2026-06-01T02:08:53Z",
+  "transcript_stats": {
+    "segments": 9,
+    "duration_seconds": 41.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779614545-6249-Gaurav_delhi-2026_05_24_14_52_26-9891808508.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aapki na sir, piche se voice aa rahi hai na, that's why main samajh nahi pa rahi hun.",
+    "summary": "The agent could not understand the customer due to background noise, and the call ended with the customer asking the agent to wait.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

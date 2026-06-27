@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "1179684475885514",
+  "source_transcript": "agent-2156-1778574918-2903-Gaurav_delhi-2026_05_12_14_05_19-9811638806.json",
+  "source_name": "agent-2156-1778574918-2903-Gaurav_delhi-2026_05_12_14_05_19-9811638806.mp3",
+  "created_at_utc": "2026-05-15T06:47:56Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 191.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 40. Agent: Hanji 42? Customer: 40, 40, 40. Agent: 40. Okay, 30, 30. Agent: Okay, sorry sir 30.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Agent: Okay, sorry sir 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: Hello, good afternoon sir. Mansi this side from the HDFC Life insurance. Ek information ke regarding call kari hai sir aapko.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "self_employed",
+        "evidence": "Customer: Abhi toh dono hi chal raha hai. (Agent asked: job karte hai business?)",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job and business",
+        "evidence": "Customer: Abhi toh dono hi chal raha hai.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: Kuch khaas nahi, yahi hoga 8 lakh ke kareeb.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Abhi toh dono hi chal raha hai. (referring to job and business)",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: Bilkul nahi, bilkul nahi. Thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Plan toh samajh lunga, but haan agar aap mujhse payment karne ko kahoge toh main ek rupaya nahi kar paunga.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi, meri already bahut saari savings chalti hai, so mujhe zaroorat nahi hai ek aur payment add karne ki kahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "Customer: Like abhi saving nahi kar payenge, koi amount pay nahi kar payenge.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: So I can invest myself in that, but I cannot pay a single penny of rupees.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: So I can invest myself in that, but I cannot pay a single penny of rupees.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 1,
+      "mismatch": true,
+      "mismatch_reason": "Customer explicitly stated they have no capacity or interest in making new payments.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer was very clear that they are not interested in making any new investments or payments, and explicitly stated 'bilkul nahi' multiple times."
+    },
+    "summary": "The agent attempted to pitch the HDFC Life Sanchay Par Advantage plan to the customer. The customer repeatedly stated they were not interested in making any new investments or payments, despite the agent's persistence. The call ended with the customer firmly refusing any further contact.",
+    "key_quotes": [
+      "Plan toh samajh lunga, but haan agar aap mujhse payment karne ko kahoge toh main ek rupaya nahi kar paunga.",
+      "Nahi, meri already bahut saari savings chalti hai, so mujhe zaroorat nahi hai ek aur payment add karne ki kahi.",
+      "Bilkul nahi, bilkul nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high"
+  }
+}

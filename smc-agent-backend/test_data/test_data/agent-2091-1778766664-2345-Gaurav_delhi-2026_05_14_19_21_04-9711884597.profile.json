@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "2638448403552404",
+  "source_transcript": "agent-2091-1778766664-2345-Gaurav_delhi-2026_05_14_19_21_04-9711884597.json",
+  "source_name": "agent-2091-1778766664-2345-Gaurav_delhi-2026_05_14_19_21_04-9711884597.mp3",
+  "created_at_utc": "2026-05-16T00:04:45Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "hello, good evening sir, main Nikki baat kar rahi hun HDFC Life ke behalf se. How are you sir? HDFC ki kitni baar tum call karogi?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "HDFC ki kitni baar tum call karogi? ... toh aise hi, matlab woh toh abhi toh main kuch nahi bola hun, aise hi call, tum bhi gaali sunogi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "HDFC ki kitni baar tum call karogi?",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "greeting"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "introduction_only",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "fit_score_0_10": 0,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": true,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is clearly frustrated with repeated calls and explicitly requested to be put on the 'do not call' list. The interaction was hostile and focused on the annoyance of the call process."
+    },
+    "summary": "The customer expressed significant frustration regarding repeated calls from HDFC Life. The agent acknowledged the issue, explained it was an automated system, and agreed to add the customer to the 'do not call' list. No product was pitched, and the customer was clearly annoyed throughout the brief interaction.",
+    "key_quotes": [
+      "HDFC ki kitni baar tum call karogi?",
+      "toh aise hi, matlab woh toh abhi toh main kuch nahi bola hun, aise hi call, tum bhi gaali sunogi.",
+      "ab yeh soch lo, desh mein kis level ki berozgari hai, gaali sunne ke bhi paise mil rahe hain."
+    ],
+    "red_flags": [
+      "hostile_customer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

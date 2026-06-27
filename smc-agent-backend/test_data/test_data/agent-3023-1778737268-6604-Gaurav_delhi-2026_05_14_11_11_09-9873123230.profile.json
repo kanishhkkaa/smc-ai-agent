@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "6589646713894034",
+  "source_transcript": "agent-3023-1778737268-6604-Gaurav_delhi-2026_05_14_11_11_09-9873123230.json",
+  "source_name": "agent-3023-1778737268-6604-Gaurav_delhi-2026_05_14_11_11_09-9873123230.mp3",
+  "created_at_utc": "2026-05-16T00:19:56Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 151.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Dominant language: hi",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "I am a chartered accountant.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Chartered Accountant",
+        "evidence": "I am a chartered accountant.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "To ye sab benefit mat batao, okay, thank you very much.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 5,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "compliance_concern",
+          "quote": "Kya double tax benefit hai, kya nahi hai, kya plan hai? Aap jaante ho is baare mein kuch?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "I am a chartered accountant. To ye sab benefit mat batao, okay, thank you very much.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "I am a chartered accountant.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 50.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC guaranteed income plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is a financial expert (CA) who identified the agent's claims as misleading.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is a Chartered Accountant who identified the agent's misrepresentation of the product and explicitly asked to stop the call."
+    },
+    "summary": "The agent attempted to pitch a guaranteed income plan to a customer who turned out to be a Chartered Accountant. The customer challenged the agent's claims regarding returns and tax benefits, leading to a hostile interaction where the customer ended the call.",
+    "key_quotes": [
+      "Kya double tax benefit hai, kya nahi hai, kya plan hai?",
+      "I am a chartered accountant. To ye sab benefit mat batao, okay, thank you very much."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "agent_pushed_monthly_emi_to_meet_targets"
+    ],
+    "extraction_confidence": "high"
+  }
+}

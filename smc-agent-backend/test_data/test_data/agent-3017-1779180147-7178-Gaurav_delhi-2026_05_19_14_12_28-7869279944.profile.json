@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "7482576842739684",
+  "source_transcript": "agent-3017-1779180147-7178-Gaurav_delhi-2026_05_19_14_12_28-7869279944.json",
+  "source_name": "agent-3017-1779180147-7178-Gaurav_delhi-2026_05_19_14_12_28-7869279944.mp3",
+  "created_at_utc": "2026-05-22T11:23:18Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 103.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: Age abhi 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Hai hi nahi mere paas aise time hi nahi hai. Waise time nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi nahi abhi do teen din baad call kijiye main free nahi hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...aapke bachcho ke education aur unki marriage life ke liye ya unki higher education ke liye bhi withdrawal ka option yahan pe diya jata hai. (Customer did not confirm, but the pitch was targeted here).",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 1,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "future acche se acche returns provide kiye jaate hain"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshit Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current financial situation or existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is busy but open to a callback in a few days, indicating potential interest if approached at the right time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from Tata AIA and immediately started pitching a plan, to which the customer responded with a neutral 'Haan'.",
+      "customer_response": "Customer was dismissive and repeatedly stated he was busy, pushing back on the agent's attempt to pitch.",
+      "key_event": "The customer repeatedly refused to listen to the pitch, insisting on a callback in two to three days.",
+      "ending": "The agent persisted in asking questions despite the customer's clear lack of time, and the call ended abruptly while the agent was still questioning."
+    },
+    "key_quotes": [
+      "Abhi nahi abhi do teen din baad call kijiye main free nahi hoon.",
+      "Hai hi nahi mere paas aise time hi nahi hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "3332405847279698",
+  "source_transcript": "2026_05_28/agent-2099-1779964556-4395-Gaurav_delhi-2026_05_28_16_05_56-9999734544.json",
+  "source_name": "agent-2099-1779964556-4395-Gaurav_delhi-2026_05_28_16_05_56-9999734544.mp3",
+  "created_at_utc": "2026-06-01T05:34:24Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 175.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ram Narayan",
+      "evidence": "Meri baat Ram Narayan ji se ho rahi hai? ... Main unki wife bol rahi hoon madam.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Age hai, age hai kam se kam 47 ke lagbhag.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Main unki wife bol rahi hoon madam.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Abhi toh main kuch nahi kar raha hoon abhi. ... Kuch pareshani aa gayi thi toh kuch bhi nahi hai kaam abhi.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "unemployed",
+        "evidence": "Abhi toh main kuch nahi kar raha hoon abhi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Nahi, abhi is time kuch bhi nahi hai. Kuch pareshani aa gayi thi toh kuch bhi nahi hai kaam abhi.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Main unki wife bol rahi hoon madam.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi toh main kuch nahi kar raha hoon abhi. Kuch pareshani aa gayi thi toh kuch bhi nahi hai kaam abhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "abhi thodi pareshani chal rahi hai",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "financial distress",
+        "unemployment"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "pehle saal se 55,000 rupaye ka fix aur regular income",
+        "maturity par 40 lakh rupaye guaranteed"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 150000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is unemployed and facing financial distress; also, the respondent is not the intended lead.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is not the intended lead (Ram Narayan), and the actual respondent (wife) indicated current financial distress and unemployment of the primary earner."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called asking for Ram Narayan, and the respondent confirmed identity before the agent launched into a pitch.",
+      "customer_response": "The customer was initially passive, then disclosed financial hardship, and finally revealed the call was answered by the spouse of the intended lead.",
+      "key_event": "The respondent revealed that the intended lead, Ram Narayan, is not available and that she is his wife.",
+      "ending": "The call ended with the spouse clarifying that she is not the person the agent was looking for."
+    },
+    "key_quotes": [
+      "abhi thodi pareshani chal rahi hai",
+      "Abhi toh main kuch nahi kar raha hoon abhi.",
+      "Main unki wife bol rahi hoon madam."
+    ],
+    "red_flags": [
+      "Agent continued pitching despite customer stating financial distress and unemployment."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

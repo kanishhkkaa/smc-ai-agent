@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7157212138245856",
+  "source_transcript": "agent-2089-1779451718-3388-Gaurav_delhi-2026_05_22_17_38_38-8800742248.json",
+  "created_at_utc": "2026-06-01T02:52:16Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 237.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779451718-3388-Gaurav_delhi-2026_05_22_17_38_38-8800742248.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi ma'am, haan main kal toh nahi kar paungi, kal mujhe kuch personal kaam hai, aap Monday ko kar lijiyega.",
+    "summary": "Agent pitched an HDFC Life plan; customer engaged, asked questions, and requested a callback for Monday. Discovery (age 35, housewife) was completed.",
+    "callback_time_iso": "2026-05-25T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Nikita",
+        "evidence": "Nikita hi aap likh lijiye.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Ji nahi, main hoon toh housewife.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 33,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

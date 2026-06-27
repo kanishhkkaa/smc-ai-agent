@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5524610143760738",
+  "source_transcript": "agent-2094-1779448390-5518-Gaurav_delhi-2026_05_22_16_43_10-9818998603.json",
+  "created_at_utc": "2026-06-01T02:53:27Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1779448390-5518-Gaurav_delhi-2026_05_22_16_43_10-9818998603.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Meri already policy chal rahi hai aur meri saari details already hai wahan par ma'am.",
+    "summary": "Agent pitched an HDFC Life plan; customer declined, stating she already holds a policy and that her details are already with the company.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ka ek guaranteed income aana shuru ho jata hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

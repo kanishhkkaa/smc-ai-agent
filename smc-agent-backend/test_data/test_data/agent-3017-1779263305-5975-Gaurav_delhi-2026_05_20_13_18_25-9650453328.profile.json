@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "7570412021365062",
+  "source_transcript": "agent-3017-1779263305-5975-Gaurav_delhi-2026_05_20_13_18_25-9650453328.json",
+  "source_name": "agent-3017-1779263305-5975-Gaurav_delhi-2026_05_20_13_18_25-9650453328.mp3",
+  "created_at_utc": "2026-05-24T05:11:40Z",
+  "transcript_stats": {
+    "segments": 63,
+    "duration_seconds": 291.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42 years.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Gurgaon",
+        "evidence": "Customer: Gurgaon.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "Agent 2: Delhi mein kahan sir? Customer: Gurgaon. (Gurgaon is in Haryana, but context implies NCR/Delhi region).",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: Around 10 lakhs.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Chal raha hai, ye kahan bataya maine term plan nahi chal raha hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "1 lakh 11,000 annual? Ye fir fir se annually, ye to fir mera jo current chal raha hai jo maine.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 1.25 ke around. (Aware of his existing coverage).",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Agent 2: Ye plan aapki multiple requirements par kaam aayega jaise aapki apni bacchi ki education karni hai, bacchi ki marriage karni hai, aapko apne retirement ke liye pension ki zarurat hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Around 10 lakhs. (Implies sole decision maker).",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": 111000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent pushed a high-premium savings plan despite the customer already having a significant term insurance policy and expressing concern over the premium cost.",
+      "missed_opportunities": [
+        "Did not explore the customer's existing term policy details to offer a better-suited product."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "health_insurance",
+        "ulip",
+        "endowment",
+        "other"
+      ],
+      "reasoning": "The customer was interrupted and spoken to condescendingly by the second agent, leading to a breakdown in communication."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent called to introduce a new Tata AIA plan, 'Tata Param Rakshak Pro', and asked for the customer's age.",
+      "customer_response": "The customer was initially cooperative but became defensive and annoyed after being interrupted and misquoted by the second agent.",
+      "key_event": "The agent misquoted the customer's income as 10,000 monthly instead of 10 lakh annually and then blamed the customer for the confusion.",
+      "ending": "The call ended abruptly after the agent spoke condescendingly to the customer for reacting to the premium quote."
+    },
+    "key_quotes": [
+      "Chal raha hai, ye kahan bataya maine term plan nahi chal raha hai.",
+      "1 lakh 11,000 annual? Ye fir fir se annually, ye to fir mera jo current chal raha hai jo maine."
+    ],
+    "red_flags": [
+      "agent_misrepresented_customer_income",
+      "agent_blamed_customer_for_misunderstanding",
+      "condescending_tone_from_agent"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5584763228832603",
+  "source_transcript": "agent-2065-1778839236-8018-Gaurav_delhi-2026_05_15_15_30_36-9873181853.json",
+  "created_at_utc": "2026-06-01T01:10:06Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2065-1778839236-8018-Gaurav_delhi-2026_05_15_15_30_36-9873181853.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi sir, abhi koi job nahi hai, koi business nahi hai.",
+    "summary": "Agent pitched HDFC Life guaranteed savings plan; customer disclosed (age 24, student) and agent ended the call after finding the prospect is a student and ineligible.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "24",
+        "evidence": "24 hai sir.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Toh ye aapka hi number hai sir? — Haanji, haanji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki money back income deti hai aapki whole life ke liye.",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

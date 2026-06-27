@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5756272060791854",
+  "source_transcript": "agent-3017-1779176354-8288-Gaurav_delhi-2026_05_19_13_09_14-9887888996.json",
+  "source_name": "agent-3017-1779176354-8288-Gaurav_delhi-2026_05_19_13_09_14-9887888996.mp3",
+  "created_at_utc": "2026-05-22T11:23:10Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 183.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Arvind Kumar",
+      "evidence": "main Arvind Kumar ji se baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "aaj aapki umar hai sir 55 saal, theek hai sir?",
+        "confidence": "medium"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "main Arvind Kumar ji se baat ho rahi hai?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Bhaiya itna lamba baat nahi kar sakte main abhi itna busy hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 10,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Bhaiya itna lamba baat nahi kar sakte main abhi itna busy hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "paanch saal ke baad... apne bachcho ke education, unke marriage life ke liye unko withdrawal kar sakte hain",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "paanch saal ke baad... withdrawal kar sakte hain",
+        "paanch se cheh lakh rupaye mere par other save hai aur main included aur paanch lakh mere par alag se hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent pitched a child plan to a 55-year-old, which may not be the most relevant product compared to retirement planning.",
+      "missed_opportunities": [
+        "Did not ask about current financial situation or retirement needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "child_plan",
+        "endowment",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was clearly busy and cut the agent off, showing low interest in continuing the conversation at that moment."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Tata AIA and asked to speak with Arvind Kumar, to which the customer responded affirmatively.",
+      "customer_response": "The customer was passive, providing minimal 'hmm' responses before eventually pushing back due to being busy.",
+      "key_event": "The agent attempted to pitch a child education/marriage plan, but the customer shut down the conversation citing lack of time.",
+      "ending": "The customer stated they were too busy to talk, and the agent asked for a better time to call back."
+    },
+    "key_quotes": [
+      "Bhaiya itna lamba baat nahi kar sakte main abhi itna busy hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 90,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

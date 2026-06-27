@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "8190233958974545",
+  "source_transcript": "2026_05_21/agent-2136-1779348007-2638-Gaurav_TATA-2026_05_21_12_50_07-9654226979.json",
+  "source_name": "agent-2136-1779348007-2638-Gaurav_TATA-2026_05_21_12_50_07-9654226979.mp3",
+  "created_at_utc": "2026-06-01T04:57:41Z",
+  "transcript_stats": {
+    "segments": 88,
+    "duration_seconds": 278.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kanupriya",
+      "evidence": "To waise aap kitne year ka plan dekh rahi hain abhi, Kanupriya ji?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: \"ma'am\" (used throughout).",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Dwarka",
+        "evidence": "Customer: Dwarka.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Dwarka is in Delhi.",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: \"teacher hun ma'am.\" \"Private, private.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Private school teacher",
+        "evidence": "Customer: \"teacher hun ma'am.\" \"Private, private.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: \"3 ke around.\" Agent: \"3 lakh? Yearly basis pe ma'am?\" Customer: \"Haan\"",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"mere husband ke ismein hum plan cover ho raha hai hamara.\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Abhi main kuch shorty nahi de sakti.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, ye to zyada ho jayega mere liye.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Abhi main kuch shorty nahi de sakti.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "insufficient liquidity for lump sum investment",
+        "high premium cost"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Customer: \"50-60 ke around.\" (Implied annual capacity based on context)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: \"monthly ka to SIP aur ye sab maine kiya hua hai.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: \"But return bhi mujhe long term hi chahiye.\"",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Main, jaise main dekh rahi hun\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Smart Value Income Plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer requires lower premium and liquidity, while the pitched products were either too expensive or required a lump sum she cannot currently afford.",
+      "missed_opportunities": [
+        "Did not explore term insurance specifically after health was ruled out."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "mutual_fund_sip",
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "child_plan",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is open to investment but currently lacks the liquidity for the lump sum requirement and is already invested in other instruments."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA combination plan and the customer responded receptively.",
+      "customer_response": "Customer was engaged and transparent about her financial constraints and current investments.",
+      "key_event": "Customer rejected the initial high-premium plan and the agent pivoted to a different product, which the customer also deferred due to liquidity.",
+      "ending": "Customer stated she needs to arrange funds before considering further, and the call ended politely."
+    },
+    "key_quotes": [
+      "Nahi, ye to zyada ho jayega mere liye.",
+      "Abhi main kuch shorty nahi de sakti.",
+      "monthly ka to SIP aur ye sab maine kiya hua hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

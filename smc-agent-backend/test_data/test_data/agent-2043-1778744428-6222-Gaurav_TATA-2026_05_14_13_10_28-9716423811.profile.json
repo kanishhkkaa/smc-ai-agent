@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "3253897925474041",
+  "source_transcript": "agent-2043-1778744428-6222-Gaurav_TATA-2026_05_14_13_10_28-9716423811.json",
+  "source_name": "agent-2043-1778744428-6222-Gaurav_TATA-2026_05_14_13_10_28-9716423811.mp3",
+  "created_at_utc": "2026-05-15T23:56:58Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 141.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Nishant",
+      "evidence": "Agent: Yes, Mr. Nishant ji, very good afternoon.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Yes, Mr. Nishant ji, very good afternoon.",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hello. Customer: Hello. Agent: Yes, Mr. Nishant ji, very good afternoon. Kaise hain aap?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Main abhi nahi lena chahunga aur main aapki bhi energy waste nahi karna chahunga, thank you so much.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mam, maine na already ek plan liya hua hai, Canara HSBC walon ke saath liya hua hai, woh bhi similar kind of plan hi hai, toh main abhi aur toh opt nahi kar paunga.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "toh mera woh quarterly plan hai, toh main abhi filhal itna income nahi nikal paunga ki main aur bhi plan le lun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Customer: quarterly mera usme bhi 15-16 hazaar rupaye jaata hai har quarter ka",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: woh bhi 5 year plan hai aur 10ve saal mein maturity ho jayegi, woh bhi isi tarah ka hai, mera woh already chal raha hai mam, already third year hai toh main band bhi nahi kar sakta.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Mam, woh toh theek hai, woh toh theek hai mam, lekin paise toh main nahi dene hain na, toh mera agar manage ho paata toh main le leta",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "C",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "fit_score_0_10": 3,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore if the customer has adequate life cover (term insurance) despite having an endowment plan."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "3_6_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite but firm about his current financial commitments and inability to take on new premiums. He is not hostile, so a follow-up in a few months is reasonable."
+    },
+    "summary": "The agent pitched a guaranteed saving plan to Nishant. The customer declined, stating he already has a similar plan with Canara HSBC and lacks the budget for additional premiums. The customer remained polite but firm in his refusal.",
+    "key_quotes": [
+      "Mam, maine na already ek plan liya hua hai, Canara HSBC walon ke saath liya hua hai",
+      "main abhi filhal itna income nahi nikal paunga ki main aur bhi plan le lun.",
+      "Main abhi nahi lena chahunga aur main aapki bhi energy waste nahi karna chahunga"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

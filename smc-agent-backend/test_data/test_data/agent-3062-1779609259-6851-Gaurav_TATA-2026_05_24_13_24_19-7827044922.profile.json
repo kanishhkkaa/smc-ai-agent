@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8458393116291548",
+  "source_transcript": "agent-3062-1779609259-6851-Gaurav_TATA-2026_05_24_13_24_19-7827044922.json",
+  "created_at_utc": "2026-06-01T02:16:50Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779609259-6851-Gaurav_TATA-2026_05_24_13_24_19-7827044922.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haanji, 3.4 LPA. ... Nahi.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery (age 21, salaried, 3.4 LPA income); the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "21.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "3.4 LPA.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

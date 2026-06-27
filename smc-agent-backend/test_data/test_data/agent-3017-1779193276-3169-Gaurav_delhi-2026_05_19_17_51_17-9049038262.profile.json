@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "6857556995383178",
+  "source_transcript": "agent-3017-1779193276-3169-Gaurav_delhi-2026_05_19_17_51_17-9049038262.json",
+  "source_name": "agent-3017-1779193276-3169-Gaurav_delhi-2026_05_19_17_51_17-9049038262.mp3",
+  "created_at_utc": "2026-05-22T11:23:57Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 176.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Nakul Singh",
+      "evidence": "Agent: Meri Nakul Singh ji se baat ho rahi hai? Customer: Ji, bataiye.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Sir, dikkat ye hai ki time waste hoga. Main lunga nahi. Aap mujhe explain karoge, main uske baad mana karunga. Isliye main aapko pehle hi mana kar raha hu.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Sir, actually main already life insurance policy use kar raha hu. LIC aur saare hain toh main aur use nahi karna chahta.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Sir, kyunki main already do plan use kar raha hu. Main teesra nahi lena chahta.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has two life insurance policies and explicitly stated no need for a third.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was very clear and firm about not wanting to be contacted for further insurance products as they are satisfied with their current coverage."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan, and the customer responded with a neutral acknowledgment.",
+      "customer_response": "The customer was firm and polite but consistently pushed back against the agent's persistence.",
+      "key_event": "The customer explicitly stated they have two existing policies and no interest in a third, yet the agent continued to push for a pitch.",
+      "ending": "The agent eventually accepted the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "Sir, dikkat ye hai ki time waste hoga. Main lunga nahi.",
+      "Mera answer meri situation pe dependent hai jo ki ye hai ki main do plan already le chuka hu, main teesra lena nahi chah raha."
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

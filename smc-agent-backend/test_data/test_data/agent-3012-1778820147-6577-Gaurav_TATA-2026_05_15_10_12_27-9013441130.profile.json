@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "9033901114161678",
+  "source_transcript": "agent-3012-1778820147-6577-Gaurav_TATA-2026_05_15_10_12_27-9013441130.json",
+  "source_name": "agent-3012-1778820147-6577-Gaurav_TATA-2026_05_15_10_12_27-9013441130.mp3",
+  "created_at_utc": "2026-05-18T06:05:49Z",
+  "transcript_stats": {
+    "segments": 66,
+    "duration_seconds": 249.98,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Sir",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "aapke child ki kya age hogi",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "aapke child ki kya age hogi",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye kya hai plan?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 7,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Bataiye kya hai plan?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bank aapko ek child plan offer kar raha hai",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is asking questions directly",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "10% tak ka guaranteed return",
+        "30% bonus",
+        "16 lakh ka amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "child plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing investments",
+        "Did not ask about financial goals beyond child plan"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan"
+      ],
+      "reasoning": "Customer was engaged and asking questions about the plan structure before the call was put on hold."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan from Central Bank of India, and the customer asked for details.",
+      "customer_response": "Customer was engaged and asked clarifying questions about the premium and bonus structure.",
+      "key_event": "The agent explained the premium and bonus structure, then put the customer on hold indefinitely.",
+      "ending": "The call ended in a hold/voicemail loop."
+    },
+    "key_quotes": [
+      "Bataiye kya hai plan?",
+      "1 lakh saal ka bol rahe ho aap?",
+      "16 lakh ka amount mil jayega"
+    ],
+    "red_flags": [
+      "Agent promised guaranteed returns of 10% and 30% bonus on a child plan.",
+      "Agent misrepresented the product as a bank offer with guaranteed returns.",
+      "Agent put the customer on hold indefinitely."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

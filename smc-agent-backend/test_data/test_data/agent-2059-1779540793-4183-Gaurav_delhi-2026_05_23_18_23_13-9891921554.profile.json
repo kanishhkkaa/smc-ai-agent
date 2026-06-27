@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3303237649413203",
+  "source_transcript": "agent-2059-1779540793-4183-Gaurav_delhi-2026_05_23_18_23_13-9891921554.json",
+  "created_at_utc": "2026-06-01T02:25:17Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 109.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779540793-4183-Gaurav_delhi-2026_05_23_18_23_13-9891921554.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Haan bataiye.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan and completed discovery (age 35, business, 4-5L income); customer remained engaged and asked for further explanation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Bas 4-5 lakh rupaye kama lete hain sir.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

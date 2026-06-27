@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "3913350187626281",
+  "source_transcript": "agent-3062-1778835070-1008-Gaurav_TATA-2026_05_15_14_21_11-8007084800.json",
+  "source_name": "agent-3062-1778835070-1008-Gaurav_TATA-2026_05_15_14_21_11-8007084800.mp3",
+  "created_at_utc": "2026-05-18T06:08:39Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 173.6,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"Yes sir, very good afternoon.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Nahi nahi, main aapko kuch information provide nahi karunga.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Nahi nahi, main aapko kuch information provide nahi karunga.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "Mere ko boliye, mujhe kitna paisa bharna padega 1 crore ke liye?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"Main main meri khud ki kuch bhi jaankari aapko nahi dunga.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "market high returns",
+        "medical and pension benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA plan (Term + Mutual Fund)",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The agent could not calculate a premium due to the customer's refusal to provide age, and the customer was not interested in the discovery process.",
+      "missed_opportunities": [
+        "Did not pivot to a general product brochure or value proposition without needing personal data."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "retirement_plan",
+        "health_insurance",
+        "guaranteed_savings_plan",
+        "annuity",
+        "mutual_fund_sip",
+        "child_plan",
+        "other"
+      ],
+      "reasoning": "The customer is extremely guarded and refused to provide any personal information, making a sale highly unlikely without a change in approach."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan combining term and mutual funds, to which the customer responded with immediate skepticism.",
+      "customer_response": "The customer was consistently resistant, refusing to share any personal details while demanding specific pricing information.",
+      "key_event": "The customer explicitly refused to provide his age or any personal information, blocking the agent's ability to calculate a premium.",
+      "ending": "The call ended with the customer reiterating his refusal to share information and asking for a WhatsApp brochure instead."
+    },
+    "key_quotes": [
+      "Nahi nahi, main aapko kuch information provide nahi karunga.",
+      "Mere ko boliye, mujhe kitna paisa bharna padega 1 crore ke liye?",
+      "Main aapko wahi bol raha hun, maximum aapka age jo hai, woh age se calculate bolo."
+    ],
+    "red_flags": [
+      "Customer refused to provide any personal information.",
+      "Agent made potentially misleading claims about 'high returns' and 'medical/pension' benefits in a single plan."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

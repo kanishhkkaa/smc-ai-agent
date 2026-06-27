@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6802482269771642",
+  "source_transcript": "agent-2106-1779520768-9829-Gaurav_delhi-2026_05_23_12_49_28-9891562127.json",
+  "created_at_utc": "2026-06-01T02:31:17Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 168.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2106-1779520768-9829-Gaurav_delhi-2026_05_23_12_49_28-9891562127.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Thoda time dedo mujhe sochne ka.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed discovery, and discussed premium options; customer requested time to think without committing to a specific callback time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "30,000 monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki guaranteed income aa rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7513430352171027",
+  "source_transcript": "agent-2021-1779541958-3706-Gaurav_delhi-2026_05_23_18_42_39-9953854839.json",
+  "created_at_utc": "2026-06-01T02:20:00Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779541958-3706-Gaurav_delhi-2026_05_23_18_42_39-9953854839.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi, housewife hoon.",
+    "summary": "Agent pitched a Tata AIA plan and performed partial discovery, but the call ended without a commitment or further engagement.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "29 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Nahi, housewife hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se hi 80,000 tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

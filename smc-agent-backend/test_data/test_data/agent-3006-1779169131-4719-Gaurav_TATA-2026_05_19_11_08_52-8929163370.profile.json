@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "5032981513468866",
+  "source_transcript": "agent-3006-1779169131-4719-Gaurav_TATA-2026_05_19_11_08_52-8929163370.json",
+  "source_name": "agent-3006-1779169131-4719-Gaurav_TATA-2026_05_19_11_08_52-8929163370.mp3",
+  "created_at_utc": "2026-05-22T11:20:52Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 176.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "37",
+        "evidence": "Customer: 37.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Customer: Do dhai lakh rupiya. (2-2.5L/month = 24-30LPA)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai bhej denge. Plan toh bhejo kya hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Tata ke naam pe bekoof toh nahi banaya ja raha.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: Do dhai lakh rupiya. (Implied high capacity)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "stocks"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: SIP mutual fund stock trading kuch kiya aapne? Customer: Hmm hmm hmm hmm hmm chal raha hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Bas man nahi karta hai. (Regarding ITR filing)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined term plus mutual fund plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name beyond 'combined plan'."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "ulip"
+      ],
+      "reasoning": "Customer is interested in reviewing the plan details and requested information via WhatsApp/email."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a combined term and mutual fund plan from Tata AIA and immediately asked for the customer's age.",
+      "customer_response": "The customer was engaged and curious, asking for details while expressing slight skepticism about the legitimacy of the offer.",
+      "key_event": "The customer requested documentation to verify the plan details and legitimacy before proceeding.",
+      "ending": "The call ended with the agent agreeing to send plan details via WhatsApp/email for the customer to review."
+    },
+    "key_quotes": [
+      "Tata ke naam pe bekoof toh nahi banaya ja raha.",
+      "Plan toh bhejo kya hai.",
+      "Ji aap mujhe mail kariye chahe WhatsApp kariye jo main dekhta hu."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

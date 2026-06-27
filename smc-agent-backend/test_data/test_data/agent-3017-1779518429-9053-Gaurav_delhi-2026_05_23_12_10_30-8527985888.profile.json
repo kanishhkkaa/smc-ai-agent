@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7022848333161006",
+  "source_transcript": "agent-3017-1779518429-9053-Gaurav_delhi-2026_05_23_12_10_30-8527985888.json",
+  "created_at_utc": "2026-06-01T02:37:45Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 68.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779518429-9053-Gaurav_delhi-2026_05_23_12_10_30-8527985888.json",
+    "primary_disposition": "network_issue",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Hello. Hello. Hello.",
+    "summary": "The agent pitched the Tata Param Rakshak Pro plan, but the call ended due to network issues after the customer asked about the caller's number.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

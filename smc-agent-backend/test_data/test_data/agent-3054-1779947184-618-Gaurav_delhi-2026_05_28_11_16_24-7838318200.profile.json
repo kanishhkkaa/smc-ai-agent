@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4234133480877051",
+  "source_transcript": "2026_05_28/agent-3054-1779947184-618-Gaurav_delhi-2026_05_28_11_16_24-7838318200.json",
+  "source_name": "agent-3054-1779947184-618-Gaurav_delhi-2026_05_28_11_16_24-7838318200.mp3",
+  "created_at_utc": "2026-06-01T05:40:04Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 237.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "57",
+        "evidence": "Meri 57 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer asked questions and engaged with the pitch.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Main ye samajhna cha raha hun ki agar 12 saal ke liye main karta hun invest, toh beech mein withdrawal bhi kar sakta hun?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "monthly ke 10,000, saal ka 1,20,000.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer understands the concept of withdrawal and liquidity.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Investment saving plan.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer is the one asking about the plan and his own income.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year",
+        "8% compound rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not discuss life cover or death benefit."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is engaged and asking relevant questions about liquidity, though he ended the call with a non-committal 'sochte hain'."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a guaranteed investment plan from HDFC Life, and the customer responded with interest.",
+      "customer_response": "The customer was engaged throughout the call, asking specific questions about the plan's liquidity and withdrawal terms.",
+      "key_event": "The customer asked about the possibility of withdrawing funds before the 12-year term, which the agent discouraged.",
+      "ending": "The call ended with the customer stating he would think about the proposal."
+    },
+    "key_quotes": [
+      "Main ye samajhna cha raha hun ki agar 12 saal ke liye main karta hun invest, toh beech mein withdrawal bhi kar sakta hun?",
+      "Chalo abhi sochte hain."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_1",
+      "life_stage": "pre_retirement",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

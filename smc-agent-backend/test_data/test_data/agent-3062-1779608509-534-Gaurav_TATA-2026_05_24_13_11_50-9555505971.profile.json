@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2242943098386305",
+  "source_transcript": "agent-3062-1779608509-534-Gaurav_TATA-2026_05_24_13_11_50-9555505971.json",
+  "created_at_utc": "2026-06-01T02:17:03Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 140.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1779608509-534-Gaurav_TATA-2026_05_24_13_11_50-9555505971.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Plan karwana kisko hai, pehle ye toh batao. ... No no mam, not interested.",
+    "summary": "Agent pitched Param Rakshak Life Pro Plus, completed discovery, and quoted a premium; customer asked a clarifying question and then declined.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "41",
+        "evidence": "41.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Private job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "6 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Param Rakshak Life Pro Plus",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 9,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "profile_id": "2330293653731562",
+  "source_transcript": "agent-3015-1778832125-8212-Gaurav_TATA-2026_05_15_13_32_06-8828119814.json",
+  "created_at_utc": "2026-06-01T01:20:21Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1778832125-8212-Gaurav_TATA-2026_05_15_13_32_06-8828119814.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe WhatsApp kar do isi number pe, padh lunga phir main baat karungi, kal mujhe. ... 10 baje kar lena, ma'am.",
+    "summary": "Agent pitched Tata AIA Param Rakshak Pro plan; customer indicated they have an existing policy, requested a WhatsApp brochure, and scheduled a callback for 10:00 AM tomorrow.",
+    "callback_time_iso": "2026-05-15T10:00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Anil Soni",
+        "evidence": "Anil Soni.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

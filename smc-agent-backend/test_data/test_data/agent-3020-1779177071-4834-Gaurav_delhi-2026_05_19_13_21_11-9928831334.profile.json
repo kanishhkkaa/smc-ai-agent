@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "2695175280564025",
+  "source_transcript": "agent-3020-1779177071-4834-Gaurav_delhi-2026_05_19_13_21_11-9928831334.json",
+  "source_name": "agent-3020-1779177071-4834-Gaurav_delhi-2026_05_19_13_21_11-9928831334.mp3",
+  "created_at_utc": "2026-05-22T11:24:20Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 114.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer was polite and engaged in the discussion about the product.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 55,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Sir mere ko aur koi policy nahi leni hai. Jo chal rahi hai wohi chalne do.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Sir ek baar pehle unko aane toh do. Kyunki wo bank bank wale hi hai HDFC Bank ke hamare.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer mentioned he pays 1 lakh per year for a policy.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Sir ek baar pehle unko aane toh do. Kyunki wo bank bank wale hi hai HDFC Bank ke hamare.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% money back return on annual premium lifetime"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "Customer prefers to buy through his existing bank channel.",
+      "missed_opportunities": [
+        "Did not ask about current policy details or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "term_insurance",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to HDFC Life products but prefers dealing with his existing bank relationship manager."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately pitched a 36% return, to which the customer responded with a polite 'Boliye bhaiya'.",
+      "customer_response": "Customer was initially dismissive but became conversational once the specific product was mentioned.",
+      "key_event": "Customer identified that he already knows the 'Sanchay Par Advantage' plan and prefers to deal with his HDFC Bank contact.",
+      "ending": "Customer politely ended the call, stating he prefers to wait for his bank relationship manager."
+    },
+    "key_quotes": [
+      "Sir mere ko aur koi policy nahi leni hai.",
+      "Sanchay Par Advantage na?",
+      "Sir ek baar pehle unko aane toh do. Kyunki wo bank bank wale hi hai HDFC Bank ke hamare."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 45,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

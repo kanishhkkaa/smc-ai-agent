@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9240075677162701",
+  "source_transcript": "agent-2091-1779605072-2123-Gaurav_delhi-2026_05_24_12_14_33-9910798150.json",
+  "created_at_utc": "2026-06-01T02:09:06Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779605072-2123-Gaurav_delhi-2026_05_24_12_14_33-9910798150.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir, kyun mazak kar rahe ho? ... I don't know, but aapke voice se nahi lagta hai mujhe.",
+    "summary": "The agent attempted to pitch an HDFC Life product, but the call ended in a dispute over the customer's age and voice quality.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company first year se na aapko 40 percent ki guaranteed income dena start karti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

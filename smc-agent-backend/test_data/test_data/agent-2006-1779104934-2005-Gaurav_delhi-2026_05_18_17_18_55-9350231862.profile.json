@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "5205489351850662",
+  "source_transcript": "agent-2006-1779104934-2005-Gaurav_delhi-2026_05_18_17_18_55-9350231862.json",
+  "source_name": "agent-2006-1779104934-2005-Gaurav_delhi-2026_05_18_17_18_55-9350231862.mp3",
+  "created_at_utc": "2026-05-20T08:59:07Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 155.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "agent-2006-1779104934-2005-Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "agent-2006-1779104934-2005-Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Aap company wale ho main puch raha hun, tu jawab nahi de raha.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Aap apni batao main bata dunga. Woh select ho jayegi toh theek hai, nahi ho jayegi toh koi baat nahi. Aap batao pehle kitni hai aapki.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "suppose 10,000 rupaye mahine ka bachate ho. Theek hai? Customer: Haan sir.",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "guaranteed and regular income from first year",
+        "insurance cover from day one",
+        "income tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile and not interested in the product or the agent's process.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was hostile and annoyed by the agent's questioning style, leading to a breakdown in communication."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA guaranteed savings plan, and the customer responded with skepticism and a demand for details.",
+      "customer_response": "The customer was defensive and annoyed, frequently pushing back against the agent's questions.",
+      "key_event": "The customer became hostile when the agent asked for his age, leading to a circular argument about eligibility criteria.",
+      "ending": "The call ended abruptly after the customer expressed frustration about having to disclose his occupation."
+    },
+    "key_quotes": [
+      "Aap company wale ho main puch raha hun, tu jawab nahi de raha.",
+      "Toh yahi puch raha hai na. Yeh baat aapko batane mein dikkat ho raha hai. Aage kya bataoge?"
+    ],
+    "red_flags": [
+      "hostile_customer",
+      "poor_agent_soft_skills"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

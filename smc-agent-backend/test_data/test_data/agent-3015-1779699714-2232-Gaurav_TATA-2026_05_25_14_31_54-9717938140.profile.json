@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "3912192875942561",
+  "source_transcript": "agent-3015-1779699714-2232-Gaurav_TATA-2026_05_25_14_31_54-9717938140.json",
+  "source_name": "agent-3015-1779699714-2232-Gaurav_TATA-2026_05_25_14_31_54-9717938140.mp3",
+  "created_at_utc": "2026-05-27T01:25:37Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 125.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "Customer: \"Meri age hai 60.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"Main retired working dono hi hun, apna office khula hua hai ghar mein hi, property ka kaam karte hain.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "property business",
+        "evidence": "Customer: \"property ka kaam karte hain.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: \"10-15 hazaar rupaye mahina kama.\"",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Ye to nahi karwa sakte, itna kahan se karwayenge hum.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "9.5 lakh? 9.5 lakh ki deni padegi? ... Ye to nahi karwa sakte, itna kahan se karwayenge hum.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Customer: \"Aap main ghar se puch ke batata hun iske baare mein.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "term plus ULIP plan",
+      "premium_quoted_inr": 950000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 60 years old with very low income; the quoted premium is completely inappropriate for his financial profile.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer is 60 years old with very low income and explicitly stated the quoted premium is unaffordable."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA term plus ULIP plan and the customer asked for details.",
+      "customer_response": "Customer was passive and cooperative but clearly taken aback by the high premium quote.",
+      "key_event": "Agent quoted a 9.5 lakh annual premium, which the customer immediately rejected as unaffordable.",
+      "ending": "Customer ended the call by stating he needs to consult his family."
+    },
+    "key_quotes": [
+      "9.5 lakh? 9.5 lakh ki deni padegi?",
+      "Ye to nahi karwa sakte, itna kahan se karwayenge hum."
+    ],
+    "red_flags": [
+      "ignored_customer_budget",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 1,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

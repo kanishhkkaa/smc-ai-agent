@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "profile_id": "9574231349779766",
+  "source_transcript": "agent-2190-1779096630-2163-Gaurav_TATA-2026_05_18_15_00_31-9820065848.json",
+  "source_name": "agent-2190-1779096630-2163-Gaurav_TATA-2026_05_18_15_00_31-9820065848.mp3",
+  "created_at_utc": "2026-05-21T02:08:30Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 97.88,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vijay",
+      "evidence": "Agent: Vijay ji main aapse Tata ke new plan ke baare mein baat karna chahta hun",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "48",
+        "evidence": "Customer: 48.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Main apna ye business hai, iska interior ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Interior business",
+        "evidence": "Customer: Main apna ye business hai, iska interior ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Reliability ka hota hai matlab ek saal mein lakh dedh lakh aisa bhi ho jaata hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Agent: Main maafi chahunga sir, shayad aisa to nahi ho paayega, ye cheez eligibility nahi ho paayegi. Thank you so much.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "ignored_customer_budget"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer income below eligibility threshold for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent abruptly terminated the call after the customer disclosed a lower income, showing no interest in further engagement."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves and the product, and the customer invited them to explain.",
+      "customer_response": "The customer was passive and cooperative, answering the agent's questions until the call was abruptly ended.",
+      "key_event": "The agent terminated the call immediately after the customer stated their annual income was around 1-1.5 lakh.",
+      "ending": "The agent ended the call abruptly after deciding the customer did not meet eligibility criteria."
+    },
+    "key_quotes": [
+      "Reliability ka hota hai matlab ek saal mein lakh dedh lakh aisa bhi ho jaata hai."
+    ],
+    "red_flags": [
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

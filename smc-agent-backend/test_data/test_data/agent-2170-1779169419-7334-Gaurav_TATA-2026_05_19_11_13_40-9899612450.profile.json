@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4379817676880997",
+  "source_transcript": "agent-2170-1779169419-7334-Gaurav_TATA-2026_05_19_11_13_40-9899612450.json",
+  "source_name": "agent-2170-1779169419-7334-Gaurav_TATA-2026_05_19_11_13_40-9899612450.mp3",
+  "created_at_utc": "2026-05-22T11:18:16Z",
+  "transcript_stats": {
+    "segments": 82,
+    "duration_seconds": 275.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Mera age hai 40 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Apna business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Apna business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "Ek, ek CR jama karta hu main. ITR ka.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Theek hai, rehne do ma'am, theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi nahi bataunga main. Sochne ka time do mere ko sochne ke liye.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "1 lakh 60 hazaar rupaye jayega sir. 13 hazaar jayega sir. (Customer accepted the quote).",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer asked for details on payment structure and office location.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent pitched as a support for financial problems/emergency.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Apna business hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "1 CR term cover",
+        "mutual fund return benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 160000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent mischaracterized the product as a 'mutual fund' and 'FD' equivalent, which is misleading for a life insurance product.",
+      "missed_opportunities": [
+        "Did not explain the product structure clearly, focused only on premium."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer requested information via WhatsApp but agent refused to send it without further commitment, leading to a standoff."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a 'two-in-one' combined plan from Tata AIA offering term cover and mutual fund returns.",
+      "customer_response": "Customer was initially curious but became increasingly frustrated by the agent's refusal to provide details without a commitment.",
+      "key_event": "Agent refused to send product details via WhatsApp unless the customer committed to a follow-up time.",
+      "ending": "Customer ended the call after the agent refused to send information via WhatsApp."
+    },
+    "key_quotes": [
+      "Abhi nahi bataunga main. Sochne ka time do mere ko sochne ke liye.",
+      "Mere ko WhatsApp kar do kya hai, kya iska scheme kya hai, theek hai?",
+      "Theek hai, rehne do ma'am, theek hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

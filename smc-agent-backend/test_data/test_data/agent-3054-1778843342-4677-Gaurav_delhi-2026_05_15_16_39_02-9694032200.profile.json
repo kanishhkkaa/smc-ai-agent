@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "9775896137991345",
+  "source_transcript": "agent-3054-1778843342-4677-Gaurav_delhi-2026_05_15_16_39_02-9694032200.json",
+  "source_name": "agent-3054-1778843342-4677-Gaurav_delhi-2026_05_15_16_39_02-9694032200.mp3",
+  "created_at_utc": "2026-05-18T06:09:08Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 205.74,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Bhopal",
+        "evidence": "Main toh Bhopal se bol raha hoon.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "Main khud hi broker hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "broker",
+        "evidence": "Main khud hi broker hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Main toh plan ke liye toh nahi hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 8,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "Kaun sa broker hai?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Main khud hi broker hoon.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Main khud hi broker hoon.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main khud hi broker hoon.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income from first year",
+        "8% compound interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an insurance broker himself.",
+      "missed_opportunities": [
+        "Did not pivot to B2B/partnership conversation"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a competitor/broker and explicitly stated no interest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent calls to offer a guaranteed HDFC plan, customer responds with \"Bataiye\".",
+      "customer_response": "Customer is skeptical and immediately starts questioning the agent's credentials and company.",
+      "key_event": "Customer reveals he is an insurance broker himself, effectively ending the sales pitch.",
+      "ending": "Agent accepts the customer's lack of interest and ends the call politely."
+    },
+    "key_quotes": [
+      "Main khud hi broker hoon.",
+      "Mera toh saare company ka broker hai mere paas."
+    ],
+    "red_flags": [
+      "Agent made unrealistic guaranteed return claims (36% income, 8% compound interest)."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_2",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

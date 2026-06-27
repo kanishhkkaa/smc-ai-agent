@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "7721642099583634",
+  "source_transcript": "agent-2039-1779275155-4453-Gaurav_delhi-2026_05_20_16_35_55-8178104766.json",
+  "source_name": "agent-2039-1779275155-4453-Gaurav_delhi-2026_05_20_16_35_55-8178104766.mp3",
+  "created_at_utc": "2026-05-25T19:21:56Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 124.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Nahi abhi nahi abhi nahi abhi nahi madam aap number share kar lo aur mere paas jab time hoga tab main baat kar lunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mam maine already term plan le rakha hai aapke through.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Madam us case mein toh premium zyada aayega na.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main free ho ke us number pe call kar lunga.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined term and investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has a term plan and expressed concern about the higher premium of the proposed ULIP-style product.",
+      "missed_opportunities": [
+        "Did not ask about the customer's specific financial goals or investment horizon."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer is open to receiving information via contact details but explicitly declined immediate discussion."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and the customer responded neutrally, inviting her to speak.",
+      "customer_response": "The customer was passive, listening to the pitch but maintaining boundaries regarding his time and existing policy.",
+      "key_event": "The customer raised an objection about the higher premium cost of the proposed plan compared to his existing term policy.",
+      "ending": "The customer firmly declined an immediate transfer to a senior and requested contact details to call back later."
+    },
+    "key_quotes": [
+      "Mam maine already term plan le rakha hai aapke through.",
+      "Madam us case mein toh premium zyada aayega na.",
+      "Nahi abhi nahi abhi nahi abhi nahi madam aap number share kar lo aur mere paas jab time hoga tab main baat kar lunga."
+    ],
+    "red_flags": [
+      "Agent misrepresented the product by implying it is a risk-free investment."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

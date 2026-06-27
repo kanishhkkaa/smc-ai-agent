@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2340521779848805",
+  "source_transcript": "agent-2089-1779511754-2665-Gaurav_delhi-2026_05_23_10_19_14-9650195485.json",
+  "created_at_utc": "2026-06-01T02:28:13Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779511754-2665-Gaurav_delhi-2026_05_23_10_19_14-9650195485.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Hum abhi do ghante baad baat kar sakte hain kya? Abhi meeting mein hun main. ... 12 baje tak.",
+    "summary": "Agent pitched an HDFC Life plan; customer mentioned existing investments but agreed to a callback at 12:00 PM.",
+    "callback_time_iso": "2026-05-23T12:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "SD Sharma",
+        "evidence": "SD Sharma.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

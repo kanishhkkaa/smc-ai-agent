@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "5716197117939184",
+  "source_transcript": "agent-2042-1778756458-813-Gaurav_TATA-2026_05_14_16_30_59-9999537126.json",
+  "source_name": "agent-2042-1778756458-813-Gaurav_TATA-2026_05_14_16_30_59-9999537126.mp3",
+  "created_at_utc": "2026-05-15T23:56:27Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 75.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Customer: meri hai 32 saal.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: meri hai 32 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello, ji very good afternoon. main aapse asad baat kar raha hun Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Customer: silai karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "silai (tailoring)",
+        "evidence": "Customer: silai karta hun.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: 32 saal. Agent: 32. Agent: karte kya hain aap 32 saal ki age mein? Customer: silai karta hun.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: ji boliye. ... Customer: meri hai 32 saal. ... Customer: silai karta hun.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 15.0,
+      "agent_talk_percent": 85.0,
+      "customer_question_count": 0,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA term plus mutual fund combo plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "The agent is pitching a complex, high-premium product (term + mutual fund + health + pension) to a skilled trade worker (tailor) without assessing their financial capacity or needs.",
+      "missed_opportunities": [
+        "Did not assess financial goals or current insurance coverage."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "Customer is a skilled worker who engaged with the agent's questions, though the agent's pitch was misleading. Future contact should focus on simpler, more relevant products."
+    },
+    "summary": "The agent contacted the customer to pitch a complex Tata AIA product combining term insurance, mutual funds, health, and pension. The agent misrepresented the product by claiming it has no tax deductions. The customer, a tailor, provided his age and occupation but the call ended before a full discovery or pitch completion.",
+    "key_quotes": [
+      "meri hai 32 saal.",
+      "silai karta hun."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

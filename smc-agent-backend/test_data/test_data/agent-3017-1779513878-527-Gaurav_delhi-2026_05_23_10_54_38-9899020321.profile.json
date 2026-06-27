@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2112415322177613",
+  "source_transcript": "agent-3017-1779513878-527-Gaurav_delhi-2026_05_23_10_54_38-9899020321.json",
+  "created_at_utc": "2026-06-01T02:37:36Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779513878-527-Gaurav_delhi-2026_05_23_10_54_38-9899020321.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Pehle pehle kuch bhi karo na, na aapka time waste ho na mera time waste ho.",
+    "summary": "Agent pitched Tata Param Rakshak Pro and asked for age; upon learning the customer is 61, the agent self-disqualified the prospect.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "61",
+        "evidence": "61",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

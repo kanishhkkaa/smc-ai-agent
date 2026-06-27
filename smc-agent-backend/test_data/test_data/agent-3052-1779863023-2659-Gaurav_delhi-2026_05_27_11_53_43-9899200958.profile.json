@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "4466855211252813",
+  "source_transcript": "2026_05_27/agent-3052-1779863023-2659-Gaurav_delhi-2026_05_27_11_53_43-9899200958.json",
+  "source_name": "agent-3052-1779863023-2659-Gaurav_delhi-2026_05_27_11_53_43-9899200958.mp3",
+  "created_at_utc": "2026-06-01T05:24:02Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 194.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Fayaz Ahmed",
+      "evidence": "Fayaz Ahmed",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "25",
+        "evidence": "25",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Fayaz Ahmed",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Tour and travels ka",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Tour and travels business owner",
+        "evidence": "Tour and travels",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "monthly 50 se 55 hazaar",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "aap ek kaam kariye ga 6 baje ke kareeb call kariye ga",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Father ka",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T18:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year",
+        "double tax benefit",
+        "100 years life insurance coverage",
+        "total tax-free maturity"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name beyond 'guaranteed plan'"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer was cooperative, provided details, and explicitly requested a callback at a specific time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "Engaged and cooperative throughout the call, providing requested information.",
+      "key_event": "Customer agreed to a callback at 6 PM to discuss the plan with his father.",
+      "ending": "Customer requested a callback at 6 PM due to another incoming call."
+    },
+    "key_quotes": [
+      "aap ek kaam kariye ga 6 baje ke kareeb call kariye ga",
+      "Nahi, abhi nahi chal rahi, magar main lene wala hun bahut jald."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

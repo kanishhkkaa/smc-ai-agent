@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "4323131223762054",
+  "source_transcript": "agent-3104-1779625603-4581-Gaurav_delhi-2026_05_24_17_56_43-9540828090.json",
+  "created_at_utc": "2026-06-01T02:18:50Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 271.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779625603-4581-Gaurav_delhi-2026_05_24_17_56_43-9540828090.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe 15 tarikh ke baad mein karna, 15 June ke.",
+    "summary": "Agent and senior manager pitched HDFC Sanchay Par Advantage; customer completed discovery and requested a callback after June 15th.",
+    "callback_time_iso": "2026-06-16T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "Madam 37 ho jayegi next month.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Main toh Delhi mein rehta hun madam, East Delhi, Patparganj.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Job toh madam achi hai, meri 10 lakh rupaye maan lo.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle saal se hi aapko 36 percent ki guaranteed income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

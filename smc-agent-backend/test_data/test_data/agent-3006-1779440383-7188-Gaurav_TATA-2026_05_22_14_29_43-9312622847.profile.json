@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "4300691706130110",
+  "source_transcript": "agent-3006-1779440383-7188-Gaurav_TATA-2026_05_22_14_29_43-9312622847.json",
+  "created_at_utc": "2026-06-01T02:59:18Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779440383-7188-Gaurav_TATA-2026_05_22_14_29_43-9312622847.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Mahine ki income kitni ho jati hai, 20-25 hazaar? Customer: Haan, ho jati hai.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery, confirming the customer is 42, runs a business, and earns 20-25k monthly.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "42",
+        "evidence": "42.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai ji, business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20-25 hazaar mahine",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "mutual fund ke return provide kar rahi hai",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

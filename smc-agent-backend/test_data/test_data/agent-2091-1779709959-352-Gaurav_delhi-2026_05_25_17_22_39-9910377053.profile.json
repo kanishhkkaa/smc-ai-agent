@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "2197705553003283",
+  "source_transcript": "agent-2091-1779709959-352-Gaurav_delhi-2026_05_25_17_22_39-9910377053.json",
+  "source_name": "agent-2091-1779709959-352-Gaurav_delhi-2026_05_25_17_22_39-9910377053.mp3",
+  "created_at_utc": "2026-05-27T01:18:10Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 154.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "41",
+        "evidence": "85 ka birth hai",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job mein karte hain abhi filhal",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "salaried employee",
+        "evidence": "job mein karte hain abhi filhal",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Dedh.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Maze mein hai ji, bataiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Madam ek baar aap agar mujhe WhatsApp kar do to main zyada easy rahega, phir aapse baat kar lenge ek baar read karke.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-25T17:32:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income",
+        "lifetime coverage",
+        "double tax benefit",
+        "waiver of premium inbuilt"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life product",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or specific financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is open to reviewing information via WhatsApp or a follow-up call, though he is currently busy."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and the customer responded politely.",
+      "customer_response": "The customer was passive but cooperative, providing basic details and requesting information to be sent via WhatsApp.",
+      "key_event": "The customer requested information via WhatsApp, but the agent insisted on explaining verbally first due to company process.",
+      "ending": "The agent agreed to call back in 10 minutes after the customer mentioned he was currently busy."
+    },
+    "key_quotes": [
+      "85 ka birth hai, dekh lo kitni hogi.",
+      "Madam ek baar aap agar mujhe WhatsApp kar do to main zyada easy rahega"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

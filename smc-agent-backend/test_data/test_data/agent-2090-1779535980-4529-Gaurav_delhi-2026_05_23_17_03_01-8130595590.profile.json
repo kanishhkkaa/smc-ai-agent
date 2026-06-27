@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8144534560090734",
+  "source_transcript": "agent-2090-1779535980-4529-Gaurav_delhi-2026_05_23_17_03_01-8130595590.json",
+  "created_at_utc": "2026-06-01T02:29:19Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 118.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779535980-4529-Gaurav_delhi-2026_05_23_17_03_01-8130595590.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Humko nahi lena hai bhai.",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage plan; prospect disclosed being a minor (15-16 years old) and ultimately refused the offer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "16",
+        "evidence": "usme toh 15-16 saal hun.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Mera age abhi hua hi nahi hai, usme toh 15-16 saal hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "company aapko aapke premium ka 40 percent cash income deti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

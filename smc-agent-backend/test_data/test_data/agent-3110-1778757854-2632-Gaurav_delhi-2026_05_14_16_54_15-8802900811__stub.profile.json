@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "9313354742964948",
+  "source_transcript": "2026_05_14/agent-3110-1778757854-2632-Gaurav_delhi-2026_05_14_16_54_15-8802900811__stub.json",
+  "source_name": "agent-3110-1778757854-2632-Gaurav_delhi-2026_05_14_16_54_15-8802900811.mp3",
+  "created_at_utc": "2026-06-01T04:38:55Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 111.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Abhi main Axis ka employee hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Axis Bank employee",
+        "evidence": "Abhi main Axis ka employee hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Toh main abhi toh use karunga nahi, kyunki main yahan ka staff hun toh mereko staff benefit mil raha hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "HDFC Life se mera char saal mera lagataar chala hai... maine wo saara yahan transfer karwa liya hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "HDFC Life se mera char saal mera lagataar chala hai... maine wo saara yahan transfer karwa liya hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "maine wo saara yahan transfer karwa liya hai",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40 percent guaranteed income from first year",
+        "8 percent returns",
+        "double tax benefit",
+        "term insurance included",
+        "waiver of premium rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an existing bank employee with his own staff insurance benefits and no current need for additional products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a bank employee who already has insurance and is satisfied with his current staff benefits."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new HDFC Life product with guaranteed income and benefits, to which the customer initially complained about voice quality.",
+      "customer_response": "Customer was passive but firm in declining due to existing coverage and current employment benefits.",
+      "key_event": "Customer explained he is an Axis Bank employee and has already transferred his insurance policies to avail staff benefits.",
+      "ending": "The agent politely accepted the customer's refusal and ended the call."
+    },
+    "key_quotes": [
+      "HDFC Life se mera char saal mera lagataar chala hai.",
+      "Abhi main Axis ka employee hun aur toh ye saari cheezein maine udhar transfer karwa li hain.",
+      "Toh main abhi toh use karunga nahi, kyunki main yahan ka staff hun toh mereko staff benefit mil raha hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

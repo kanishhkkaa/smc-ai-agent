@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "profile_id": "7030663957367512",
+  "source_transcript": "agent-3015-1779259954-6697-Gaurav_TATA-2026_05_20_12_22_35-8130946620.json",
+  "source_name": "agent-3015-1779259954-6697-Gaurav_TATA-2026_05_20_12_22_35-8130946620.mp3",
+  "created_at_utc": "2026-05-24T05:11:15Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 126.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "27",
+        "evidence": "Customer: 27.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Batao batao batao.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: Toh aap apna decision financially aap khud hi le rahe hain ya fir apni family leti hai aapki? Customer: Khud.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term insurance",
+        "market value returns on premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Raksha Pro Plus",
+      "premium_quoted_inr": 91908,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current insurance coverage or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "retirement_plan",
+        "health_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is young, sole decision maker, and actively engaged in the pitch, asking for details."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA plan (Param Raksha Pro Plus) and the customer responded positively.",
+      "customer_response": "Engaged; the customer actively asked for details and provided personal information when prompted.",
+      "key_event": "The agent quoted a specific annual premium of 91,908 INR for a 1 crore cover.",
+      "ending": "The call cut off while the agent was explaining the policy term and age calculation."
+    },
+    "key_quotes": [
+      "Kya kya hai isme? Kya benefits wagera?",
+      "Batao batao batao."
+    ],
+    "red_flags": [
+      "omitted_disclaimer_on_market_linked_returns"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

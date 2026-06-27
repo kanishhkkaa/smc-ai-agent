@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2445566289053445",
+  "source_transcript": "agent-2136-1779444757-4478-Gaurav_TATA-2026_05_22_15_42_37-9205199451.json",
+  "created_at_utc": "2026-06-01T02:55:10Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1779444757-4478-Gaurav_TATA-2026_05_22_15_42_37-9205199451.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "You can send me the details on this number, I'll look into it.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer initially refused but requested details via WhatsApp, then declined further discussion due to being busy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "according to market aapko ek higher return diya ja raha hai",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

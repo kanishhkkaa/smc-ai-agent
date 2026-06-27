@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "3472113311377564",
+  "source_transcript": "agent-3052-1779694305-49-Gaurav_delhi-2026_05_25_13_01_45-9971008591.json",
+  "source_name": "agent-3052-1779694305-49-Gaurav_delhi-2026_05_25_13_01_45-9971008591.mp3",
+  "created_at_utc": "2026-05-27T01:28:19Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 127.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "\"Delhi se hi. Delhi se abhi travel start kiya hai maine.\"",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "\"Delhi se hi.\"",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Nahi, please abhi toh aap rehne do.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Actually abhi toh filhal main travel kar rahi hun.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Actually aap, ye main train mein hun bahut zyada noise hai, mujhe aapki baat sunayi nahi de rahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "\"Agar monthly ka dekhenge pocket pe jo load aayega 5,000 ka aayega ma'am.\"",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Main branch jaake hi main pata kar lungi.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "8 to 9 percent compounding interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not interested and requested to stop the call.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly asked to stop the call multiple times due to travel and noise, and stated she would visit the branch herself."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive initially but became firm in pushing back due to travel and noise.",
+      "key_event": "The customer repeatedly stated she was traveling and would visit the branch herself, while the agent persisted in trying to schedule a follow-up.",
+      "ending": "The customer requested the agent to stop calling, and the agent eventually complied."
+    },
+    "key_quotes": [
+      "Actually abhi toh filhal main travel kar rahi hun.",
+      "Nahi, please abhi toh aap rehne do."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

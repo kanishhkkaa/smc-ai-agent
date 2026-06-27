@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "3128781393087919",
+  "source_transcript": "agent-3017-1779183247-5105-Gaurav_delhi-2026_05_19_15_04_08-9875139134.json",
+  "source_name": "agent-3017-1779183247-5105-Gaurav_delhi-2026_05_19_15_04_08-9875139134.mp3",
+  "created_at_utc": "2026-05-22T11:23:31Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 211.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "56",
+        "evidence": "Customer: 56.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Mera business hai, transport ka.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "transport business",
+        "evidence": "Customer: Mera business hai, transport ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Haan, bolo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Insurance toh hai ki maine LIC karwa rakhi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "Agent: Ya aapke bachchon ke education ke liye, ya unke marriage life ke liye. (Agent projected this goal onto the customer)",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore ka cover life insurance"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has insurance and showed no interest in the pitch.",
+      "missed_opportunities": [
+        "Did not ask about existing coverage details beyond LIC.",
+        "Did not ask about current financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was passive and disengaged throughout the call, showing little interest in the pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as being from Tata AIA and immediately started pitching a plan.",
+      "customer_response": "The customer was passive and provided minimal responses, mostly just acknowledging the agent.",
+      "key_event": "The agent attempted to pivot to the customer's family needs, but the customer remained uninterested and mentioned existing LIC coverage.",
+      "ending": "The call was interrupted by another agent or technical issue before a conclusion was reached."
+    },
+    "key_quotes": [
+      "Insurance toh hai ki maine LIC karwa rakhi hai."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

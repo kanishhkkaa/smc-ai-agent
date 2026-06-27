@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "profile_id": "4643563154844291",
+  "source_transcript": "agent-3015-1779695654-1546-Gaurav_TATA-2026_05_25_13_24_14-9999638960.json",
+  "source_name": "agent-3015-1779695654-1546-Gaurav_TATA-2026_05_25_13_24_14-9999638960.mp3",
+  "created_at_utc": "2026-05-27T01:25:29Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 175.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vishal Arora",
+      "evidence": "Agent: Pura naam kya rahega sir? Customer: Vishal Arora.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Customer: Mam right now main 33 ka hun.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Haanji madam. (Agent mistakenly addressed customer as madam initially, but customer identified as male later) Agent: 33 ke ho. Aur aap professionally karte kya hain? Customer: Mam main salaried hun. (Customer uses male gender markers in Hindi)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Mam main salaried hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 18 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Chalo bataiye plan bataiye, main free bhi hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Main chah raha hun mam term plan separate ho aur investment plan separate ho.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Mam guaranteed, guaranteed chahiye mujhe.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Main R&D kar leta hun. Aap mujhe isi number pe detail de dijiye. Main ek baar Google pe ek baar workout kar leta hun.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "other",
+        "evidence": "Customer: Mam guaranteed, guaranteed chahiye mujhe.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main Sunday free hun mam, Sunday free. (Implies he is the one to decide)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-31T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term insurance",
+        "market value return on premium",
+        "withdraw after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus ULIP plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer explicitly requested separate term and investment products with guaranteed returns, whereas the agent pitched a combined ULIP.",
+      "missed_opportunities": [
+        "Did not offer a specific guaranteed savings plan or separate term plan options during the call."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip",
+        "endowment",
+        "retirement_plan",
+        "child_plan",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is interested in exploring options and agreed to a callback, though he prefers separate term and investment products."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a new Tata AIA term plus ULIP plan, and the customer agreed to hear the details.",
+      "customer_response": "Engaged and inquisitive, asking clarifying questions about the product structure.",
+      "key_event": "Customer expressed a preference for separate term and investment products with guaranteed returns, shifting the conversation away from the initial ULIP pitch.",
+      "ending": "Agent agreed to call back on Sunday after confirming the customer's name."
+    },
+    "key_quotes": [
+      "Main chah raha hun mam term plan separate ho aur investment plan separate ho.",
+      "Mam guaranteed, guaranteed chahiye mujhe.",
+      "Main R&D kar leta hun. Aap mujhe isi number pe detail de dijiye."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "4495966883848991",
+  "source_transcript": "2026_05_21/agent-3012-1779350103-2396-Gaurav_TATA-2026_05_21_13_25_04-9450839437.json",
+  "source_name": "agent-3012-1779350103-2396-Gaurav_TATA-2026_05_21_13_25_04-9450839437.mp3",
+  "created_at_utc": "2026-06-01T04:59:51Z",
+  "transcript_stats": {
+    "segments": 84,
+    "duration_seconds": 244.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ajay Yadav",
+      "evidence": "Ajay Yadav",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "36",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Married",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Son",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Okay, okay.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Ye aapka plan kis type ka hai? Mere ko ye pehle aap batao.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "Nahi, toh phir ye total 17 year ho gaya na?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer understood the math of 12 years investment plus 5 years hold.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "child plan",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-21T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "4,50,000 bonus return over 12 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Child Lifetime Partner",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or investment portfolio."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan",
+        "endowment"
+      ],
+      "reasoning": "Customer was actively engaged, asked clarifying questions about the plan structure, and agreed to a specific callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a child plan from Central Bank of India celebrating its 50th anniversary.",
+      "customer_response": "Engaged and inquisitive, asking for clarification on the plan's structure and exit benefits.",
+      "key_event": "Customer questioned the 12-year investment vs 5-year lock-in period, leading to a discussion on exit benefits.",
+      "ending": "Customer requested a callback in 1-2 hours due to being in the market, and the agent scheduled it for 3 PM."
+    },
+    "key_quotes": [
+      "Ye aapka plan kis type ka hai? Mere ko ye pehle aap batao.",
+      "Nahi, toh phir ye total 17 year ho gaya na?"
+    ],
+    "red_flags": [
+      "Agent claimed 10% guaranteed return on a child plan.",
+      "Agent described the plan as having a 5-year lock-in while also stating it is a 12-year plan, causing confusion."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

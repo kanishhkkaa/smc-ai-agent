@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "4355929895707525",
+  "source_transcript": "agent-2170-1778737080-5036-Gaurav_TATA-2026_05_14_11_08_01-9650214993.json",
+  "source_name": "agent-2170-1778737080-5036-Gaurav_TATA-2026_05_14_11_08_01-9650214993.mp3",
+  "created_at_utc": "2026-05-16T00:13:13Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 113.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main aapse Priyanshi baat kar rahi hun Tata AIA se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "subah subah banda apna dukan khole, kaam kare",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "shop owner",
+        "evidence": "subah subah banda apna dukan khole",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "aaj ke baad kabhi phone mat karna, phone rakho.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60.0,
+      "agent_talk_percent": 40.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "kuch search nahi kiya, tum log bakwas mein phone karte ho, mat kiya karo beta, koi aur naukri karo, ye achi naukri nahi hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "do_not_call",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 50.0,
+      "compliance_flags": [],
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "combined plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is hostile and explicitly stated they did not request a call.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer was explicitly hostile, stated they did not request a call, and demanded never to be contacted again."
+    },
+    "summary": "The agent called the customer to pitch a Tata AIA insurance plan. The customer was immediately hostile, stating they were busy running their shop and had not requested a call. The customer demanded the agent stop calling and suggested they find a different job, ending the call abruptly.",
+    "key_quotes": [
+      "subah subah banda apna dukan khole, kaam kare, do paise kamaye, pehle tumhara plan sun le.",
+      "kuch search nahi kiya, tum log bakwas mein phone karte ho, mat kiya karo beta, koi aur naukri karo, ye achi naukri nahi hai.",
+      "aaj ke baad kabhi phone mat karna, phone rakho."
+    ],
+    "red_flags": [
+      "hostile_customer",
+      "customer_explicitly_requested_no_contact"
+    ],
+    "extraction_confidence": "high"
+  }
+}

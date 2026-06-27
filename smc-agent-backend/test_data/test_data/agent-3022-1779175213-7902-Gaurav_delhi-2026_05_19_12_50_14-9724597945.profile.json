@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "6385411420920589",
+  "source_transcript": "agent-3022-1779175213-7902-Gaurav_delhi-2026_05_19_12_50_14-9724597945.json",
+  "source_name": "agent-3022-1779175213-7902-Gaurav_delhi-2026_05_19_12_50_14-9724597945.mp3",
+  "created_at_utc": "2026-05-22T11:24:30Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 88.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mr. Patel",
+      "evidence": "Agent: Kya karte hain Mr. Patel?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: Kya karte hain Mr. Patel?",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Surendranagar",
+        "evidence": "Customer: Main HDFC Bank Surendranagar se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main wahan pe BM associate manager hoon.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "BM associate manager at HDFC Bank",
+        "evidence": "Customer: Main wahan pe BM associate manager hoon.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Paisa toh nahi hai madam abhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Paisa toh nahi hai madam abhi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "loan chal raha hai"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36 percent ki income aani start ho jayegi"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed and traditional plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no funds for investment and has existing debt.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is clearly uninterested and stated he has no money for investment due to existing loans."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent opened with a guaranteed income pitch and the customer responded with skepticism.",
+      "customer_response": "Customer was passive and dismissive, repeatedly stating he had no money for investment.",
+      "key_event": "Customer revealed he is an associate manager at HDFC Bank, leading the agent to terminate the call.",
+      "ending": "Agent ended the call abruptly after learning the customer's professional role."
+    },
+    "key_quotes": [
+      "Paisa toh nahi hai madam abhi.",
+      "Paisa hi nahi hai na loan chal raha hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_3",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

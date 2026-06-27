@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "6175031448609112",
+  "source_transcript": "agent-2098-1778847129-8708-Gaurav_delhi-2026_05_15_17_42_09-9871663395.json",
+  "created_at_utc": "2026-06-01T01:13:41Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1778847129-8708-Gaurav_delhi-2026_05_15_17_42_09-9871663395.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi, main abhi thoda fund ka thoda issue hai, main abhi nahi invest kar sakta.",
+    "summary": "Agent pitched an HDFC Life saving plan; customer declined citing financial constraints and mentioned he already holds Niva Bupa health insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "40 percent ki income aa rahi hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 39,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

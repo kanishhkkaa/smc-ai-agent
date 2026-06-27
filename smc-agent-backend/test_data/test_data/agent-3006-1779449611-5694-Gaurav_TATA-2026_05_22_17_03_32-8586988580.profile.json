@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9519988602501155",
+  "source_transcript": "agent-3006-1779449611-5694-Gaurav_TATA-2026_05_22_17_03_32-8586988580.json",
+  "created_at_utc": "2026-06-01T02:59:29Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 73.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1779449611-5694-Gaurav_TATA-2026_05_22_17_03_32-8586988580.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Job to yahi hai, ho jaata hai 20,000.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery, but the call ended abruptly after a misunderstanding regarding the customer's income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "45 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Meri to sir job hi hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "ho jaata hai 20,000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4544812408752827",
+  "source_transcript": "agent-2090-1779172325-2939-Gaurav_delhi-2026_05_19_12_02_06-9913360878.json",
+  "source_name": "agent-2090-1779172325-2939-Gaurav_delhi-2026_05_19_12_02_06-9913360878.mp3",
+  "created_at_utc": "2026-05-22T11:14:25Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 275.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Customer: 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent 2: ...aap unmarried honge? Customer: Unmarried. Agent 2: Bachhe bhi hain sir? Customer: Haan. (Note: Customer is male based on context of 'sir' and 'unmarried'/'bachhe' interaction).",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Bhuj",
+        "evidence": "Customer: Bhuj.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Transport business",
+        "evidence": "Customer: Transport.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Unmarried.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "Agent 2: Bachhe bhi hain sir? Customer: Haan.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Madam koi bhi apne ko nahi karna abhi.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Madam koi bhi apne ko nahi karna abhi.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Nahi. (regarding virtual meet/online comfort)",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: ...saal ka ₹1 lakh ke amount se plan suggest karu... Customer: Haan.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Self.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 8,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% income support from first year",
+        "8% compounding growth"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is not comfortable with online processes, which is required for this product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they are not comfortable with online processes and showed no interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened by offering a 35% income support plan, to which the customer responded with passive acknowledgment.",
+      "customer_response": "The customer was passive and hesitant, eventually shutting down the conversation by refusing online engagement.",
+      "key_event": "The customer refused to participate in a virtual meeting or online processing, effectively ending the sales attempt.",
+      "ending": "The Zonal Manager ended the call politely after the customer refused to engage in a virtual meeting or online process."
+    },
+    "key_quotes": [
+      "Madam koi bhi apne ko nahi karna abhi.",
+      "Nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_3",
+      "life_stage": "early_career",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

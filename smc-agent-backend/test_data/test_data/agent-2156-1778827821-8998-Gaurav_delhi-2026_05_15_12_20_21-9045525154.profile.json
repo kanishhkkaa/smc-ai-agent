@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7416595042373887",
+  "source_transcript": "agent-2156-1778827821-8998-Gaurav_delhi-2026_05_15_12_20_21-9045525154.json",
+  "created_at_utc": "2026-06-01T01:16:13Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 65.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1778827821-8998-Gaurav_delhi-2026_05_15_12_20_21-9045525154.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ye hai 26-27 saal. Job. Ye toh [unclear].",
+    "summary": "Agent pitched HDFC Life plan with 40% first-year income; customer provided age and occupation but income was unclear/unclear.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "Ye hai 26-27 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "mistri line mein hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi na sir 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

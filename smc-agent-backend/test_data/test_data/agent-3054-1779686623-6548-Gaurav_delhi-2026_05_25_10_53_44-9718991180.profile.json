@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "3681081596168232",
+  "source_transcript": "agent-3054-1779686623-6548-Gaurav_delhi-2026_05_25_10_53_44-9718991180.json",
+  "source_name": "agent-3054-1779686623-6548-Gaurav_delhi-2026_05_25_10_53_44-9718991180.mp3",
+  "created_at_utc": "2026-05-27T01:28:34Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Insurance plan bikte nahi hai toh saving plan bolke bechna ye galat baat hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 1,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "compliance_concern",
+          "quote": "Insurance plan bikte nahi hai toh saving plan bolke bechna ye galat baat hai. Insurance plan hai toh insurance plan bolke hi bechiye madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "misleading sales tactics regarding insurance products"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer understands the distinction between insurance and savings products and challenges the agent's terminology.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent ki guaranteed income aati hai aapki whole life ke liye"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile towards the sales approach and the product category.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is highly critical of the agent's sales tactics and explicitly called out the misrepresentation of the product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from HDFC Life to offer a 'guaranteed saving plan' and the customer responded by asking her to proceed.",
+      "customer_response": "The customer was pushing back throughout the call, challenging the agent's terminology and sales approach.",
+      "key_event": "The customer confronted the agent about mislabeling a life insurance plan as a 'saving plan' to mislead customers.",
+      "ending": "The customer ended the call abruptly after expressing his frustration with the agent's sales pitch."
+    },
+    "key_quotes": [
+      "Insurance plan bikte nahi hai toh saving plan bolke bechna ye galat baat hai.",
+      "Saving plan toh just naam ke liye hai, but this is a life insurance plan."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

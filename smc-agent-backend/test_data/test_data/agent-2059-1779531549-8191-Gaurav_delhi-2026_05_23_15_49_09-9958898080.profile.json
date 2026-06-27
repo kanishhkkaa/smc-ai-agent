@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8138919215550158",
+  "source_transcript": "agent-2059-1779531549-8191-Gaurav_delhi-2026_05_23_15_49_09-9958898080.json",
+  "created_at_utc": "2026-06-01T02:24:49Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779531549-8191-Gaurav_delhi-2026_05_23_15_49_09-9958898080.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, nahi, nahi, nahi. Itna paisa toh nahi kama, main hun jo ye kar lun. 12,000 salary mein, 12,000 salary mein ghar hi chalta hai bas.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan; customer declined, citing financial constraints and low household income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Main toh bas yahan job karti hun, main ek housewife hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "12,000 salary mein, 12,000 salary mein ghar hi chalta hai bas.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 35,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

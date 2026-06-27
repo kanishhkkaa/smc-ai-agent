@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "2531674914595085",
+  "source_transcript": "agent-2091-1778764320-8247-Gaurav_delhi-2026_05_14_18_42_01-9899460263.json",
+  "source_name": "agent-2091-1778764320-8247-Gaurav_delhi-2026_05_14_18_42_01-9899460263.mp3",
+  "created_at_utc": "2026-05-16T00:04:40Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 202.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "19",
+        "evidence": "Agent: Nahi mam, 19 hai.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "18-25",
+        "evidence": "Agent: Nahi mam, 19 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Nahi sir, wo jaise bolne mein na kabhi matlab jaise main Sanchay bol rahi hun, koi Sanjay sunta hai, koi aise toh that's why. (Agent is female, customer is male based on 'sir' usage and context)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: Hello, yes very good evening sir, main Nikki baat kar rahi hun HDFC Life ke behalf se... (Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Main digital marketing.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "digital marketing",
+        "evidence": "Customer: Main digital marketing.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "10_25L",
+        "evidence": "Customer: 90 hazaar. (Assuming monthly based on context of job start)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Nahi mam, maine 12th pass kar li hai, ab main job kar raha hun. (Implied single)",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Customer: Nahi mam, maine 12th pass kar li hai, ab main job kar raha hun.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Dekho, main aapko actual age bata raha hun, dekho, waise toh main batata bhi nahi kisi aur ko, aapko hi batayi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Saving toh kuch nahi hai. (Implied novice)",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: Saving toh kuch nahi hai. (Implied wealth creation/saving)",
+        "confidence": "medium"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: Toh fir toh aapke behalf pe jo decision hote hain, wo aapke parents lete honge. Customer: Nahi, nahi, main khud leta hun mam.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 6,
+      "lead_grade": "B",
+      "stage_reached": "discovery_done",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "fit_score_0_10": 6,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not probe for specific financial goals beyond general saving."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "mutual_fund_sip",
+        "term_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is young, recently employed, and open to discussing financial products despite initial hesitation about his age. He has no existing savings, making him a good candidate for early-stage financial planning products."
+    },
+    "summary": "The agent called a 19-year-old digital marketing professional to pitch the HDFC Life Sanchay Par Advantage plan. The customer, who recently started his job, has no existing financial products or savings. The agent successfully verified the customer's age and confirmed he is the sole decision-maker for his finances. The call ended after the discovery phase without a specific next action scheduled.",
+    "key_quotes": [
+      "Dekho, main aapko actual age bata raha hun, dekho, waise toh main batata bhi nahi kisi aur ko, aapko hi batayi hai.",
+      "Nahi, nahi, main khud leta hun mam.",
+      "Saving toh kuch nahi hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

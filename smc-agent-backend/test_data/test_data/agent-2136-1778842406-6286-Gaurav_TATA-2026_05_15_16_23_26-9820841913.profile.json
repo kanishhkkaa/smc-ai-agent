@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9829053973343175",
+  "source_transcript": "agent-2136-1778842406-6286-Gaurav_TATA-2026_05_15_16_23_26-9820841913.json",
+  "created_at_utc": "2026-06-01T01:15:00Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 101.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1778842406-6286-Gaurav_TATA-2026_05_15_16_23_26-9820841913.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Theek hai, abhi, abhi, abhi irritate mat kar, phone rakh, abhi, band kar.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer engaged briefly, asked about benefits, and then abruptlyly refused and ended the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 43,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

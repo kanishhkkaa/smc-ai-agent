@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1413532802637186",
+  "source_transcript": "agent-3042-1778829440-3433-Gaurav_delhi-2026_05_15_12_47_20-9871412146.json",
+  "created_at_utc": "2026-06-01T01:23:27Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1778829440-3433-Gaurav_delhi-2026_05_15_12_47_20-9871412146.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, jab abhi investment ke liye hi nahi hai, toh phir main bataun na? And at the end of the discussion yahi rahega na ki bhai nahi ho payega.",
+    "summary": "Agent pitched an HDFC Life guaranteed income plan; customer declined, citing inability to afford the investment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 35 percent ki fix income deti hai whole life ke liye",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 27,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

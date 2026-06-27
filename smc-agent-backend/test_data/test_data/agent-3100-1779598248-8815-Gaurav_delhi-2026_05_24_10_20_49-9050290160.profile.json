@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2836911986227098",
+  "source_transcript": "agent-3100-1779598248-8815-Gaurav_delhi-2026_05_24_10_20_49-9050290160.json",
+  "created_at_utc": "2026-06-01T02:17:16Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779598248-8815-Gaurav_delhi-2026_05_24_10_20_49-9050290160.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir ye toh matlab kam hai, koi baat nahi, chaliye. Thank you.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but self-disqualified the prospect due to low income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "26",
+        "evidence": "26 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Nahi, ek saal ki 2 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guarantee income aati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

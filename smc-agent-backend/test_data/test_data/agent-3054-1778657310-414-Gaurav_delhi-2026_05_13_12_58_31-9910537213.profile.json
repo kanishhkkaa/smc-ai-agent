@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "profile_id": "4522946625693178",
+  "source_transcript": "2026_05_13/agent-3054-1778657310-414-Gaurav_delhi-2026_05_13_12_58_31-9910537213.json",
+  "source_name": "agent-3054-1778657310-414-Gaurav_delhi-2026_05_13_12_58_31-9910537213.mp3",
+  "created_at_utc": "2026-06-01T04:06:12Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "28",
+        "evidence": "Main 28.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai, okay, very good sir, great.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haanji, haanji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Ma'am, main aapko abhi call back karu kya?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-13T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% guaranteed income within a week",
+        "double tax benefit",
+        "8% compounded rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product claims are highly unrealistic and likely misleading.",
+      "missed_opportunities": [
+        "income_level_discovery",
+        "family_status_discovery"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance",
+        "mutual_fund_sip",
+        "retirement_plan",
+        "child_plan",
+        "ulip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer was polite and requested a specific callback time, indicating interest in the conversation."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as Preeti Gupta from HDFC Life and initiated a pitch for a guaranteed plan.",
+      "customer_response": "The customer was engaged and responsive throughout the pitch, eventually requesting a callback.",
+      "key_event": "The agent made aggressive claims about 36% guaranteed income and the customer requested a callback.",
+      "ending": "The call ended with the customer requesting a callback after 3 PM, which the agent acknowledged."
+    },
+    "key_quotes": [
+      "Ma'am, main aapko abhi call back karu kya?",
+      "Okay, aap mujhe call karna ma'am, 3 baje ke baad."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

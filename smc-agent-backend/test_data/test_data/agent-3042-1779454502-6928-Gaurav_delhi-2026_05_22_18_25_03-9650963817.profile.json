@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5819097054359199",
+  "source_transcript": "agent-3042-1779454502-6928-Gaurav_delhi-2026_05_22_18_25_03-9650963817.json",
+  "created_at_utc": "2026-06-01T03:03:23Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 83.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779454502-6928-Gaurav_delhi-2026_05_22_18_25_03-9650963817.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Accha LIC chal rahi hai, okay.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan and completed discovery (age 32, salaried, 3-3.6L annual income); customer confirmed holding an existing LIC policy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "Meri age hai ji abhi, ye hogi 32 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job karta hun bhaiya.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25-30 hazaar monthly",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki fixed income deti hai whole life ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

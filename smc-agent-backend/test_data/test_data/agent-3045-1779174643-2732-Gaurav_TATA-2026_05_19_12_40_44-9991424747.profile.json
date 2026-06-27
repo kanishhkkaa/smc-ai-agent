@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "4173407460265931",
+  "source_transcript": "agent-3045-1779174643-2732-Gaurav_TATA-2026_05_19_12_40_44-9991424747.json",
+  "source_name": "agent-3045-1779174643-2732-Gaurav_TATA-2026_05_19_12_40_44-9991424747.mp3",
+  "created_at_utc": "2026-05-22T11:26:08Z",
+  "transcript_stats": {
+    "segments": 58,
+    "duration_seconds": 268.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "36",
+        "evidence": "Customer: 36.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job hoga.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 3 lakh 50 thousand per annum.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Kal kar lena aap phone aaj thoda busy hoon.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "LIC ka.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Demat account tha account band kar diya uske baad nahi kiya.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: ...mutual fund ke returns bhi gain kar sakte ho aap...",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Theek hai madam wo dekh lunga main.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-20T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 Cr life cover",
+        "mutual fund returns tax free",
+        "refundable plan",
+        "pension and medical facilities included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Term + Mutual Fund Plan",
+      "premium_quoted_inr": 78126,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted premium (78,126 INR) is disproportionately high relative to the customer's annual income (3.5 LPA).",
+      "missed_opportunities": [
+        "Did not explore health insurance needs despite mentioning medical facility."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer was polite and agreed to a callback tomorrow, though he seemed hesitant about the high premium quoted."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new Tata AIA plan combining term insurance and mutual funds, and the customer responded positively.",
+      "customer_response": "The customer was passive but engaged, listening to the pitch and answering discovery questions.",
+      "key_event": "The agent quoted a premium of 78,126 INR, which the customer acknowledged but did not commit to.",
+      "ending": "The customer requested a callback for tomorrow due to being busy, and the agent agreed."
+    },
+    "key_quotes": [
+      "3 lakh 50 thousand per annum.",
+      "Kal kar lena aap phone aaj thoda busy hoon."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

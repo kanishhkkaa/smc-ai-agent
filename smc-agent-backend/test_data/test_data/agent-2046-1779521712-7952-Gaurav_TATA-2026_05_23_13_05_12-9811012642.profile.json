@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9632308250792282",
+  "source_transcript": "agent-2046-1779521712-7952-Gaurav_TATA-2026_05_23_13_05_12-9811012642.json",
+  "created_at_utc": "2026-06-01T02:22:15Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 81.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779521712-7952-Gaurav_TATA-2026_05_23_13_05_12-9811012642.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Accha. Okay ma'am, theek hai. Waise ye number aapka hai? Ji. Accha, okay ma'am. Thank you so much, sorry.",
+    "summary": "The agent attempted to pitch a Tata AIA plan but self-disqualified the prospect after discovering she is an 18-year-old homemaker.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "18",
+        "evidence": "18 saal ki.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Ghar pe rehti hun, khana-wana ye ye cheez hai abhi toh.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi investment kar rahi hain aap, sara refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8498563057715871",
+  "source_transcript": "agent-3020-1779603657-1514-Gaurav_delhi-2026_05_24_11_50_57-8607980629.json",
+  "created_at_utc": "2026-06-01T02:12:44Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3020-1779603657-1514-Gaurav_delhi-2026_05_24_11_50_57-8607980629.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Parents ka number mil sakta hai? Nahi.",
+    "summary": "Agent pitched an HDFC Life saving plan; the student customer provided age and occupation but refused to share parents' contact details, effectively ending the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "21.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Study karte hain? Yes.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "annual premium par 36 percent ki aapko money back return aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

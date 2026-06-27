@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1157483759761251",
+  "source_transcript": "agent-3017-1779518755-1845-Gaurav_delhi-2026_05_23_12_15_55-9278051580.json",
+  "created_at_utc": "2026-06-01T02:37:30Z",
+  "transcript_stats": {
+    "segments": 48,
+    "duration_seconds": 211.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779518755-1845-Gaurav_delhi-2026_05_23_12_15_55-9278051580.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Sorry sir phir toh ye plan nahi ja paayega and aap bhi ITR bhi file nahi karte. Is plan mein na ITR mandatory hai.",
+    "summary": "Agent and senior agent pitched a Tata AIA plan, completed discovery, but disqualified the prospect due to lack of ITR filing.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "Meri 35.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Main filhal meri apni shop hai choti si ek, usi pe kaam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25-30 ke aas paas laga lijiye... Monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "jo aap jitna bhi investment kar rahe hain na is plan mein wo saara refundable hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

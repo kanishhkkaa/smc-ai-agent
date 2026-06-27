@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4074793246104239",
+  "source_transcript": "agent-3054-1778831178-9704-Gaurav_delhi-2026_05_15_13_16_19-8800868996.json",
+  "created_at_utc": "2026-06-01T01:25:18Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1778831178-9704-Gaurav_delhi-2026_05_15_13_16_19-8800868996.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi madam. Madam main abhi kahin aur hun, main thoda busy hun, mere paas abhi itna time hai nahi.",
+    "summary": "Agent pitched a HDFC Life guaranteed plan; customer declined the pitch and stated he is busy and has no time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "44",
+        "evidence": "44.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "Main wahi labour wale job kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "HDFC Life ka ek campaign chal raha hai jisme hum aapko ek new guaranteed plan offer kar rahe hain so.",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

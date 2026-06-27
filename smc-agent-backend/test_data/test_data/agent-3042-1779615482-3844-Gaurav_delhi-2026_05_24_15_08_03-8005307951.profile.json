@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3865195357918921",
+  "source_transcript": "agent-3042-1779615482-3844-Gaurav_delhi-2026_05_24_15_08_03-8005307951.json",
+  "created_at_utc": "2026-06-01T02:14:05Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 55.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779615482-3844-Gaurav_delhi-2026_05_24_15_08_03-8005307951.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent: papa hai ghar mein? Customer: haan. Agent: papa se baat karao. Customer: so gaye hain.",
+    "summary": "The agent attempted to speak with the customer's father, who was asleep, and the call ended shortly after the agent began a brief pitch.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

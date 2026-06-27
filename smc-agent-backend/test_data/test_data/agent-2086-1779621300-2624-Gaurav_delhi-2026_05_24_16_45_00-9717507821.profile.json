@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7224415918879081",
+  "source_transcript": "agent-2086-1779621300-2624-Gaurav_delhi-2026_05_24_16_45_00-9717507821.json",
+  "created_at_utc": "2026-06-01T02:08:35Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2086-1779621300-2624-Gaurav_delhi-2026_05_24_16_45_00-9717507821.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Driving karte hain? Haanji. Kitna mahine ka income ho jata hai? 25-30 hazar.",
+    "summary": "The agent pitched an HDFC Life plan and completed discovery, but the call ended without a commitment or further action.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "25.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "driver",
+        "evidence": "Driving karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25-30 hazar.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se income deti hai. Aapka first annual premium ka 35 percent ka as a cash bonus",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

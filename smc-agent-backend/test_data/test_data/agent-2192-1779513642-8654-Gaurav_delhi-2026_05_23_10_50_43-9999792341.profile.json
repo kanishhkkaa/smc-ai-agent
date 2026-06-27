@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8376190898985747",
+  "source_transcript": "agent-2192-1779513642-8654-Gaurav_delhi-2026_05_23_10_50_43-9999792341.json",
+  "created_at_utc": "2026-06-01T02:34:45Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1779513642-8654-Gaurav_delhi-2026_05_23_10_50_43-9999792341.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sir, aapke paas aadhe ghante ya ek ghante mein ek call aayega. Theek hai? Loan department se to please pick up kar lena, okay?",
+    "summary": "Agent conducted discovery and facilitated a transfer to the loan department for the customer, who is seeking an 80 lakh home loan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Ajay Pal",
+        "evidence": "Ajay. Pal.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "45.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "25000 monthly.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

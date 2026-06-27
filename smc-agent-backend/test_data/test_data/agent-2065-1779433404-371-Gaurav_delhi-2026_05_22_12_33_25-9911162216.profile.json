@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3156836325195873",
+  "source_transcript": "agent-2065-1779433404-371-Gaurav_delhi-2026_05_22_12_33_25-9911162216.json",
+  "created_at_utc": "2026-06-01T02:50:26Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2065-1779433404-371-Gaurav_delhi-2026_05_22_12_33_25-9911162216.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Meri age 70 saal hai. ... Accha, sir ye plan aapki age pe applicable nahi hoga.",
+    "summary": "The agent pitched an HDFC Life plan but self-disqualified the prospect after learning the customer is 70 years old.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "70",
+        "evidence": "Meri age 70 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki money back income deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 7,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8350393068252803",
+  "source_transcript": "agent-2042-1779441199-4088-Gaurav_TATA-2026_05_22_14_43_19-9350249024.json",
+  "created_at_utc": "2026-06-01T02:48:17Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2042-1779441199-4088-Gaurav_TATA-2026_05_22_14_43_19-9350249024.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir, toh thank you.",
+    "summary": "Agent completed discovery (age 52, business, 5L income) but self-disqualified the prospect after learning they do not invest in financial products.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "52",
+        "evidence": "52",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "5 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

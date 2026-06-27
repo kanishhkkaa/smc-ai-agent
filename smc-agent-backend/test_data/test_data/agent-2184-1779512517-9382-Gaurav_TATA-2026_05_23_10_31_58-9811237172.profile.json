@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1097920226478525",
+  "source_transcript": "agent-2184-1779512517-9382-Gaurav_TATA-2026_05_23_10_31_58-9811237172.json",
+  "created_at_utc": "2026-06-01T02:33:39Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779512517-9382-Gaurav_TATA-2026_05_23_10_31_58-9811237172.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, running age sab karwa rakha hai.",
+    "summary": "Agent pitched a Tata AIA plan, but the customer indicated they already have insurance, leading the agent to self-disqualify the prospect due to age eligibility.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "premium pay karenge na wo aapka refundable hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

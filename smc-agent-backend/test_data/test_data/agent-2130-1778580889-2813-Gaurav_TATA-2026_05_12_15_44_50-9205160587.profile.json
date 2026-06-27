@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "2462528018228185",
+  "source_transcript": "agent-2130-1778580889-2813-Gaurav_TATA-2026_05_12_15_44_50-9205160587.json",
+  "source_name": "agent-2130-1778580889-2813-Gaurav_TATA-2026_05_12_15_44_50-9205160587.mp3",
+  "created_at_utc": "2026-05-15T06:44:55Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 20.1,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "Speaker 2: haan to 38, 39 mein batao kitna hai premium.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Speaker 2: haan to 38, 39 mein batao kitna hai premium.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Speaker 1: ma'am woman ke liye batana hai na? Speaker 2: haan.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Speaker 1: good afternoon ma'am, Aditya baat kar raha hun Tata AIA se. Speaker 2: yes, boliye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Speaker 1: ma'am job karte ho business? Speaker 2: job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "Speaker 2: office mein hun. Speaker 1: ma'am job karte ho business? Speaker 2: job.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Speaker 2: bhai koi app nahi hai, batao jaldi time nahi hai office mein hun. ... theek hai, nahi chahiye, thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": true,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "ma'am premium aapka aa raha hai 120, 1,20,000. Speaker 2: theek hai, nahi chahiye, thank you.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_negative",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Speaker 2: haan to 38, 39 mein batao kitna hai premium.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 3,
+      "lead_grade": "D",
+      "stage_reached": "close_attempted",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "fit_score_0_10": 2,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated 'nahi chahiye' (don't want it) and ended the call abruptly due to time constraints."
+    },
+    "summary": "The agent attempted to pitch a Tata AIA life insurance plan to a female customer. The customer was in a hurry, requested the premium amount directly, and upon hearing the quote of 1.2 lakhs, immediately declined the offer. The call ended abruptly with the customer stating she was not interested.",
+    "key_quotes": [
+      "bhai koi app nahi hai, batao jaldi time nahi hai office mein hun.",
+      "theek hai, nahi chahiye, thank you."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

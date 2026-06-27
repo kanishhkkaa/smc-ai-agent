@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "3289400591450216",
+  "source_transcript": "agent-2037-1779615898-7422-Gaurav_delhi-2026_05_24_15_14_58-9719798664.json",
+  "created_at_utc": "2026-06-01T02:06:13Z",
+  "transcript_stats": {
+    "segments": 46,
+    "duration_seconds": 172.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2037-1779615898-7422-Gaurav_delhi-2026_05_24_15_14_58-9719798664.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question",
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Toh madam, abhi baad mein dekhte hain.",
+    "summary": "Agent and senior manager pitched an investment plan; customer provided discovery details but remained non-committal, stating he would decide later after reviewing the plan details.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "33",
+        "evidence": "33",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job. Sales.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "14 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent company aapko return kar deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

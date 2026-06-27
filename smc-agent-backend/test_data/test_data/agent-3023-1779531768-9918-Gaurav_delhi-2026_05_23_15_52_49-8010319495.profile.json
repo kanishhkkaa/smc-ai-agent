@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3838975020256728",
+  "source_transcript": "agent-3023-1779531768-9918-Gaurav_delhi-2026_05_23_15_52_49-8010319495.json",
+  "created_at_utc": "2026-06-01T02:39:26Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3023-1779531768-9918-Gaurav_delhi-2026_05_23_15_52_49-8010319495.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aap mujhe ek do mahine baad call kijiye, main tab shayad interested ho jaunga.",
+    "summary": "Agent pitched an HDFC Life plan; customer declined current interest but requested a callback in two to three months.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "every year 36 percent ki income aayegi aapki whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8817877526737203",
+  "source_transcript": "agent-2170-1779521198-3627-Gaurav_TATA-2026_05_23_12_56_38-9711099946.json",
+  "created_at_utc": "2026-06-01T02:33:02Z",
+  "transcript_stats": {
+    "segments": 32,
+    "duration_seconds": 108.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1779521198-3627-Gaurav_TATA-2026_05_23_12_56_38-9711099946.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir, aapko plan brief kar deti hun ek baar.",
+    "summary": "Agent pitched a Tata AIA combined plan, completed full discovery (age 22, salaried, 50-60k monthly income), and was about to brief the plan when the call continued.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "22.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Noida se hi baat kar raha hun main bhi ma'am.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun main.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "50 to 60 [thousand monthly].",
+        "confidence": "medium"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "investment ka return benefit company aapko deke chal rahi hai",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "status": "success",
+  "profile_id": "3288136225487566",
+  "source_transcript": "agent-2156-1778743596-9296-Gaurav_delhi-2026_05_14_12_56_37-8010893118.json",
+  "source_name": "agent-2156-1778743596-9296-Gaurav_delhi-2026_05_14_12_56_37-8010893118.mp3",
+  "created_at_utc": "2026-05-16T00:12:34Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 154.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35 mam.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "26-35",
+        "evidence": "Customer: 35 mam.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Customer: Good afternoon mam, bataiye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job mam. IT sector.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "IT sector",
+        "evidence": "Customer: IT sector.",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Customer: Mam approximate 6 lakhs.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Customer: 35 mam. Job mam. IT sector.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Theek hai. ... Toh thoda time dena padega iske liye humein toh.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25.0,
+      "agent_talk_percent": 75.0,
+      "customer_question_count": 3,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Actually already maine plan LIC ka le rakha hai.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "price",
+          "quote": "Isse aur kam kam bhi hai kya?",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_positive",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "lt_5K",
+        "evidence": "Agent: 6 lakhs, okay agar main aapko annually 60 hazaar se plan explain kar doon toh aap comfortable rahenge sir? Customer: Actually already maine plan LIC ka le rakha hai. ... Customer: Isse aur kam kam bhi hai kya?",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 1,
+      "bant_total": 5,
+      "lead_grade": "B",
+      "stage_reached": "objection_handled",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 6,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not explore specific financial goals like retirement or child education."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was polite and open to hearing about the plan, though he requested time to consider it. He is currently employed in the IT sector with a stable income, making him a good candidate for future follow-up."
+    },
+    "summary": "The agent contacted the customer to pitch the HDFC Life Sanchay Par Advantage plan. The customer, a 35-year-old IT professional, already has an LIC policy and expressed concern about the 60,000 annual premium, asking for lower options. The call ended with the customer requesting time to consider the proposal.",
+    "key_quotes": [
+      "Actually already maine plan LIC ka le rakha hai.",
+      "Isse aur kam kam bhi hai kya?",
+      "Toh thoda time dena padega iske liye humein toh."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

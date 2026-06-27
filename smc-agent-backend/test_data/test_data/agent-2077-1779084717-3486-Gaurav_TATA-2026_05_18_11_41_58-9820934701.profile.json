@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "8492091182856699",
+  "source_transcript": "agent-2077-1779084717-3486-Gaurav_TATA-2026_05_18_11_41_58-9820934701.json",
+  "source_name": "agent-2077-1779084717-3486-Gaurav_TATA-2026_05_18_11_41_58-9820934701.mp3",
+  "created_at_utc": "2026-05-20T11:04:46Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 329.85,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "sir",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Mumbai",
+        "evidence": "Mumbai se baat kar raha.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Business karta hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "More than 12 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Are rakh do phone madam please.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mera already pure term hai.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi chahiye, kuch jarurat nahi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Mera already pure term hai.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "close_attempted",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "refundable term plan",
+      "premium_quoted_inr": 111876,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has a pure term plan and explicitly stated no interest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly asked to hang up and expressed no interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA combined term/mutual fund plan and customer responded with 'Haan'.",
+      "customer_response": "Customer was passive initially but became firm and eventually hostile when the agent refused to accept his decline.",
+      "key_event": "Customer stated he already has a term plan and does not need another, but the agent persisted.",
+      "ending": "Customer told the agent to hang up the phone."
+    },
+    "key_quotes": [
+      "Mera already pure term hai.",
+      "Nahi chahiye, kuch jarurat nahi.",
+      "Are rakh do phone madam please."
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

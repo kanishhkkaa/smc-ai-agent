@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "profile_id": "4020129538302507",
+  "source_transcript": "agent-2046-1779685944-781-Gaurav_TATA-2026_05_25_10_42_25-8506877728.json",
+  "source_name": "agent-2046-1779685944-781-Gaurav_TATA-2026_05_25_10_42_25-8506877728.mp3",
+  "created_at_utc": "2026-05-27T01:13:56Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Manish",
+      "evidence": "Ma'am mera naam hai Manish.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "skilled_trade",
+        "evidence": "main kaam kar raha hun, machine assemble kar raha hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Machine assembler",
+        "evidence": "machine assemble kar raha hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Sunday ka time hai mere paas.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Ma'am main abhi toh busy hun, abhi aapse baat nahi kar paunga, main kaam kar raha hun, machine assemble kar raha hun.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-31T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "combined term plus mutual fund plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer was polite but busy with work, agreed to a follow-up on Sunday."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, and the customer responded by stating he was busy working.",
+      "customer_response": "Passive and busy, focused on work.",
+      "key_event": "Customer agreed to a callback on Sunday after initially stating he was busy.",
+      "ending": "Agent confirmed a callback for Sunday and obtained the customer's name."
+    },
+    "key_quotes": [
+      "Ma'am main abhi toh busy hun, abhi aapse baat nahi kar paunga, main kaam kar raha hun, machine assemble kar raha hun.",
+      "Sunday ka time hai mere paas."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "8198077449693541",
+  "source_transcript": "2026_05_16/agent-2016-1778909522-3725-Gaurav_delhi-2026_05_16_11_02_03-8376901245.json",
+  "source_name": "agent-2016-1778909522-3725-Gaurav_delhi-2026_05_16_11_02_03-8376901245.mp3",
+  "created_at_utc": "2026-06-01T04:39:28Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 111.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"Wo cheez batao jo ismein hidden hai jo aap nahi bata pa rahe ho.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Matlab, baat samajh nahi main aapki poori.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "Wo cheez batao jo ismein hidden hai jo aap nahi bata pa rahe ho.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "confusion regarding product returns",
+        "distrust of agent's explanation"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer correctly identified the mathematical impossibility of the agent's claim.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35 percent advance income benefit whole life",
+        "8 percent compounding return",
+        "35,000 cash bonus on 1 lakh premium"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent's pitch is mathematically incoherent and likely misleading.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer is skeptical of the math and feels the agent is hiding details, leading to a breakdown in trust."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduces a plan from HDFC Life offering 35% advance income, to which the customer responds with interest but immediate confusion.",
+      "customer_response": "Customer is actively questioning the logic of the agent's claims and expressing confusion/skepticism.",
+      "key_event": "The customer identifies a mathematical inconsistency in the agent's pitch regarding the 35% cash bonus and 8% return.",
+      "ending": "The call ends abruptly after the customer challenges the agent to reveal hidden details, with the agent failing to provide a clear explanation."
+    },
+    "key_quotes": [
+      "Matlab, agar main 10 lakh jama kiye toh mujhe 3 lakh 50 hazaar milenge?",
+      "Wo cheez batao jo ismein hidden hai jo aap nahi bata pa rahe ho."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

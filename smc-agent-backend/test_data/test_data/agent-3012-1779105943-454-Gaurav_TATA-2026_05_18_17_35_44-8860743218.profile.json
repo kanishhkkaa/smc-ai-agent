@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "9114747699957413",
+  "source_transcript": "agent-3012-1779105943-454-Gaurav_TATA-2026_05_18_17_35_44-8860743218.json",
+  "source_name": "agent-3012-1779105943-454-Gaurav_TATA-2026_05_18_17_35_44-8860743218.mp3",
+  "created_at_utc": "2026-05-21T02:10:34Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 140.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Deepika",
+      "evidence": "Agent: Deepika mam. Customer: Haanji.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Mam good evening... Customer: Haanji.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Gurgaon",
+        "evidence": "Customer: Main Gurgaon se bol rahi hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Haryana",
+        "evidence": "Customer: Main Gurgaon se bol rahi hun. (Implied Haryana)",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Agent: ...aap married hain? Customer: Haanji.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Customer: Ji abhi ek saal do saal ke hain.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Haanji, matlab tabhi unko samjha dena na, woh zyada acche se samajh jayenge, fir wohi decide karenge karna hai ya nahi karna hai, jaisa bhi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "spouse_decision",
+          "quote": "Bhaiya, iske liye main kuch decision lungi, main husband se puch ke hi lungi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...bank aapko ek child plan offer kar raha hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: ...fir wohi decide karenge karna hai ya nahi karna hai, jaisa bhi hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T11:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "10 percent guaranteed return",
+        "30 percent cash bonus in saving account from first year",
+        "35,000 rupees payout for 5 years after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "child plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The agent is misrepresenting a child insurance plan as a high-return savings scheme with guaranteed cash bonuses.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance or financial goals beyond the child plan."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to discussing the plan with her husband and requested a callback at a specific time."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from Central Bank of India to offer a child plan, and the customer responded with interest.",
+      "customer_response": "The customer was passive and polite, listening to the pitch and deferring the final decision to her husband.",
+      "key_event": "The customer requested a callback for the next day so she could consult her husband about the plan.",
+      "ending": "The agent confirmed a callback for the next day at 11 AM to speak with the customer and her husband."
+    },
+    "key_quotes": [
+      "Bhaiya, iske liye main kuch decision lungi, main husband se puch ke hi lungi.",
+      "Aap mujhe kar lena 11-12 baje ke aas paas."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

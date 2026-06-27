@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2625523216884826",
+  "source_transcript": "agent-2018-1778665967-8323-Gaurav_delhi-2026_05_13_15_22_48-9871887529.json",
+  "created_at_utc": "2026-06-01T03:12:12Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2018-1778665967-8323-Gaurav_delhi-2026_05_13_15_22_48-9871887529.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ye income jo aa rahi hai sir aapki.",
+    "summary": "Agent pitched the HDFC Life Sanchay Par Advantage plan and completed discovery, but the call ended without a commitment or refusal from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "56",
+        "evidence": "56",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "36 percent ki income de rahi hai sir aapko 7 days ke andar",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 1,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

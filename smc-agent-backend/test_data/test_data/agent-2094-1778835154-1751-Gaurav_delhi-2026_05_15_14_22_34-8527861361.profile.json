@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "6549181881987149",
+  "source_transcript": "agent-2094-1778835154-1751-Gaurav_delhi-2026_05_15_14_22_34-8527861361.json",
+  "created_at_utc": "2026-06-01T01:13:15Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1778835154-1751-Gaurav_delhi-2026_05_15_14_22_34-8527861361.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Halat nahi hai, matlab financial fund issue hai.",
+    "summary": "Agent pitched an HDFC Life income plan; customer engaged with the pitch and asked for explanation, but ultimately declined citing financial constraints.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first 40 percent ka aapko income aana chalu ho jata hai first year se",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

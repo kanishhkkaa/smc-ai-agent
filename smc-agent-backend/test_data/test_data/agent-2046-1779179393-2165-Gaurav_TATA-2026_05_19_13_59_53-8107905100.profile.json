@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "4907166232992258",
+  "source_transcript": "agent-2046-1779179393-2165-Gaurav_TATA-2026_05_19_13_59_53-8107905100.json",
+  "source_name": "agent-2046-1779179393-2165-Gaurav_TATA-2026_05_19_13_59_53-8107905100.mp3",
+  "created_at_utc": "2026-05-22T11:08:10Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 165.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "49",
+        "evidence": "Customer: 49.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Teacher.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Teacher",
+        "evidence": "Customer: Teacher.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Agent: Aapki annually income approx kitni ho jaati hogi sir? Customer: 12.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Kya hai isme? Question kya hai?",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": ",value:",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent: ...retirement ki age par lump sum 1 lakh monthly pension bhi provide ki jaati hai sir.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "no_pickup_voicemail",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance",
+        "1 lakh monthly pension at retirement",
+        "returns after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Pro",
+      "premium_quoted_inr": 241574,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not confirm if customer has existing insurance."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "voice_quality_issue"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "reasoning": "Customer provided details and asked for premium options, but the call quality was poor and ended abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and immediately pitched the Param Rakshak Pro plan.",
+      "customer_response": "Customer was passive but responsive to discovery questions.",
+      "key_event": "Customer provided age and income details, and requested premium quotes for different coverage levels.",
+      "ending": "The call ended abruptly due to poor connection or technical issue."
+    },
+    "key_quotes": [
+      "Kya hai isme? Question kya hai?",
+      "Dono bata do."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "status": "success",
+  "profile_id": "7300420702898992",
+  "source_transcript": "agent-3006-1778560896-8108-Gaurav_TATA-2026_05_12_10_11_36-7276699060.json",
+  "source_name": "agent-3006-1778560896-8108-Gaurav_TATA-2026_05_12_10_11_36-7276699060.mp3",
+  "created_at_utc": "2026-05-15T06:50:23Z",
+  "transcript_stats": {
+    "segments": 34,
+    "duration_seconds": 200.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "Speaker 1: 38.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "36-45",
+        "evidence": "Speaker 1: 38.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Speaker 2: very good morning, Poonam baat kar rahi hun Tata AIA se. Speaker 1: haan ji boliye.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Speaker 1: job karte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "5_10L",
+        "evidence": "Speaker 1: CTC mera 440 ka hai, 440 ya 450. Speaker 1: other income haan 2-3 lakh hai.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "family_building",
+        "evidence": "Speaker 1: 38. Speaker 1: job karte hain.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Speaker 1: to phir to nahi hai, abhi mat karo theek hai.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "to premium, uska premium to zyada hoga na?",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "madam aap term plan ki baat kar rahe ho to health mein kidhar ja rahe ho?",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "stocks"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Speaker 1: stock mein hai, stock mein hai, trade mein hai, equity mein hai, mutual fund mein nahi hai kuch bhi aur na SIP hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "bant_total": 4,
+      "lead_grade": "C",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [],
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund combo plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer income is below the minimum threshold required for the product.",
+      "missed_opportunities": [
+        "Did not explore health insurance needs further after customer pushback.",
+        "Did not pivot to a more suitable product for his income bracket."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "medium",
+      "reselling_likelihood": "medium",
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer was interested in the term plan but did not meet the minimum income eligibility criteria for the specific product pitched. He is open to financial products but currently lacks SIPs or mutual funds."
+    },
+    "summary": "The agent pitched a term plus mutual fund combo plan to the customer. During discovery, it was determined that the customer's annual income (approx 6.5-7.5 LPA) did not meet the minimum requirement for the specific product. The customer expressed interest in stocks/equity but not mutual funds or SIPs, and the call ended when the agent confirmed the customer was ineligible.",
+    "key_quotes": [
+      "to premium, uska premium to zyada hoga na?",
+      "CTC mera 440 ka hai, 440 ya 450.",
+      "stock mein hai, stock mein hai, trade mein hai, equity mein hai, mutual fund mein nahi hai kuch bhi aur na SIP hai.",
+      "madam aap term plan ki baat kar rahe ho to health mein kidhar ja rahe ho?",
+      "to phir to nahi hai, abhi mat karo theek hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

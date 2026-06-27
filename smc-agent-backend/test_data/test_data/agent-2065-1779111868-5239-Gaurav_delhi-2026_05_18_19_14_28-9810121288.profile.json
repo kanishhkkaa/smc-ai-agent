@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "1369141644196093",
+  "source_transcript": "agent-2065-1779111868-5239-Gaurav_delhi-2026_05_18_19_14_28-9810121288.json",
+  "source_name": "agent-2065-1779111868-5239-Gaurav_delhi-2026_05_18_19_14_28-9810121288.mp3",
+  "created_at_utc": "2026-05-20T11:04:30Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 104.15,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Gaurav",
+      "evidence": "Gaurav_delhi",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"budhe aadmi ne\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "\"Are issue kya ho gaya tu disturb kar raha hai bhai budhe aadmi ne.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Are mere ko is umar mein design kyun bata raha hai?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Achha mera number kaise mil gaya?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "unsolicited calls/disturbance"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "introduction_only",
+      "call_outcome": "do_not_call",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed savings plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is hostile and explicitly requested no further contact.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer was explicitly annoyed, felt disturbed, and told the agent not to call again."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as Amar from HDFC Life, and the customer responded with a casual but skeptical greeting.",
+      "customer_response": "The customer was hostile and dismissive from the start, viewing the call as a disturbance.",
+      "key_event": "The customer challenged the agent on how they got his number and why they were calling him, leading to a quick shutdown.",
+      "ending": "The customer told the agent not to call again, and the agent apologized and ended the call."
+    },
+    "key_quotes": [
+      "Are mere ko is umar mein design kyun bata raha hai?",
+      "Achha mera number kaise mil gaya?",
+      "Are issue kya ho gaya tu disturb kar raha hai bhai budhe aadmi ne."
+    ],
+    "red_flags": [
+      "customer_hostility"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

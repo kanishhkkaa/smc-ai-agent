@@ -1,0 +1,200 @@
+{
+  "status": "success",
+  "profile_id": "9967089517238667",
+  "source_transcript": "agent-3019-1778756175-8322-Gaurav_TATA-2026_05_14_16_26_15-9811812510.json",
+  "source_name": "agent-3019-1778756175-8322-Gaurav_TATA-2026_05_14_16_26_15-9811812510.mp3",
+  "created_at_utc": "2026-05-16T00:18:10Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 1.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: ya very good afternoon sir, Sawan baat kar raha hun actually HDFC Life ke behalf se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Customer: main HDFC ka hi vakil hun, main sab janta hun.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "vakil",
+        "evidence": "Customer: main HDFC ka hi vakil hun, main sab janta hun.",
+        "confidence": "medium"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Customer: nahi koi duniya ki policy nahi jo 35 percent return deti hai, samajh mein aayi?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "nahi koi duniya ki policy nahi jo 35 percent return deti hai, samajh mein aayi?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "main HDFC ka hi vakil hun, main sab janta hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: main HDFC ka hi vakil hun, main sab janta hun.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "pitch_delivered",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Sanchay Par Advantage",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is an HDFC legal professional and identified the agent's claims as false.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "lt_1min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer is an expert (lawyer for HDFC) and was hostile towards the agent's misleading claims."
+    },
+    "summary": "The agent attempted to pitch an HDFC Life product using misleading claims about guaranteed returns. The customer, who identified himself as a lawyer for HDFC, immediately challenged the agent's claims and expressed hostility. The call ended abruptly with the customer rejecting the offer.",
+    "key_quotes": [
+      "nahi koi duniya ki policy nahi jo 35 percent return deti hai, samajh mein aayi?",
+      "main HDFC ka hi vakil hun, main sab janta hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "hostile_customer"
+    ],
+    "extraction_confidence": "high"
+  }
+}

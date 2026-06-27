@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8446296342205564",
+  "source_transcript": "agent-2092-1779609201-6361-Gaurav_TATA-2026_05_24_13_23_21-7509916211.json",
+  "created_at_utc": "2026-06-01T02:09:15Z",
+  "transcript_stats": {
+    "segments": 4,
+    "duration_seconds": 41.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1779609201-6361-Gaurav_TATA-2026_05_24_13_23_21-7509916211.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "nahi chahiye, abhi busy hun.",
+    "summary": "The agent pitched a Tata AIA guaranteed plan, but the customer declined the offer, stating they are busy and not interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income whole life ke liye milti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

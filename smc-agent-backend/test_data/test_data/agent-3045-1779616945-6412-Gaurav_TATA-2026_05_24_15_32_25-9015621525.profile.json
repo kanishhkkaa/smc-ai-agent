@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9496276310074150",
+  "source_transcript": "agent-3045-1779616945-6412-Gaurav_TATA-2026_05_24_15_32_25-9015621525.json",
+  "created_at_utc": "2026-06-01T02:14:32Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 70.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779616945-6412-Gaurav_TATA-2026_05_24_15_32_25-9015621525.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Hello, mam?",
+    "summary": "The agent attempted to pitch a Tata AIA plan and started discovery, but the call ended abruptly after the customer provided their age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "22",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jo premium aap pay karoge na apne term coverage ke liye sir, wo amount sir aapka yahan par ye refundable rahega sir",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 1,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

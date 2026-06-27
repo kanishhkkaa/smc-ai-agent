@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2538802340073140",
+  "source_transcript": "agent-3100-1779433720-3111-Gaurav_delhi-2026_05_22_12_38_40-9811688396.json",
+  "created_at_utc": "2026-06-01T03:07:36Z",
+  "transcript_stats": {
+    "segments": 43,
+    "duration_seconds": 147.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779433720-3111-Gaurav_delhi-2026_05_22_12_38_40-9811688396.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Main puch ke main call aap kar lena shaam ko. Shaam ko kar lena karib 5-6 baje tak.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery; customer agreed to discuss with his brother and requested a callback between 5-6 PM.",
+    "callback_time_iso": "2026-05-22T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Ravi Kumar",
+        "evidence": "Ravi Kumar.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "29",
+        "evidence": "Hogi karib 28-30 saal.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business. Fruit ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20-30 hazaar.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guaranteed income aati hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 3.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5242955680386564",
+  "source_transcript": "agent-2156-1779537573-7281-Gaurav_delhi-2026_05_23_17_29_33-9654843398.json",
+  "created_at_utc": "2026-06-01T02:32:37Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 222.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779537573-7281-Gaurav_delhi-2026_05_23_17_29_33-9654843398.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "senior_agent_joined"
+    ],
+    "confidence": "high",
+    "evidence": "Plan ke andar aapke paas na do option deti hai. Sabse pehla option ye rehta hai, agar aapko lagta hai dekhiye maine 12 saal plan toh chala liya, lekin ab mujhe apne fund ki requirement hai.",
+    "summary": "Agent and senior agent pitched HDFC Life Sanchay Par Advantage; discovery completed (42, business, 40-50L income), call ended during explanation of maturity options without commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "42",
+        "evidence": "Meri age hai 42.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business. Security service ka.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "40 to 50.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "40 percent ki income milni shuru hoti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 5,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

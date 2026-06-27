@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "8315880058598999",
+  "source_transcript": "2026_05_28/agent-2184-1779962299-4897-Gaurav_TATA-2026_05_28_15_28_19-9211563202.json",
+  "source_name": "agent-2184-1779962299-4897-Gaurav_TATA-2026_05_28_15_28_19-9211563202.mp3",
+  "created_at_utc": "2026-06-01T05:36:50Z",
+  "transcript_stats": {
+    "segments": 36,
+    "duration_seconds": 120.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "59",
+        "evidence": "59 saal.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Are, pagal hi baithe hain kya wahan pe?",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 50,
+      "customer_question_count": 5,
+      "interruption_pattern": "both",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "To phone kyun?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "day one se hi 1 crore plus 60 lakh cover",
+        "premium refundable hota hai"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is ineligible for the product due to age.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The call devolved into verbal abuse and hostility from both parties, making any future engagement impossible."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from Tata AIA regarding a term and investment plan, and the customer responded politely.",
+      "customer_response": "The customer was initially polite but became increasingly aggressive and hostile after being told he was ineligible for the plan.",
+      "key_event": "The agent informed the customer he was ineligible due to his age, which triggered a hostile confrontation regarding how the agent obtained his number.",
+      "ending": "The call ended in a heated argument with mutual verbal abuse."
+    },
+    "key_quotes": [
+      "To phone kyun?",
+      "Are, pagal hi baithe hain kya wahan pe?",
+      "Tumhare baap ka hai ye phone?"
+    ],
+    "red_flags": [
+      "abusive_language",
+      "agent_unprofessionalism"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 50,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

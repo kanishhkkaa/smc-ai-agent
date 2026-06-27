@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1576974715242172",
+  "source_transcript": "agent-3011-1779525566-7488-Gaurav_delhi-2026_05_23_14_09_27-9268011313.json",
+  "created_at_utc": "2026-06-01T02:35:56Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 204.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3011-1779525566-7488-Gaurav_delhi-2026_05_23_14_09_27-9268011313.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aap mereko call kariye 5 to 6 ke beech mein.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage, completed discovery (age 31, business, ITR filer), and scheduled a callback between 5 and 6 PM.",
+    "callback_time_iso": "2026-05-23T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "31",
+        "evidence": "31.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki money back income",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

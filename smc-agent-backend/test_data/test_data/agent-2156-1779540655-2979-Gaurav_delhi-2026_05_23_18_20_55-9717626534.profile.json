@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4389947636215716",
+  "source_transcript": "agent-2156-1779540655-2979-Gaurav_delhi-2026_05_23_18_20_55-9717626534.json",
+  "created_at_utc": "2026-06-01T02:33:13Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 58.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1779540655-2979-Gaurav_delhi-2026_05_23_18_20_55-9717626534.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Madam mera bhi ek bank hai. Main aapko detail deta hun, usmein aap paise daalne shuru karo, ek saal baad double hoke mil jayenge.",
+    "summary": "The agent pitched an HDFC Life plan, but the customer responded with sarcasm, claiming to own a bank and asking the agent to invest instead.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 44 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 44,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 35,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

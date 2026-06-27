@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "3802709451903543",
+  "source_transcript": "agent-3006-1778834083-2307-Gaurav_TATA-2026_05_15_14_04_43-9004084106.json",
+  "created_at_utc": "2026-06-01T01:18:30Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3006-1778834083-2307-Gaurav_TATA-2026_05_15_14_04_43-9004084106.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi wo already hai, wo already hai.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer disclosed a medical condition (cancer) and indicated they already hold an existing policy.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "sath mein mutual fund ke return provide kar rahi hun",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

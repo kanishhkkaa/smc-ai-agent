@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8126291368406825",
+  "source_transcript": "agent-3054-1778588739-6242-Gaurav_delhi-2026_05_12_17_55_39-7503455993.json",
+  "created_at_utc": "2026-06-01T02:04:57Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3054-1778588739-6242-Gaurav_delhi-2026_05_12_17_55_39-7503455993.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Mam kal call kar lena aap mere ko 12 se 1 ke beech mein.",
+    "summary": "Agent pitched an HDFC Life guarantee plan; the customer agreed to a callback between 12 PM and 1 PM the next day.",
+    "callback_time_iso": "2026-05-13T12:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 35,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

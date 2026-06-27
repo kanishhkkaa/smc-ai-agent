@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "6620511399219436",
+  "source_transcript": "agent-3011-1779182146-5118-Gaurav_delhi-2026_05_19_14_45_48-8488800056.json",
+  "source_name": "agent-3011-1779182146-5118-Gaurav_delhi-2026_05_19_14_45_48-8488800056.mp3",
+  "created_at_utc": "2026-05-22T14:34:27Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 99.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Isliye abhi mere ko nahi, wo kuch abhi chalu nahi karwana hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Sir ismein aisa hai, mera HDFC mein abhi plan chalu hai. Yearly main 1 lakh rupees bhar raha hoon. Premium. Wo paanch saal tak hai na, wo plan hai na ek. Wo bhi mera chalu hai. Isliye abhi mere ko nahi, wo kuch abhi chalu nahi karwana hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "financial burden of existing policy"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Sir wo mere ko nahi pata hai. Wo abhi ek saal ho gaya hai.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% money back income from first year for whole life",
+        "8% compounding interest on savings",
+        "double tax benefit",
+        "lifetime cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Guaranteed Savings Plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has an active HDFC plan with a 1 Lakh annual premium and states he has a financial burden.",
+      "missed_opportunities": [
+        "Did not explore details of the existing policy to see if it could be optimized or if there was a gap",
+        "Did not pitch a lower premium option"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "reasoning": "Customer is already paying a 1 Lakh annual premium to HDFC and feels financially burdened, but remains polite."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and stated he called to share information about a new guaranteed savings plan.",
+      "customer_response": "The customer was polite but immediately disclosed that he already has an active HDFC plan with a 1 Lakh annual premium.",
+      "key_event": "The customer raised an objection stating he cannot start a new plan due to the financial burden of his existing policy.",
+      "ending": "The agent politely accepted the decline, briefly asked about health insurance or loan requirements, and concluded the call."
+    },
+    "key_quotes": [
+      "mera HDFC mein abhi plan chalu hai. Yearly main 1 lakh rupees bhar raha hoon. Premium.",
+      "Isliye abhi mere ko nahi, wo kuch abhi chalu nahi karwana hai.",
+      "Wo plan maine abhi karwaya hai. Isliye abhi mera paas already burden hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

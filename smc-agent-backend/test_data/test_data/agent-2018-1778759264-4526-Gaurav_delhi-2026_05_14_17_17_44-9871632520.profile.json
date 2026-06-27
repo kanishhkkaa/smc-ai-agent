@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "5278167309136817",
+  "source_transcript": "agent-2018-1778759264-4526-Gaurav_delhi-2026_05_14_17_17_44-9871632520.json",
+  "source_name": "agent-2018-1778759264-4526-Gaurav_delhi-2026_05_14_17_17_44-9871632520.mp3",
+  "created_at_utc": "2026-05-15T23:53:13Z",
+  "transcript_stats": {
+    "segments": 87,
+    "duration_seconds": 257.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Uttarakhand",
+        "evidence": "Uttarakhand se belong karte hain",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "New Ashok Nagar",
+        "evidence": "New Ashok Nagar",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Delhi NCR",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main aapse Himanshu Rawat baat kar raha hun",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "insurance_agent",
+        "evidence": "SMC insurance company mein company mein kar raha hun work",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "SMC insurance company",
+        "evidence": "SMC insurance company",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "kele rehte ho ya aur bhi koi saath mein rehta hai? Customer: friend friend hai matlab do friend.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "early_career",
+        "evidence": "working ke liye Delhi rehte hain. baaki family sab wahin rehti hai, Uttarakhand mein.",
+        "confidence": "medium"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "accha laga tumse baat karke.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "insurance sales agent himself",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "introduction_only",
+      "next_action": "unknown",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 12,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "Customer is an insurance agent himself and expressed negative views about the industry.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": false,
+      "reasoning": "The customer is an insurance sales agent himself and expressed dissatisfaction with his current job. He agreed to call the agent back on a personal number, but the interaction was more of a peer-to-peer conversation than a sales lead."
+    },
+    "summary": "The agent called a customer who turned out to be an insurance sales agent working for SMC. The conversation shifted from a sales pitch to a peer-to-peer discussion about the insurance industry, with the customer expressing dissatisfaction with his job. No sales opportunity was identified, and the customer agreed to call the agent back on a personal number.",
+    "key_quotes": [
+      "main aapse personal number se call kar dunga apna, theek hai.",
+      "bahut gandi line join kar li, real estate mein chale jate agar sales line mein chale jate, lekin insurance mein nahi jate, sabse ghatiya hai insurance."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high"
+  }
+}

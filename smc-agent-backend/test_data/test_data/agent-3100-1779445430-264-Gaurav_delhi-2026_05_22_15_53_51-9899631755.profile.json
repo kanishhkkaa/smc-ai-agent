@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3515773190042651",
+  "source_transcript": "agent-3100-1779445430-264-Gaurav_delhi-2026_05_22_15_53_51-9899631755.json",
+  "created_at_utc": "2026-06-01T03:07:57Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3100-1779445430-264-Gaurav_delhi-2026_05_22_15_53_51-9899631755.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Toh aap na bhejo mere number pe WhatsApp kar do, kya plan hai main dekh leta hun.",
+    "summary": "Agent pitched the Sanchay Par Advantage plan; customer requested details via WhatsApp and declined to provide personal information for discovery.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se 35 percent ki guaranteed income aayegi aapki whole life tak",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

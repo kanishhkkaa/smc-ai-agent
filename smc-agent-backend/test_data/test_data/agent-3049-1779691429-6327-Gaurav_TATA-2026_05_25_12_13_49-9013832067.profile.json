@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "1440515709867262",
+  "source_transcript": "agent-3049-1779691429-6327-Gaurav_TATA-2026_05_25_12_13_49-9013832067.json",
+  "source_name": "agent-3049-1779691429-6327-Gaurav_TATA-2026_05_25_12_13_49-9013832067.mp3",
+  "created_at_utc": "2026-05-27T01:28:08Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 93.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vidhi",
+      "evidence": "Agent: Haanji vidhi good afternoon sir",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "56",
+        "evidence": "Customer: Meri? 56 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: ...good afternoon sir... Customer: ...56 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Are 56 mein main kya hi plan lunga.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Are 56 mein main kya hi plan lunga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore term plan cover",
+        "mutual fund returns",
+        "pension facility",
+        "additional medical facility"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata combined term plus investment plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Product pitched (term + investment) is generally unsuitable for a 56-year-old individual looking for retirement/medical security.",
+      "missed_opportunities": [
+        "Did not pivot to retirement or health-specific products after age disclosure."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "annuity",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was dismissive of the product relevance at his age and ended the call abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and pitched a combined term-investment plan, to which the customer responded with 'Bataiye'.",
+      "customer_response": "The customer was passive and skeptical, questioning the relevance of the product for his age.",
+      "key_event": "The customer revealed his age as 56, leading to his skepticism about the product's suitability.",
+      "ending": "The customer ended the call abruptly stating he was busy."
+    },
+    "key_quotes": [
+      "Are 56 mein main kya hi plan lunga.",
+      "Abhi maine kuch na le rakha."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

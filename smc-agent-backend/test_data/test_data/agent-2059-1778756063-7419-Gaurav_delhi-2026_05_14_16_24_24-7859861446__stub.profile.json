@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "profile_id": "5468818181739926",
+  "source_transcript": "2026_05_14/agent-2059-1778756063-7419-Gaurav_delhi-2026_05_14_16_24_24-7859861446__stub.json",
+  "source_name": "agent-2059-1778756063-7419-Gaurav_delhi-2026_05_14_16_24_24-7859861446.mp3",
+  "created_at_utc": "2026-06-01T04:14:43Z",
+  "transcript_stats": {
+    "segments": 57,
+    "duration_seconds": 258.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "49",
+        "evidence": "49",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job karta hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "2 lakh 30 hazaar ke aas paas",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "tu mujhe mail kar to ye policy tumhare.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 5,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "mujhe na sarkar ne mujhe life insurance de rakhi hai mera health insurance.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "to kaun deta hai sir baith ke ki main 2 lakh dunga aur agle mahina se mera 80,000 ho jayega yaar.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "lack of agent competence"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer questioned the feasibility of the 40% return claim.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "job karta hun",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "40% income from first year for whole life",
+        "8% compound interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent failed to explain the product clearly and customer already has insurance.",
+      "missed_opportunities": [
+        "needs assessment for retirement or wealth creation"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer requested information via WhatsApp and agreed to review it, though expressed frustration with the agent's lack of preparation."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a new guaranteed plan, to which the customer responded with 'bataiye'.",
+      "customer_response": "Customer was initially skeptical and frustrated by the agent's lack of product knowledge, but eventually requested information via WhatsApp.",
+      "key_event": "Customer challenged the agent's claim about 40% returns and demanded the information be sent via WhatsApp for review.",
+      "ending": "Customer insisted on receiving the information via WhatsApp and declined further calls for the day, suggesting a future follow-up."
+    },
+    "key_quotes": [
+      "to kaun deta hai sir baith ke ki main 2 lakh dunga aur agle mahina se mera 80,000 ho jayega yaar.",
+      "tu mujhe mail kar to ye policy tumhare."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

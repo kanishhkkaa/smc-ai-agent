@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "9758898565579575",
+  "source_transcript": "agent-3062-1778849591-988-Gaurav_TATA-2026_05_15_18_23_12-9819978502.json",
+  "created_at_utc": "2026-06-01T02:04:22Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 52.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3062-1778849591-988-Gaurav_TATA-2026_05_15_18_23_12-9819978502.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "She don't have any insurance or any coverage. So how much I have to pay for her for per year?",
+    "summary": "Customer, an ex-navy veteran with ECHS, inquired about insurance for his 85-year-old mother-in-law; the call ended while discussing her age.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "67",
+        "evidence": "I am 67.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "I am ex-navy defense",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 67,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

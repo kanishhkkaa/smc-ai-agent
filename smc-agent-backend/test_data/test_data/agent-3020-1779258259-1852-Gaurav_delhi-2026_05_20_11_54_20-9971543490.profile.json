@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "7257753541672840",
+  "source_transcript": "agent-3020-1779258259-1852-Gaurav_delhi-2026_05_20_11_54_20-9971543490.json",
+  "source_name": "agent-3020-1779258259-1852-Gaurav_delhi-2026_05_20_11_54_20-9971543490.mp3",
+  "created_at_utc": "2026-05-24T05:11:49Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "39",
+        "evidence": "Customer: 39.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: 'Achcha, achcha, sorry, sorry, sir.'",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: 'Main job karta hoon.'",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 'Around 5 lakhs.'",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: 'Nahi sir, abhi toh bohot zyada hai. Woh 10-12,000 tak.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi, itna nahi kar paunga.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Nahi sir, abhi toh bohot zyada hai. Woh 10-12,000 tak.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Customer: 'Woh 10-12,000 tak.'",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "36% money back return on annual premium lifetime",
+        "8% compounding rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "premium_quoted_inr": 80000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent pushed for 80k/60k annual premium while customer's capacity is significantly lower (10-12k).",
+      "missed_opportunities": [
+        "Did not pivot to lower premium products after initial rejection."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan",
+        "mutual_fund_sip"
+      ],
+      "reasoning": "Customer explicitly stated the proposed premium is too high and showed little interest in the high-premium product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life saving plan with aggressive return claims, and the customer responded with a neutral 'Boliye'.",
+      "customer_response": "Passive and hesitant, eventually pushing back on the high premium.",
+      "key_event": "The agent ignored the customer's budget constraint by repeatedly pushing for high premiums despite the customer's clear refusal.",
+      "ending": "The call ended abruptly after the customer rejected the agent's attempt to lower the premium to 60,000."
+    },
+    "key_quotes": [
+      "Nahi, itna nahi kar paunga.",
+      "Nahi sir, abhi toh bohot zyada hai. Woh 10-12,000 tak."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

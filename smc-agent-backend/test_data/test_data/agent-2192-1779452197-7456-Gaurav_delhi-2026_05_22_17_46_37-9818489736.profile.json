@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3346223482261632",
+  "source_transcript": "agent-2192-1779452197-7456-Gaurav_delhi-2026_05_22_17_46_37-9818489736.json",
+  "created_at_utc": "2026-06-01T02:58:38Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 163.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1779452197-7456-Gaurav_delhi-2026_05_22_17_46_37-9818489736.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi, kuch to batao, aapne, aapne bola 8 percent ki bhi return hai, 35 percent ki bhi return hai. To 8 aur 35, 43 ho gaye, aapne bola tha abhi 8 percent.",
+    "summary": "Agent pitched an HDFC Life plan with conflicting return claims; customer engaged, questioned the math, and the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "55",
+        "evidence": "50 ke upar ho gaye, 55.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Bilkul khaali hai madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir, first year se",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

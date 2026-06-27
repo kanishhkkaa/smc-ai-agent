@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "7439195019680800",
+  "source_transcript": "agent-3020-1779079542-9035-Gaurav_delhi-2026_05_18_10_15_42-9779112807.json",
+  "source_name": "agent-3020-1779079542-9035-Gaurav_delhi-2026_05_18_10_15_42-9779112807.mp3",
+  "created_at_utc": "2026-05-21T02:11:13Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 221.36,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 19 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ji. / Nahi, nahi. / Teen ghante tak, char ghante tak call kijiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: plan ko agar main saal ka 2 lakh ke according explain karke chalu to comfortable hai ye amount aapke liye sir? Customer: Ji.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: HDFC Life ke ek saving plan ke regarding call kari hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 19 lakh. (Implies sole earner/decider context)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-18T14:15:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% money back return on annual premium annually",
+        "8% compounding rate of interest on total savings",
+        "double tax benefit",
+        "lifetime coverage for family"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life Saving Plan",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product pitch relies on misleading guaranteed return claims which may not align with the actual product structure.",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage.",
+        "Did not ask about family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was polite and provided a specific callback window, indicating interest or at least willingness to listen."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life savings plan with high guaranteed returns, and the customer engaged immediately.",
+      "customer_response": "The customer was passive and compliant, providing requested information and agreeing to the agent's pitch flow.",
+      "key_event": "The agent made aggressive, potentially non-compliant claims about guaranteed returns and interest rates.",
+      "ending": "The customer requested a callback in 3-4 hours due to a meeting, and the agent agreed."
+    },
+    "key_quotes": [
+      "36 percent ki ek money back return aati hai",
+      "8 percent ka compounding rate of interest aapko milta hai",
+      "Teen ghante tak, char ghante tak call kijiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

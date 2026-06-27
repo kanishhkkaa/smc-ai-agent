@@ -1,0 +1,183 @@
+{
+  "status": "success",
+  "profile_id": "7712872194469492",
+  "source_transcript": "2026_05_27/agent-3024-1779879047-1085-Gaurav_delhi-2026_05_27_16_20_48-9990937152.json",
+  "source_name": "agent-3024-1779879047-1085-Gaurav_delhi-2026_05_27_16_20_48-9990937152.mp3",
+  "created_at_utc": "2026-06-01T05:22:47Z",
+  "transcript_stats": {
+    "segments": 45,
+    "duration_seconds": 295.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vivek Malhotra",
+      "evidence": "Customer: Vivek Malhotra.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "44",
+        "evidence": "Customer: 44.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Vivek Malhotra.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Faridabad",
+        "evidence": "Customer: Ma'am main Faridabad mein hun.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Mera job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Meri, 6.5 lakh saal.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Aap aage bataiye, itna shob, matlab long mat kijiye main phone kaat dunga, mere paas time nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main thoda sa, main thoda sa kahin baitha hua hun, short mein bataiye, zyada time mat lijiye mera.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "time constraint"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: For example agar main aapko yearly ka 1 lakh ke around plan explain karti hun... Customer: Theek hai.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: ...in future mein jaise bacche hain, bacche ki higher education ke purpose se lagta hai... Customer: Theek hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Vivek Malhotra.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-28T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% income from first year for lifetime",
+        "8% interest rate on maturity value if left with company"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 4,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "tax benefits detail",
+        "family coverage detail"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer agreed to a callback time despite being in a rush and having an emergency meeting."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and the customer identified himself as Hrishikesh.",
+      "customer_response": "Customer was initially passive but became increasingly impatient due to time constraints, eventually setting a callback.",
+      "key_event": "Customer interrupted the agent to demand a shorter explanation due to an emergency meeting.",
+      "ending": "Agent confirmed the callback for the next day afternoon and verified the customer's name."
+    },
+    "key_quotes": [
+      "Main thoda sa, main thoda sa kahin baitha hua hun, short mein bataiye, zyada time mat lijiye mera.",
+      "Aap aage bataiye, itna shob, matlab long mat kijiye main phone kaat dunga, mere paas time nahi hai.",
+      "Kal kar lijiye aap dopahar ko."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

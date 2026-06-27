@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "8789082710889029",
+  "source_transcript": "2026_05_26/agent-3054-1779769664-3146-Gaurav_delhi-2026_05_26_09_57_44-9599031422.json",
+  "source_name": "agent-3054-1779769664-3146-Gaurav_delhi-2026_05_26_09_57_44-9599031422.mp3",
+  "created_at_utc": "2026-06-01T05:11:40Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 170.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Age to madam 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job",
+        "evidence": "Job hai.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi, nahi chahiye madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "HDFC ka to lena hi nahi madam mere ko.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Jo already madam jo already chal raha hai to usi mein service nahi de pa rahe, to naya plan leke kya karunga?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "poor service experience with existing policy"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income from first year for lifetime",
+        "8 percent compound rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer has a strong negative bias against the insurer due to past service issues.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was firm in his refusal and expressed negative past experience with the insurer."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and pitched a guaranteed plan, to which the customer responded with 'Ji bataiye'.",
+      "customer_response": "Customer was consistently pushing back, citing poor service experience with the insurer.",
+      "key_event": "Customer explicitly stated he does not want any product from HDFC due to poor service.",
+      "ending": "The agent attempted to pivot to other products, but the customer firmly declined and the call ended."
+    },
+    "key_quotes": [
+      "HDFC ka to lena hi nahi madam mere ko.",
+      "Rate of interest ka kya karunga jab mujhe service hi nahi milegi"
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison]}"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "9930654418246059",
+  "source_transcript": "agent-2131-1779193572-5752-Gaurav_delhi-2026_05_19_17_56_12-8791721455.json",
+  "source_name": "agent-2131-1779193572-5752-Gaurav_delhi-2026_05_19_17_56_12-8791721455.mp3",
+  "created_at_utc": "2026-05-22T11:16:07Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 149.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Shoaib",
+      "evidence": "Shoaib",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Interior matlab pura interior firm hai",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Interior design and execution firm owner",
+        "evidence": "Interior firm, designing and execution",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "20 lakh ke aas paas",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "To ma'am interest wale to nahi kar payenge.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "kuch aisa plan bataiyega jisme interest wala scene na ho",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Haan ji.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "other"
+      ],
+      "agent_promises": [
+        "35% guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving investment income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer requires Sharia-compliant/non-interest products; agent insisted on interest-bearing products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they cannot proceed with interest-based products, and the agent failed to address this, leading to a breakdown."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life guaranteed savings plan, and the customer asked to proceed.",
+      "customer_response": "Customer was initially cooperative but became firm and dismissive once the agent insisted on interest-based products despite religious objections.",
+      "key_event": "The customer raised a religious objection to interest-based products, which the agent dismissed, leading to a breakdown.",
+      "ending": "The call ended abruptly after the customer questioned the agent's insistence on interest-based products."
+    },
+    "key_quotes": [
+      "kuch aisa plan bataiyega jisme interest wala scene na ho",
+      "Interest to aapko milega hi milega sir."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_religious_objection"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

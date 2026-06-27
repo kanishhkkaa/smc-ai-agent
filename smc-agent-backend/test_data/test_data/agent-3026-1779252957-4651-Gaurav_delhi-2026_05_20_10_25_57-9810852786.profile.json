@@ -1,0 +1,182 @@
+{
+  "status": "success",
+  "profile_id": "4693171354802547",
+  "source_transcript": "agent-3026-1779252957-4651-Gaurav_delhi-2026_05_20_10_25_57-9810852786.json",
+  "source_name": "agent-3026-1779252957-4651-Gaurav_delhi-2026_05_20_10_25_57-9810852786.mp3",
+  "created_at_utc": "2026-05-25T19:23:38Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 128.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: 'Job karte hain sir, business hai khud ka?' Customer: 'Job karta hoon.'",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: Delhi.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: Delhi.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: 'Job karta hoon.'",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 60. Agent: '60,000 monthly kama lete hain.' Customer: 'Ji.'",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: 'Nahi woh theek hai, woh toh mere paas toh aur bhi hain abhi kayi log.'",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi woh theek hai, woh toh mere paas toh aur bhi hain abhi kayi log.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Agent: 'saal ka 60,000 ke according' Customer: 'Ji.'",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: 'Nahi nahi. Chala, ek do hain.'",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 'Nahi woh theek hai, woh toh mere paas toh aur bhi hain abhi kayi log.'",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% guaranteed income support lifetime"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer already has multiple products and is skeptical of the value proposition compared to existing ones.",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals (retirement, child education, etc.)"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is open to hearing about benefits but is currently comparing with other existing options."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself as calling from HDFC Life to pitch a guaranteed income product, and the customer responded with 'Okay'.",
+      "customer_response": "Customer was passive and slightly skeptical, questioning the value proposition compared to other products he owns.",
+      "key_event": "The agent attempted to push a 35% guaranteed income product, which the customer met with skepticism regarding its comparative value.",
+      "ending": "The call ended with the customer expressing that he has other options and needs to see if the benefits are worth it."
+    },
+    "key_quotes": [
+      "Nahi woh theek hai, woh toh mere paas toh aur bhi hain abhi kayi log.",
+      "benefit kya hai ki uske hisaab se hone chahiye na uske liye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

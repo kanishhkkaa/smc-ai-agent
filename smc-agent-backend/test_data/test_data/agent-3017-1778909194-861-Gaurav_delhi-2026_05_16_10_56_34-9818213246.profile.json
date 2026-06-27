@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "profile_id": "2483446986856932",
+  "source_transcript": "2026_05_16/agent-3017-1778909194-861-Gaurav_delhi-2026_05_16_10_56_34-9818213246.json",
+  "source_name": "agent-3017-1778909194-861-Gaurav_delhi-2026_05_16_10_56_34-9818213246.mp3",
+  "created_at_utc": "2026-06-01T04:48:53Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 97.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Vijay",
+      "evidence": "Agent: Yes, am I talking to Mr. Vijay? Customer: Haan, yes.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "65",
+        "evidence": "Customer: 65.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Customer: Kuch nahi, bas koi phone call aa gaya, baat-baat kar lete hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Retired central government employee",
+        "evidence": "Customer: Central government pension deti hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Ab money ki kya zaroorat hai, saari umar kama liya.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Ab money ki kya zaroorat hai, saari umar kama liya.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh pension/income facility"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 65 and retired with existing government pension and medical benefits; product is not suitable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is retired, financially secure with government pension/benefits, and explicitly stated no need for further income."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from Tata AIA and the customer confirmed his identity.",
+      "customer_response": "Customer was passive and dismissive, eventually shutting down the pitch by highlighting his financial independence.",
+      "key_event": "The customer revealed he is 65 and retired with a government pension, rendering the pitch irrelevant.",
+      "ending": "The agent acknowledged the customer's situation and ended the call politely."
+    },
+    "key_quotes": [
+      "Ab money ki kya zaroorat hai, saari umar kama liya.",
+      "Central government pension deti hai, medical facility free hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

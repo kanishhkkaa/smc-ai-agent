@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4981154686285719",
+  "source_transcript": "agent-3052-1779622179-8629-Gaurav_delhi-2026_05_24_16_59_40-9999943373.json",
+  "created_at_utc": "2026-06-01T02:15:51Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3052-1779622179-8629-Gaurav_delhi-2026_05_24_16_59_40-9999943373.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Kuch apna, apna do-teen mahine baad connect kar lun ek baar? Customer: Ji ji ji bilkul.",
+    "summary": "Agent pitched an HDFC Life plan; customer declined due to lack of income, but agreed to a callback in two to three months.",
+    "callback_time_iso": "2026-08-24T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Nahi sir, job nahi karta abhi toh. Business bhi nahi hai. Freelancer tha abhi, abhi kaam nahi pada koi.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Abhi toh kamai hi zero hai.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 36,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

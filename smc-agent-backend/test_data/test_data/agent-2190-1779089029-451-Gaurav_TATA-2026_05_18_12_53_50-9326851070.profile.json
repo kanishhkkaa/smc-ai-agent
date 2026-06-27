@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "1391114255012362",
+  "source_transcript": "agent-2190-1779089029-451-Gaurav_TATA-2026_05_18_12_53_50-9326851070.json",
+  "source_name": "agent-2190-1779089029-451-Gaurav_TATA-2026_05_18_12_53_50-9326851070.mp3",
+  "created_at_utc": "2026-05-21T02:10:52Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 142.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Sujeet",
+      "evidence": "Meri Sujeet ji se baat ho rahi hai na?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Main abhi duty pe hun, baad mein call karna.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main abhi duty pe hun, baad mein call karna.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "aap apne bacchon ke apne child ke education aur unki marriage life ke liye.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "60 lakh se plus 1 crore tak ka cover life insurance",
+        "5 saal ke baad partially withdrawal kar sakte hain"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Rakshak Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "No discovery questions asked to understand customer needs or financial situation."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "child_plan",
+        "term_insurance",
+        "endowment",
+        "guaranteed_savings_plan",
+        "ulip",
+        "retirement_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "health_insurance",
+        "other"
+      ],
+      "reasoning": "The customer is clearly busy at work and the agent is being pushy, which is likely to alienate the customer."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduces himself and the product, and the customer asks for the agent's name again.",
+      "customer_response": "The customer is passive and repeatedly mentions being at work, trying to end the call.",
+      "key_event": "The customer repeatedly states they are on duty and cannot talk, while the agent persists in pushing the product.",
+      "ending": "The agent continues to push for 10 minutes of the customer's time despite the customer's repeated refusal due to work duties."
+    },
+    "key_quotes": [
+      "Main abhi duty pe hun, baad mein call karna.",
+      "Main duty pe hun, toh duty pe."
+    ],
+    "red_flags": [
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

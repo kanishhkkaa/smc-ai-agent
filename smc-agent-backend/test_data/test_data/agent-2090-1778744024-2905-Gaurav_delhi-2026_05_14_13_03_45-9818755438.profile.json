@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "4442828919743866",
+  "source_transcript": "agent-2090-1778744024-2905-Gaurav_delhi-2026_05_14_13_03_45-9818755438.json",
+  "source_name": "agent-2090-1778744024-2905-Gaurav_delhi-2026_05_14_13_03_45-9818755438.mp3",
+  "created_at_utc": "2026-05-16T00:03:27Z",
+  "transcript_stats": {
+    "segments": 64,
+    "duration_seconds": 325.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: sir hum bhi Delhi se hi hain, Delhi NCR.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi NCR",
+        "evidence": "Customer: sir hum bhi Delhi se hi hain, Delhi NCR.",
+        "confidence": "high"
+      },
+      "city_tier": {
+        "value": "tier_1",
+        "evidence": "Customer: sir hum bhi Delhi se hi hain, Delhi NCR.",
+        "confidence": "medium"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: hello\nAgent: hello\nCustomer: yes sir",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: nahi sir abhi main interest hi nahi tha, aapne bataya.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 8,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": true,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "nahi yaar abhi toh kuch plan nahi hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "trust",
+          "quote": "company abhi aapne Sahara ka naam bhi suna hoga.",
+          "resolved_by_agent": false
+        }
+      ],
+      "sentiment_arc": "declining",
+      "drop_off_point": "ask"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "aware",
+        "evidence": "Customer: toh matlab ye jo plan hai wo kya share market se linked hai ya kaise hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "objection_handled",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 60.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life saving plan",
+      "fit_score_0_10": 1,
+      "mismatch": true,
+      "mismatch_reason": "Customer has no interest and expressed deep distrust in the product/company.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer was highly skeptical, compared the company to a fraud (Sahara), and explicitly stated they have no interest in the plan. The agent failed to address concerns and the customer ended the call."
+    },
+    "summary": "The agent attempted to pitch an HDFC Life saving plan. The customer was skeptical, questioned the security of the company by comparing it to the Sahara fraud, and repeatedly stated they were not interested. The agent failed to address the customer's concerns, leading to the customer ending the call.",
+    "key_quotes": [
+      "nahi yaar abhi toh kuch plan nahi hai",
+      "company abhi aapne Sahara ka naam bhi suna hoga.",
+      "nahi sir abhi main interest hi nahi tha, aapne bataya."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

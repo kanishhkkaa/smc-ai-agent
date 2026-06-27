@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "2465928123086488",
+  "source_transcript": "agent-3012-1779184671-7949-Gaurav_TATA-2026_05_19_15_27_51-9521918145.json",
+  "source_name": "agent-3012-1779184671-7949-Gaurav_TATA-2026_05_19_15_27_51-9521918145.mp3",
+  "created_at_utc": "2026-05-22T11:22:41Z",
+  "transcript_stats": {
+    "segments": 60,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "23",
+        "evidence": "Meri age 23 saal ho gayi hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "Main married hoon. (Implied male context in traditional Indian sales, but not explicitly stated).",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Main married hoon.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Bachcha ki abhi 3, 3 saal.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi sir, abhi samay nahi hai mere paas.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Nahi sir, abhi samay nahi hai mere paas.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent pitched a child plan.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "Customer is the one being pitched to, but did not confirm sole authority.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "10% guaranteed return",
+        "30% (30,000) return on 1 lakh investment for 5 years",
+        "35,000 return after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Child Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 23 with a 3-year-old child; a 1 lakh/year commitment for 12 years is likely unaffordable and the product was misrepresented as a high-return investment.",
+      "missed_opportunities": [
+        "Did not ask about current savings or financial goals beyond the child."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "child_plan",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was polite but clearly uninterested and busy, ending the call abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called claiming to be from Central Bank of India offering a child plan for the bank's 50th anniversary.",
+      "customer_response": "Passive and skeptical, eventually pushing back due to lack of time.",
+      "key_event": "Agent pitched a 10% guaranteed return and a 30% cash-back scheme on a 1 lakh annual premium.",
+      "ending": "Customer stated they did not have time and ended the conversation."
+    },
+    "key_quotes": [
+      "Toh usme kya profit hai?",
+      "Nahi sir, abhi samay nahi hai mere paas."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "18-25",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "4771868297662934",
+  "source_transcript": "agent-2089-1779448826-9195-Gaurav_delhi-2026_05_22_16_50_27-8826064829.json",
+  "created_at_utc": "2026-06-01T02:52:27Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779448826-9195-Gaurav_delhi-2026_05_22_16_50_27-8826064829.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi, zarurat nahi hai ma'am. Thank you so much for calling.",
+    "summary": "The customer declined the HDFC Life plan, stating they are already heavily invested in other financial instruments and hold existing medical policies.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko pehle hi saal se aapka first annual premium",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 48,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

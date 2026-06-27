@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "8400241601448576",
+  "source_transcript": "2026_05_26/agent-2113-1779789335-853-Gaurav_TATA-2026_05_26_15_25_35-9532952315.json",
+  "source_name": "agent-2113-1779789335-853-Gaurav_TATA-2026_05_26_15_25_35-9532952315.mp3",
+  "created_at_utc": "2026-06-01T05:07:40Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 100.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Yukti",
+      "evidence": "Yukti ma'am se baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Yukti ma'am se baat ho rahi hai?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Abhi main dusre kaam mein busy hun, baad mein baat karti hun.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Abhi main dusre kaam mein busy hun, baad mein baat karti hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "bacchon ke education ya future of life marriage ke liye use karne ke liye",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "other"
+      ],
+      "agent_promises": [
+        "1 crore life insurance cover",
+        "1 lakh pension option",
+        "10 lakh medical option",
+        "partial withdrawal after 5 years"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Pro",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer showed no interest and was busy; pitch was generic and unsolicited.",
+      "missed_opportunities": [
+        "No discovery questions asked to understand customer needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was dismissive and explicitly stated she was busy, twice refusing to engage further."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced himself from Tata AIA and mentioned a new plan, to which the customer responded with a neutral 'Bataiye'.",
+      "customer_response": "Passive and dismissive, repeatedly stating she was busy and would call back.",
+      "key_event": "The customer refused to engage with the pitch, citing being busy, and the agent failed to secure a specific callback time.",
+      "ending": "The agent attempted to push back on the customer's request to call back, but the customer ended the conversation."
+    },
+    "key_quotes": [
+      "Abhi main dusre kaam mein busy hun, baad mein baat karti hun."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

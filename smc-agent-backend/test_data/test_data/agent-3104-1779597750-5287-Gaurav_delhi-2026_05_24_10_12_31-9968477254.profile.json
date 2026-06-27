@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "9167474964190128",
+  "source_transcript": "agent-3104-1779597750-5287-Gaurav_delhi-2026_05_24_10_12_31-9968477254.json",
+  "created_at_utc": "2026-06-01T02:18:05Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 69.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3104-1779597750-5287-Gaurav_delhi-2026_05_24_10_12_31-9968477254.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Ma'am, 200 rupaye bhi nahi bach rahe hain, aap batao. 20,000 ki salary mein aadmi kya kar lega?",
+    "summary": "Agent pitched an HDFC Life guaranteed product; customer declined, citing financial inability and a low monthly salary of 20,000.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20,000 ki salary",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki guaranteed income",
+      "return_claim_pct": 36,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

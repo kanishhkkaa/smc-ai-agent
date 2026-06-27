@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8912158160396448",
+  "source_transcript": "agent-3024-1778827216-3636-Gaurav_delhi-2026_05_15_12_10_17-8527897700.json",
+  "created_at_utc": "2026-06-01T01:23:01Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 53.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3024-1778827216-3636-Gaurav_delhi-2026_05_15_12_10_17-8527897700.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Kahin baitha hun, agar aap dedh ghante ke baad karenge toh zyada accha hoga.",
+    "summary": "Agent pitched HDFC Life money back plan; customer requested a callback in 1.5 hours, and agent agreed to call back. Customer'name' is Satendra Singh.",
+    "callback_time_iso": "2026-05-15T13:40:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Satendra Singh",
+        "evidence": "Apna good name kya likhte hain, pura Satendra Singh, right? — Haanji.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 35 percent ki guaranteed income aani start ho jaati hai aapki whole life ke liye",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": true,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

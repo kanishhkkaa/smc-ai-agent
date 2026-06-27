@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "2142507809564190",
+  "source_transcript": "agent-2090-1779540135-8591-Gaurav_delhi-2026_05_23_18_12_16-8130950367.json",
+  "created_at_utc": "2026-06-01T02:29:39Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 86.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2090-1779540135-8591-Gaurav_delhi-2026_05_23_18_12_16-8130950367.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Saving to hai nahi, saving to hai nahi mere paas. Kya karunga fir main?",
+    "summary": "Agent pitched an HDFC Life plan; customer disclosed being a student with no savings, and the agent ended the call after confirming the prospect's status.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "21",
+        "evidence": "Meri 21.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Study karte hain, student hain abhi? Haan.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko aapke premium ka 40 percent cash income deti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

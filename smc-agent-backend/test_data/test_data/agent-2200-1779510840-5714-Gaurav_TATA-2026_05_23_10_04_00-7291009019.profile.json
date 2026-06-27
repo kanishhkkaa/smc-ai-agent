@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3766817674355968",
+  "source_transcript": "agent-2200-1779510840-5714-Gaurav_TATA-2026_05_23_10_04_00-7291009019.json",
+  "created_at_utc": "2026-06-01T02:35:08Z",
+  "transcript_stats": {
+    "segments": 70,
+    "duration_seconds": 236.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779510840-5714-Gaurav_TATA-2026_05_23_10_04_00-7291009019.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Awaaz aa rahi hai aapko meri? Hello.",
+    "summary": "The agent pitched a Tata AIA plan, completed discovery, but the call ended due to a network issue while discussing premium and coverage details.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "54",
+        "evidence": "born hun to 54 ka ho raha hun",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "naukri kar raha hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "12 lakh rupaye saal ki",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

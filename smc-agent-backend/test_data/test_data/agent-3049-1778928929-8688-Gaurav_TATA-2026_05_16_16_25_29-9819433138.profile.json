@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "6708310614373014",
+  "source_transcript": "2026_05_16/agent-3049-1778928929-8688-Gaurav_TATA-2026_05_16_16_25_29-9819433138.json",
+  "source_name": "agent-3049-1778928929-8688-Gaurav_TATA-2026_05_16_16_25_29-9819433138.mp3",
+  "created_at_utc": "2026-06-01T04:50:21Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 144.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "56",
+        "evidence": "Customer: 56.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Agent: Aur abhi aap by profession job karte ho business sir? Customer: Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Chaliye dekhta hun. Theek hai WhatsApp number hai kar dijiye main dekh leta hun theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi to wahi to abhi abhi yaar is rate mein premium lena achi baat nahi hai na madam age zyada ho gaya to premium zyada aata hai is mein kuch matlab hai nahi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "high premium due to age"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Nahi. (in response to market knowledge)",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-17T14:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "premium with interest refundable"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage despite age."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer agreed to receive information via WhatsApp and scheduled a callback for Sunday."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA combined plan, and the customer responded with a neutral 'Haan boliye'.",
+      "customer_response": "Customer was initially skeptical due to age-related premium costs but remained polite and open to information.",
+      "key_event": "Customer objected to the high premium due to age, leading the agent to pivot to a guaranteed savings plan.",
+      "ending": "Customer requested a callback for Sunday after lunch and asked for details on WhatsApp."
+    },
+    "key_quotes": [
+      "Nahi to wahi to abhi abhi yaar is rate mein premium lena achi baat nahi hai na madam age zyada ho gaya to premium zyada aata hai is mein kuch matlab hai nahi.",
+      "Theek hai WhatsApp number hai kar dijiye main dekh leta hun theek hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

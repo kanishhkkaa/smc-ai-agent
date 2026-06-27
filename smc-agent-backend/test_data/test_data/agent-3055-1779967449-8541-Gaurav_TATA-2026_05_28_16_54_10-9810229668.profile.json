@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "9648366142589000",
+  "source_transcript": "2026_05_28/agent-3055-1779967449-8541-Gaurav_TATA-2026_05_28_16_54_10-9810229668.json",
+  "source_name": "agent-3055-1779967449-8541-Gaurav_TATA-2026_05_28_16_54_10-9810229668.mp3",
+  "created_at_utc": "2026-06-01T05:40:48Z",
+  "transcript_stats": {
+    "segments": 37,
+    "duration_seconds": 138.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "55",
+        "evidence": "Customer: 55.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: \"sir\". Customer: \"Meri wife ki hai\".",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Noida",
+        "evidence": "Customer: Delhi. Agent: I am in sector 6, Noida. Customer: I am in sector 6, Noida.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Customer: \"Delhi.\" Agent: \"Noida sector 2\". Customer: \"I am in sector 6, Noida.\"",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Agent: \"Ma'am kya karte hain, job ya business?\" Customer: \"Business.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: \"Business.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"Meri wife ki hai, wife ki insurance kara dunga main.\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Koi dikkat nahi hai.\" \"Itna toh monthly bhi kar sakte hain.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "25K_plus",
+        "evidence": "Customer: \"Itna toh monthly bhi kar sakte hain.\" (referring to 1 lakh/year)",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent pitched a guaranteed savings plan.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"wife ki insurance kara dunga main.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "36% guaranteed income starting from first year for whole life",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific product name beyond 'guaranteed savings plan'."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was cooperative, provided details, and explicitly asked for a callback later."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed savings plan from HDFC Life, and the customer responded positively.",
+      "customer_response": "Engaged and cooperative throughout the pitch.",
+      "key_event": "Customer confirmed interest in a plan for his wife and indicated a high savings capacity.",
+      "ending": "Customer requested a callback later due to being busy, and the agent agreed."
+    },
+    "key_quotes": [
+      "Itna toh monthly bhi kar sakte hain.",
+      "Abhi main kahin busy hun, so maybe later on you can give me a call again."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "pre_retirement",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "1766124935559201",
+  "source_transcript": "agent-2049-1779715360-4114-Gaurav_delhi-2026_05_25_18_52_40-8800192940.json",
+  "source_name": "agent-2049-1779715360-4114-Gaurav_delhi-2026_05_25_18_52_40-8800192940.mp3",
+  "created_at_utc": "2026-05-27T01:14:23Z",
+  "transcript_stats": {
+    "segments": 56,
+    "duration_seconds": 240.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Saurabh Singh",
+      "evidence": "Agent 2: Sorry, Mr. Saurabh Singh.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "Customer: 45.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "The customer is referred to as 'Mr. Saurabh Singh'.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Indirapuram",
+        "evidence": "Customer: Indirapuram, NCR.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Customer: Indirapuram, NCR. (Implies Uttar Pradesh)",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Sales professional",
+        "evidence": "Customer: Sales ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 14 lakh. Agent: Per year.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Bilkul bilkul. (When asked if he is comfortable)",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "10K_25K",
+        "evidence": "Agent: agar aap saalana 2 lakh rupaye ka bachat company ke saath kar rahe hain... Customer: Bilkul bilkul.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Agent: Jisse aap apni family ke chote mote kharchon ko manage kar sakte hain...",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Bilkul bilkul. (Responding to the agent's pitch)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "35% of premium (approx 70,000) returned as income from first year"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 200000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage amount or specific family protection needs."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is engaged, provided personal details, and insisted on continuing the conversation despite driving."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced HDFC Life and a new plan offering regular income, to which the customer responded by providing his age.",
+      "customer_response": "The customer was engaged and cooperative, providing his details and insisting on continuing the call despite the agent's concern about him driving.",
+      "key_event": "The agent made a specific claim about a 35% guaranteed return from the first year, which the customer accepted without pushback.",
+      "ending": "The agent insisted on scheduling a follow-up call to ensure the customer could focus on the investment details properly."
+    },
+    "key_quotes": [
+      "35 percent, approx 70,000 rupaye as a income aapke account mein aapko return aa jaata hai.",
+      "Nahi, hand free hai, koi issue nahi hai, hand free hai aap bas..."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

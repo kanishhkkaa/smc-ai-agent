@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "3904774484257267",
+  "source_transcript": "agent-2065-1779686332-4041-Gaurav_delhi-2026_05_25_10_48_53-8860332807.json",
+  "source_name": "agent-2065-1779686332-4041-Gaurav_delhi-2026_05_25_10_48_53-8860332807.mp3",
+  "created_at_utc": "2026-05-27T01:17:42Z",
+  "transcript_stats": {
+    "segments": 86,
+    "duration_seconds": 293.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Deepak",
+      "evidence": "Amar bhai, mera naam Deepak hai",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "mera naam Deepak hai",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi se toh main bhi baat kar raha hun sir.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi se toh main bhi baat kar raha hun sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Are yaar, dosti vyavahar mitra nahi ho sakta bhai yaar.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 10,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Toh aapko kisne bataya mere paas paisa jama karne ke liye?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "other",
+          "quote": "Koi fayda nahi hai laga ke, market puri degrowth mein hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "health_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Koi fayda nahi hai laga ke, market puri degrowth mein hai.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Toh aapko kisne bataya mere paas paisa jama karne ke liye?",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent cashback income for whole life",
+        "8 percent guaranteed return"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed and traditional plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is skeptical of market-linked products and has no immediate interest in savings plans.",
+      "missed_opportunities": [
+        "Did not effectively pivot to health insurance needs despite customer mentioning current policy expiry."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance"
+      ],
+      "reasoning": "The customer was friendly and engaged in a casual conversation, though he showed no immediate intent to purchase and was skeptical of market conditions."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a pitch for a guaranteed cashback plan, to which the customer responded with immediate skepticism.",
+      "customer_response": "The customer was initially defensive and skeptical, then shifted to a friendly, conversational, and slightly mocking tone.",
+      "key_event": "The customer challenged the agent's premise of selling an investment product, leading to a casual, non-business conversation.",
+      "ending": "The call ended on a friendly, informal note with the customer agreeing to stay in touch."
+    },
+    "key_quotes": [
+      "Toh aapko kisne bataya mere paas paisa jama karne ke liye?",
+      "Koi fayda nahi hai laga ke, market puri degrowth mein hai.",
+      "Are yaar, dosti vyavahar mitra nahi ho sakta bhai yaar."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

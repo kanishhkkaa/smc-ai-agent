@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "profile_id": "3466189488625370",
+  "source_transcript": "2026_05_16/agent-3020-1778915983-9427-Gaurav_delhi-2026_05_16_12_49_44-9711061078.json",
+  "source_name": "agent-3020-1778915983-9427-Gaurav_delhi-2026_05_16_12_49_44-9711061078.mp3",
+  "created_at_utc": "2026-06-01T04:49:33Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 208.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "46",
+        "evidence": "46",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "ma'am",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "business",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "5 lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "husband se baat karungi",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan ji, kar lo, kar lo.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "ye plan toh humne pehle bhi le rakhe hain, ab ye mera interest hai hi nahi ab.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "spouse_decision",
+          "quote": "pehle husband se baat karungi, phir isi baare mein sochungi abhi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "ye plan toh humne pehle bhi le rakhe hain",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "retire ho jayenge",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "pehle husband se baat karungi",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 1,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-17T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% money back return annually",
+        "8% compounding rate of interest",
+        "21,60,000 maturity amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "endowment",
+        "retirement_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer agreed to a callback after consulting her husband, showing interest in the numbers provided."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan with high returns, and the customer responded with mild interest.",
+      "customer_response": "Customer was initially dismissive but became engaged once the agent provided specific return figures.",
+      "key_event": "The customer asked for specific maturity figures, which the agent provided, leading to a scheduled callback.",
+      "ending": "The call ended with the customer agreeing to a callback tomorrow after discussing with her husband."
+    },
+    "key_quotes": [
+      "ye plan toh humne pehle bhi le rakhe hain, ab ye mera interest hai hi nahi ab.",
+      "pehle husband se baat karungi, phir isi baare mein sochungi abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

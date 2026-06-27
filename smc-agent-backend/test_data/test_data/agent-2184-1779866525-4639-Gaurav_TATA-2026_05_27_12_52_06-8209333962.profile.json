@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4396491515738797",
+  "source_transcript": "2026_05_27/agent-2184-1779866525-4639-Gaurav_TATA-2026_05_27_12_52_06-8209333962.json",
+  "source_name": "agent-2184-1779866525-4639-Gaurav_TATA-2026_05_27_12_52_06-8209333962.mp3",
+  "created_at_utc": "2026-06-01T05:20:35Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 235.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Puneet Chaudhary",
+      "evidence": "Puneet Chaudhary",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "5-6 lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan, mujhe mail kar do.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Haan, mujhe mail kar do.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "stocks",
+        "fixed_deposit"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Kar rakha hai maine usme.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "term plus investment plan",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main call kar lunga aapko abhi.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T17:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 CR plus 60 lakh cover",
+        "premium refundable",
+        "tax free",
+        "pension and medical benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 95569,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The quoted premium of 95,569 INR is significantly high for someone with an annual income of 5-6 lakhs.",
+      "missed_opportunities": [
+        "Did not ask about existing life insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer was engaged enough to provide details and agreed to a specific callback time in the evening."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself as calling from Tata AIA regarding a term and investment plan, and the customer listened.",
+      "customer_response": "Customer was cooperative and engaged throughout the call, providing personal details and agreeing to a callback.",
+      "key_event": "The customer requested an email, but the agent insisted on explaining the plan terms first, leading to a scheduled callback.",
+      "ending": "The agent confirmed the customer's name and scheduled a callback for the evening."
+    },
+    "key_quotes": [
+      "Haan, mujhe mail kar do.",
+      "Main call kar lunga aapko abhi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

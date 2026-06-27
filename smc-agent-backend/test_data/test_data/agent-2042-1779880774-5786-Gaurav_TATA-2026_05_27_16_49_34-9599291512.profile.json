@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "3459704431077951",
+  "source_transcript": "2026_05_27/agent-2042-1779880774-5786-Gaurav_TATA-2026_05_27_16_49_34-9599291512.json",
+  "source_name": "agent-2042-1779880774-5786-Gaurav_TATA-2026_05_27_16_49_34-9599291512.mp3",
+  "created_at_utc": "2026-06-01T05:14:50Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 289.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "45",
+        "evidence": "45",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Accounting sector mein",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Accounting sector",
+        "evidence": "Accounting sector",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "10 lakh",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Nahi chahiye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "Ma'am main ekdum se na meri na voice change ho jaati hai na to main samajh nahi paata main kisse baat kar raha hun.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "poor customer service experience"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "mutual_funds",
+        "sip"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Accounting sector mein",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Job karta hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 135773,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The product is a complex, poorly explained hybrid plan that the customer did not express interest in.",
+      "missed_opportunities": [
+        "failed to address the customer's specific financial needs before pitching a high-premium product"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "mutual_fund_sip",
+        "health_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is annoyed by the poor call transfer process and lack of transparency, though he did not explicitly hang up."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA insurance, and the customer was initially confused about the distinction between general and life insurance.",
+      "customer_response": "Customer was initially passive but became irritated by the agent's poor call handling and lack of professional transfer etiquette.",
+      "key_event": "The customer interrupted the senior agent to lecture her on professional call transfer etiquette after being passed over without notice.",
+      "ending": "The senior agent attempted to continue the pitch despite the customer's clear frustration regarding the call transfer process."
+    },
+    "key_quotes": [
+      "Aap kisi na company mein kahin baat karte hain na client se, agar aap kisi ko line transfer karte hain ya kisi ko phone hand over karte hain na, usse pehle bataya jaata hai ki main apne senior ko na transfer kar raha hun.",
+      "Nahi chahiye."
+    ],
+    "red_flags": [
+      "misrepresented_product",
+      "poor_call_etiquette"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6162311912533262",
+  "source_transcript": "agent-2136-1779613988-1687-Gaurav_TATA-2026_05_24_14_43_09-9654114936.json",
+  "created_at_utc": "2026-06-01T02:10:43Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1779613988-1687-Gaurav_TATA-2026_05_24_14_43_09-9654114936.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Actually abhi koi investment ka koi planning nahi hai meri.",
+    "summary": "Agent pitched the Tata Param Rakshak Pro plan, but the customer declined, stating she has no current plans for investment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "After 5 years ke baad aap withdrawal karti hain",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

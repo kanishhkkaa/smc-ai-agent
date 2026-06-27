@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3658187131097564",
+  "source_transcript": "agent-2014-1779521190-3544-Gaurav_delhi-2026_05_23_12_56_30-8267912295.json",
+  "created_at_utc": "2026-06-01T02:19:08Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2014-1779521190-3544-Gaurav_delhi-2026_05_23_12_56_30-8267912295.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi nahi, Bajaj mein bhi kara rakha hai, aapka life insurance chal raha hai, matlab chal raha hai, budget mein hai.",
+    "summary": "The agent pitched an HDFC Life saving investment plan, but the customer declined, stating they already have a Bajaj life insurance policy and are not interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "main bhi bank mein hi hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 42,
+    "bant_score": 1.5,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5603281397149003",
+  "source_transcript": "agent-3017-1779516065-8627-Gaurav_delhi-2026_05_23_11_31_05-8800814486.json",
+  "created_at_utc": "2026-06-01T02:37:49Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 64.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779516065-8627-Gaurav_delhi-2026_05_23_11_31_05-8800814486.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Haan main check kar loongi actually main na ek meeting mein hoon main aapse baad mein phir connect karti hoon theek hai.",
+    "summary": "Agent pitched the Tata Param Raksha Pro plan; the customer acknowledged the name and deferred the conversation due to being in a meeting.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Param Raksha Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

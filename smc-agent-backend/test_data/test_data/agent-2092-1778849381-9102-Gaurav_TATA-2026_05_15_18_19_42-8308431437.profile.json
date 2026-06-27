@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6367365411738198",
+  "source_transcript": "agent-2092-1778849381-9102-Gaurav_TATA-2026_05_15_18_19_42-8308431437.json",
+  "created_at_utc": "2026-06-01T01:13:04Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 97.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2092-1778849381-9102-Gaurav_TATA-2026_05_15_18_19_42-8308431437.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "WhatsApp pe forward karo na, main abhi filhal mein busy hun. Main kal baat karta hun aapse.",
+    "summary": "Agent pitched a Tata AIA combined plan with medical benefits; customer requested a brochure via WhatsApp and deferred, saying he will talk tomorrow.",
+    "callback_time_iso": "2026-05-15T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

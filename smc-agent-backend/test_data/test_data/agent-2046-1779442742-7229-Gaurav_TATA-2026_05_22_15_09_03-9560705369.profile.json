@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "3390947872902061",
+  "source_transcript": "agent-2046-1779442742-7229-Gaurav_TATA-2026_05_22_15_09_03-9560705369.json",
+  "created_at_utc": "2026-06-01T02:48:45Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 82.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779442742-7229-Gaurav_TATA-2026_05_22_15_09_03-9560705369.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Madam, actually main kahin aaya hun. Aap shaam ko kar lijiye na baat, main kar lunga baat. 5 baje kar lun, 5:30?",
+    "summary": "Agent pitched a Tata AIA combined plan; customer requested a callback at 5:30 PM and provided his name, Sanjay Gautam.",
+    "callback_time_iso": "2026-05-22T17:30",
+    "customer_disclosures": {
+      "name": {
+        "value": "Sanjay Gautam",
+        "evidence": "Sanjay Gautam.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aap jitna bhi is plan mein invest karte hain na sir, woh saara refundable rehta hai",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

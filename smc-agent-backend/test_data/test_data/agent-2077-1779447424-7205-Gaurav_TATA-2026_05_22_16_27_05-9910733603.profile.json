@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8852141869169813",
+  "source_transcript": "agent-2077-1779447424-7205-Gaurav_TATA-2026_05_22_16_27_05-9910733603.json",
+  "created_at_utc": "2026-06-01T02:51:07Z",
+  "transcript_stats": {
+    "segments": 62,
+    "duration_seconds": 259.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2077-1779447424-7205-Gaurav_TATA-2026_05_22_16_27_05-9910733603.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap kal Monday mein kar lena. Kyunki main gaadi chalata hun to fir 12, 11 baje ke aas paas kar lena.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery (age 36, business/driver, 4.2L annual income). Customer requested a callback for Monday at 11:00 AM.",
+    "callback_time_iso": "2026-05-25T11:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "36 ke aas paas.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "mera door ka kaam bhi hai aur main gaadi bhi chalata hun school mein.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "12 saal mein ye baitha hai ji 420000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "day one se 1 crore ke term coverage ke saath mutual fund return diye jaate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "projected_market",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 3.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

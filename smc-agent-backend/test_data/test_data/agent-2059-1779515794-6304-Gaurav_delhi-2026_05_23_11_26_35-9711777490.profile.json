@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9978414214143448",
+  "source_transcript": "agent-2059-1779515794-6304-Gaurav_delhi-2026_05_23_11_26_35-9711777490.json",
+  "created_at_utc": "2026-06-01T02:24:02Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 90.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779515794-6304-Gaurav_delhi-2026_05_23_11_26_35-9711777490.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aap 2 ghante baad call karna.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery; customer requested a callback in two hours due to a meeting.",
+    "callback_time_iso": "2026-05-23T13:26",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "25-30 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 13,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

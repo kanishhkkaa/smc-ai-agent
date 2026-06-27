@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1468257554742421",
+  "source_transcript": "agent-2136-1779616446-2172-Gaurav_TATA-2026_05_24_15_24_07-8126074007.json",
+  "created_at_utc": "2026-06-01T02:11:01Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 130.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2136-1779616446-2172-Gaurav_TATA-2026_05_24_15_24_07-8126074007.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Maafi chahunga, ye usmein include nahi hota hai sir. Kam maximum maximum include hona chahiye, upar 4k, 4k above hona chahiye. Policy include nahi hogi. I am sorry.",
+    "summary": "Agent pitched Tata Param Rakshak Pro, completed discovery (age 45, business, 2-3L income), then self-disqualified the prospect due to low income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "45",
+        "evidence": "45",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "2-3 lakh",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "Tata Param Rakshak Pro",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

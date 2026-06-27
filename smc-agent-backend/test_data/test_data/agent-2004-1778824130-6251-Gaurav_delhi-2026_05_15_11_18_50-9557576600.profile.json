@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "4678856996522785",
+  "source_transcript": "agent-2004-1778824130-6251-Gaurav_delhi-2026_05_15_11_18_50-9557576600.json",
+  "source_name": "agent-2004-1778824130-6251-Gaurav_delhi-2026_05_15_11_18_50-9557576600.mp3",
+  "created_at_utc": "2026-05-18T05:56:16Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 144.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job karte hain sir.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Finance sector",
+        "evidence": "Customer: Main finance se hun.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 12 lakh.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Aap project ke bare mein batao na yaar, agar main interest hun toh lunga isko.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Aap project ke bare mein batao na yaar, agar main interest hun toh lunga isko.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: Main finance se hun.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main finance se hun. (Implies self-management)",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misleading_comparison"
+      ],
+      "agent_promises": [
+        "40% guaranteed income",
+        "8% return",
+        "double tax benefit",
+        "term life insurance included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Failed to explain the product despite customer asking multiple times."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is interested in the product details despite the agent's reluctance to explain, showing potential if the product is presented clearly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent called from HDFC Life pitching a plan with '40% guaranteed income' and '8% return'.",
+      "customer_response": "Customer is direct and impatient, wanting to hear about the product rather than answering discovery questions.",
+      "key_event": "The customer revealed they work in finance, causing the agent to hesitate and try to deflect to sending a brochure.",
+      "ending": "The agent offered to send a brochure instead of explaining the product, and the customer insisted on hearing the details."
+    },
+    "key_quotes": [
+      "Aap project ke bare mein batao na yaar, agar main interest hun toh lunga isko.",
+      "Main finance se hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misleading_comparison"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

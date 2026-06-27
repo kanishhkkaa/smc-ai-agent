@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2009369137463130",
+  "source_transcript": "agent-3017-1779536586-9323-Gaurav_delhi-2026_05_23_17_13_07-9717513224.json",
+  "created_at_utc": "2026-06-01T02:38:00Z",
+  "transcript_stats": {
+    "segments": 30,
+    "duration_seconds": 92.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779536586-9323-Gaurav_delhi-2026_05_23_17_13_07-9717513224.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe kal karna, main abhi phone pe hun. ... 11 ke baad.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer asked about age limits, then requested a callback for Monday after 11 AM.",
+    "callback_time_iso": "2026-05-25T11:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Deepak",
+        "evidence": "Your good name by the way? - Deepak.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "32.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jitna bhi aap is plan mein investment karte hain na, so saare refundable rehte hain",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 3.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

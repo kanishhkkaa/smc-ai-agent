@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "3602124427582887",
+  "source_transcript": "agent-3017-1779618488-9416-Gaurav_delhi-2026_05_24_15_58_08-9871635414.json",
+  "created_at_utc": "2026-06-01T02:12:32Z",
+  "transcript_stats": {
+    "segments": 69,
+    "duration_seconds": 233.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3017-1779618488-9416-Gaurav_delhi-2026_05_24_15_58_08-9871635414.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, abhi mat kijiye, hai nahi kuch. ... Nahi, hai sab, woh sab hai.",
+    "summary": "Agent pitched a Tata AIA plan; customer already holds term and saving plans and declined further interest, stating they are busy and have all required coverage.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "25L_plus",
+        "evidence": "1.5-2 crore ka ITR file karte hain",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aapko aapke survival time pe bhi 5 saal baad return diye jate hain",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

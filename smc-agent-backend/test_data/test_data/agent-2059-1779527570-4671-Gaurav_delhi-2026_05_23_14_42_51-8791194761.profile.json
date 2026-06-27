@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1543117824699053",
+  "source_transcript": "agent-2059-1779527570-4671-Gaurav_delhi-2026_05_23_14_42_51-8791194761.json",
+  "created_at_utc": "2026-06-01T02:24:57Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 55.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779527570-4671-Gaurav_delhi-2026_05_23_14_42_51-8791194761.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Bas job hi, job. Kya hum toh bhaiya bas aise hi maan lo.",
+    "summary": "Agent pitched an HDFC Life plan and attempted discovery, but the call ended abruptly after the customer provided age and occupation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "Ji ji, ye koi 35 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Bas job hi, job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki income provide karti hai aapko whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

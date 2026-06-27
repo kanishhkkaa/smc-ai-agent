@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "9405707448204812",
+  "source_transcript": "agent-3054-1778732579-1739-Gaurav_delhi-2026_05_14_09_53_00-9990626100.json",
+  "source_name": "agent-3054-1778732579-1739-Gaurav_delhi-2026_05_14_09_53_00-9990626100.mp3",
+  "created_at_utc": "2026-05-16T00:27:16Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 95.7,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "59",
+        "evidence": "ab 2 mahina baki hai 60 saal hone mein",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "ab 2 mahina baki hai 60 saal hone mein",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "main aapse Preeti Gupta baat kar rahi hun HDFC Life se.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "abhi naukri kar raha hun government mein",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "government employee",
+        "evidence": "abhi naukri kar raha hun government mein",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "pre_retirement",
+        "evidence": "abhi naukri kar raha hun government mein. ... ab 2 mahina baki hai 60 saal hone mein.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "kuch bhej do agar kuch document hai to bhej do phir dekhenge.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 20.0,
+      "agent_talk_percent": 80.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "pitch"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 2,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 2,
+      "lead_grade": "C",
+      "stage_reached": "pitch_delivered",
+      "next_action": "send_brochure",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 90.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium"
+    },
+    "product_fit": {
+      "product_pitched": "guarantee plan",
+      "fit_score_0_10": 2,
+      "mismatch": true,
+      "mismatch_reason": "Customer is 59, nearing retirement, and the agent's pitch for a 'guaranteed income' plan was not tailored to his life stage.",
+      "missed_opportunities": [
+        "Did not ask about retirement planning or pension needs."
+      ]
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "maybe",
+      "best_reapproach_window": "1_3_months",
+      "reapproach_channel_preference": "whatsapp",
+      "cross_sell_potential": "low",
+      "reselling_likelihood": "low",
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer is nearing retirement and showed mild interest in receiving information for his family, though he was not actively engaged in the pitch."
+    },
+    "summary": "The agent called a 59-year-old government employee to pitch a guaranteed income plan. The customer was nearing retirement and showed little interest, eventually asking the agent to send documents for review. The agent made unrealistic claims about guaranteed returns and interest rates.",
+    "key_quotes": [
+      "kuch bhej do agar kuch document hai to bhej do phir dekhenge."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high"
+  }
+}

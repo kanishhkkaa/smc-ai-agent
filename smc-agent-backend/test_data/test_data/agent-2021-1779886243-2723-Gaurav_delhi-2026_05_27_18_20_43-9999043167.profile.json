@@ -1,0 +1,168 @@
+{
+  "status": "success",
+  "profile_id": "2390976756654067",
+  "source_transcript": "2026_05_27/agent-2021-1779886243-2723-Gaurav_delhi-2026_05_27_18_20_43-9999043167.json",
+  "source_name": "agent-2021-1779886243-2723-Gaurav_delhi-2026_05_27_18_20_43-9999043167.mp3",
+  "created_at_utc": "2026-06-01T05:14:31Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Kajal",
+      "evidence": "Main Kajal baat kar rahi hun sir Tata AIA se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "63",
+        "evidence": "meri umar hai 63 plus",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "retired aadmi hun",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "do saal se retired aadmi hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired",
+        "evidence": "retired aadmi hun",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "income hai 25,000 rupaye mahina",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hostile",
+        "evidence": "Are madam suno, meri umar hai 63 plus aur do saal se retired aadmi hun",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "meri umar hai 63 plus aur do saal se retired aadmi hun",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a 63-year-old retiree, making a standard protection/savings plan unsuitable.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is a retired senior citizen who expressed frustration with the agent's lack of discovery and unprofessional tone."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a cold call, and the customer responded by asking how the agent was doing.",
+      "customer_response": "The customer was initially polite but became annoyed and confrontational due to the agent's lack of professional discovery.",
+      "key_event": "The customer revealed his age (63) and retirement status, highlighting the agent's failure to qualify the lead before pitching.",
+      "ending": "The call ended with the agent making an unprofessional, flirtatious comment, effectively closing the interaction."
+    },
+    "key_quotes": [
+      "meri umar hai 63 plus aur do saal se retired aadmi hun",
+      "Are pucho ki toh, tum toh seedha haal puch rahi ho."
+    ],
+    "red_flags": [
+      "unprofessional_agent_conduct"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

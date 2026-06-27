@@ -1,0 +1,105 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779102758-3867-Gaurav_TATA-2026_05_18_16_42_39-9355630538",
+  "source_file": "agent-2001-1779102758-3867-Gaurav_TATA-2026_05_18_16_42_39-9355630538.json",
+  "source_relative": "agent-2001-1779102758-3867-Gaurav_TATA-2026_05_18_16_42_39-9355630538.json",
+  "created_at_utc": "2026-05-21T00:43:20Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 118.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Kareena",
+    "call_id": "agent-2001-1779102758-3867-Gaurav_TATA-2026_05_18_16_42_39-9355630538",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "term plus investment plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "high"
+    },
+    "discovery": {
+      "discovery_question_count": 2,
+      "discovery_depth": "shallow",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "medium",
+      "objections_faced": [
+        {
+          "objection_type": "price",
+          "customer_quote": "Sir isme kitna pay karna padega mere ko?",
+          "agent_response_summary": "The agent explained that the premium is determined based on the customer's age and annual income.",
+          "resolved_by_agent": false
+        }
+      ]
+    },
+    "compliance": {
+      "compliance_flags": [
+        "did_not_verify_identity",
+        "omitted_disclaimer"
+      ],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "tone_professionalism": "medium",
+      "empathy": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "other",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false,
+      "graceful_close": false,
+      "last_speaker": "agent",
+      "end_reason_evidence": "Chalo koi baat nahi sir wahi kijiye sir phir aap."
+    },
+    "outcome": {
+      "stage_reached": "pitch_delivered",
+      "drop_off_point": "ask",
+      "outcome": "not_interested"
+    },
+    "strengths": [
+      "Clear introduction of self and company",
+      "Clearly stated the coverage amounts (1 crore + 60 lakh)"
+    ],
+    "improvement_areas": [
+      "Failed to take consent before pitching",
+      "Failed to verify customer identity",
+      "Lack of empathy when the customer disclosed unemployment",
+      "Abrupt ending without a professional sign-off"
+    ],
+    "coaching_recommendations": [
+      "Train the agent on the mandatory opening sequence: Greeting -> Identity Verification -> Consent.",
+      "Coach the agent on handling 'no-income' scenarios with more empathy and professionalism rather than sounding dismissive.",
+      "Ensure the agent uses a standard closing script to maintain brand professionalism."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "Oh okay sir investment kaise karenge sir phir aap?"
+    ],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and the product clearly but skipped critical compliance steps like identity verification and consent. The call ended abruptly after the agent discovered the customer was unemployed, with the agent showing a lack of empathy in the final turns.",
+    "extraction_confidence": "high"
+  }
+}

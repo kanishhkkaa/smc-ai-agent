@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6020135512163669",
+  "source_transcript": "agent-2129-1778823144-9219-Gaurav_delhi-2026_05_15_11_02_25-8527245333.json",
+  "created_at_utc": "2026-06-01T01:14:10Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 116.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2129-1778823144-9219-Gaurav_delhi-2026_05_15_11_02_25-8527245333.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Chalo koi baat nahi, mail kar do.",
+    "summary": "Agent pitched an HDFC Life investment plan; customer indicated he was driving and requested a mail/details via email instead.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

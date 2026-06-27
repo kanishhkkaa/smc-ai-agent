@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8277951255797042",
+  "source_transcript": "agent-3012-1779615504-4029-Gaurav_TATA-2026_05_24_15_08_24-9650195580.json",
+  "created_at_utc": "2026-06-01T02:13:00Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 146.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779615504-4029-Gaurav_TATA-2026_05_24_15_08_24-9650195580.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Abey mere ko na, aap mere ko phone karna meri 5 baje baad, kyunki mere ko na abhi kuch samajh mein nahi aa raha hai.",
+    "summary": "Agent pitched a child plan from Central Bank of India; customer requested a callback after 5 PM due to being busy and sleepy.",
+    "callback_time_iso": "2026-05-24T17:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "10 percent ka guaranteed return milega",
+      "return_claim_pct": 10,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "profile_id": "7882518186635978",
+  "source_transcript": "agent-2049-1779705198-9934-Gaurav_delhi-2026_05_25_16_03_18-9958073484.json",
+  "source_name": "agent-2049-1779705198-9934-Gaurav_delhi-2026_05_25_16_03_18-9958073484.mp3",
+  "created_at_utc": "2026-05-27T01:14:17Z",
+  "transcript_stats": {
+    "segments": 41,
+    "duration_seconds": 136.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "Customer: Apna single.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Are aap batao na yaar.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 5,
+      "interruption_pattern": "customer_interrupts",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Are kaun sa mediclaim bata rahe ho, kya coverage hai, kitni coverage hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Apna single.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life plan (unspecified)",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent pitched a life insurance product while the customer was specifically looking for health insurance.",
+      "missed_opportunities": [
+        "Did not clarify the difference between life and health insurance earlier."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "agent_put_on_hold"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "endowment",
+        "guaranteed_savings_plan",
+        "retirement_plan",
+        "child_plan",
+        "mutual_fund_sip",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer is interested in health insurance but the agent was unable to answer basic questions about the product, leading to a referral."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a life insurance plan as a regular income support, which the customer immediately questioned regarding health coverage.",
+      "customer_response": "Customer was initially confused by the pitch and became frustrated when the agent could not answer specific questions about health insurance coverage.",
+      "key_event": "The customer realized the agent was pitching a life insurance product while he was asking for health insurance, leading to a pivot.",
+      "ending": "The agent agreed to arrange a callback from the medical department within an hour."
+    },
+    "key_quotes": [
+      "Are kaun sa mediclaim bata rahe ho, kya coverage hai, kitni coverage hai?",
+      "Are aap batao na yaar."
+    ],
+    "red_flags": [
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

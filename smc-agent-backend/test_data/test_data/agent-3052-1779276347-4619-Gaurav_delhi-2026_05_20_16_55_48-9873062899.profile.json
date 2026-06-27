@@ -1,0 +1,192 @@
+{
+  "status": "success",
+  "profile_id": "7441731606925624",
+  "source_transcript": "agent-3052-1779276347-4619-Gaurav_delhi-2026_05_20_16_55_48-9873062899.json",
+  "source_name": "agent-3052-1779276347-4619-Gaurav_delhi-2026_05_20_16_55_48-9873062899.mp3",
+  "created_at_utc": "2026-05-24T05:14:15Z",
+  "transcript_stats": {
+    "segments": 68,
+    "duration_seconds": 261.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Anil",
+      "evidence": "Anil baat kar raha hu sir HDFC Life ke behalf se.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Gaurav_delhi",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "other",
+        "evidence": "Main investment wagera mein karta hu.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Investor",
+        "evidence": "Main investment wagera mein karta hu.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "maine aaj tak jeevan mein LIC tak nahi li.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 60,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Mere paas bahut hai already.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "price",
+          "quote": "Ji bahut mehngi pad jaati hai aapki.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "no_interest",
+          "quote": "maine aaj tak jeevan mein LIC tak nahi li.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "high charges of insurance products",
+        "liquidity concerns"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Main investment wagera mein karta hu.",
+        "confidence": "high"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main apna karwaata hu.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "double tax benefit",
+        "lifetime life insurance cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is an experienced investor who explicitly rejects insurance products as a category.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is highly sophisticated, explicitly stated he does not believe in insurance products (never taken LIC), and rejected the pitch multiple times."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life and immediately pitched a guaranteed income plan, to which the customer responded with skepticism.",
+      "customer_response": "The customer was pushing back throughout the call, questioning the value proposition and charges of the insurance products.",
+      "key_event": "The customer explicitly stated he has never taken an insurance policy, including LIC, signaling a complete lack of interest in the product category.",
+      "ending": "The agent acknowledged the customer's stance and ended the call politely after the customer stated he has never taken insurance."
+    },
+    "key_quotes": [
+      "Jitna mujhse loge usse zyada mujhse aap le loge.",
+      "Aapki guarantee bahut mehngi pad jaati hai.",
+      "maine aaj tak jeevan mein LIC tak nahi li."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 40,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "status": "success",
+  "profile_id": "2759751656730826",
+  "source_transcript": "agent-3017-1778581198-5449-Gaurav_delhi-2026_05_12_15_49_58-9990455485.json",
+  "source_name": "agent-3017-1778581198-5449-Gaurav_delhi-2026_05_12_15_49_58-9990455485.mp3",
+  "created_at_utc": "2026-05-15T06:53:54Z",
+  "transcript_stats": {
+    "segments": 10,
+    "duration_seconds": 104.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "Agent: hello, yes, am I talking to Mr. Ajmal Khan?\nCustomer: no mam, who has given to you, given this number to you?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: no mam, who has given to you, given this number to you? ... Main bank of Baroda mein hun, PSU hai, toh saare log wahi hai and sabka cover toh bank se hi hai. (Customer refers to self as 'main' and agent addresses as 'sir')",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hinglish",
+        "evidence": "Agent: kaise hain aap?\nCustomer: hello.\nAgent: hello, yes, am I talking to Mr. Ajmal Khan?\nCustomer: no mam, who has given to you, given this number to you?",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Accha Tata AIA ka, mam abhi main banking mein hun, bank mein hun",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Bank of Baroda employee",
+        "evidence": "Customer: Main bank of Baroda mein hun, PSU hai",
+        "confidence": "high"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: no mam, who has given to you, given this number to you? ... Main bank of Baroda mein hun, PSU hai, toh saare log wahi hai and sabka cover toh bank se hi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40.0,
+      "agent_talk_percent": 60.0,
+      "customer_question_count": 2,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "other",
+          "quote": "no mam, who has given to you, given this number to you?",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Mam, abhi toh possible nahi hai mere liye investment, kyunki already kuch transaction phase mein hun main",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Main bank of Baroda mein hun, PSU hai, toh saare log wahi hai and sabka cover toh bank se hi hai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "flat_neutral",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "other"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "bant_total": 0,
+      "lead_grade": "D",
+      "stage_reached": "discovery_done",
+      "next_action": "not_interested",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 0.0,
+      "compliance_flags": [],
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA plan",
+      "fit_score_0_10": 0,
+      "mismatch": true,
+      "mismatch_reason": "The customer is not the person the agent was trying to reach (Ajmal Khan).",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min",
+      "lead_source": "unknown",
+      "is_repeat_contact": false
+    },
+    "approachability": {
+      "reachout_recommended": "no",
+      "best_reapproach_window": "do_not_contact",
+      "reapproach_channel_preference": "unknown",
+      "cross_sell_potential": "none",
+      "reselling_likelihood": "none",
+      "suggested_products_for_future": [],
+      "do_not_contact": true,
+      "reasoning": "The customer explicitly stated this is the wrong number for the intended lead and has been receiving unwanted calls for years due to a misprint/misuse of his number."
+    },
+    "summary": "The agent called the customer thinking he was Mr. Ajmal Khan. The customer clarified that he has owned this number for 20 years and is not the person the agent is looking for. The customer is a Bank of Baroda employee and mentioned he already has insurance coverage through his employer.",
+    "key_quotes": [
+      "no mam, who has given to you, given this number to you?",
+      "this number belongs to me from last 20 years at least.",
+      "Main bank of Baroda mein hun, PSU hai, toh saare log wahi hai and sabka cover toh bank se hi hai."
+    ],
+    "red_flags": [
+      "wrong_number_lead"
+    ],
+    "extraction_confidence": "high"
+  }
+}

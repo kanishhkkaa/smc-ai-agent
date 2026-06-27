@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "4900243379171494",
+  "source_transcript": "agent-2086-1779188838-4386-Gaurav_delhi-2026_05_19_16_37_18-8769813405.json",
+  "source_name": "agent-2086-1779188838-4386-Gaurav_delhi-2026_05_19_16_37_18-8769813405.mp3",
+  "created_at_utc": "2026-05-22T11:11:59Z",
+  "transcript_stats": {
+    "segments": 39,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "Agent: Hi Neha baat kar rahi hu HDFC Life ke behalf se. ... Customer: Bole Neha ji boliye.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "35",
+        "evidence": "Customer: 35.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Gujarat",
+        "evidence": "Customer: Gujarat se bol raha sir.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Business owner",
+        "evidence": "Customer: Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: 10 lakh, 12 lakh tak.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Neha ji main 7 baje free ho jaunga. Please main abhi aapko bol dunga 6 baje ho jaunga. Fir aapka call aayega main nahi karunga aisa kuch nahi hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Haan use toh karte hai but abhi koi interest nahi hai yaar. Matlab share market ki sthiti down hai na.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "timing",
+          "quote": "Neha ji, Neha ji thoda time nahi hai ki mujhe call.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "market volatility concerns"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Customer: Matlab share market ki sthiti down hai na.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Agent: HDFC Life ne ek aisa unique plan design kiya hai sir jisme aapko same year se 36% ki tax free income aati hai whole life ke liye.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Neha ji main 7 baje free ho jaunga. ... Main aage tumhare saath baat ho jayegi.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-19T19:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% tax free income from same year for whole life",
+        "guaranteed return in writing on bond paper"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "did not ask about family protection needs",
+        "did not ask about existing insurance coverage"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was polite, provided details, and explicitly requested a callback at a specific time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself as calling from HDFC Life and immediately pitched a 36% tax-free income plan.",
+      "customer_response": "Customer was initially hesitant due to market conditions but became cooperative once the agent clarified the product was guaranteed.",
+      "key_event": "Customer raised an objection about market volatility, which the agent addressed by emphasizing the guaranteed nature of the product.",
+      "ending": "The call ended with a clear agreement to reconnect at 7 PM that evening."
+    },
+    "key_quotes": [
+      "Matlab share market ki sthiti down hai na.",
+      "Neha ji main 7 baje free ho jaunga."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "status": "success",
+  "profile_id": "9947645723309358",
+  "source_transcript": "agent-3100-1779686815-8174-Gaurav_delhi-2026_05_25_10_56_55-9911790206.json",
+  "source_name": "agent-3100-1779686815-8174-Gaurav_delhi-2026_05_25_10_56_55-9911790206.mp3",
+  "created_at_utc": "2026-05-27T01:30:03Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 112.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "Customer: Mari 40.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: Mam ye plan HDFC ka Sanchay Par Advantage plan hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Vijay Nagar, Ghaziabad",
+        "evidence": "Customer: Main Noida, Ghaziabad se, Vijay Nagar.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Uttar Pradesh",
+        "evidence": "Customer: Main Noida, Ghaziabad se, Vijay Nagar.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: Mari aise hoti hai ji 15-16. Agent: Hazaar, ek mahine ki? Customer: Haan.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Agent: Mam waise toh ye income kam hai hamare plan ke hisaab se, koi baat nahi. Chaliye thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "ignored_customer_budget"
+      ],
+      "agent_promises": [
+        "35 percent guarantee income from first year for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Agent determined customer income was too low for the product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent abruptly ended the call after learning the customer's income, showing no interest in further engagement."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life plan with a 35% guaranteed income promise.",
+      "customer_response": "The customer was passive and confused, asking where the agent was calling from.",
+      "key_event": "The agent explicitly stated the customer's income was too low for the plan and terminated the call.",
+      "ending": "The agent dismissed the customer after learning her monthly income was 15-16k."
+    },
+    "key_quotes": [
+      "HDFC ne ek best plan design kiya hai jisme aapko pehle hi saal se 35 percent ki guarantee income milti hai",
+      "Mam waise toh ye income kam hai hamare plan ke hisaab se, koi baat nahi."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

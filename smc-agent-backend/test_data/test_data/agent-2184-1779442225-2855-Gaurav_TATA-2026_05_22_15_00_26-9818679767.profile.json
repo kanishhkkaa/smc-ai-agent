@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "1934533692252258",
+  "source_transcript": "agent-2184-1779442225-2855-Gaurav_TATA-2026_05_22_15_00_26-9818679767.json",
+  "created_at_utc": "2026-06-01T03:21:10Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 257.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2184-1779442225-2855-Gaurav_TATA-2026_05_22_15_00_26-9818679767.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Hum maante hain humne le liya, hum mar gaye to humein kya fayda phir uska? Ghar wale maze lenge, ghar walon ko maze kaun lene dega apne?",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery; customer expressed skepticism about life insurance benefits and shifted interest to motor insurance.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "10-2-1996",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "200 se 2.5 lakh",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "aapka refundable hota hai plus tax free hota hai",
+      "return_claim_pct": null,
+      "return_claim_type": "guaranteed_return",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 14,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

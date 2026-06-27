@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3041557587038274",
+  "source_transcript": "agent-2192-1778840875-2668-Gaurav_delhi-2026_05_15_15_57_56-8109818154.json",
+  "created_at_utc": "2026-06-01T01:17:26Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 93.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1778840875-2668-Gaurav_delhi-2026_05_15_15_57_56-8109818154.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Main aapse phir baat karunga. Main abhi thoda busy tha.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer indicated he is busy and will talk later, allowing for a potential callback at 6 PM.",
+    "callback_time_iso": "2026-05-15T18:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Annual 9 lakh.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": "HDFC Life ka Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir first year se hi",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 8,
+    "bant_score": 4.0,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

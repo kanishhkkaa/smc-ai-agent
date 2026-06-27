@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "profile_id": "5144426607488952",
+  "source_transcript": "agent-2059-1778736389-9148-Gaurav_delhi-2026_05_14_10_56_29-8527225553.json",
+  "source_name": "agent-2059-1778736389-9148-Gaurav_delhi-2026_05_14_10_56_29-8527225553.mp3",
+  "created_at_utc": "2026-05-15T23:58:01Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 157.87,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "60",
+        "evidence": "Customer: 60 saal ka.",
+        "confidence": "high"
+      },
+      "age_band": {
+        "value": "55+",
+        "evidence": "Customer: 60 saal ka.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Agent: sir apni age aap bata sakte hain kitni hogi sir abhi health insurance ke liye? Customer: 60 saal ka. (Grammatical gender in Hindi)",
+        "confidence": "medium"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city_tier": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "language_preference": {
+        "value": "hindi",
+        "evidence": "Agent: Hello, good morning sir, main Naveen baat kar raha hun HDFC Life se... Customer: ji. (Hindi/Hinglish)",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Customer: meri salary nahi hai, retire ho chuka hun main.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band": {
+        "value": "not_disclosed",
+        "evidence": "Customer: meri salary nahi hai, retire ho chuka hun main.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: meri aur gharwali ki.",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "life_stage": {
+        "value": "retired",
+        "evidence": "Customer: meri salary nahi hai, retire ho chuka hun main.",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hot",
+        "evidence": "Customer: health insurance karani hai mere ko.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30.0,
+      "agent_talk_percent": 70.0,
+      "customer_question_count": 1,
+      "customer_interrupted_agent": false,
+      "agent_interrupted_customer": false,
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "salary nahi hai meri bhai.",
+          "resolved_by_agent": true
+        }
+      ],
+      "sentiment_arc": "improving",
+      "drop_off_point": "did_not_drop_off"
+    },
+    "financial_profile": {
+      "savings_capacity": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer: health insurance karani hai mere ko.",
+        "confidence": "high"
+      },
+      "tax_80c_saturated": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: health insurance karani hai mere ko. meri aur gharwali ki.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 0,
+      "bant_total": 6,
+      "lead_grade": "A",
+      "stage_reached": "commitment_given",
+      "next_action": "callback_scheduled",
+      "callback_datetime": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "agent_performance": {
+      "pitch_adherence_percent": 80.0,
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "discovery_question_count": 2,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high"
+    },
+    "product_fit": {
+      "product_pitched": "health insurance",
+      "fit_score_0_10": 8,
+      "mismatch": false,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min",
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_flag": "sales"
+    },
+    "approachability": {
+      "reachout_recommended": "yes",
+      "best_reapproach_window": "1_week",
+      "reapproach_channel_preference": "phone",
+      "cross_sell_potential": "high",
+      "reselling_likelihood": "high",
+      "suggested_products_for_future": [
+        "health_insurance"
+      ],
+      "do_not_contact": false,
+      "reasoning": "The customer explicitly expressed interest in health insurance for himself and his wife. The agent successfully pivoted from a rejected investment pitch to a relevant product need."
+    },
+    "summary": "The agent initially pitched a guaranteed investment plan, which the customer rejected due to being retired. The customer then expressed a clear need for health insurance for himself and his wife. The agent successfully pivoted to the health insurance requirement and promised a follow-up call from a specialist.",
+    "key_quotes": [
+      "meri salary nahi hai, retire ho chuka hun main.",
+      "health insurance karani hai mere ko.",
+      "meri aur gharwali ki."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim"
+    ],
+    "extraction_confidence": "high"
+  }
+}

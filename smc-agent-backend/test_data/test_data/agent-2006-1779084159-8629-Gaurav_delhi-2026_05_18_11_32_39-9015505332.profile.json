@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "3805976366792998",
+  "source_transcript": "agent-2006-1779084159-8629-Gaurav_delhi-2026_05_18_11_32_39-9015505332.json",
+  "source_name": "agent-2006-1779084159-8629-Gaurav_delhi-2026_05_18_11_32_39-9015505332.mp3",
+  "created_at_utc": "2026-05-20T11:05:53Z",
+  "transcript_stats": {
+    "segments": 11,
+    "duration_seconds": 110.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Bhavesh Kumar",
+      "evidence": "Mr. Bhavesh Kumar ji se baat ho rahi hai?",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Mr. Bhavesh Kumar ji se baat ho rahi hai?",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Chaliye main apne advisor se baat karta hun, mere jo hai na personal advisor unse baat karta hun, hoga toh batao, aap mujhe detail bhej dijiye WhatsApp pe.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "aap mujhe detail bhej dijiye WhatsApp pe.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Chaliye main apne advisor se baat karta hun, mere jo hai na personal advisor unse baat karta hun",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "guaranteed and regular income from the first year",
+        "insurance cover from the first day",
+        "income tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed saving plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about current financial goals or existing investments."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to reviewing details via WhatsApp and consulting their personal advisor, indicating a moderate level of interest."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves and immediately pitched a guaranteed savings plan, to which the customer responded neutrally.",
+      "customer_response": "The customer was passive but inquisitive, asking about the premium structure before deferring to their advisor.",
+      "key_event": "The customer asked about the premium structure (EMI vs lump sum) and then requested details to consult their advisor.",
+      "ending": "The call ended with the customer requesting details on WhatsApp to discuss with their personal advisor."
+    },
+    "key_quotes": [
+      "Ye kitna lump sum amount wala hai ki ye isme premium hai EMI mein?",
+      "Chaliye main apne advisor se baat karta hun, mere jo hai na personal advisor unse baat karta hun"
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

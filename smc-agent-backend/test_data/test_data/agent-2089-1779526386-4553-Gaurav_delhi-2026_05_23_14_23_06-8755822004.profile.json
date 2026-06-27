@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5608449507335756",
+  "source_transcript": "agent-2089-1779526386-4553-Gaurav_delhi-2026_05_23_14_23_06-8755822004.json",
+  "created_at_utc": "2026-06-01T02:28:42Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2089-1779526386-4553-Gaurav_delhi-2026_05_23_14_23_06-8755822004.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Sir abhi mereko koi plan ke baare mein jaankari nahi chahiye. Abhi main kuch nahi aisa dekh raha hun.",
+    "summary": "The agent pitched an HDFC Life guaranteed plan, but the customer declined, stating they were not interested in any plan information at this time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki guaranteed income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

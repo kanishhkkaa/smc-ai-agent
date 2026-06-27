@@ -1,0 +1,169 @@
+{
+  "status": "success",
+  "profile_id": "3854443873370613",
+  "source_transcript": "agent-3052-1779169825-1069-Gaurav_delhi-2026_05_19_11_20_25-9310565978.json",
+  "source_name": "agent-3052-1779169825-1069-Gaurav_delhi-2026_05_19_11_20_25-9310565978.mp3",
+  "created_at_utc": "2026-05-22T11:27:31Z",
+  "transcript_stats": {
+    "segments": 23,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Anil",
+      "evidence": "Anil baat kar raha hoon sir HDFC Life ke behalf se",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "59",
+        "evidence": "59",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Ballabhgarh Dairy",
+        "evidence": "Ballabhgarh Dairy",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi se baat kar raha hoon ji",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "daily_wage",
+        "evidence": "Main ji mazdoori karta hoon ji.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "mazdoori",
+        "evidence": "Main ji mazdoori karta hoon ji.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "kaam mil gaya toh theek thaak hai nahi toh hota hi nahi kaam kuch",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Haan ji boliye.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "kaam mil gaya toh theek thaak hai nahi toh hota hi nahi kaam kuch",
+        "confidence": "medium"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income for whole life",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a daily wage laborer with unstable income, unsuitable for the pitched insurance product.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is a daily wage laborer with unstable income, making him a poor fit for a long-term insurance product."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself as calling from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive and provided brief, factual answers to the agent's questions.",
+      "key_event": "The agent realized the customer's financial profile (daily wage laborer) did not match the product target.",
+      "ending": "The agent abruptly ended the call after learning the customer's occupation and income status."
+    },
+    "key_quotes": [
+      "Main ji mazdoori karta hoon ji.",
+      "Mahine ka kya hai ji, kaam mil gaya toh theek thaak hai nahi toh hota hi nahi kaam kuch."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "tier_3",
+      "life_stage": "pre_retirement",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

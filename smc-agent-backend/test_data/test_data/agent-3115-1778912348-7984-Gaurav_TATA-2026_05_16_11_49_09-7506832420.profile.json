@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "profile_id": "4180571729085449",
+  "source_transcript": "2026_05_16/agent-3115-1778912348-7984-Gaurav_TATA-2026_05_16_11_49_09-7506832420.json",
+  "source_name": "agent-3115-1778912348-7984-Gaurav_TATA-2026_05_16_11_49_09-7506832420.mp3",
+  "created_at_utc": "2026-06-01T04:52:37Z",
+  "transcript_stats": {
+    "segments": 59,
+    "duration_seconds": 235.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Rajwal",
+      "evidence": "Agent: Accha, naam kya hoga sir aapka? Customer: Rajwal.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: Meri 26.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job. Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Customer: 3 lakhs. Around 3 lakhs, 350.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Ye number pe details bhej do, main wahan se baat karta hun aur batata hun isko.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent: ...pension ki facility mil jaati hai... Customer: Ye number pe details bhej do...",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Ye number pe details bhej do, main wahan se baat karta hun aur batata hun isko.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-17T11:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": "Tata Param Raksha Life Pro Plus",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "ulip",
+        "guaranteed_savings_plan",
+        "annuity",
+        "mutual_fund_sip",
+        "child_plan",
+        "other"
+      ],
+      "reasoning": "Customer was receptive, asked for details, and agreed to a specific callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a Tata AIA plan combining term, mutual funds, and pension benefits; customer responded with his age.",
+      "customer_response": "Engaged and inquisitive, asking for product details to review.",
+      "key_event": "Customer requested details be sent to his number and scheduled a callback for the next morning.",
+      "ending": "The agent and customer agreed to a callback for the following day at 11:00 AM."
+    },
+    "key_quotes": [
+      "Ye number pe details bhej do, main wahan se baat karta hun aur batata hun isko."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

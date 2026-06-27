@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "profile_id": "6581381023185281",
+  "source_transcript": "agent-2098-1779513839-215-Gaurav_delhi-2026_05_23_10_53_59-9560534445.json",
+  "created_at_utc": "2026-06-01T02:30:41Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 60.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2098-1779513839-215-Gaurav_delhi-2026_05_23_10_53_59-9560534445.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Because I don't have the money to invest in a second product.",
+    "summary": "The customer declined the HDFC Life pitch, stating she already has a policy and lacks the funds for a second investment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki income dena start kar raha hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

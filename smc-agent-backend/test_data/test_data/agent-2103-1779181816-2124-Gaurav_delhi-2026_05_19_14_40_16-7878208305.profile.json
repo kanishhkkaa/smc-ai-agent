@@ -1,0 +1,176 @@
+{
+  "status": "success",
+  "profile_id": "4601482736875948",
+  "source_transcript": "agent-2103-1779181816-2124-Gaurav_delhi-2026_05_19_14_40_16-7878208305.json",
+  "source_name": "agent-2103-1779181816-2124-Gaurav_delhi-2026_05_19_14_40_16-7878208305.mp3",
+  "created_at_utc": "2026-05-22T11:15:09Z",
+  "transcript_stats": {
+    "segments": 20,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Customer: 47.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: mera khud ka ye construction ka kaam hai mera.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "construction business",
+        "evidence": "Customer: mera khud ka ye construction ka kaam hai mera.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: Mahine ka 40-50. (40-50k/month = 4.8-6 LPA)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi, mere paas 5-6 plan chal rahe hain sir.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "Nahi, mere paas 5-6 plan chal rahe hain sir.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "Customer: Mahine ka 40-50. Agent: Toh sir agar main aapko saal ka ek 60,000 rupaye ke according investment plan bataun...",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: mere paas 5-6 plan chal rahe hain sir.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: mera khud ka ye construction ka kaam hai mera.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "first year se hi guaranteed 36% ki income milna shuru ho jaati hai",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed income plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer already has multiple insurance plans and showed no interest.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated they already have 5-6 plans and declined the offer."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced themselves as calling from HDFC Life and immediately pitched a guaranteed income plan.",
+      "customer_response": "The customer was passive and dismissive, eventually shutting down the pitch by citing existing commitments.",
+      "key_event": "The customer rejected the pitch by stating they already have 5-6 insurance plans.",
+      "ending": "The agent attempted to push the premium despite the customer's objection, leading to an unclear response and end of call."
+    },
+    "key_quotes": [
+      "Nahi, mere paas 5-6 plan chal rahe hain sir."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 4,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

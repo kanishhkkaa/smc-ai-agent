@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "profile_id": "2382165507354391",
+  "source_transcript": "2026_05_29/agent-2103-1780055416-9519-Gaurav_delhi-2026_05_29_17_20_17-9425219473.json",
+  "source_name": "agent-2103-1780055416-9519-Gaurav_delhi-2026_05_29_17_20_17-9425219473.mp3",
+  "created_at_utc": "2026-06-01T05:45:14Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 74.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "70",
+        "evidence": "meri age 70 ho gayi beta",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "phir retired person hain",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Nahi nahi, haan ek baat batao mere ko.",
+        "confidence": "medium"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 1,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "monthly income hota rahe, hamari umar mein",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 2,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "first year se income",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 70 years old and retired, while the agent pitched a product with tax benefits and long-term income that did not address the customer's specific need for senior citizen monthly income.",
+      "missed_opportunities": [
+        "Did not address customer's query about senior citizen monthly income plans."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The agent abruptly ended the call when the customer asked a relevant question about a competitor's product, showing no interest in further engagement."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced himself from HDFC Life and the customer responded positively.",
+      "customer_response": "The customer was initially polite and engaged, then became inquisitive about senior citizen investment options.",
+      "key_event": "The customer asked about senior citizen investment options for monthly income, which the agent ignored and terminated the call.",
+      "ending": "The agent abruptly thanked the customer and ended the call after the customer asked about LIC products."
+    },
+    "key_quotes": [
+      "meri age 70 ho gayi beta",
+      "Ye LIC mein koi hamare senior citizen ke liye bhi diya aata hai, jisme 50-60 saal ka hai, ek crore ya nahi daal de, toh monthly income hota rahe, hamari umar mein."
+    ],
+    "red_flags": [
+      "agent_abruptly_terminated_call"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "1463783760897811",
+  "source_transcript": "2026_05_27/agent-3049-1779862703-9922-Gaurav_TATA-2026_05_27_11_48_23-9028067675.json",
+  "source_name": "agent-3049-1779862703-9922-Gaurav_TATA-2026_05_27_11_48_23-9028067675.mp3",
+  "created_at_utc": "2026-06-01T05:23:58Z",
+  "transcript_stats": {
+    "segments": 55,
+    "duration_seconds": 213.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Shubham Bonde",
+      "evidence": "Shubham Rajendra Bonde",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Pune",
+        "evidence": "Pune",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Maharashtra",
+        "evidence": "Pune",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "14 LPA",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Done done done.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "abhi toh main office mein hun, toh zyada lamba discussion toh main nahi kar paunga abhi.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Toh aap zaroor market ki bhi knowledge rakhte honge sir, aap SIP, mutual fund, stock, right?",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Shubham Rajendra Bonde",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "commitment_given",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-27T15:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": 70784,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 5,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "ulip",
+        "guaranteed_savings_plan",
+        "annuity",
+        "health_insurance"
+      ],
+      "reasoning": "Customer was engaged, provided details, and agreed to a specific callback time."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from Tata AIA and pitched a combined plan with term cover and mutual fund returns.",
+      "customer_response": "Engaged throughout the call, providing personal details and agreeing to a follow-up.",
+      "key_event": "The customer requested a callback later due to being in the office, and a senior manager took over to finalize the appointment.",
+      "ending": "The senior agent confirmed a callback for 3:00 PM and 7:00 PM, and the customer provided his full name."
+    },
+    "key_quotes": [
+      "14 LPA",
+      "abhi toh main office mein hun, toh zyada lamba discussion toh main nahi kar paunga abhi.",
+      "Done done done."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "morning",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

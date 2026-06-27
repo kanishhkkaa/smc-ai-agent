@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "2948621233344991",
+  "source_transcript": "agent-3006-1779169340-6617-Gaurav_TATA-2026_05_19_11_12_21-9811605455.json",
+  "source_name": "agent-3006-1779169340-6617-Gaurav_TATA-2026_05_19_11_12_21-9811605455.mp3",
+  "created_at_utc": "2026-05-22T11:20:51Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 137.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "52",
+        "evidence": "Customer: Mam meri age 52.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Mam hai toh choti si job hi hai zyada nahi hai.",
+        "confidence": "medium"
+      },
+      "occupation_detail": {
+        "value": "Private sector job",
+        "evidence": "Customer: Private sector mein utna limited scope hai.",
+        "confidence": "medium"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Chaliye koi nahi mam thank you.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Main wahi puch raha hu na ki isme minimum jo investment hai woh kitni hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 1,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 CR ka term cover"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined term plus mutual fund plan",
+      "premium_quoted_inr": 246000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The quoted premium of 2.46 lakh annually is likely unaffordable for the customer who described their job as small with limited scope.",
+      "missed_opportunities": [
+        "Did not explore lower premium options or alternative products after the initial rejection."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer expressed that the premium was too high and declined further interest."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined term and mutual fund plan from Tata AIA, and the customer responded neutrally.",
+      "customer_response": "Passive and cautious, focusing on the cost of the product.",
+      "key_event": "Agent quoted an annual premium of 2.46 lakh, which the customer did not pursue.",
+      "ending": "Customer politely declined the offer after hearing the premium amount."
+    },
+    "key_quotes": [
+      "Main wahi puch raha hu na ki isme minimum jo investment hai woh kitni hai?",
+      "Chaliye koi nahi mam thank you."
+    ],
+    "red_flags": [
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 2,
+      "lead_grade": "D",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

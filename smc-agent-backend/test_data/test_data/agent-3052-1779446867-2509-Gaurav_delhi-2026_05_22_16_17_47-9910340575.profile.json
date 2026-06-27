@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "profile_id": "2110980746355215",
+  "source_transcript": "agent-3052-1779446867-2509-Gaurav_delhi-2026_05_22_16_17_47-9910340575.json",
+  "created_at_utc": "2026-06-01T03:05:30Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 206.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3052-1779446867-2509-Gaurav_delhi-2026_05_22_16_17_47-9910340575.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured",
+      "customer_asked_question",
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Chalo yaar, abhi salary badhne do pehle, phir dekhte hain, theek hai? ... Are bhai, main keh raha hun pehle salary to badhne de yaar.",
+    "summary": "Agent pitched HDFC Sanchay Par Advantage; customer declined citing financial constraints and existing policies, ultimately rejecting the offer due to lack of funds.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki guaranteed income aati hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 29,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "profile_id": "3554048838837625",
+  "source_transcript": "2026_05_29/agent-3055-1780056422-8602-Gaurav_TATA-2026_05_29_17_37_03-9711239054.json",
+  "source_name": "agent-3055-1780056422-8602-Gaurav_TATA-2026_05_29_17_37_03-9711239054.mp3",
+  "created_at_utc": "2026-06-01T05:47:41Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 213.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "57",
+        "evidence": "Customer: 57.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: \"mera Renu Renu Bhai se Renu Bhai ka mera agency hai.\" (Implies male)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: \"mera Renu Renu Bhai se Renu Bhai ka mera agency hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Freelancer/Agency owner",
+        "evidence": "Customer: \"mera Renu Renu Bhai se Renu Bhai ka mera agency hai.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: \"Matlab main na 50k ke karib kar leta hun 50k.\" (50k/month = 6L/yr)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Customer: \"Budget toh madam, kyunki beta bhi toh kamata hi hai.\" (Implies family/kids)",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Ji.\", \"Accha.\", \"Nahi nahi, koi baat nahi.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer previously worked at Max Life and holds 11 policies.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "Customer: \"Budget toh madam, kyunki beta bhi toh kamata hi hai.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 2,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "35% of first annual premium as cash bonus from first year for whole life"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "Customer already holds 11 policies, may be saturated.",
+      "missed_opportunities": [
+        "Did not ask about specific financial goals for the new policy."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer is engaged and sharing personal financial details, though he already holds 11 policies."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from HDFC Life and pitched a plan with a 35% cash bonus, to which the customer responded with interest.",
+      "customer_response": "The customer was engaged and cooperative, answering questions about his income and existing policies.",
+      "key_event": "The customer clarified his monthly income is around 50k after initially confusing the agent with lower figures.",
+      "ending": "The call ended while the agent was discussing family income, with no final decision or callback set."
+    },
+    "key_quotes": [
+      "Matlab main na 50k ke karib kar leta hun 50k.",
+      "Ye pehle pehle li hai madam, jab main Max Life mein kaam kar raha tha."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7022790890106379",
+  "source_transcript": "agent-2091-1779427000-4894-Gaurav_delhi-2026_05_22_10_46_40-9818961527.json",
+  "created_at_utc": "2026-06-01T02:52:35Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2091-1779427000-4894-Gaurav_delhi-2026_05_22_10_46_40-9818961527.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Madam mere paas koi saving plan nahi hai. Aur na main rakhna chahta.",
+    "summary": "The agent pitched an HDFC Life saving plan, but the customer explicitly refused, stating he does not want any such plan.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company first year se na aapko 40 percent ki income dena start karti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 25,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

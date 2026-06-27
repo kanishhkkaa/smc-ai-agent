@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "1796623858751152",
+  "source_transcript": "agent-3012-1778850582-9902-Gaurav_TATA-2026_05_15_18_39_43-7503134015.json",
+  "source_name": "agent-3012-1778850582-9902-Gaurav_TATA-2026_05_15_18_39_43-7503134015.mp3",
+  "created_at_utc": "2026-05-18T06:22:50Z",
+  "transcript_stats": {
+    "segments": 79,
+    "duration_seconds": 257.26,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: Delhi se.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Achcha.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Agent: Child plan offer kar raha hai.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Agent: Aap chahe to apne according amount kam ya zyada kar sakte hain... Customer: Theek hai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "10% tak ka guaranteed return",
+        "30,000 rupaye aapko aapke saving account mein credit ho jayega",
+        "16 lakh rupaye ka amount de diya jayega"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Child Plan",
+      "premium_quoted_inr": 100000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent is pushing a specific product without conducting any discovery on the customer's actual financial needs or profile.",
+      "missed_opportunities": [
+        "No discovery questions asked about existing investments or family goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "child_plan",
+        "endowment",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is listening and asking clarifying questions about the plan, showing moderate interest in the pitch."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opens with a cold call claiming to be from Central Bank of India offering a child plan for the bank's 50th anniversary.",
+      "customer_response": "The customer is passive and inquisitive, asking clarifying questions about the plan structure and returns.",
+      "key_event": "The agent promises specific guaranteed returns and cash bonuses, which the customer questions regarding tax implications.",
+      "ending": "The agent attempts to hand off the lead to a manager for a face-to-face meeting."
+    },
+    "key_quotes": [
+      "10% tak ka guaranteed return diya ja raha hai.",
+      "16 lakh rupaye ka amount de diya jayega jo ki poori tarah tax free hoga.",
+      "Are kya, kya pata kab tak wo koi aur dusra wo nikal de."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "tier_1",
+      "life_stage": "not_disclosed",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

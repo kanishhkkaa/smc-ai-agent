@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6011436832040260",
+  "source_transcript": "agent-2170-1779448114-3097-Gaurav_TATA-2026_05_22_16_38_35-8130893390.json",
+  "created_at_utc": "2026-06-01T03:21:11Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 79.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1779448114-3097-Gaurav_TATA-2026_05_22_16_38_35-8130893390.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi kar paunga madam. Abhi mere paas time bhi nahi hai, busy hun main.",
+    "summary": "Agent pitched a Tata AIA combined plan and attempted discovery, but the customer repeatedly refused and stated he is busy and not interested.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "32",
+        "evidence": "Umar 32.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 24,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

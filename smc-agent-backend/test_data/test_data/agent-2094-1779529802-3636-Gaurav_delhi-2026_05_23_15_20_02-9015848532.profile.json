@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6334750542840538",
+  "source_transcript": "agent-2094-1779529802-3636-Gaurav_delhi-2026_05_23_15_20_02-9015848532.json",
+  "created_at_utc": "2026-06-01T02:30:06Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2094-1779529802-3636-Gaurav_delhi-2026_05_23_15_20_02-9015848532.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ab aapne sir phone kara, mere ko main dopahar mein so raha hun, kuch ya padh raha hun, but aapne kar diya. Aapne apni baat rakh di aur ab keh diya ki main aapki age mein plan kaam nahi karega. Kyun nahi karega? Mujhe ye reason do.",
+    "summary": "Agent pitched an HDFC Life plan, performed discovery, and initially disqualified the customer, leading to a confrontational exchange where the customer demanded an explanation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Vipin Kumar",
+        "evidence": "Yes, may I talk to Mr. Vipin Kumar? Yes.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "20",
+        "evidence": "Meri age 20 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "student",
+        "evidence": "Study.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "pehle saal se hi 40 percent ki income dena shuru kar deti hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

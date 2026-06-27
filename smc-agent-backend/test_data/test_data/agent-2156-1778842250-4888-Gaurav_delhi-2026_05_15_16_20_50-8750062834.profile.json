@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8637505920987998",
+  "source_transcript": "agent-2156-1778842250-4888-Gaurav_delhi-2026_05_15_16_20_50-8750062834.json",
+  "created_at_utc": "2026-06-01T01:16:25Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 63.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2156-1778842250-4888-Gaurav_delhi-2026_05_15_16_20_50-8750062834.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Customer: 22. Agent: 22, job karte hai business sir ya padhai kar rahe hai abhi? Customer: Job karte hai.",
+    "summary": "Agent pitched HDFC Life plan with income benefits, completed partial discovery (age 22, salaried), and the call ended before any outcome or commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "22",
+        "evidence": "22.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se na 40 percent ki income milni shuru ho jaati hai",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

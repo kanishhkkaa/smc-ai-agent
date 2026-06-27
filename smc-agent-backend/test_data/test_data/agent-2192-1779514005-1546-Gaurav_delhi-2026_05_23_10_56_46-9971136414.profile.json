@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8988076778108782",
+  "source_transcript": "agent-2192-1779514005-1546-Gaurav_delhi-2026_05_23_10_56_46-9971136414.json",
+  "created_at_utc": "2026-06-01T02:34:19Z",
+  "transcript_stats": {
+    "segments": 15,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2192-1779514005-1546-Gaurav_delhi-2026_05_23_10_56_46-9971136414.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "I know, mujhe main jaanta hun. Dekhiye aapka kaam hai, but aap ye bhi jaan koshish kijiye na ki saamne jinse aap baat kar rahe hain, woh kahin busy toh nahi hain",
+    "summary": "The customer expressed irritation at the agent's unsolicited pitch and advised on better communication etiquette, effectively ending the conversation without interest.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "35 percent ki income milna start ho jata hai sir, first year se",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 32,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

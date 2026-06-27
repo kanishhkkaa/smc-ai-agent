@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SMC Insurance — AI Agent</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+</head>
+<body>
+
+<div class="page">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-icon"><i class="ti ti-shield-check"></i></div>
+      <div>
+        <p class="logo-title">SMC Insurance</p>
+        <p class="logo-sub">AI Agent</p>
+      </div>
+    </div>
+
+    <p class="sidebar-section-label">Quick Actions</p>
+    <div class="sidebar-actions">
+      <button class="sidebar-btn" onclick="quickAsk('Show me all calls from today')">
+        <i class="ti ti-phone-incoming"></i> Today's calls
+      </button>
+      <button class="sidebar-btn" onclick="quickAsk('Which agent had the best performance this week?')">
+        <i class="ti ti-trophy"></i> Top agent
+      </button>
+      <button class="sidebar-btn" onclick="quickAsk('Show calls with negative customer sentiment')">
+        <i class="ti ti-mood-sad"></i> Negative sentiment
+      </button>
+      <button class="sidebar-btn" onclick="quickAsk('What is the CSAT score for today?')">
+        <i class="ti ti-chart-bar"></i> CSAT score
+      </button>
+      <button class="sidebar-btn" onclick="quickAsk('Summarise the longest call of this week')">
+        <i class="ti ti-clock"></i> Longest call
+      </button>
+      <button class="sidebar-btn" onclick="quickAsk('List all agents and their call count today')">
+        <i class="ti ti-users"></i> Agent list
+      </button>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="user-pill">
+        <div class="user-avatar">KG</div>
+        <div>
+          <p class="user-name">Kanishka</p>
+          <p class="user-role">Manager</p>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main Chat -->
+  <main class="chat-main">
+
+    <!-- Header -->
+    <div class="chat-header">
+      <div class="header-left">
+        <div class="bot-avatar"><i class="ti ti-robot"></i></div>
+        <div>
+          <p class="bot-name">SMC AI Agent</p>
+          <p class="bot-status"><span class="online-dot"></span>Online · Powered by GLM</p>
+        </div>
+      </div>
+      <div class="header-right">
+        <button class="icon-btn" onclick="clearChat()" title="Clear chat"><i class="ti ti-trash"></i></button>
+      </div>
+    </div>
+
+    <!-- Messages -->
+    <div class="chat-body" id="chatBody">
+      <div class="msg bot">
+        <div class="msg-avatar"><i class="ti ti-robot"></i></div>
+        <div class="bubble">
+          <p>Hi! I'm the <strong>SMC AI Agent</strong>. I can help you with:</p>
+          <ul>
+            <li>Finding call logs by date or agent</li>
+            <li>Customer sentiment analysis</li>
+            <li>Agent performance summaries</li>
+            <li>CSAT scores and trends</li>
+          </ul>
+          <p style="margin-top:10px">What would you like to know?</p>
+          <div class="chips">
+            <span class="chip" onclick="quickAsk('Show me calls from today')">Today's calls</span>
+            <span class="chip" onclick="quickAsk('Which agent performed best this week?')">Top agent</span>
+            <span class="chip" onclick="quickAsk('Show negative sentiment calls')">Negative calls</span>
+            <span class="chip" onclick="quickAsk('What is the CSAT score today?')">CSAT today</span>
+          </div>
+          <span class="msg-time">just now</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div class="chat-footer">
+      <div class="input-wrap">
+        <input
+          id="msgInput"
+          type="text"
+          placeholder="Ask about call logs, agents, sentiment..."
+          onkeydown="if(event.key==='Enter') sendMsg()"
+          autocomplete="off"
+        />
+        <button class="send-btn" id="sendBtn" onclick="sendMsg()">
+          <i class="ti ti-send"></i>
+        </button>
+      </div>
+      <p class="footer-note">SMC Insurance · Conversation Intelligence · Responses may not reflect live data yet</p>
+    </div>
+
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

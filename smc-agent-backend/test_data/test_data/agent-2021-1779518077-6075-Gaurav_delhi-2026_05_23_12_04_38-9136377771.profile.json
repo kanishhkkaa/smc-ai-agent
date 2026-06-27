@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9414455679024661",
+  "source_transcript": "agent-2021-1779518077-6075-Gaurav_delhi-2026_05_23_12_04_38-9136377771.json",
+  "created_at_utc": "2026-06-01T02:19:46Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 80.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779518077-6075-Gaurav_delhi-2026_05_23_12_04_38-9136377771.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Ma'am abhi to filhal to nahi, aap ek number note kijiye, unko unko plan chahiye tha.",
+    "summary": "The customer redirected the agent to another person, Sarthak Datta, who is interested in the insurance plan, and provided his contact details.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "RK Yadav",
+        "evidence": "Aapka naam kya tha sir? — RK Yadav.",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 31,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": "success",
+  "profile_id": "8154312177809955",
+  "source_transcript": "agent-3054-1779166940-5425-Gaurav_delhi-2026_05_19_10_32_20-9810544139.json",
+  "source_name": "agent-3054-1779166940-5425-Gaurav_delhi-2026_05_19_10_32_20-9810544139.mp3",
+  "created_at_utc": "2026-05-22T11:27:45Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 139.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "62",
+        "evidence": "Customer: 62 ke hain madam 60 ke kahan hain.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Customer: Roti khani hai toh kaam toh karna hi padega. (Implied male context in Hindi grammar/tone, but strictly following instructions to not infer from name; however, the customer's own speech confirms gendered self-reference).",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Nahi nahi hum apna business run karte hain madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "business owner",
+        "evidence": "Customer: Nahi nahi hum apna business run karte hain madam.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: Nahi hamara toh kam se kam pandrah lakh rupaye ki income hai.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Nahi nahi humein chahiye hi nahi plan humein nahi chahiye plan hum toh retired aadmi hain humne plan lekar kya karna hai ab.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi nahi humein chahiye hi nahi plan humein nahi chahiye plan hum toh retired aadmi hain humne plan lekar kya karna hai ab.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Nahi nahi bache toh apne aap hi lenge na madam hamari thodi sunte hain bache ab bache toh apne aap mein padhe likhe hote hain woh hamari koi sunte hain sir.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 3,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent guaranteed income in first year",
+        "double tax benefit",
+        "8 percent compounded rate of interest"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "guaranteed income plan",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 62 and retired; the product is not suitable for his life stage.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer explicitly stated he does not want any plans and is retired, showing no interest in further contact."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life to offer a guaranteed income plan, and the customer responded politely.",
+      "customer_response": "Customer was initially polite but became firm and dismissive once the pitch was understood as irrelevant to his retirement status.",
+      "key_event": "Customer corrected his age to 62 and firmly rejected the product, stating he is retired and has no interest.",
+      "ending": "Customer ended the call by stating he does not want any plans and thanked the agent to close the conversation."
+    },
+    "key_quotes": [
+      "Nahi nahi humein chahiye hi nahi plan humein nahi chahiye plan hum toh retired aadmi hain humne plan lekar kya karna hai ab.",
+      "Roti khani hai toh kaam toh karna hi padega."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 6,
+      "lead_grade": "B",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

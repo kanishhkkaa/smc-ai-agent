@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6948010974382214",
+  "source_transcript": "agent-2046-1779539590-4097-Gaurav_TATA-2026_05_23_18_03_10-9999339266.json",
+  "created_at_utc": "2026-06-01T02:23:31Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 94.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2046-1779539590-4097-Gaurav_TATA-2026_05_23_18_03_10-9999339266.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Aaram karta hun ghar pe.",
+    "summary": "Agent pitched the Tata Param Raksha plan and completed discovery, but the call ended without a clear commitment or refusal from the customer.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "49",
+        "evidence": "49",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "Aaram karta hun ghar pe.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha",
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

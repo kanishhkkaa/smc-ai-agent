@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6938280642640606",
+  "source_transcript": "agent-2021-1779513850-299-Gaurav_delhi-2026_05_23_10_54_11-9560599966.json",
+  "created_at_utc": "2026-06-01T02:19:44Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779513850-299-Gaurav_delhi-2026_05_23_10_54_11-9560599966.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Agent: accha sir aapki annual income kitni hogi sir Customer: [unclear]",
+    "summary": "The agent attempted to pitch a Tata AIA plan and initiated discovery, but the call ended abruptly after the customer provided an unclear response regarding their income.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "40",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se hi 80000 tak ka tax free return dena start karti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 6,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

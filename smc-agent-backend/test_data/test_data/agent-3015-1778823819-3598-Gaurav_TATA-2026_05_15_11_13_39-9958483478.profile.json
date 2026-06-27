@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2374947934134536",
+  "source_transcript": "agent-3015-1778823819-3598-Gaurav_TATA-2026_05_15_11_13_39-9958483478.json",
+  "created_at_utc": "2026-06-01T01:20:21Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 101.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3015-1778823819-3598-Gaurav_TATA-2026_05_15_11_13_39-9958483478.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Madam ji, humein call aa raha hai, thodi der mein call kar logi?",
+    "summary": "Agent pitched Tata Param Raksha Pro Plus plan, customer asked about premium amount and life cover, then requested a callback, citing a a call incoming. incoming. incoming.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "36",
+        "evidence": "Madam, meri toh 36 saal hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Tata Param Raksha Pro Plus",
+    "compliance": {
+      "return_claim_quote": "monthly 1 lakh amount provide rehta hai sir",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 16,
+    "bant_score": 2.5,
+    "lead_band": "B",
+    "_source": "llm"
+  }
+}

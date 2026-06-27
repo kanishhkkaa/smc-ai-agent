@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2823658432093495",
+  "source_transcript": "agent-2014-1779605205-3207-Gaurav_delhi-2026_05_24_12_16_45-7379555562.json",
+  "created_at_utc": "2026-06-01T02:05:06Z",
+  "transcript_stats": {
+    "segments": 27,
+    "duration_seconds": 72.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2014-1779605205-3207-Gaurav_delhi-2026_05_24_12_16_45-7379555562.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "no_money"
+    ],
+    "confidence": "high",
+    "evidence": "Sawan bhai abhi paisa aisa nahi hai, loan bahut hai. Toh abhi toh pehle loan khatam kar dein tab savings karenge.",
+    "summary": "The customer declined the HDFC Life investment plan, citing existing loan commitments and a lack of current funds for savings.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 22,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

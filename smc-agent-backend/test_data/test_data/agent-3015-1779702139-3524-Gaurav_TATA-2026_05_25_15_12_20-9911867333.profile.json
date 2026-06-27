@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "8702680095030898",
+  "source_transcript": "agent-3015-1779702139-3524-Gaurav_TATA-2026_05_25_15_12_20-9911867333.json",
+  "source_name": "agent-3015-1779702139-3524-Gaurav_TATA-2026_05_25_15_12_20-9911867333.mp3",
+  "created_at_utc": "2026-05-27T01:25:32Z",
+  "transcript_stats": {
+    "segments": 67,
+    "duration_seconds": 226.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Govind Singh",
+      "evidence": "Agent: Pura naam kya likhte hain sir? Customer: Govind Singh.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "38",
+        "evidence": "Customer: Meri 38.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "The customer is referred to as 'sir' throughout the call.",
+        "confidence": "medium"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Customer: Delhi ki hun main, Delhi ki.",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Customer: Delhi ki hun main, Delhi ki.",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job, job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "Customer: Main annually 12 lakh ke aas paas.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: Badhiya ji.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "timing",
+          "quote": "Main, main, actually thoda sa main kaam mein phasa hun, is time sun nahi paunga.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "Customer: Ye ULIP wala hoga, isme meri invest ho jayega paisa, aisa kuch hai na?",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Main, main, actually thoda sa main kaam mein phasa hun... main samajh lunga phir.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "discovery_done",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T12:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "1 crore term insurance",
+        "10 lakh medical cover",
+        "ULIP investment facility"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Term plus ULIP plan",
+      "premium_quoted_inr": 100620,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not clarify the specific ULIP fund options or charges beyond the premium."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "ulip",
+        "term_insurance",
+        "health_insurance"
+      ],
+      "reasoning": "Customer agreed to a follow-up call tomorrow at noon to discuss the plan further."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced herself from Tata AIA and pitched a new term plus ULIP plan, to which the customer responded positively.",
+      "customer_response": "The customer was initially passive but became engaged when discussing the product features, eventually requesting a callback due to work constraints.",
+      "key_event": "The customer requested to reschedule the call because he was busy with work and needed time to understand the plan.",
+      "ending": "The agent confirmed a callback for tomorrow at 12:00 PM and thanked the customer."
+    },
+    "key_quotes": [
+      "Ye ULIP wala hoga, isme meri invest ho jayega paisa, aisa kuch hai na?",
+      "Main, main, actually thoda sa main kaam mein phasa hun, is time sun nahi paunga."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_1",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

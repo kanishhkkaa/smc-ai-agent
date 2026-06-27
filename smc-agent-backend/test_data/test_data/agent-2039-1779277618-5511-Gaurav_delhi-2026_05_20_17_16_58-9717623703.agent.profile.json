@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "agent_id": "2039",
+  "call_id": "agent-2039-1779277618-5511-Gaurav_delhi-2026_05_20_17_16_58-9717623703",
+  "source_file": "agent-2039-1779277618-5511-Gaurav_delhi-2026_05_20_17_16_58-9717623703.json",
+  "source_relative": "agent-2039-1779277618-5511-Gaurav_delhi-2026_05_20_17_16_58-9717623703.json",
+  "created_at_utc": "2026-05-25T19:32:02Z",
+  "transcript_stats": {
+    "segments": 4,
+    "duration_seconds": 62.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2039",
+    "agent_self_introduced_name": "not_disclosed",
+    "call_id": "agent-2039-1779277618-5511-Gaurav_delhi-2026_05_20_17_16_58-9717623703",
+    "opening": {
+      "verified_customer_identity": false,
+      "self_identified_name": false,
+      "greeting_quality": "missing",
+      "self_identified_company": false,
+      "consent_taken": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "uses_jargon_appropriately": false,
+      "explains_numbers_clearly": "medium",
+      "product_pitched": "Life Insurance with SWP and Medical benefits",
+      "pitch_clarity": "low"
+    },
+    "discovery": {
+      "personalizes_to_customer": false,
+      "discovery_depth": "none",
+      "discovery_question_count": 0
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "verbatim_examples": [],
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ]
+    },
+    "communication": {
+      "language_used": "hindi",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "tone_professionalism": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "empathy": "low"
+    },
+    "closing": {
+      "close_attempted": false,
+      "next_steps_clarity": "no_next_steps",
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed"
+    },
+    "call_end": {
+      "customer_declined_explicitly": false,
+      "end_reason": "voicemail",
+      "last_speaker": "agent",
+      "end_reason_evidence": "Voicemail: Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up.",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "graceful_close": false
+    },
+    "outcome": {
+      "drop_off_point": "pitch",
+      "stage_reached": "pitch_delivered",
+      "outcome": "no_human_contact"
+    },
+    "strengths": [],
+    "improvement_areas": [
+      "Professionalism in handling voicemails.",
+      "Compliance with sales communication standards.",
+      "Avoiding monologue-style pitches without customer interaction."
+    ],
+    "coaching_recommendations": [
+      "Do not leave long, complex product pitches on a voicemail. It is ineffective and unprofessional.",
+      "Ensure you are speaking to a live customer before delivering a sales pitch.",
+      "Review compliance guidelines regarding the communication of insurance benefits and coverage limits."
+    ],
+    "exemplary_quotes": [],
+    "problematic_quotes": [
+      "jaise aap 60-70 age mein enter karte ho sir, aapke paas mein SWP ka option aata hai, systematic withdrawal plan.",
+      "Agar by accidental death hoti hai, personal accident se, to 2 CR tak coverage rehti hai. Agar government vehicle ke through hoti hai, jaise bus, train, flight, koi train, to 3 CR ki coverage rehti hai sir."
+    ],
+    "call_grade": "D",
+    "summary": "The agent delivered a long, unsolicited product pitch to a voicemail system. There was no interaction with a customer, no introduction, and no attempt to verify the identity of the person being called. The pitch was confusing and lacked necessary disclaimers.",
+    "extraction_confidence": "high"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "profile_id": "4128086545023537",
+  "source_transcript": "agent-3054-1779712800-4322-Gaurav_delhi-2026_05_25_18_10_00-9810370241.json",
+  "source_name": "agent-3054-1779712800-4322-Gaurav_delhi-2026_05_25_18_10_00-9810370241.mp3",
+  "created_at_utc": "2026-05-27T01:29:00Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 260.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "70",
+        "evidence": "\"70 plus\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "\"sir\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "\"Hum toh retired hain ji.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired",
+        "evidence": "\"Hum toh retired hain ji.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "\"apni wife ke naam se\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "\"Main soch raha tha main mere bete se aapki baat kara deta kal subah.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "already_have_product",
+          "quote": "mera toh HDFC mein account hi nahi hai na.",
+          "resolved_by_agent": true
+        },
+        {
+          "objection_type": "other",
+          "quote": "Hum toh retired hain ji.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "\"Agar aap ismein apne bacchon ke liye lena chahenge\"",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "joint_with_spouse",
+        "evidence": "\"Papa log samajh lenge ki kya hai.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 2,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-26T07:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 1,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% guaranteed income from first year for whole life",
+        "8% compound rate of interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "HDFC Life guaranteed plan",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is 70+ and retired; the product is unsuitable for him, though potentially for his son.",
+      "missed_opportunities": [
+        "Did not ask for son's age or financial goals."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "retirement_plan",
+        "child_plan",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is interested in exploring the product for his son, despite being ineligible himself due to age."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a guaranteed HDFC Life plan with high return claims, and the customer initially declined interest.",
+      "customer_response": "Customer was initially passive but became engaged when discussing potential investment for his son.",
+      "key_event": "Customer revealed he is 70+ years old, making him ineligible for the plan, and shifted the focus to his son.",
+      "ending": "Agent agreed to send a WhatsApp message with her contact details for the customer's son to review."
+    },
+    "key_quotes": [
+      "Hum toh retired hain ji.",
+      "Main soch raha tha main mere bete se aapki baat kara deta kal subah."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

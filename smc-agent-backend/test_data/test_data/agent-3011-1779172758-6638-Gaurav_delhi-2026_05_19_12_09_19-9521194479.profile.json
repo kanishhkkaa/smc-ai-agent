@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "profile_id": "2721263407028349",
+  "source_transcript": "agent-3011-1779172758-6638-Gaurav_delhi-2026_05_19_12_09_19-9521194479.json",
+  "source_name": "agent-3011-1779172758-6638-Gaurav_delhi-2026_05_19_12_09_19-9521194479.mp3",
+  "created_at_utc": "2026-05-22T11:21:47Z",
+  "transcript_stats": {
+    "segments": 61,
+    "duration_seconds": 258.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mustakim",
+      "evidence": "Customer: Mera Mustakim.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "29",
+        "evidence": "Customer: Meri 29 hai.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "Rajasthan",
+        "evidence": "Customer: Rajasthan.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Customer: Business hai bhai.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Sir, nahi karwana hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 15,
+      "customer_question_count": 0,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Sir, nahi karwana hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "Agent: Saal ka 1 lakh 20 hazaar rupaye, monthly 10,000 se sir, theek hai? (Customer did not confirm capacity)",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: Business hai bhai.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "36% money back income for whole life",
+        "8% compounding interest",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 120000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated no interest in any insurance products.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was uninterested from the start and explicitly declined multiple product offers."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent opened with a high-pressure pitch about a 36% money-back guarantee, to which the customer responded with a skeptical 'Achha'.",
+      "customer_response": "The customer was passive and uninterested, repeatedly stating he did not want the product.",
+      "key_event": "The customer explicitly stated 'Nahi karwana hai' early in the call, which the agent ignored to continue the pitch.",
+      "ending": "The agent attempted to pivot to other products after the customer rejected the savings plan, but the customer declined those as well, leading to a polite termination."
+    },
+    "key_quotes": [
+      "Sir, nahi karwana hai.",
+      "Business hai bhai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 85,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

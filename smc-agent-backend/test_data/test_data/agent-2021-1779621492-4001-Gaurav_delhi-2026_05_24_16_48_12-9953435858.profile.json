@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5422150809100749",
+  "source_transcript": "agent-2021-1779621492-4001-Gaurav_delhi-2026_05_24_16_48_12-9953435858.json",
+  "created_at_utc": "2026-06-01T02:06:07Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 75.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779621492-4001-Gaurav_delhi-2026_05_24_16_48_12-9953435858.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Theek hai sir, aap plan ke baare mein samajhna chahte hain aur? Customer: Nahi mam.",
+    "summary": "Agent pitched a Tata AIA plan and attempted discovery, but the customer declined further interest after being unable to provide an income estimate.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "37",
+        "evidence": "37.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "Ek fix nahi hota ismein.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko 80,000 rupaye tak ka tax benefit dena start kar deti hai first year se hi",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "early_exit_regex",
+  "profile_id": "1283330309000592",
+  "source_transcript": "agent-3012-1779425729-4242-Gaurav_TATA-2026_05_22_10_25_30-9810037498.json",
+  "created_at_utc": "2026-06-01T02:59:18Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3012-1779425729-4242-Gaurav_TATA-2026_05_22_10_25_30-9810037498.json",
+    "primary_disposition": "voicemail",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "if you record your name",
+    "summary": "Google call-screen AI answered; no human customer was reached.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 15,
+    "_source": "early_exit_regex"
+  }
+}

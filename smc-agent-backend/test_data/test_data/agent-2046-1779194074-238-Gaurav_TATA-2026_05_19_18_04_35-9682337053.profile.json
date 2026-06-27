@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "3530935995034595",
+  "source_transcript": "agent-2046-1779194074-238-Gaurav_TATA-2026_05_19_18_04_35-9682337053.json",
+  "source_name": "agent-2046-1779194074-238-Gaurav_TATA-2026_05_19_18_04_35-9682337053.mp3",
+  "created_at_utc": "2026-05-22T11:08:21Z",
+  "transcript_stats": {
+    "segments": 79,
+    "duration_seconds": 291.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "42",
+        "evidence": "Customer: 42.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: Job.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: 40, 40. Agent: 40,000.",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: Okay, I'm driving.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Abhi to aapne bata diya, health insurance mein kya woh hai?",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer has an MBA.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "Agent pitched retirement and protection.",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: 42. Job. MBA.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 0,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "1 crore life cover",
+        "10 lakh medical insurance (later corrected to 6 lakh)",
+        "1 lakh monthly pension at retirement",
+        "returns after 5 years without tax",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA combined investment plan",
+      "premium_quoted_inr": 111876,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Agent pitched a complex, high-premium product (1.11L/year) to a customer with a 40k/month income, and misrepresented the health insurance component.",
+      "missed_opportunities": [
+        "Did not clarify the specific product name.",
+        "Failed to address the customer's confusion about the health insurance component effectively."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan"
+      ],
+      "reasoning": "Customer was driving and clearly disengaged, ending the call abruptly."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced a combined investment plan with life, health, and pension benefits.",
+      "customer_response": "Passive and distracted, eventually ending the call due to driving.",
+      "key_event": "Customer challenged the agent on the medical insurance coverage amount, revealing inconsistencies in the pitch.",
+      "ending": "Customer stated they were driving and would call back later, ending the conversation."
+    },
+    "key_quotes": [
+      "Abhi to aapne bata diya, health insurance mein kya woh hai?",
+      "Okay, I'm driving."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "ignored_customer_budget"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "evening",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

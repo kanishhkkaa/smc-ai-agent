@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "8889798235504489",
+  "source_transcript": "agent-2021-1779452994-4231-Gaurav_delhi-2026_05_22_17_59_54-9650233055.json",
+  "created_at_utc": "2026-06-01T02:47:28Z",
+  "transcript_stats": {
+    "segments": 47,
+    "duration_seconds": 127.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779452994-4231-Gaurav_delhi-2026_05_22_17_59_54-9650233055.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Ma'am uh 12:30.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery; customer requested a callback for the next day at 12:30 PM.",
+    "callback_time_iso": "2026-05-23T12:30",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "28",
+        "evidence": "My 28.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Main job, abhi right now job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "7 LPA.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi sir hamari company aapko 80,000 tak ka tax free return dena start karti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 4.0,
+    "lead_band": "A",
+    "_source": "llm"
+  }
+}

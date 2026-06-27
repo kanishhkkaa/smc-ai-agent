@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "9637907178057412",
+  "source_transcript": "agent-3049-1779521138-3094-Gaurav_TATA-2026_05_23_12_55_39-9999654119.json",
+  "created_at_utc": "2026-06-01T02:42:13Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3049-1779521138-3094-Gaurav_TATA-2026_05_23_12_55_39-9999654119.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Achha, matlab koi fix nahi hai sir, matlab ki ye keh rahe ho sir aap? So aap ITR wagera file karte ho sir abhi aap government ko? Nahi.",
+    "summary": "Agent pitched a Tata AIA combined plan and completed discovery, but the call ended after the agent acknowledged the customer's variable income and lack of ITR filing.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "38",
+        "evidence": "38.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera matlab ki theke pe kaam hai sir. Bas, sales and marketing ka kaam hai, jaise hum market se maal uthaye aur market mein bech diye.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "kabhi 80 ho jata hai, kabhi 70 ho jata hai, kabhi 1 lakh bhi pahunch jata hai.",
+        "confidence": "medium"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "jo premium aap pay kar rahe ho na apne term coverage ke liye sir, wo amount sir aapka yahan par ye refundable rahega",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 15,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

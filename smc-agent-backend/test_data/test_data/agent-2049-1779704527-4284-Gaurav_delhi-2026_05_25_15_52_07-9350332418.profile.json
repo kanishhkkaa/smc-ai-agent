@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "1474961830080839",
+  "source_transcript": "agent-2049-1779704527-4284-Gaurav_delhi-2026_05_25_15_52_07-9350332418.json",
+  "source_name": "agent-2049-1779704527-4284-Gaurav_delhi-2026_05_25_15_52_07-9350332418.mp3",
+  "created_at_utc": "2026-05-27T01:14:25Z",
+  "transcript_stats": {
+    "segments": 65,
+    "duration_seconds": 254.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "R L Chandra",
+      "evidence": "Mr R L Chandra",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "47",
+        "evidence": "Meri running age hai 47.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Delhi",
+        "evidence": "Delhi",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Delhi",
+        "evidence": "Delhi",
+        "confidence": "medium"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Hamara office work hai, HR admin ka kaam dekhte hain.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "HR admin",
+        "evidence": "HR admin",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "4 lakhs around annually, below to 4 lakhs.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Aap bataiye aapka kya minimum plan rahega agar wo mere capable hoga, fine otherwise I will quit.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 3,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi ho payega.",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "already_have_product",
+          "quote": "Actual mein mera jo hai sir LIC mein hi is time ja rahi hai takreeban 12,000 rupaye.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "lt_5K",
+        "evidence": "Actual mein mera jo hai sir LIC mein hi is time ja rahi hai takreeban 12,000 rupaye.",
+        "confidence": "medium"
+      },
+      "existing_products": [
+        "life_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "Aap bataiye aapka kya minimum plan rahega agar wo mere capable hoga, fine otherwise I will quit.",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "retirement",
+        "evidence": "jisme company aapko pehle hi saal se ek regular income ka support de rahi hai",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Aap bataiye aapka kya minimum plan rahega agar wo mere capable hoga, fine otherwise I will quit.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 7,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "7.1 percent interest annually from first year for lifetime"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "The suggested premium of 60,000-1,00,000 INR is significantly higher than the customer's stated savings capacity.",
+      "missed_opportunities": [
+        "Did not explore the customer's specific retirement needs beyond generic income pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": [
+        "transferred_to_senior"
+      ]
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "endowment",
+        "guaranteed_savings_plan",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is open to discussing investment options but has a limited budget and is currently evaluating the feasibility of the proposed plan."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent Kunal introduced HDFC Life and a new plan for regular income, to which the customer responded with 'Bataiye'.",
+      "customer_response": "Customer was passive but engaged, providing details when asked and pushing back on the suggested premium amount.",
+      "key_event": "The customer rejected the 60,000 INR annual premium suggestion, citing existing LIC commitments.",
+      "ending": "The call ended with the customer asking for clarification on the one-time investment plan structure."
+    },
+    "key_quotes": [
+      "Aap bataiye aapka kya minimum plan rahega agar wo mere capable hoga, fine otherwise I will quit.",
+      "Actual mein mera jo hai sir LIC mein hi is time ja rahi hai takreeban 12,000 rupaye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "tier_1",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2575823733586952",
+  "source_transcript": "agent-2082-1779518848-2643-Gaurav_delhi-2026_05_23_12_17_28-9654964210.json",
+  "created_at_utc": "2026-06-01T02:27:18Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 159.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2082-1779518848-2643-Gaurav_delhi-2026_05_23_12_17_28-9654964210.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Abhi toh main kisan aadmi hun, idhar kya bolte hain, abhi farua leke khet mein baitha hun.",
+    "summary": "Agent pitched a Tata AIA saving plan; customer was confused about the purpose of the call and ultimately the agent ended the conversation.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Prakash Singh",
+        "evidence": "Mr. Prakash Singh ji se baat ho rahi hai? Ji, kaun?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "Abhi toh main kisan aadmi hun, idhar kya bolte hain, abhi farua leke khet mein baitha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company pehle saal se hi aapko ek guaranteed aur regular income aapko return dena start kar raha hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": true,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 19,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

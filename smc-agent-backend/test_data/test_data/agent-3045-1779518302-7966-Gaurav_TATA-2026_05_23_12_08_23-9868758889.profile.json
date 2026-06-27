@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3094595050638491",
+  "source_transcript": "agent-3045-1779518302-7966-Gaurav_TATA-2026_05_23_12_08_23-9868758889.json",
+  "created_at_utc": "2026-06-01T02:41:14Z",
+  "transcript_stats": {
+    "segments": 25,
+    "duration_seconds": 96.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3045-1779518302-7966-Gaurav_TATA-2026_05_23_12_08_23-9868758889.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "But maine already maine already insurance policy kara rakhi hai. Mere paas Care ki bhi hai aur LIC ki bhi hai, dono hi hai.",
+    "summary": "Agent pitched a Tata AIA saving plan; customer declined, stating they already hold Care and LIC insurance policies and are not looking for anything else.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "Jismein aapka premium jo rahega woh as per the market interest ke sath sath refundable rehta hai.",
+      "return_claim_pct": null,
+      "return_claim_type": "cashback",
+      "lock_in_disclosed": true,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 17,
+    "bant_score": 1.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

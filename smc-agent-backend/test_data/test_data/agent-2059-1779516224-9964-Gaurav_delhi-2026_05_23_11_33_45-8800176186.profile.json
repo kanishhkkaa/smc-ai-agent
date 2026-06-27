@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "2207937242654185",
+  "source_transcript": "agent-2059-1779516224-9964-Gaurav_delhi-2026_05_23_11_33_45-8800176186.json",
+  "created_at_utc": "2026-06-01T02:24:22Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 113.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779516224-9964-Gaurav_delhi-2026_05_23_11_33_45-8800176186.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "3,000 to nahi hoga sir ye itna. Chaliye theek hai sir. Thank you sir. Have a nice day.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the agent self-disqualified the prospect after determining the customer could not afford the required premium.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Sir meri 40 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Sir job kar raha hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Sir meri hoti hai 10 ya 12 hazaar ke beech mein.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 11,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

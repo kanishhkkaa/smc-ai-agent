@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5856443832487030",
+  "source_transcript": "agent-2129-1779519498-8425-Gaurav_delhi-2026_05_23_12_28_18-9560492695.json",
+  "created_at_utc": "2026-06-01T02:31:12Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2129-1779519498-8425-Gaurav_delhi-2026_05_23_12_28_18-9560492695.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Nahi nahi theek hai, mujhe samajh aa gaya, aapne example diya, mera kehne ka matlab ye hai sir, koi cheez agar humein acchi lagti hai, investment aap aaj karo, kal karo, paisa toh tab bhi jayega sir.",
+    "summary": "The agent pitched a plan and attempted to schedule a meeting; the customer remained engaged but did not commit to a meeting or purchase.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "35",
+        "evidence": "35 saal age hai sir.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "Bhajanpura",
+        "evidence": "Bhajanpura.",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 2,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

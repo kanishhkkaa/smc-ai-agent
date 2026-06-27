@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "7546535823523167",
+  "source_transcript": "agent-3042-1779621499-4046-Gaurav_delhi-2026_05_24_16_48_19-9958320256.json",
+  "created_at_utc": "2026-06-01T02:14:22Z",
+  "transcript_stats": {
+    "segments": 18,
+    "duration_seconds": 84.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3042-1779621499-4046-Gaurav_delhi-2026_05_24_16_48_19-9958320256.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "medium",
+    "evidence": "Okay sir, thank you so much information dene ke liye.",
+    "summary": "Agent pitched an HDFC Life plan and completed discovery, but the call ended without a commitment or specific follow-up request.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "Age hamari 30 hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "2.5-3 lakh ke aas paas",
+        "confidence": "medium"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se 40 percent ki fix income deti hai whole life ke liye",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 3,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

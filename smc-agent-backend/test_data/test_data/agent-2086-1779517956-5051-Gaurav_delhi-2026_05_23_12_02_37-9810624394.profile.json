@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6505752713516099",
+  "source_transcript": "agent-2086-1779517956-5051-Gaurav_delhi-2026_05_23_12_02_37-9810624394.json",
+  "created_at_utc": "2026-06-01T02:28:11Z",
+  "transcript_stats": {
+    "segments": 12,
+    "duration_seconds": 61.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2086-1779517956-5051-Gaurav_delhi-2026_05_23_12_02_37-9810624394.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Aap mujhe next week Saturday mein call karna. Coming week Saturday. Theek hai?",
+    "summary": "Agent pitched an HDFC Life plan; customer initially declined citing existing investments but agreed to a callback next Saturday.",
+    "callback_time_iso": "2026-05-30T00:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "36 percent ki tax free income aati hai whole life ke liye",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 33,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

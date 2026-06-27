@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "1765178504104813",
+  "source_transcript": "agent-2200-1779455120-2135-Gaurav_TATA-2026_05_22_18_35_20-7838278421.json",
+  "created_at_utc": "2026-06-01T02:59:12Z",
+  "transcript_stats": {
+    "segments": 21,
+    "duration_seconds": 71.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2200-1779455120-2135-Gaurav_TATA-2026_05_22_18_35_20-7838278421.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Accha, toh sorry sir ye plan phir aapko jayega hi nahi.",
+    "summary": "Agent pitched a Tata AIA plan and completed discovery, but self-disqualified the prospect due to low income; the call ended without a commitment.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "25",
+        "evidence": "Meri age 25.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "20,000.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 18,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

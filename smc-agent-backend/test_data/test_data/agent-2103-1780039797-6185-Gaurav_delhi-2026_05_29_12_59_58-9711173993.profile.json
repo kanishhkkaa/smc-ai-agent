@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "5846996542641134",
+  "source_transcript": "2026_05_29/agent-2103-1780039797-6185-Gaurav_delhi-2026_05_29_12_59_58-9711173993.json",
+  "source_name": "agent-2103-1780039797-6185-Gaurav_delhi-2026_05_29_12_59_58-9711173993.mp3",
+  "created_at_utc": "2026-06-01T05:44:54Z",
+  "transcript_stats": {
+    "segments": 35,
+    "duration_seconds": 139.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "32",
+        "evidence": "Age 32.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Job karta tha, abhi chuta hua hai sir.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "unemployed due to injury",
+        "evidence": "Job karta tha, abhi chuta hua hai sir.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "17,000 rupaye.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "single",
+        "evidence": "main akela hun",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "1",
+        "evidence": "Sister hai ek toh",
+        "confidence": "high"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Ji sir, theek hai.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 35,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": [
+        "unemployed due to injury",
+        "financial difficulty"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "main akela hun",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim"
+      ],
+      "agent_promises": [
+        "first year se income di jaati hai aapki age ke till 100 years tak",
+        "double tax ka benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is currently unemployed and does not meet the income eligibility criteria.",
+      "missed_opportunities": [
+        "health insurance needs due to injury"
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is currently unemployed due to injury and does not meet the eligibility criteria for the product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and a new plan, customer responded neutrally.",
+      "customer_response": "Passive and cooperative, providing information about his unemployment and financial situation.",
+      "key_event": "Agent determined the customer was ineligible for the product due to his current income level.",
+      "ending": "Agent acknowledged the customer's situation and ended the call politely after confirming ineligibility."
+    },
+    "key_quotes": [
+      "Mera toh kam hi hai, 17,000 rupaye.",
+      "main akela hun.",
+      "abhi toh dikkat hai."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 3,
+      "lead_grade": "C",
+      "agent_talk_percent": 65,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

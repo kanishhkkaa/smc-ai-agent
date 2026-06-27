@@ -1,0 +1,185 @@
+{
+  "status": "success",
+  "profile_id": "3748495627062640",
+  "source_transcript": "2026_05_13/agent-3023-1778668952-3469-Gaurav_delhi-2026_05_13_16_12_32-9996276277.json",
+  "source_name": "agent-3023-1778668952-3469-Gaurav_delhi-2026_05_13_16_12_32-9996276277.mp3",
+  "created_at_utc": "2026-06-01T04:03:10Z",
+  "transcript_stats": {
+    "segments": 42,
+    "duration_seconds": 184.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Ravindra Kumar Singh",
+      "evidence": "Ravindra Kumar Singh",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "43",
+        "evidence": "Mera 43.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Mera 43. (Contextual male speaker)",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "job karta hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "Main 30-35 aise kamata hun. (Assuming 30-35k/month = 3.6-4.2L/yr)",
+        "confidence": "medium"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Main bahut mushkil se mera parivar hi chalta hai.",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan, haan, chalega.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Madam, mere ko nahi chahiye. Main utna nahi kama paata hun.",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "financial constraints",
+        "difficulty obtaining loans"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "home_purchase",
+        "evidence": "Home loan mein kam se kam 10 lakh rupees toh chahiye.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Main 30-35 aise kamata hun.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 1,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "objection_handled",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-14T10:00:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "high",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% guaranteed income within a week",
+        "8% rate of interest on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer explicitly stated he cannot afford the product and is struggling financially.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "other",
+        "health_insurance",
+        "term_insurance"
+      ],
+      "reasoning": "Customer was initially dismissive of insurance but engaged actively once the agent pivoted to loan assistance."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced herself from HDFC Life and immediately pitched a guaranteed income plan, to which the customer responded neutrally.",
+      "customer_response": "Customer was initially resistant to the insurance pitch but became cooperative when the agent offered to assist with a home loan.",
+      "key_event": "The customer rejected the insurance product due to financial constraints, prompting the agent to pivot to a home loan inquiry.",
+      "ending": "The agent confirmed a callback for the home loan department for the next morning at 10:00 AM."
+    },
+    "key_quotes": [
+      "Main bahut mushkil se mera parivar hi chalta hai.",
+      "Home loan mein kam se kam 10 lakh rupees toh chahiye."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

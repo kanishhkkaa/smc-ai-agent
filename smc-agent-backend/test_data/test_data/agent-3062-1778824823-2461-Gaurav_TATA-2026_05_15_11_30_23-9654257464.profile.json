@@ -1,0 +1,169 @@
+{
+  "status": "success",
+  "profile_id": "3560161495409820",
+  "source_transcript": "agent-3062-1778824823-2461-Gaurav_TATA-2026_05_15_11_30_23-9654257464.json",
+  "source_name": "agent-3062-1778824823-2461-Gaurav_TATA-2026_05_15_11_30_23-9654257464.mp3",
+  "created_at_utc": "2026-05-18T06:08:36Z",
+  "transcript_stats": {
+    "segments": 53,
+    "duration_seconds": 161.78,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Mehak",
+      "evidence": "Your good name sir? Mehak.",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "33",
+        "evidence": "Age jaan sakte ho aapki age kya hogi? 33.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job karte hain sir.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "job",
+        "evidence": "Job karte hain sir.",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "63,000 monthly, right? Right.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Toh mujhe na, phir aap 10 minute baad call kar lijiyega. Main abhi na kahin pe busy tha bas.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "child_education",
+        "evidence": "Same plan ko aap apne bachchon ke merit purpose ya unke education purpose se bhi purchase kar sakte hain. (Agent suggested this, customer did not explicitly confirm goal but listened)",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Toh mujhe na, phir aap 10 minute baad call kar lijiyega.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 2,
+      "stage_reached": "pitch_delivered",
+      "call_outcome": "warm_callback_scheduled",
+      "callback_iso": "2026-05-15T11:40:00"
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 4,
+      "discovery_question_count": 5,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "high",
+      "compliance_flags": [],
+      "agent_promises": [
+        "1 crore life cover",
+        "medical and pension benefits"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Param Rakshak Life Pro Plus",
+      "premium_quoted_inr": 163340,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "endowment",
+        "ulip"
+      ],
+      "reasoning": "Customer requested a callback after reviewing WhatsApp details, showing genuine interest in the product information."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA plan with market returns and life cover, and the customer responded with 'Boliye'.",
+      "customer_response": "The customer was passive but cooperative, providing details and agreeing to review the plan.",
+      "key_event": "The agent quoted a premium of 1,63,340 rupees, and the customer asked for details on WhatsApp before committing.",
+      "ending": "The customer asked for the plan details on WhatsApp and requested a callback in 10 minutes, which the agent agreed to."
+    },
+    "key_quotes": [
+      "Aap mujhe ek baar plan bhej dijiye na, WhatsApp kar dijiye kya hai pura plan, phir main dekhta hun.",
+      "Toh mujhe na, phir aap 10 minute baad call kar lijiyega."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 9,
+      "lead_grade": "A",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "5251542801806377",
+  "source_transcript": "agent-2039-1778584156-206-Gaurav_TATA-2026_05_12_16_39_16-9873611381.json",
+  "created_at_utc": "2026-06-01T02:04:24Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 126.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2039-1778584156-206-Gaurav_TATA-2026_05_12_16_39_16-9873611381.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Madam, mere bete jab free honge, main unhe bol dunga, to aapko call karne ko bol dunga unhe. Aapka number de.",
+    "summary": "Agent pitched a Tata AIA plan; customer disclosed being retired and deferred the decision to his son, without committing to a specific callback time.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "50",
+        "evidence": "50 plus.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "50 plus wale to retirement hote hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 31,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

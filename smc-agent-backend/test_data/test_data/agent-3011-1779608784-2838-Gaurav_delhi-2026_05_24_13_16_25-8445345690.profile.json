@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "5042232641248243",
+  "source_transcript": "agent-3011-1779608784-2838-Gaurav_delhi-2026_05_24_13_16_25-8445345690.json",
+  "created_at_utc": "2026-06-01T02:12:08Z",
+  "transcript_stats": {
+    "segments": 28,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3011-1779608784-2838-Gaurav_delhi-2026_05_24_13_16_25-8445345690.json",
+    "primary_disposition": "brochure_requested",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Mera WhatsApp number hai, ispe sir share kar do plan apna jo bhi hai. ... mujhe wo bhej do aap compare wala na, LIC ke sath compare karke na, WhatsApp pe bhejo aap mujhe",
+    "summary": "Agent pitched an HDFC Life plan; customer stated they already have LIC and health insurance, then requested a comparison brochure on WhatsApp.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "first year se hi 36 percent ki cashback income deti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 28,
+    "bant_score": 1.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

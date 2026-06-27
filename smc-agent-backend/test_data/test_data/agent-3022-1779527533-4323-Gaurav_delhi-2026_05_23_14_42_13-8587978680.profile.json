@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6270654425005792",
+  "source_transcript": "agent-3022-1779527533-4323-Gaurav_delhi-2026_05_23_14_42_13-8587978680.json",
+  "created_at_utc": "2026-06-01T02:39:16Z",
+  "transcript_stats": {
+    "segments": 31,
+    "duration_seconds": 153.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3022-1779527533-4323-Gaurav_delhi-2026_05_23_14_42_13-8587978680.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "already_insured"
+    ],
+    "confidence": "high",
+    "evidence": "Actually ma'am, abhi main na bahar hun thoda vacation ke liye, toh abhi main kuch matlab discuss karke phir hi aapko bata sakti hun. Toh abhi main thoda break pe hun.",
+    "summary": "Agent pitched an HDFC Life plan; customer engaged, disclosed age and business, but deferred due to being on vacation and needing to discuss with family.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "Sonam",
+        "evidence": "Waise koi investment plan chal rahi hai Sonam ji aapki?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "40",
+        "evidence": "Meri 40.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Mera aise hi arts and crafts ka hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "These details I don't want to share actually.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "uska 36 percent ka income first year se aane lag jaata hai aapko",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 23,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "status": "success",
+  "profile_id": "4253299075070737",
+  "source_transcript": "2026_05_14/agent-2004-1778745166-2329-Gaurav_delhi-2026_05_14_13_22_47-9314555556__stub.json",
+  "source_name": "agent-2004-1778745166-2329-Gaurav_delhi-2026_05_14_13_22_47-9314555556.mp3",
+  "created_at_utc": "2026-06-01T04:09:56Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 115.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "kaise maan lu aap jo keh rahe ho sahi hai",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 0,
+      "interruption_pattern": "both",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "trust",
+          "quote": "kaise maan lu aap jo keh rahe ho sahi hai",
+          "resolved_by_agent": false
+        },
+        {
+          "objection_type": "need_more_info",
+          "quote": "aap document mere ko mail karo fir main padhunga fir main kuch bata paunga",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": [
+        "distrust of insurance company due to past scandals",
+        "skepticism regarding guaranteed returns"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 0,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "low",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "35% guaranteed income lifetime",
+        "8% return",
+        "double tax benefit",
+        "term life insurance included",
+        "waiver of premium rider included"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is completely distrustful of the product and the company.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_3_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer is highly skeptical due to perceived past company scandals and is only willing to engage if provided with documentation first."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a new HDFC Life product with high guaranteed returns, which the customer immediately met with skepticism.",
+      "customer_response": "The customer was consistently pushing back, expressing deep distrust in the agent's claims and the company's reputation.",
+      "key_event": "The customer challenged the agent's claims by citing past company scandals, leading to a defensive and unprofessional response from the agent.",
+      "ending": "The agent agreed to send documents via email after the customer insisted on reviewing them before making any payment."
+    },
+    "key_quotes": [
+      "kaise maan lu aap jo keh rahe ho sahi hai",
+      "policy to aap tab generate karke doge na jab main payment kar dunga",
+      "aap document mere ko mail karo fir main padhunga fir main kuch bata paunga"
+    ],
+    "red_flags": [
+      "agent_used_unprofessional_language_and_argued_with_customer",
+      "agent_made_unsubstantiated_guaranteed_return_claims"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

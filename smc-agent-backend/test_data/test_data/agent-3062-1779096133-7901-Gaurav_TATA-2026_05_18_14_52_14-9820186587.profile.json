@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "profile_id": "5888834239403659",
+  "source_transcript": "agent-3062-1779096133-7901-Gaurav_TATA-2026_05_18_14_52_14-9820186587.json",
+  "source_name": "agent-3062-1779096133-7901-Gaurav_TATA-2026_05_18_14_52_14-9820186587.mp3",
+  "created_at_utc": "2026-05-21T02:15:09Z",
+  "transcript_stats": {
+    "segments": 24,
+    "duration_seconds": 94.55,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "69",
+        "evidence": "Meri age hai abhi 69.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "retired",
+        "evidence": "main to retired hun.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "retired",
+        "evidence": "main to retired hun.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "The customer's tone shifted from polite curiosity to confusion and skepticism.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 40,
+      "customer_question_count": 4,
+      "interruption_pattern": "none",
+      "sentiment_arc": "declining",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "hard_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 1,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "low",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer",
+        "pressure_tactic"
+      ],
+      "agent_promises": [
+        "10 lakh medical treatment",
+        "1 lakh monthly pension after retirement"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "term plus mutual fund combination",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is 69 years old and retired; the product pitched is unsuitable and the agent's advice to take a loan is unethical.",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "do_not_contact",
+      "re_engagement_potential_1_5": 1,
+      "suggested_products_for_future": [],
+      "reasoning": "The customer is 69 years old and retired, making him ineligible for most standard insurance products pitched in this manner, and the agent's suggestion to take a loan to invest is highly inappropriate."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a plan combining term and mutual funds, to which the customer responded politely.",
+      "customer_response": "The customer was initially curious but became confused by the agent's unrealistic promises and inappropriate suggestions.",
+      "key_event": "The agent suggested the customer take a loan to purchase the insurance plan.",
+      "ending": "The call ended abruptly after the customer revealed he is 69 and retired."
+    },
+    "key_quotes": [
+      "To yani mereko pehle paise dena padega?",
+      "Wo loan denge kya?",
+      "main to retired hun."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "pressure_tactic",
+      "agent_suggested_taking_loan_for_insurance_premium"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "55+",
+      "city_tier": "not_disclosed",
+      "life_stage": "retired",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 60,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

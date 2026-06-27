@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "8427799538763688",
+  "source_transcript": "agent-2059-1779444091-8711-Gaurav_delhi-2026_05_22_15_31_32-9910690050.json",
+  "created_at_utc": "2026-06-01T02:49:47Z",
+  "transcript_stats": {
+    "segments": 26,
+    "duration_seconds": 96.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1779444091-8711-Gaurav_delhi-2026_05_22_15_31_32-9910690050.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Age hai ji 48 saal. Sir ek choti moti job karte hain. 18,000 rupaye.",
+    "summary": "Agent pitched an HDFC Life guaranteed plan and completed discovery (age 48, salaried, 18k monthly income), but the call ended without a commitment or refusal.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "48",
+        "evidence": "Age hai ji 48 saal.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Sir ek choti moti job karte hain.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "18,000 rupaye.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se 36 percent ki income provide karti hai",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 2.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

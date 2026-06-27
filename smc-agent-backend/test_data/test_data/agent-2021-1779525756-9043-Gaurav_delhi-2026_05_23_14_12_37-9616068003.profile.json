@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "6304336735623953",
+  "source_transcript": "agent-2021-1779525756-9043-Gaurav_delhi-2026_05_23_14_12_37-9616068003.json",
+  "created_at_utc": "2026-06-01T02:19:53Z",
+  "transcript_stats": {
+    "segments": 13,
+    "duration_seconds": 54.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2021-1779525756-9043-Gaurav_delhi-2026_05_23_14_12_37-9616068003.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Haan sir, aapki age kya hogi? Customer: 30.",
+    "summary": "The agent pitched a Tata AIA plan and asked for the customer's age; the customer provided their age, but the call ended shortly after without further engagement.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "30",
+        "evidence": "30",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "company aapko first year se hi 80,000 rupaye tak ka tax free return dena start kar deti hai",
+      "return_claim_pct": null,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 2,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "6068728777180677",
+  "source_transcript": "agent-2106-1779539026-9446-Gaurav_delhi-2026_05_23_17_53_46-9958716168.json",
+  "created_at_utc": "2026-06-01T02:31:01Z",
+  "transcript_stats": {
+    "segments": 14,
+    "duration_seconds": 66.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2106-1779539026-9446-Gaurav_delhi-2026_05_23_17_53_46-9958716168.json",
+    "primary_disposition": "callback_later",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, next weekend, Friday kariye, main bahar hun abhi toh.",
+    "summary": "Agent pitched an HDFC Life plan; customer requested a callback for next Friday between 12 and 2 PM due to travel.",
+    "callback_time_iso": "2026-05-29T12:00",
+    "customer_disclosures": {
+      "name": {
+        "value": "Rahul Chuppal",
+        "evidence": "Mr. Rahul Chuppal ji baat kar rahe hain?",
+        "confidence": "high"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "isme aapko first year se 40 percent ki guaranteed income aa rahi hai. Saath hi 8 percent ka return",
+      "return_claim_pct": 40,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": false,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 10,
+    "bant_score": 3.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

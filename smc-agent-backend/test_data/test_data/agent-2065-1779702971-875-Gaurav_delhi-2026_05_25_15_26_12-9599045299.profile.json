@@ -1,0 +1,189 @@
+{
+  "status": "success",
+  "profile_id": "2723172340149281",
+  "source_transcript": "agent-2065-1779702971-875-Gaurav_delhi-2026_05_25_15_26_12-9599045299.json",
+  "source_name": "agent-2065-1779702971-875-Gaurav_delhi-2026_05_25_15_26_12-9599045299.mp3",
+  "created_at_utc": "2026-05-27T01:15:31Z",
+  "transcript_stats": {
+    "segments": 38,
+    "duration_seconds": 174.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "50",
+        "evidence": "15-5-76",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "\"Job kar rahe hain ma'am?\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "\"Government service hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Government service",
+        "evidence": "\"Government service hai.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "\"50,000\" (monthly)",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "\"Mere husband karte hain.\"",
+        "confidence": "high"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "\"humein to abhi to nahi chahiye is time loan-won to.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 1,
+      "interruption_pattern": "agent_interrupts",
+      "sentiment_arc": "flat_negative",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "humein to abhi to nahi chahiye is time loan-won to. Kyunki hamari tabiyat thodi kharab hai.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "health issues"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "\"Wo na jante, bolna hi nahi aata hai unhe mujhe puch lo.\"",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "objection_handled",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 3,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36 percent cashback income from first year for whole life",
+        "8 percent guaranteed return on savings",
+        "double tax benefit",
+        "life insurance coverage for two family members"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 2,
+      "mismatch_reason": "Customer is not interested and has health concerns; product pitched is a savings plan, not health insurance.",
+      "missed_opportunities": [
+        "Did not pivot to health insurance despite customer mentioning health issues."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [
+        "health_insurance",
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer explicitly stated they are not interested at this time due to health issues and will call back if needed."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced HDFC Life and immediately pitched a guaranteed cashback plan, to which the customer responded with a neutral 'Haanji, aage aaiye.'",
+      "customer_response": "Customer was passive and eventually dismissive, deferring to her husband's employment status before declining.",
+      "key_event": "The customer clarified that her husband is the earner and she is not interested in the product at this time.",
+      "ending": "Customer ended the call by stating they do not need the product currently due to health issues and would call back later."
+    },
+    "key_quotes": [
+      "humein to abhi to nahi chahiye is time loan-won to.",
+      "Kyunki hamari tabiyat thodi kharab hai."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "pre_retirement",
+      "bant_total": 5,
+      "lead_grade": "C",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "status": "success",
+  "agent_id": "2001",
+  "call_id": "agent-2001-1779089992-8737-Gaurav_TATA-2026_05_18_13_09_52-9323964317",
+  "source_file": "agent-2001-1779089992-8737-Gaurav_TATA-2026_05_18_13_09_52-9323964317.json",
+  "source_relative": "agent-2001-1779089992-8737-Gaurav_TATA-2026_05_18_13_09_52-9323964317.json",
+  "created_at_utc": "2026-05-21T00:42:17Z",
+  "transcript_stats": {
+    "segments": 22,
+    "duration_seconds": 118.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "agent_id": "2001",
+    "agent_self_introduced_name": "Kareena",
+    "call_id": "agent-2001-1779089992-8737-Gaurav_TATA-2026_05_18_13_09_52-9323964317",
+    "opening": {
+      "greeting_quality": "adequate",
+      "self_identified_name": true,
+      "self_identified_company": true,
+      "consent_taken": false,
+      "verified_customer_identity": false
+    },
+    "pitch": {
+      "pitch_delivered": true,
+      "pitch_clarity": "medium",
+      "product_pitched": "Combined Term Plan",
+      "uses_jargon_appropriately": true,
+      "explains_numbers_clearly": "high"
+    },
+    "discovery": {
+      "discovery_question_count": 1,
+      "discovery_depth": "shallow",
+      "personalizes_to_customer": false
+    },
+    "objection_handling": {
+      "objection_handling_quality": "no_objections_observed",
+      "objections_faced": []
+    },
+    "compliance": {
+      "compliance_flags": [
+        "did_not_verify_identity"
+      ],
+      "verbatim_examples": []
+    },
+    "communication": {
+      "tone_professionalism": "medium",
+      "empathy": "low",
+      "talk_listen_ratio": "agent_dominates",
+      "interrupted_customer": false,
+      "language_quality": "medium",
+      "language_used": "hinglish"
+    },
+    "closing": {
+      "close_attempted": false,
+      "callback_scheduled": false,
+      "callback_datetime": "not_disclosed",
+      "next_steps_clarity": "no_next_steps"
+    },
+    "call_end": {
+      "end_reason": "other",
+      "is_ivr_only": false,
+      "ended_abruptly": false,
+      "customer_declined_explicitly": false,
+      "graceful_close": false,
+      "last_speaker": "customer",
+      "end_reason_evidence": "Okay sir."
+    },
+    "outcome": {
+      "stage_reached": "pitch_delivered",
+      "drop_off_point": "pitch",
+      "outcome": "inconclusive"
+    },
+    "strengths": [
+      "Clear self-introduction and company identification."
+    ],
+    "improvement_areas": [
+      "Failed to verify customer identity",
+      "Did not seek consent to proceed with the call",
+      "Lacked a professional closing after determining ineligibility"
+    ],
+    "coaching_recommendations": [
+      "Ensure identity verification is performed before pitching products.",
+      "Train the agent to handle ineligible customers with more empathy and a polite wrap-up."
+    ],
+    "exemplary_quotes": [
+      "Sir main aapse Kareena baat kar rahi hun sir Tata AIA ke behalf se."
+    ],
+    "problematic_quotes": [
+      "Sir aap plan ke liye eligible nahi hai fir to."
+    ],
+    "call_grade": "C",
+    "summary": "The agent introduced herself and the company clearly and delivered a pitch for a combined term plan. However, she failed to verify the customer's identity or take consent. Upon discovering the customer was 83 years old, she bluntly stated he was ineligible and the call ended without a professional closing.",
+    "extraction_confidence": "high"
+  }
+}

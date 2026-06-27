@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "3828877658590388",
+  "source_transcript": "agent-2059-1778838659-2928-Gaurav_delhi-2026_05_15_15_20_59-9582937019.json",
+  "created_at_utc": "2026-06-01T01:09:35Z",
+  "transcript_stats": {
+    "segments": 19,
+    "duration_seconds": 87.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2059-1778838659-2928-Gaurav_delhi-2026_05_15_15_20_59-9582937019.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Sir main aise number nahi de sakta unka.",
+    "summary": "Agent pitched HDFC Life guaranteed plan, completed full discovery (age 24, salaried, 25-30k monthly income), and customer declined to provide brother's contact information.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "24",
+        "evidence": "24.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Job.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "within first year se sir 36 percent ki income provide kar deti hai aapko whole life ke liye sir.",
+      "return_claim_pct": 36,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 2.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

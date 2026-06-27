@@ -1,0 +1,179 @@
+{
+  "status": "success",
+  "profile_id": "9588897251559861",
+  "source_transcript": "2026_05_27/agent-3062-1779879622-5948-Gaurav_TATA-2026_05_27_16_30_23-9999531917.json",
+  "source_name": "agent-3062-1779879622-5948-Gaurav_TATA-2026_05_27_16_30_23-9999531917.mp3",
+  "created_at_utc": "2026-06-01T05:25:31Z",
+  "transcript_stats": {
+    "segments": 79,
+    "duration_seconds": 263.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Naveen",
+      "evidence": "Agent: \"Your good name sir, by the way?\" Customer: \"Naveen.\"",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "26",
+        "evidence": "Customer: \"meri 26 saal umar hai.\"",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "Customer: \"meri 26 saal umar hai.\" (implied male by context of brother/family), but strictly following instructions: \"Do NOT infer from name.\" and transcript does not explicitly state gender.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "Customer: \"Indico mein working hai.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Indico employee",
+        "evidence": "Customer: \"Indico mein working hai.\"",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "5_10L",
+        "evidence": "Customer: \"50,000.\" (monthly) -> 6L/yr.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Customer: \"Okay, main aapko update karta hun, WhatsApp pe hi bhej do number pe mere.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 6,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [
+        {
+          "objection_type": "need_more_info",
+          "quote": "Toh aap health de rahi ho, term de rahi ho, kya de rahi ho?",
+          "resolved_by_agent": true
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "life_insurance",
+        "term_insurance"
+      ],
+      "investment_sophistication": {
+        "value": "experienced",
+        "evidence": "Customer: \"Already do plan le rakhe hain.\"",
+        "confidence": "medium"
+      },
+      "primary_goal": {
+        "value": "protection",
+        "evidence": "Customer: \"main toh apne bhai ke liye bhi karaunga na.\" (implied protection/family security).",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Customer: \"main toh apne bhai ke liye bhi karaunga na.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 1,
+      "stage_reached": "close_attempted",
+      "call_outcome": "send_brochure_whatsapp",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "omitted_disclaimer"
+      ],
+      "agent_promises": []
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": []
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_1_week",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "health_insurance",
+        "retirement_plan",
+        "guaranteed_savings_plan",
+        "annuity",
+        "other"
+      ],
+      "reasoning": "Customer requested information on WhatsApp and provided a different contact number, showing interest in the product."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced Tata AIA and a combined plan, and the customer responded with interest.",
+      "customer_response": "Customer was engaged throughout the call, asking clarifying questions about the plan and medical requirements.",
+      "key_event": "Customer clarified his brother's income and requested the plan details be sent via WhatsApp.",
+      "ending": "Customer provided a different WhatsApp number and his name, and the agent agreed to send the information."
+    },
+    "key_quotes": [
+      "Toh aap health de rahi ho, term de rahi ho, kya de rahi ho?",
+      "main toh apne bhai ke liye bhi karaunga na.",
+      "Okay, main aapko update karta hun, WhatsApp pe hi bhej do number pe mere."
+    ],
+    "red_flags": [],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "early_career",
+      "bant_total": 8,
+      "lead_grade": "B",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

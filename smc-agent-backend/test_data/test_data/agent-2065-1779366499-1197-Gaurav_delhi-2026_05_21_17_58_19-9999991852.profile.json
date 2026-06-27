@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "profile_id": "3319799856724521",
+  "source_transcript": "2026_05_21/agent-2065-1779366499-1197-Gaurav_delhi-2026_05_21_17_58_19-9999991852.json",
+  "source_name": "agent-2065-1779366499-1197-Gaurav_delhi-2026_05_21_17_58_19-9999991852.mp3",
+  "created_at_utc": "2026-06-01T04:55:12Z",
+  "transcript_stats": {
+    "segments": 44,
+    "duration_seconds": 125.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "Naval Kishore Meena",
+      "evidence": "Naval Kishore Meena naam hai",
+      "confidence": "high"
+    },
+    "demographics": {
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "ASI, Assistant Sub-Inspector",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "salaried",
+        "evidence": "ASI, Assistant Sub-Inspector",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Assistant Sub-Inspector",
+        "evidence": "ASI, Assistant Sub-Inspector",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "92,000 plus na? Hmm.",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Haan de dijiye toh.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 45,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "improving",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Thank you yaar, requirement nahi hai boss abhi.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": [
+        "emergency loan requirement"
+      ]
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "emergency_fund",
+        "evidence": "Emergency mein 1.5 lakh rupaye chahiye yaar.",
+        "confidence": "high"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Naval Kishore Meena naam hai",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 3,
+      "timeline_score": 3,
+      "stage_reached": "discovery_done",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 6,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "36% income from first year for whole life",
+        "8% tax free return",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": null,
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is looking for a loan, not an insurance product.",
+      "missed_opportunities": [
+        "failed to address the loan request directly, instead offloaded to a third party"
+      ]
+    },
+    "operational": {
+      "lead_source": "cold",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_3_6_months",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "other"
+      ],
+      "reasoning": "Customer was initially dismissive but engaged once the agent pivoted to a loan inquiry, though the agent failed to provide the requested loan."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life saving plan, and the customer responded by asking for details.",
+      "customer_response": "Initially dismissive of the insurance pitch, then engaged when the agent pivoted to discussing a loan.",
+      "key_event": "The agent pivoted from an insurance pitch to a loan inquiry after the customer rejected the initial offer.",
+      "ending": "Agent promised to share details with a third party (SMC) for a loan, and the customer agreed to wait for that call."
+    },
+    "key_quotes": [
+      "Thank you yaar, requirement nahi hai boss abhi.",
+      "Emergency mein 1.5 lakh rupaye chahiye yaar."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "not_disclosed",
+      "city_tier": "not_disclosed",
+      "life_stage": "not_disclosed",
+      "bant_total": 11,
+      "lead_grade": "A",
+      "agent_talk_percent": 55,
+      "call_time_bucket": "evening",
+      "duration_bucket": "1_3min"
+    }
+  }
+}

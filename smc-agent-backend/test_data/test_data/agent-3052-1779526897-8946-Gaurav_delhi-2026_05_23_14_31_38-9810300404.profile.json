@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "profile_id": "7226704696805809",
+  "source_transcript": "agent-3052-1779526897-8946-Gaurav_delhi-2026_05_23_14_31_38-9810300404.json",
+  "created_at_utc": "2026-06-01T02:42:39Z",
+  "transcript_stats": {
+    "segments": 33,
+    "duration_seconds": 110.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3052-1779526897-8946-Gaurav_delhi-2026_05_23_14_31_38-9810300404.json",
+    "primary_disposition": "engaged_no_commitment",
+    "secondary_flags": [
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Nahi, 60000 ka loan, kya personal loan loge? Kaunsa loan loge? Job wagera karte ho aap? Customer: Nahi job nahi karte, job toh dhund rahe hain, ho jayega job.",
+    "summary": "Agent pitched HDFC Life Sanchay Par Advantage; customer inquired about loans and affordability, then revealed they are currently unemployed, leading the agent to end the call.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "unemployed",
+        "evidence": "Nahi job nahi karte, job toh dhund rahe hain",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": "Sanchay Par Advantage",
+    "compliance": {
+      "return_claim_quote": "pehle hi saal se aapka first annual premium ka 35 percent ki income deti hai",
+      "return_claim_pct": 35,
+      "return_claim_type": "advance_income",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": false,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 21,
+    "bant_score": 2.0,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

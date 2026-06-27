@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "profile_id": "3778793863759111",
+  "source_transcript": "agent-2170-1779527206-1513-Gaurav_TATA-2026_05_23_14_36_46-9999091471.json",
+  "created_at_utc": "2026-06-01T02:33:29Z",
+  "transcript_stats": {
+    "segments": 54,
+    "duration_seconds": 162.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-2170-1779527206-1513-Gaurav_TATA-2026_05_23_14_36_46-9999091471.json",
+    "primary_disposition": "do_not_call_or_not_interested",
+    "secondary_flags": [
+      "abusive_words_present",
+      "already_insured",
+      "customer_asked_question"
+    ],
+    "confidence": "high",
+    "evidence": "Aap check kar lo, aap le lo yaar, mujhe nahi lena.",
+    "summary": "Agent pitched a Tata AIA term plan; customer completed discovery but refused, citing existing insurance and lack of interest, ending with mutual verbal abuse.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "44",
+        "evidence": "44.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai.",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "10_25L",
+        "evidence": "10 lakh rupaye.",
+        "confidence": "high"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "4 se 5 percent ka return milta hai",
+      "return_claim_pct": 5,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": true
+    },
+    "customer_talk_percent": 26,
+    "bant_score": 3.0,
+    "lead_band": "D",
+    "_source": "llm"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "1789123151085234",
+  "source_transcript": "agent-2001-1779089374-3431-Gaurav_TATA-2026_05_18_12_59_35-9324532267.json",
+  "source_name": "agent-2001-1779089374-3431-Gaurav_TATA-2026_05_18_12_59_35-9324532267.mp3",
+  "created_at_utc": "2026-05-20T08:58:44Z",
+  "transcript_stats": {
+    "segments": 40,
+    "duration_seconds": 350.5,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "49",
+        "evidence": "49",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "male",
+        "evidence": "Hello, very good afternoon sir.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "business",
+        "evidence": "Business hai madam.",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "warm",
+        "evidence": "Bataiye madam.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 25,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "price",
+          "quote": "Nahi nahi 2 lakh rupaye ho ja raha hai madam.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Business hai madam.",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 1,
+      "timeline_score": 1,
+      "stage_reached": "objection_handled",
+      "call_outcome": "thinking_pending",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 3,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "medium",
+      "tone_professionalism": "high",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "premium pay karenge na wo aapka refundable hota hai",
+        "sara paisa aapka yahan par ye refundable rahega"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Tata AIA Term + Investment",
+      "premium_quoted_inr": 166453,
+      "fit_score_1_5": 3,
+      "mismatch_reason": "",
+      "missed_opportunities": [
+        "Did not ask about existing insurance coverage or specific financial goals beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_2_4_weeks",
+      "re_engagement_potential_1_5": 3,
+      "suggested_products_for_future": [
+        "term_insurance",
+        "guaranteed_savings_plan"
+      ],
+      "reasoning": "Customer is open to listening but hesitant about the premium amount, suggesting a need for a more affordable option or better value proposition."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced a Tata AIA term plus investment plan, and the customer responded by inviting the pitch.",
+      "customer_response": "The customer was passive but engaged, listening to the pitch and reacting to the premium quotes.",
+      "key_event": "The customer pushed back on the premium amount, leading the agent to offer a lower premium option by extending the payment term.",
+      "ending": "The customer politely deferred the decision, saying he would talk about it later."
+    },
+    "key_quotes": [
+      "Nahi nahi 2 lakh rupaye ho ja raha hai madam.",
+      "Theek hai madam baad mein baat karte hain aap se regarding iske."
+    ],
+    "red_flags": [
+      "Agent misrepresented the investment product as 'refundable' without mentioning market risks."
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "46-55",
+      "city_tier": "not_disclosed",
+      "life_stage": "peak_earning",
+      "bant_total": 7,
+      "lead_grade": "B",
+      "agent_talk_percent": 75,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

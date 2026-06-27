@@ -1,0 +1,177 @@
+{
+  "status": "success",
+  "profile_id": "6263130373326286",
+  "source_transcript": "2026_05_13/agent-2037-1778664568-6837-Gaurav_delhi-2026_05_13_14_59_28-9814313441.json",
+  "source_name": "agent-2037-1778664568-6837-Gaurav_delhi-2026_05_13_14_59_28-9814313441.mp3",
+  "created_at_utc": "2026-06-01T03:33:04Z",
+  "transcript_stats": {
+    "segments": 50,
+    "duration_seconds": 217.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "40",
+        "evidence": "40 saal",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "city": {
+        "value": "Amritsar",
+        "evidence": "Amritsar se yaar",
+        "confidence": "high"
+      },
+      "state": {
+        "value": "Punjab",
+        "evidence": "Punjab se",
+        "confidence": "high"
+      },
+      "occupation": {
+        "value": "farmer",
+        "evidence": "Kheti baadi kari hai",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "Farmer",
+        "evidence": "Kheti baadi",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "lt_5L",
+        "evidence": "do-dhai lakh ka saal mein kar diya",
+        "confidence": "high"
+      },
+      "marital_status": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "hot",
+        "evidence": "Haan sir, bata denge sir, kar kar ke.",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 30,
+      "customer_question_count": 2,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_positive",
+      "objections": [],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "5K_10K",
+        "evidence": "5 se 6 hazaar rupaye save kar paoge? Haanji.",
+        "confidence": "high"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "novice",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "wealth_creation",
+        "evidence": "guaranteed saving investment income plan",
+        "confidence": "medium"
+      },
+      "decision_maker_status": {
+        "value": "sole",
+        "evidence": "Haan sir, bata denge sir, kar kar ke.",
+        "confidence": "high"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 2,
+      "authority_score": 3,
+      "need_score": 2,
+      "timeline_score": 3,
+      "stage_reached": "close_attempted",
+      "call_outcome": "ready_to_buy",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 4,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product"
+      ],
+      "agent_promises": [
+        "35% return within 7 to 10 days",
+        "35% return annually for 100 years",
+        "22 to 23 lakh maturity amount"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "not_disclosed",
+      "premium_quoted_inr": 60000,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "The product pitched is highly complex and likely unsuitable for a farmer with low annual income; the agent's promises are unrealistic.",
+      "missed_opportunities": [
+        "Did not verify if the customer understands the risks of a 12-year premium commitment."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "call_back_immediately",
+      "re_engagement_potential_1_5": 4,
+      "suggested_products_for_future": [
+        "guaranteed_savings_plan",
+        "endowment",
+        "term_insurance"
+      ],
+      "reasoning": "Customer is consistently agreeable and expressed interest in hearing more about the plan."
+    },
+    "call_narrative": {
+      "opening_hook": "The agent introduced an HDFC Life guaranteed savings plan with a 35% return promise, to which the customer responded positively.",
+      "customer_response": "The customer was consistently engaged and agreeable throughout the pitch.",
+      "key_event": "The agent pitched a guaranteed return plan with specific, highly questionable financial promises.",
+      "ending": "The agent confirmed the customer's interest in proceeding online."
+    },
+    "key_quotes": [
+      "Haan sir, bata denge sir, kar kar ke."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "36-45",
+      "city_tier": "tier_3",
+      "life_stage": "peak_earning",
+      "bant_total": 10,
+      "lead_grade": "A",
+      "agent_talk_percent": 70,
+      "call_time_bucket": "afternoon",
+      "duration_bucket": "3_7min"
+    }
+  }
+}

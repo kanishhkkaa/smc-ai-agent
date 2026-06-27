@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "profile_id": "2998089865501845",
+  "source_transcript": "agent-3081-1778824309-7817-Gaurav_delhi-2026_05_15_11_21_50-9596723797.json",
+  "created_at_utc": "2026-06-01T01:27:11Z",
+  "transcript_stats": {
+    "segments": 17,
+    "duration_seconds": 59.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "filename": "agent-3081-1778824309-7817-Gaurav_delhi-2026_05_15_11_21_50-9596723797.json",
+    "primary_disposition": "no_meaningful_conversation",
+    "secondary_flags": [],
+    "confidence": "high",
+    "evidence": "Age janab 17 saal age hai.",
+    "summary": "Agent pitched a Tata AIA combined plan; customer acknowledged the pitch and provided his age (17), but the call ended before any commitment or refusal or brochure request.",
+    "callback_time_iso": null,
+    "customer_disclosures": {
+      "name": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "age": {
+        "value": "17",
+        "evidence": "Age janab 17 saal age hai.",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "high"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "product_pitched": null,
+    "compliance": {
+      "return_claim_quote": "",
+      "return_claim_pct": null,
+      "return_claim_type": "not_stated",
+      "lock_in_disclosed": false,
+      "insurance_cover_disclosed": true,
+      "pressure_tactic": false,
+      "misleading_market_comparison": false,
+      "discovery_attempted": true,
+      "discovery_completed": false
+    },
+    "customer_talk_percent": 12,
+    "bant_score": 1.5,
+    "lead_band": "C",
+    "_source": "llm"
+  }
+}

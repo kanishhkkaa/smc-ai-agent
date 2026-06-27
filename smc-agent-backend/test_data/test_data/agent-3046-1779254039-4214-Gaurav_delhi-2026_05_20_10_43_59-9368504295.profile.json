@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "profile_id": "9919286860144286",
+  "source_transcript": "agent-3046-1779254039-4214-Gaurav_delhi-2026_05_20_10_43_59-9368504295.json",
+  "source_name": "agent-3046-1779254039-4214-Gaurav_delhi-2026_05_20_10_43_59-9368504295.mp3",
+  "created_at_utc": "2026-05-24T05:13:54Z",
+  "transcript_stats": {
+    "segments": 16,
+    "duration_seconds": 83.0,
+    "dominant_language": "hi"
+  },
+  "profile": {
+    "customer_name": {
+      "value": "not_disclosed",
+      "evidence": "",
+      "confidence": "low"
+    },
+    "demographics": {
+      "age": {
+        "value": "30",
+        "evidence": "Customer: 30.",
+        "confidence": "high"
+      },
+      "gender": {
+        "value": "female",
+        "evidence": "Agent: \"Housewife hain?\" Customer: \"Haan.\"",
+        "confidence": "high"
+      },
+      "city": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "state": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "occupation": {
+        "value": "homemaker",
+        "evidence": "Agent: \"Housewife hain?\" Customer: \"Haan.\"",
+        "confidence": "high"
+      },
+      "occupation_detail": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "income_band_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "marital_status": {
+        "value": "married_with_kids",
+        "evidence": "Agent: \"Toh ma'am, matlab aapke husband se baat ho sakti hai?\" Customer: \"Nahi, woh toh yahan nahi rehte, woh bahar rehte hain.\"",
+        "confidence": "medium"
+      },
+      "dependents": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      }
+    },
+    "engagement": {
+      "temperature": {
+        "value": "cold",
+        "evidence": "Customer: \"Nahi, abhi toh nahi kar rahe hain. Karenge toh aapse baat kar lenge.\"",
+        "confidence": "high"
+      },
+      "customer_talk_percent": 20,
+      "customer_question_count": 0,
+      "interruption_pattern": "none",
+      "sentiment_arc": "flat_neutral",
+      "objections": [
+        {
+          "objection_type": "no_interest",
+          "quote": "Nahi, abhi toh nahi kar rahe hain. Karenge toh aapse baat kar lenge.",
+          "resolved_by_agent": false
+        }
+      ],
+      "customer_pain_points": []
+    },
+    "financial_profile": {
+      "monthly_savings_capacity_inr": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "existing_products": [
+        "none"
+      ],
+      "investment_sophistication": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "primary_goal": {
+        "value": "not_disclosed",
+        "evidence": "",
+        "confidence": "low"
+      },
+      "decision_maker_status": {
+        "value": "defer_to_family",
+        "evidence": "Agent: \"Toh ma'am, matlab aapke husband se baat ho sakti hai?\" Customer: \"Nahi, woh toh yahan nahi rehte, woh bahar rehte hain.\"",
+        "confidence": "medium"
+      }
+    },
+    "lead_quality": {
+      "budget_score": 0,
+      "authority_score": 0,
+      "need_score": 0,
+      "timeline_score": 0,
+      "stage_reached": "discovery_done",
+      "call_outcome": "polite_decline",
+      "callback_iso": null
+    },
+    "agent_performance": {
+      "pitch_quality_1_5": 2,
+      "discovery_question_count": 2,
+      "objection_handling_quality": "no_objections_observed",
+      "tone_professionalism": "medium",
+      "compliance_flags": [
+        "guaranteed_returns_claim",
+        "misrepresented_product",
+        "omitted_disclaimer"
+      ],
+      "agent_promises": [
+        "36% money back income from first year for whole life",
+        "8% compound interest on savings",
+        "double tax benefit"
+      ]
+    },
+    "product_fit": {
+      "product_pitched": "Sanchay Par Advantage",
+      "premium_quoted_inr": null,
+      "fit_score_1_5": 1,
+      "mismatch_reason": "Customer is a homemaker not currently looking for insurance products.",
+      "missed_opportunities": [
+        "Did not attempt to understand family protection needs beyond the pitch."
+      ]
+    },
+    "operational": {
+      "lead_source": "unknown",
+      "is_repeat_contact": false,
+      "campaign_type": "sales_pitch",
+      "hold_or_transfer_events": []
+    },
+    "approachability": {
+      "reengagement_window": "wait_6_12_months",
+      "re_engagement_potential_1_5": 2,
+      "suggested_products_for_future": [],
+      "reasoning": "Customer was polite but clearly stated they are not currently looking for any policies."
+    },
+    "call_narrative": {
+      "opening_hook": "Agent introduced an HDFC Life product with a 36% money-back claim, and the customer confirmed she was listening.",
+      "customer_response": "Passive and polite, providing information when asked but showing no interest in the product.",
+      "key_event": "The agent attempted to pivot to the customer's husband after learning the customer is a homemaker, but the customer stated he is away.",
+      "ending": "The customer politely declined further engagement, stating they would reach out if interested later, and the agent accepted."
+    },
+    "key_quotes": [
+      "Nahi, abhi toh nahi kar rahe hain. Karenge toh aapse baat kar lenge."
+    ],
+    "red_flags": [
+      "guaranteed_returns_claim",
+      "misrepresented_product",
+      "omitted_disclaimer"
+    ],
+    "extraction_confidence": "high",
+    "derived": {
+      "age_band": "26-35",
+      "city_tier": "not_disclosed",
+      "life_stage": "family_building",
+      "bant_total": 0,
+      "lead_grade": "D",
+      "agent_talk_percent": 80,
+      "call_time_bucket": "morning",
+      "duration_bucket": "1_3min"
+    }
+  }
+}
